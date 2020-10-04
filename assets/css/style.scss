@@ -1,3 +1,538 @@
+$salmon: #F4816E !default;
+$taupe: #d0b8ac !default;
+$taupe-600: #f3d8c7 !default;
+$taupe-400: #efe5dc !default;
+$taupe-200: #fbfefb !default;
+
+
+$theme-colors: (
+  "primary": #d0b8ac,
+  "secondary": #efe5dc,
+  "tertiary":#FFFDFC,
+);
+
+//then bootstrap & bootstrap-vue should be added after 
+//so that they inherit the custom SCSS variables
+@import 'bootstrap/scss/bootstrap.scss';
+@import 'bootstrap-vue/src/index.scss';
+
+
+// Classic css
+  
 body {
-    background-color:red
+    background-color:#efe5dc; 
+    color: #253237;
+    font-family: 'Crimson Text', serif;
+    min-height: 100vh;
 }
+
+nav.customnav {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d0b8ac+1,d0b8ac+100&1+65,0+93 */
+    background: -moz-linear-gradient(top,  rgba(208,184,172,1) 1%, rgba(208,184,172,1) 65%, rgba(208,184,172,0) 90%, rgba(208,184,172,0) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgba(208,184,172,1) 1%,rgba(208,184,172,1) 65%,rgba(208,184,172,0) 90%,rgba(208,184,172,0) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  rgba(208,184,172,1) 1%,rgba(208,184,172,1) 65%,rgba(208,184,172,0) 90%,rgba(208,184,172,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+#josie.logo {
+    // width: 60%;
+    width :5.5rem; 
+}
+.container-lg {
+    max-width: none;
+}
+
+h1::first-letter {
+    text-transform: uppercase;
+}
+
+h2, .h2 {
+    font-size: 1.5rem;
+}
+
+.btn-tertiary.nuxt-link-exact-active {
+    background-color: #F4816E;
+    border-color: #F4816E;
+    color:#FFFDFC;
+}
+
+
+// nav 
+
+.navbar-dark .navbar-nav .nav-link {
+    color:rgba(132,87,76,0.8);
+}
+
+.navbar-dark .navbar-nav .nav-link,.navbar-dark .navbar-nav .nav-link:focus{
+    color:white;
+    padding:0;
+    align-self: bottom;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+    color:white;
+    text-decoration: underline;
+
+}
+
+.navbar-text.title-home {
+    display: none;
+}
+
+.navbar-nav {
+    width: 100%;
+}
+
+.navbar-expand .navbar-nav {
+    flex-direction: column;
+}
+
+
+.insta-link {
+    display: none;
+}
+.dropdown-menu {
+    display: block;
+    visibility: hidden;
+    opacity:0;
+    transition:1s ease all;
+}
+.dropdown-menu.show {
+    display: block;
+    visibility: visible;
+    opacity:1;
+    transition:1s ease all;
+}
+
+.customnav .dropdown-menu {
+    overflow: scroll;
+    max-height: 90vh;
+}
+
+::-webkit-input-placeholder { /* Edge */
+    color: rgba(132,87,76,0.7) !important;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: rgba(132,87,76,0.7) !important;
+}
+
+::placeholder {
+    color: rgba(132,87,76,0.7) !important;
+}
+
+.customnav .dropdown-toggle::after {
+    display: none;
+}
+
+.filter-icon {
+    width:20px;
+    height:20px;
+    margin-top:2px;
+    vertical-align: top;
+    fill: #FFF;
+}
+
+.search-container {
+    width: 100%;
+}
+
+.search-recipes, .search-list-recipes {
+    color: #000;
+    border: 1px solid #d0b8ac;
+    border-radius: 0.25rem;
+}
+
+.search-recipes {
+    padding: 0.3rem;
+    padding-left:0.5rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+    background-color: #efe5dc;
+}
+
+.search-list-recipes {
+    background-color: #fff;
+    overflow-x: hidden !important;
+    width: auto;
+    position: absolute;
+    max-height: 30vh;
+    overflow-y: auto;
+    >li {
+        padding: 0.4rem;
+    }
+    a {
+        color:#000;
+    }
+}
+
+.dropdown-item {
+    color:rgba(132,87,76,0.8);
+}
+
+.dropdown-item:hover,.dropdown-item:focus {
+    color:rgba(132,87,76,0.9);
+    background: transparent;
+}
+
+// icons
+
+.icon-instagram {
+    mask: url(~assets/images/instagram-brands.svg);
+}
+
+.icon {
+    display: inline-block;
+    width: 1.5rem;
+    height: 1.65rem;
+    background: #fff;
+    mask-size: cover;
+    transition: ease-in 0.1s;
+    -webkit-transition: ease-in 0.3s;
+}
+  
+  .icon:hover,.icon:focus {
+    background: #F4816E;
+  }
+  
+.nuxt-content h2 {
+    font-weight: bold;
+}
+
+// card
+.recipe-filter a {
+    font-size: 0.8rem;
+}
+
+.card.post .badge {
+    font-size: 0.65rem;
+}
+
+.recipe-filter a, .card.post .badge {
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.recipe-filter a:hover {
+    text-decoration: underline;
+    background-color: transparent;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover,.navbar-dark .navbar-nav .nav-link:focus,.navbar-dark .navbar-nav .show > .nav-link {
+    color:rgba(132,87,76,0.9); 
+}
+
+#posts .card {
+   border:0;
+   transition: 1s ease;
+   -webkit-box-shadow: 0 4px 5px 0 rgba(208,184,172,0.5);
+   -moz-box-shadow: 0 4px 5px 0 rgba(208,184,172,0.5);
+   box-shadow: 0 4px 5px 0 rgba(208,184,172,0.5);
+   overflow: hidden;
+   
+   img {   
+       transition: 1s ease-in-out;
+       opacity: 0.9;
+    //    animation: blur 2s ease-out ;
+    //    -webkit-animation: blur 2s ease-out;
+    //    -moz-animation: blur 2s ease-out;
+   }
+   .img-container {
+       overflow: hidden;
+       height: initial;
+   }
+}
+
+#posts .card:hover {
+    img {
+        opacity: 1;
+        transform: scale(1.1);
+    }
+    .icon {
+        background: #F4816E;
+    }
+    .icon:hover {
+        background: #253237;
+    }
+
+    -webkit-box-shadow: 0 5px 6px 0 rgba(132, 87, 76, 0.5);
+    -moz-box-shadow: 0 5px 6px 0 rgba(132, 87, 76, 0.5);;
+    box-shadow: 0 5px 6px 0 rgba(132, 87, 76, 0.5);
+    background-color: #FFF !important;
+}
+
+#posts .card-img {
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+
+.card.post .card-header {
+    z-index: 10;
+    border: 0;
+    background: transparent;
+}
+
+.card.post .card-header .tag {
+    padding: 0.25rem;
+    padding-left: 0;
+    background: #efe5dc;
+    color: #253237;
+}
+
+.card.post {
+    a p {
+        color: #CBB1A4;
+        margin-bottom: 0; 
+    }
+    a:hover {
+        text-decoration: none;
+        h2 {
+            text-decoration: underline;
+        }
+    }
+}
+
+// content 
+
+article {
+    background-color: #d0b8ac;
+    color: #000;
+}
+
+.nuxt-content ul {
+    list-style-type: disc;
+    padding-left: 1rem;
+}
+
+article .search-container {
+    display: none;
+}
+
+@media (min-width: 320px){
+    .xs\:h-screen {
+        height: 80vh;
+    }
+}
+
+// media queries
+
+@media (min-width: 575px){
+    .card-columns {
+        column-count: 2;
+    }
+
+    .navbar-text.title-home {
+        display: inline-block;
+    }
+
+    h1 {
+        font-size: 1.8rem;
+    }
+    h1::first-letter {
+        font-size: 2rem;
+    }
+    .navbar-nav {
+        width: auto;
+    }
+    
+    .search-container,.search-list-recipes {
+        width:13rem;
+    }
+
+    article .search-container {
+        display: block;
+    }
+    
+}
+
+@media (min-width: 760px){
+    body {
+        background: rgba(239,229,220,1);
+        background: linear-gradient(180deg, rgba(208,184,172,1) 5vw, rgba(239,229,220,1) 100vw);
+        background-attachment: fixed;
+
+    }
+    .container-lg {
+        padding-left:7rem;
+        padding-right: 15rem;
+        margin-top: -5.7rem;
+    }
+    .card-columns {
+        column-count: 3;
+    }
+    
+    nav.customnav {
+        /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d0b8ac+1,d0b8ac+100&1+65,0+93 */
+        background: none;
+    }
+
+    article h1 {
+        font-size: 3rem;
+    }
+
+    h1::first-letter {
+        font-size: 3.2rem;
+    }
+
+    .navbar h1 {
+        position: fixed;
+        bottom: -3rem;
+        left: 1.5rem;
+        transform : rotate(270deg);
+        transform-origin :0 0;
+        // color: #d0b8ac;
+        color:rgba(132,87,76,0.3);
+        font-size: 3.6rem;
+    }
+
+    .navbar h1::first-letter {
+        font-size: 3.8rem;
+    }
+
+    .dropdown-item {
+        padding-right: 0;
+    }
+    .dropdown-menu {
+        display: block;
+        visibility: hidden;
+        opacity:0;transform: translateY(-3rem);
+        transition:1s ease all;
+    }
+    .dropdown-menu.show {
+        display: block;
+        visibility: visible;
+        opacity:1;transform: translateX(0);
+        transition:1s ease all;
+    }
+    
+    .navbar-expand .navbar-nav .dropdown-menu {
+        background: transparent;
+        border: 0;
+        text-align: right;
+    }
+    .insta-link {
+        display: flex;
+
+    }
+}
+
+
+
+@media (min-width: 1024px){
+    article h1 {
+        position: fixed;
+        bottom: -3rem;
+        left: 1.5rem;
+        transform : rotate(270deg);
+        transform-origin :0 0;
+        // color: #d0b8ac;
+        color: #fff;
+        text-shadow:0 0 5px rgba(132,87,76,0.7);
+        width:75vh;
+    }
+
+    .lg\:h-full {
+        height: 100%;
+    }
+}
+
+
+@media (min-width: 1200px){
+    .card-columns {
+        column-count: 4;
+    }
+}
+
+
+// animation
+
+.animate {
+    animation-fill-mode: both;
+    -webkit-animation-fill-mode: both;
+}
+.animate1 {
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+}
+
+.animate3 {
+    animation-duration: 2s;
+    -webkit-animation-duration: 2s;
+}
+
+@keyframes slideup {
+    0% {
+        transform: translateY(4rem);
+        opacity: 0;
+    }
+    100% {
+        transform:translateY(0);
+        opacity: 1;
+    }
+    0% {
+        transform: translateY(4rem);
+        opacity: 0;
+    }
+}
+  
+@-webkit-keyframes slideup {
+    0% {
+        -webkit-transform: transform;
+        -webkit-opacity: 0;
+    }
+    100% {
+        -webkit-transform: translateY(0);
+        -webkit-opacity: 1;
+    }
+}
+
+@keyframes slideup2 {
+    0% {
+        transform: translateY(2rem);
+        opacity: 0;
+    }
+    100% {
+        transform:translateY(0);
+        opacity: 1;
+    }
+}
+  
+@-webkit-keyframes slideup2 {
+    0% {
+        -webkit-transform: transform;
+        -webkit-opacity: 0;
+    }
+    100% {
+        -webkit-transform: translateY(0);
+        -webkit-opacity: 1;
+    }
+}
+
+.slideUp {
+    -webkit-animation-name: slideup;
+    animation-name: slideup;
+}
+
+.slideUp2 {
+    -webkit-animation-name: slideup2;
+    animation-name: slideup2;
+}
+
+
+@keyframes blur {
+    0%,
+    90% {
+      -webkit-filter: blur(0);
+      -moz-filter: blur(0);
+      -o-filter: blur(0);
+      -ms-filter: blur(0);
+    }
+    50% {
+      -webkit-filter: blur(10px);
+      -moz-filter: blur(10px);
+      -o-filter: blur(10px);
+      -ms-filter: blur(10px);
+    }
+  }
