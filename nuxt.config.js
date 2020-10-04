@@ -1,4 +1,5 @@
 export default {
+  mode: 'universal',
   /*
    ** Nuxt target
    ** See https://nuxtjs.org/api/configuration-target
