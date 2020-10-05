@@ -31,7 +31,7 @@ export default {
         return
       }
       this.articles = await this.$content('articles')
-        .limit(6)
+        .limit(20)
         .search(searchQuery)
         .fetch()
     }
