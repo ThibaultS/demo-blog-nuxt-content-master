@@ -53,8 +53,12 @@ export default {
   modules: [
     // Doc: https://github.com/nuxt/content
     '@nuxt/content',
-    'bootstrap-vue/nuxt'
+    'bootstrap-vue/nuxt',
+    '@nuxtjs/gtm'
   ],
+  gtm: {
+    id: 'GTM-MX36K52'
+  },
   /*
    ** Content module configuration
    ** See https://content.nuxtjs.org/configuration
