@@ -7,7 +7,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 url: https://www.instagram.com/p/CBlW_QPi7nj/
 alt: 
 date : 18/06/2020
-inspiration :
+inspiration : Laurent Mariotte
 published : 1
 ---
 
