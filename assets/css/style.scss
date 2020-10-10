@@ -31,6 +31,8 @@ nav.customnav {
     background: -moz-linear-gradient(top,  rgba(208,184,172,1) 1%, rgba(208,184,172,1) 65%, rgba(208,184,172,0) 90%, rgba(208,184,172,0) 100%); /* FF3.6-15 */
     background: -webkit-linear-gradient(top,  rgba(208,184,172,1) 1%,rgba(208,184,172,1) 65%,rgba(208,184,172,0) 90%,rgba(208,184,172,0) 100%); /* Chrome10-25,Safari5.1-6 */
     background: linear-gradient(to bottom,  rgba(208,184,172,1) 1%,rgba(208,184,172,1) 65%,rgba(208,184,172,0) 90%,rgba(208,184,172,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    position: fixed;
+    width: 100%;
 }
 
 #josie.logo {
@@ -39,6 +41,7 @@ nav.customnav {
 }
 .container-lg {
     max-width: none;
+    margin-top: 6rem;
 }
 
 h1::first-letter {
@@ -80,10 +83,6 @@ h2, .h2 {
 
 .navbar-nav {
     width: 100%;
-}
-
-.navbar-expand .navbar-nav {
-    flex-direction: column;
 }
 
 
@@ -372,18 +371,12 @@ article .search-container {
     }
     .container-lg {
         padding-left:7rem;
-        padding-right: 15rem;
-        margin-top: -5.7rem;
+        padding-right: 7rem;
     }
     .card-columns {
-        column-count: 3;
+        column-count: 2;
     }
     
-    nav.customnav {
-        /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d0b8ac+1,d0b8ac+100&1+65,0+93 */
-        background: none;
-    }
-
     article h1 {
         font-size: 3rem;
     }
@@ -430,13 +423,15 @@ article .search-container {
     }
     .insta-link {
         display: flex;
-
     }
 }
 
 
 
 @media (min-width: 1024px){
+    .container-lg {
+        padding-right: 12rem;
+    }
     article h1 {
         position: fixed;
         bottom: -3rem;
@@ -448,14 +443,16 @@ article .search-container {
         text-shadow:0 0 5px rgba(132,87,76,0.7);
         width:75vh;
     }
-
     .lg\:h-full {
         height: 100%;
+    }
+    .card-columns {
+        column-count: 3;
     }
 }
 
 
-@media (min-width: 1200px){
+@media (min-width: 1440px){
     .card-columns {
         column-count: 4;
     }

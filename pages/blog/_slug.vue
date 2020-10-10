@@ -1,39 +1,63 @@
 <template>
-  <article
-    class="flex lg:h-screen w-screen lg:overflow-hidden xs:flex-col lg:flex-row"
-  >
-    <div class="relative lg:w-1/2 xs:w-full xs:h-screen lg:h-full post-left">
-      <img
-        :src="article.img"
-        :alt="article.alt"
-        class="absolute h-full w-full object-cover"
-      />
-      <div class="overlay"></div>
-      <div class="absolute top-32 left-32 text-white">
-        <NuxtLink to="/"><Logo /></NuxtLink>
-      </div>
-      <div class="flex absolute top-3rem right-3rem">
+  <article>
+    <b-navbar type="dark" class="customnav navbar-default sticky-top pt-1 pb-4">
+      <b-navbar-brand>
+        <nuxt-link to="/">
+          <img
+            id="josie"
+            src="~assets/images/josies-logo-white-v2.svg"
+            class="logo pt-2"
+          />
+        </nuxt-link>
+      </b-navbar-brand>
+      <!-- Right aligned nav items -->
+      <b-navbar-nav class="ml-auto pt-2">
+        <AppSearchInput />
         <a
           href="https://www.instagram.com/josiesrecipes/"
           target="_blank"
-          class="self-center text-white font-bold hover:underline"
+          class="mr-1 ml-3 mt-1 self-center text-white font-bold hover:underline insta-link"
         >
           Instagram
         </a>
-        <AppSearchInput class="ml-8" />
-      </div>
-    </div>
+      </b-navbar-nav>
+    </b-navbar>
     <div
-      class="relative xs:py-8 xs:px-8 lg:py-16 lg:px-16 lg:w-1/2 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
+      class="flex lg:h-screen w-screen lg:overflow-hidden xs:flex-col lg:flex-row"
     >
-      <h1>{{ article.title }}</h1>
-      <nuxt-content :document="article" />
-      <p>
-        <a :href="article.url" target="_blank">
-          <span class="icon icon-instagram"></span>
-        </a>
-      </p>
-      <p class="pt-2">{{ article.date }}</p>
+      <div class="relative lg:w-1/2 xs:w-full xs:h-screen lg:h-full post-left">
+        <img
+          :src="article.img"
+          :alt="article.alt"
+          class="absolute h-full w-full object-cover"
+        />
+        <div class="overlay"></div>
+        <!-- <div class="absolute top-32 left-32 text-white">
+          <NuxtLink to="/"><Logo /></NuxtLink>
+        </div>
+        <div class="flex absolute top-3rem right-3rem">
+          <a
+            href="https://www.instagram.com/josiesrecipes/"
+            target="_blank"
+            class="self-center text-white font-bold hover:underline"
+          >
+            Instagram
+          </a>
+          <AppSearchInput class="ml-8" />
+        </div> -->
+      </div>
+      <div
+        class="relative xs:py-8 xs:px-8 lg:py-32 lg:px-16 lg:w-1/2 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
+      >
+        <h1>{{ article.title }}</h1>
+        <nuxt-content :document="article" />
+        <p>
+          <a :href="article.url" target="_blank">
+            <span class="icon icon-instagram"></span>
+          </a>
+        </p>
+        <p class="pt-2">{{ article.date }}</p>
+      </div>
     </div>
   </article>
 </template>
