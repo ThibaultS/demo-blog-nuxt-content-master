@@ -28,9 +28,9 @@ body {
 
 nav.customnav {
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d0b8ac+1,d0b8ac+100&1+65,0+93 */
-    background: -moz-linear-gradient(top,  rgba(208,184,172,1) 1%, rgba(208,184,172,1) 65%, rgba(208,184,172,0) 90%, rgba(208,184,172,0) 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(top, rgba(208,184,172,1) 1, rgba(208,184,172,1) 65%,rgba(208,184,172,0) 90%,rgba(208,184,172,0) 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to bottom,  rgba(208,184,172,1) 1%, rgba(208,184,172,1) 65%,rgba(208,184,172,0) 90%,rgba(208,184,172,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background: -moz-linear-gradient(top,  #C4AEA3 1%, #C4AEA3 65%, rgba(208,184,172,0) 90%, rgba(208,184,172,0) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #C4AEA3 1, #C4AEA3 65%,rgba(208,184,172,0) 90%,rgba(208,184,172,0) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #C4AEA3 1%, #C4AEA3 65%,rgba(208,184,172,0) 90%,rgba(208,184,172,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     position: fixed;
     width: 100%;
     padding-bottom: 1.5rem;
@@ -322,10 +322,6 @@ article {
     padding-left: 1rem;
 }
 
-article .search-container {
-    display: none;
-}
-
 @media (min-width: 320px){
     .xs\:h-screen {
         height: 80vh;
@@ -441,7 +437,7 @@ article .search-container {
         transform-origin :0 0;
         // color: #d0b8ac;
         color: #fff;
-        text-shadow:0 0 5px rgba(132,87,76,0.7);
+        text-shadow:0 0 20px rgba(132,87,76,1);
         width:75vh;
     }
     .lg\:h-full {
