@@ -1,6 +1,6 @@
 <template>
   <article>
-    <b-navbar type="dark" class="customnav navbar-default sticky-top pt-1 pb-4">
+    <b-navbar type="dark" class="customnav navbar-default sticky-top pt-1 pb-6">
       <b-navbar-brand>
         <nuxt-link to="/">
           <img
@@ -74,12 +74,12 @@ export default {
       const options = { year: 'numeric', month: 'long', day: 'numeric' }
       return new Date(date).toLocaleDateString('en', options)
     }
+  },
+  head() {
+    return {
+      title: this.article.title
+    }
   }
-  // ,head() {
-  //   return {
-  //     title: this.article.title
-  //   }
-  // }
 }
 </script>
 <style>

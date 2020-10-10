@@ -3,7 +3,7 @@
     <div>
       <b-navbar
         type="dark"
-        class="customnav navbar-default sticky-top pt-1 pb-4"
+        class="customnav navbar-default sticky-top pt-1 pb-6"
       >
         <b-navbar-brand>
           <nuxt-link to="/">
@@ -85,6 +85,24 @@ export default {
       .fetch()
     return {
       articles
+    }
+  },
+  data() {
+    return {
+      title: 'Toutes mes recettes'
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        // hid est utilisé comme identifiant unique. N'utilisez pas `vmid` car ça ne fonctionnera pas
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Ma description personnalisée'
+        }
+      ]
     }
   }
 }
