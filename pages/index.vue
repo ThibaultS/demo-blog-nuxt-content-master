@@ -100,7 +100,8 @@ export default {
         {
           hid: 'description',
           name: 'description',
-          content: 'Ma description personnalisée'
+          content:
+            "Retrouvez sur mon site toutes les recettes que j'ai publiées sur mon compte instagram @josiesrecipes"
         }
       ]
     }
