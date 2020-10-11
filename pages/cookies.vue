@@ -49,13 +49,8 @@
       <div
         class="relative xs:py-8 xs:px-8 lg:py-32 lg:px-16 lg:w-1/2 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
       >
-        <h1>{{ article.title }}</h1>
+        <h1>Cookies</h1>
         <nuxt-content :document="article" />
-        <p>
-          <a :href="article.url" target="_blank">
-            <span class="icon icon-instagram"></span>
-          </a>
-        </p>
         <p class="pt-2">{{ article.date }}</p>
       </div>
     </div>
@@ -77,17 +72,7 @@ export default {
   },
   head() {
     return {
-      title: this.article.title,
-      meta: [
-        {
-          property: 'og:title',
-          content: this.article.title
-        },
-        {
-          property: 'og:image',
-          content: this.article.img
-        }
-      ]
+      title: 'Cookies'
     }
   }
 }
