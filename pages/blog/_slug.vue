@@ -92,6 +92,10 @@ export default {
         {
           property: 'og:image',
           content: this.article.img
+        },
+        {
+          property: 'og:type',
+          content: this.article.img
         }
       ]
     }

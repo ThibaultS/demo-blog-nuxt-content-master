@@ -14,7 +14,7 @@
             />
           </nuxt-link>
         </b-navbar-brand>
-        <b-nav-text class="title-home"><h1>Toutes mes recettes</h1></b-nav-text>
+        <b-nav-text class="title-home"><h1>Mes recettes</h1></b-nav-text>
         <!-- Right aligned nav items -->
         <b-navbar-nav class="ml-auto pt-2">
           <AppSearchInput />
@@ -60,14 +60,6 @@
                 </NuxtLink>
               </b-card>
             </b-card-group>
-            <div class="flex items-center">
-              <nuxt-link
-                to="/2"
-                class="flex-1 py-2 px-4 rounded mb-5 text-center see-more"
-              >
-                Voir plus de recettes
-              </nuxt-link>
-            </div>
           </b-col>
         </b-row>
       </b-container>
@@ -90,7 +82,7 @@ export default {
         'url'
       ])
       .sortBy('id', 'desc')
-      .limit(40)
+      .skip(40)
       .fetch()
     return {
       articles
@@ -98,7 +90,7 @@ export default {
   },
   data() {
     return {
-      title: 'Mes dernières recettes'
+      title: 'Toutes mes recettes - Page 2'
     }
   },
   head() {

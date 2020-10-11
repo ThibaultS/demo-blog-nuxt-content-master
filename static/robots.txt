@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+# sitemap
+Sitemap: https://josies-recipes.netlify.app/sitemap.xml
