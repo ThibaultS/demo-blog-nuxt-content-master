@@ -80,6 +80,12 @@ export default {
       title: this.article.title,
       meta: [
         {
+          hid: 'description',
+          name: 'description',
+          content:
+            "Retrouvez sur mon site toutes les recettes que j'ai publiées sur mon compte instagram @josiesrecipes"
+        },
+        {
           property: 'og:title',
           content: this.article.title
         },

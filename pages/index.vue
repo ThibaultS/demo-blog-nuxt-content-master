@@ -96,7 +96,6 @@ export default {
     return {
       title: this.title,
       meta: [
-        // hid est utilisé comme identifiant unique. N'utilisez pas `vmid` car ça ne fonctionnera pas
         {
           hid: 'description',
           name: 'description',
