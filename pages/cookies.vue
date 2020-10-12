@@ -7,6 +7,7 @@
             id="josie"
             src="~assets/images/josies-logo-white-v2.svg"
             class="logo pt-2"
+            alt="Josie's recipes"
           />
         </nuxt-link>
       </b-navbar-brand>

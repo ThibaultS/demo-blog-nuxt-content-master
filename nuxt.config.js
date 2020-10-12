@@ -10,6 +10,9 @@ export default {
    ** See https://nuxtjs.org/api/configuration-head
    */
   head: {
+    htmlAttrs: {
+      lang: 'fr'
+    },
     titleTemplate: "%s - Josie's Recipes",
     meta: [
       { charset: 'utf-8' },

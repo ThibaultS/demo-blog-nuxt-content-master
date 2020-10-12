@@ -254,19 +254,16 @@ article {
    overflow: hidden;
    
    img {   
-    //    transition: 1s ease-in-out;
-    //    -webkit-transition: 1s ease;
-
-       transform: 1s ease-in-out;
-       -webkit-transform: 1s ease-in-out;
-       opacity: 0.9;
-    //    animation: blur 2s ease-out ;
-    //    -webkit-animation: blur 2s ease-out;
-    //    -moz-animation: blur 2s ease-out;
+    opacity: 0.9;
+    // transition: all 0.1s ease;
+    // -webkit-transition: all 0.1s ease;
+    // animation: blur 2s ease-out ;
+    // -webkit-animation: blur 2s ease-out;
+    // -moz-animation: blur 2s ease-out;
    }
    .img-container {
-       overflow: hidden;
-       height: initial;
+        overflow: hidden;
+        height: initial;
    }
    .card-body {
     transition: 1s ease;
@@ -277,7 +274,7 @@ article {
 #posts .card:hover {
     img {
         opacity: 1;
-        //transform: scale(1.1);
+        // transform: scale(1.1);
     }
     .icon {
         background: #F4816E;

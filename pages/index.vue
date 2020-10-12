@@ -11,6 +11,7 @@
               id="josie"
               src="~assets/images/josies-logo-white-v2.svg"
               class="logo pt-2"
+              alt="Josie's recipes"
             />
           </nuxt-link>
         </b-navbar-brand>
@@ -90,7 +91,7 @@ export default {
         'url'
       ])
       .sortBy('id', 'desc')
-      .limit(40)
+      .limit(30)
       .fetch()
     return {
       articles
