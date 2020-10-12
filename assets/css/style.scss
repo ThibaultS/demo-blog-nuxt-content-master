@@ -99,12 +99,14 @@ h2, .h2 {
     visibility: hidden;
     opacity:0;
     transition:1s ease all;
+    -webkit-transition:1s ease all;
 }
 .dropdown-menu.show {
     display: block;
     visibility: visible;
     opacity:1;
     transition:1s ease all;
+    -webkit-transition:1s ease all;
 }
 
 .customnav .dropdown-menu {
@@ -245,13 +247,18 @@ article {
 #posts .card {
    border:0;
    transition: 1s ease;
+   -webkit-transition: 1s ease;
    -webkit-box-shadow: 0 4px 5px 0 rgba(208,184,172,0.5);
    -moz-box-shadow: 0 4px 5px 0 rgba(208,184,172,0.5);
    box-shadow: 0 4px 5px 0 rgba(208,184,172,0.5);
    overflow: hidden;
    
    img {   
-       transition: 1s ease-in-out;
+    //    transition: 1s ease-in-out;
+    //    -webkit-transition: 1s ease;
+
+       transform: 1s ease-in-out;
+       -webkit-transform: 1s ease-in-out;
        opacity: 0.9;
     //    animation: blur 2s ease-out ;
     //    -webkit-animation: blur 2s ease-out;
@@ -261,12 +268,16 @@ article {
        overflow: hidden;
        height: initial;
    }
+   .card-body {
+    transition: 1s ease;
+    -webkit-transition: 1s ease;
+    }
 }
 
 #posts .card:hover {
     img {
         opacity: 1;
-        transform: scale(1.1);
+        //transform: scale(1.1);
     }
     .icon {
         background: #F4816E;
@@ -326,6 +337,7 @@ a.see-more {
     -moz-box-shadow: 0 4px 5px 0 rgba(208,184,172,0.5);
     box-shadow: 0 4px 5px 0 rgba(208,184,172,0.5);
     transition: 1s ease;
+    -webkit-transition: 1s ease;
 }
 
 a.see-more:hover {
@@ -425,12 +437,14 @@ a.see-more:hover {
         visibility: hidden;
         opacity:0;transform: translateY(-3rem);
         transition:1s ease all;
+        -webkit-transition:1s ease all;
     }
     .dropdown-menu.show {
         display: block;
         visibility: visible;
         opacity:1;transform: translateX(0);
         transition:1s ease all;
+        -webkit-transition:1s ease all;
     }
     
     .navbar-expand .navbar-nav .dropdown-menu {
