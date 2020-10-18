@@ -8,6 +8,7 @@ url: https://www.instagram.com/p/CGAi45NJLva/
 alt: 
 date : 06/10/2020
 inspiration : 
+category : "Halloween"
 published : 1
 ---
 

@@ -30,6 +30,7 @@ input:focus {
     outline: 3px solid #F4816E;
 }  
 
+
 nav.customnav {
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d0b8ac+1,d0b8ac+100&1+65,0+93 */
     background: -moz-linear-gradient(top,  rgba(208,184,172,0.9) 1%, rgba(208,184,172,0.9) 50%, rgba(208,184,172,0) 90%, rgba(208,184,172,0) 100%); 
@@ -246,47 +247,42 @@ article {
 
 #posts .card {
    border:0;
-   transition: 1s ease;
-   -webkit-transition: 1s ease;
+    transition: all 1s ease;
+    -webkit-transition: all 1s ease;
    -webkit-box-shadow: 0 4px 5px 0 rgba(208,184,172,0.5);
    -moz-box-shadow: 0 4px 5px 0 rgba(208,184,172,0.5);
    box-shadow: 0 4px 5px 0 rgba(208,184,172,0.5);
    overflow: hidden;
    
-   img {   
-    opacity: 0.9;
-    // transition: all 0.1s ease;
-    // -webkit-transition: all 0.1s ease;
-    // animation: blur 2s ease-out ;
-    // -webkit-animation: blur 2s ease-out;
-    // -moz-animation: blur 2s ease-out;
+   a img {   
+       opacity: 0.9;
+        // transition: all 1s ease;
+        // -webkit-transition: all 1s ease;
    }
    .img-container {
         overflow: hidden;
         height: initial;
    }
    .card-body {
-    transition: 1s ease;
-    -webkit-transition: 1s ease;
+        transition: 1s ease;
+        -webkit-transition: 1s ease;
     }
 }
 
-#posts .card:hover {
-    img {
-        opacity: 1;
+#posts .card:hover {    
+    -webkit-box-shadow: 0 5px 6px 0 rgba(132, 87, 76, 0.5);
+    -moz-box-shadow: 0 5px 6px 0 rgba(132, 87, 76, 0.5);;
+    box-shadow: 0 5px 6px 0 rgba(132, 87, 76, 0.5);
+    background-color: #efe5dc !important;
+    // a img {
         // transform: scale(1.1);
-    }
+    // }
     .icon {
         background: #F4816E;
     }
     .icon:hover {
         background: #253237;
     }
-
-    -webkit-box-shadow: 0 5px 6px 0 rgba(132, 87, 76, 0.5);
-    -moz-box-shadow: 0 5px 6px 0 rgba(132, 87, 76, 0.5);;
-    box-shadow: 0 5px 6px 0 rgba(132, 87, 76, 0.5);
-    background-color: #FFF !important;
 }
 
 #posts .card-img {
