@@ -32,8 +32,8 @@
           <b-col class="intro mt-5 mb-5">
             <h1>Halloween</h1>
             <p class="lead">
-              Retrouvez la liste de toutes les recettes que j'ai préparées pour
-              Halloween.
+              Retrouvez la liste de toutes les recettes que j'ai préparées
+              spécialement pour Halloween.
             </p>
           </b-col>
         </b-row>
@@ -116,9 +116,6 @@ export default {
 </script>
 
 <style class="postcss">
-body {
-  background: #0d0126;
-}
 .article-card {
   border-radius: 8px;
 }
