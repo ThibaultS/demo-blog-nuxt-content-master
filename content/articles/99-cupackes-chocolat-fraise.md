@@ -1,7 +1,7 @@
 ---
 id: 99
-title: Cupcakes El diablo
-description: 
+title: Cupcakes El Diablo
+description: "Un délicieux muffin fourré à la fraise surmonté d'une crème au beurre endiablée."
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1603018499/Recipes/20201017_cupackes_chocolat_fraise.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1603018499/Recipes/20201017_cupackes_chocolat_fraise.jpg
 url: https://www.instagram.com/p/CGc1vo1JBQZ/

@@ -47,7 +47,7 @@ nav.customnav {
 }
 .container-lg {
     max-width: none;
-    margin-top: 6rem;
+    padding-top: 7rem;
 }
 
 h1::first-letter {
@@ -85,6 +85,10 @@ h2, .h2 {
 
 .navbar-text.title-home {
     display: none;
+}
+
+.halloween .navbar-text.title-home {
+    display: inline-block;
 }
 
 .navbar-nav {
@@ -245,6 +249,34 @@ article {
     }
 }
 
+.halloween .img-halloween-container {
+    box-shadow: inset 0 0 90px rgba(13,1,38,0.9);
+
+    img {
+        z-index: -2;
+        position: relative;
+        opacity: 0.8;
+    }
+}
+
+.halloween .intro .lead{
+    color:#CBB1A4;
+    font-size: 1.5rem;
+}
+
+
+.halloween h1  {
+    font-size: 3rem;
+    text-transform: uppercase;
+    color : #F27405
+}
+
+.halloween h1::first-letter {
+    font-size: 3rem;
+}
+
+
+
 #posts .card {
    border:0;
     transition: all 1s ease;
@@ -347,6 +379,34 @@ a.see-more:hover {
     padding-left: 1rem;
 }
 
+.halloween {
+    background-color: #0D0126;
+    background-image : url(~assets/images/pattern-halloween.png);
+    .navbar h1 {
+        color:#F27405;
+    }
+}
+
+.halloween nav {
+    background: transparent;
+}
+
+
+.halloween .card.post {
+    border:none;
+    background: rgba(51,3,64,0.4) !important;
+    transition : 1s all ease-in-out;
+    a h2 {
+        color: #F27405;
+        font-size: 2.3rem;
+    }
+    
+}
+
+.halloween .card.post:hover {
+    background: rgba(51,3,64,0.2) !important;
+}
+
 @media (min-width: 320px){
     .xs\:h-screen {
         height: 80vh;
@@ -381,7 +441,15 @@ a.see-more:hover {
     article .search-container {
         display: block;
     }
-    
+    .halloween .container-lg  {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .halloween .container-lg .content-row {
+        padding-right: 6rem;
+        padding-left: 6rem;
+    }
 }
 
 @media (min-width: 760px){
@@ -394,6 +462,21 @@ a.see-more:hover {
     .container-lg {
         padding-left:7rem;
         padding-right: 7rem;
+    }
+
+    .halloween .container-lg  {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .halloween .container-lg .content-row {
+        padding-right: 14rem;
+        padding-left: 11rem;
+    }
+
+    .halloween .intro {
+        padding-left: 15vw;
+
     }
     .card-columns {
         column-count: 2;
@@ -456,6 +539,23 @@ a.see-more:hover {
     .container-lg {
         padding-right: 12rem;
     }
+
+    .halloween .container-lg  {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .halloween .container-lg .content-row {
+        padding-right: 30vw;
+        padding-left: 30vw;
+    }
+    .halloween .col .card.post:nth-of-type(even) {
+        margin-left: 7rem;
+    }
+    
+    .halloween .col .card.post:nth-of-type(odd) {
+        margin-right: 7rem;
+    }
     article h1 {
         position: fixed;
         bottom: -3rem;
@@ -479,6 +579,11 @@ a.see-more:hover {
 @media (min-width: 1440px){
     .card-columns {
         column-count: 4;
+    }
+
+    .halloween .container-lg .content-row {
+        padding-right: 33vw;
+        padding-left: 33vw;
     }
 }
 
