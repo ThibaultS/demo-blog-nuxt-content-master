@@ -8,6 +8,7 @@ url: https://www.instagram.com/p/CE15SECC3Ua/
 alt: 
 date : 07/09/2020
 inspiration : 
+category : "Chocolat"
 published : 1
 ---
 

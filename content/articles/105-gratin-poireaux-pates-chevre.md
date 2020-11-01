@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CG2-WH6pdsZ/
 alt: 
 date : 27/10/2020
 inspiration : 
-category : 
+category : "Pâtes"
 published : 1
 ---
 

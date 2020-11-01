@@ -8,6 +8,7 @@ url: https://www.instagram.com/p/CEpRGZvCr2R/
 alt: 
 date : 02/09/2020
 inspiration : Alexia Duchène
+category : "Pâtes"
 published : 1
 ---
 

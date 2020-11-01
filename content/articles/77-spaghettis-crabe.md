@@ -8,6 +8,7 @@ url: https://www.instagram.com/p/CEyuH1IiwUV/
 alt: 
 date : 06/09/2020
 inspiration : Simone Zanoni
+category : "Pâtes"
 published : 1
 ---
 

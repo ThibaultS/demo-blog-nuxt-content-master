@@ -8,6 +8,7 @@ url: https://www.instagram.com/p/CFW_U2kCXYJ/
 alt: 
 date : 20/09/2020
 inspiration : 
+category : "Chocolat"
 published : 1
 ---
 

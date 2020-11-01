@@ -8,6 +8,7 @@ url: https://www.instagram.com/p/CBlW_QPi7nj/
 alt: 
 date : 18/06/2020
 inspiration : Laurent Mariotte
+category : "Poissons et crustacés"
 published : 1
 ---
 

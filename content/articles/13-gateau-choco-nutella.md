@@ -8,6 +8,7 @@ url: https://www.instagram.com/p/B_ae-s8oRIv/
 alt: 
 date : 25/04/2020
 inspiration :
+category : "Chocolat"
 published : 1
 ---
 

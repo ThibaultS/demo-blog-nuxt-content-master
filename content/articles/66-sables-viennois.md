@@ -7,6 +7,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 url: https://www.instagram.com/p/CD9g6T7Ca2h/
 alt: 
 date : 16/08/2020
+category : "Chocolat"
 inspiration :
 published : 1
 ---

@@ -8,6 +8,7 @@ url: https://www.instagram.com/p/CByWOjbC-rX/
 alt: 
 date : 23/06/2020
 inspiration :
+category : "Chocolat"
 published : 1
 ---
 

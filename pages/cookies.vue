@@ -51,8 +51,10 @@
         class="relative xs:py-8 xs:px-8 lg:py-32 lg:px-16 lg:w-1/2 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
       >
         <h1>Cookies</h1>
-        <nuxt-content :document="article" />
-        <p class="pt-2">{{ article.date }}</p>
+        <p>
+          Ce site dépose des cookies pour le suivi statistique des visites du
+          site.
+        </p>
       </div>
     </div>
   </article>
