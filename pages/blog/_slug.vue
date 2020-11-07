@@ -33,24 +33,14 @@
           class="absolute h-full w-full object-cover"
         />
         <div class="overlay"></div>
-        <!-- <div class="absolute top-32 left-32 text-white">
-          <NuxtLink to="/"><Logo /></NuxtLink>
-        </div>
-        <div class="flex absolute top-3rem right-3rem">
-          <a
-            href="https://www.instagram.com/josiesrecipes/"
-            target="_blank"
-            class="self-center text-white font-bold hover:underline"
-          >
-            Instagram
-          </a>
-          <AppSearchInput class="ml-8" />
-        </div> -->
       </div>
       <div
         class="relative xs:py-8 xs:px-8 lg:py-32 lg:px-16 lg:w-1/2 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
       >
         <h1>{{ article.title }}</h1>
+        <p v-if="article.description" class="lead">
+          {{ article.description }}
+        </p>
         <nuxt-content :document="article" />
         <p>
           <a :href="article.url" target="_blank">

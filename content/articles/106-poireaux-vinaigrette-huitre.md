@@ -8,7 +8,6 @@ url: https://www.instagram.com/p/CG79LVOJhDG/
 alt: 
 date : 27/10/2020
 inspiration : 
-category : 
 category : "Poissons et crustacés"
 published : 1
 ---

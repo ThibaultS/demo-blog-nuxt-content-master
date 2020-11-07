@@ -15,7 +15,9 @@
             />
           </nuxt-link>
         </b-navbar-brand>
-        <b-nav-text class="title-home"><h1>Mes recettes</h1></b-nav-text>
+        <b-nav-text class="title-home">
+          <h1>Mes recettes - page 2</h1>
+        </b-nav-text>
         <!-- Right aligned nav items -->
         <b-navbar-nav class="ml-auto pt-2">
           <AppSearchInput />
@@ -53,7 +55,7 @@
                     </b-card-img-lazy>
                   </div>
                   <b-card-body>
-                    <b-card-title title-tag="h2">
+                    <b-card-title title-tag="h3">
                       {{ article.title }}
                     </b-card-title>
                     <p>{{ article.date }}</p>
@@ -61,6 +63,14 @@
                 </NuxtLink>
               </b-card>
             </b-card-group>
+            <div class="flex items-center">
+              <nuxt-link
+                to="/3"
+                class="flex-1 py-2 px-4 rounded mb-5 text-center see-more"
+              >
+                Voir plus de recettes
+              </nuxt-link>
+            </div>
           </b-col>
         </b-row>
       </b-container>
@@ -84,6 +94,7 @@ export default {
       ])
       .sortBy('id', 'desc')
       .skip(30)
+      .limit(50)
       .fetch()
     return {
       articles

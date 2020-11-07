@@ -55,7 +55,7 @@
                     </b-card-img-lazy>
                   </div>
                   <b-card-body>
-                    <b-card-title title-tag="h2">
+                    <b-card-title title-tag="h3">
                       {{ article.title }}
                     </b-card-title>
                     <p>{{ article.date }}</p>

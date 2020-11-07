@@ -30,6 +30,9 @@ input:focus {
     outline: 3px solid #F4816E;
 }  
 
+a {
+    color : #b48e7b;
+}
 
 nav.customnav {
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d0b8ac+1,d0b8ac+100&1+65,0+93 */
@@ -54,8 +57,12 @@ h1::first-letter {
     text-transform: uppercase;
 }
 
-h2, .h2 {
+h3, .h3 {
     font-size: 1.5rem;
+}
+
+h2.subtitle-home {
+    color: #75513e
 }
 
 .btn-tertiary.nuxt-link-exact-active {
@@ -249,16 +256,61 @@ article {
     }
 }
 
+.push-category {
+    transition: all 0.3s ease-in-out;
+    border-color : rgba(0,0,0,0.1);
+    background-color: #bf8378;
+    color:#fbfefb;
+    h2 {
+        font-size: 2rem;
+    }
+    h3 {
+        margin: 0;
+    }
+}
+
+.push-category:hover {
+    color:#fff;
+}
+
+// .push-category.push-chocolat {
+//     background-color: #411B10;
+//     color:#FFEBCD;
+// }
+
+// .push-category.push-chocolat:hover {
+//     color:#DEB887
+// }
+
+// .push-category.push-pates {
+//     background-color: #F2D399;
+//     color:#3B7302;
+// }
+// .push-category.push-pates:hover {
+//     color:#294A29
+// }
+
+// .push-category.push-poisson {
+//     background-color: #081443;
+//     color:#F18087;
+// }
+// .push-category.push-poisson:hover {
+//     color:#d47e83
+// }
+
 .push-category.push-halloween {
     background-color: #0D0126;
     background-image : url(~assets/images/pattern-halloween.svg);
+    color:#F27405;
     h2 {
         color:#F27405;
-        font-size: 2rem;
     }
     p {
         color:#FFF
     }
+}
+.push-category.push-halloween:hover {
+    color:#c45b00;
 }
 
 .halloween .img-halloween-container {
@@ -291,24 +343,23 @@ article {
 
 
 #posts .card {
-   border:0;
+    border:0;
     transition: all 1s ease;
     -webkit-transition: all 1s ease;
-   -webkit-box-shadow: 0 4px 5px 0 rgba(208,184,172,0.5);
-   -moz-box-shadow: 0 4px 5px 0 rgba(208,184,172,0.5);
-   box-shadow: 0 4px 5px 0 rgba(208,184,172,0.5);
-   overflow: hidden;
-   
-   a img {   
-       opacity: 0.9;
+    -webkit-box-shadow: 0 4px 5px 0 rgba(208,184,172,0.5);
+    -moz-box-shadow: 0 4px 5px 0 rgba(208,184,172,0.5);
+    box-shadow: 0 4px 5px 0 rgba(208,184,172,0.5);
+    overflow: hidden;
+    a img {   
+        opacity: 0.9;
         // transition: all 1s ease;
         // -webkit-transition: all 1s ease;
-   }
-   .img-container {
+    }
+    .img-container {
         overflow: hidden;
         height: initial;
-   }
-   .card-body {
+    }
+    .card-body {
         transition: 1s ease;
         -webkit-transition: 1s ease;
     }
@@ -351,7 +402,7 @@ article {
 
 .card.post {
     a  {
-        h2 {
+        h3 {
             color: #B99B8B;
         }
         p {
@@ -361,7 +412,7 @@ article {
     }
     a:hover {
         text-decoration: none;
-        h2 {
+        h3 {
             color: #b48e7b;
             text-decoration: underline;
         }
@@ -419,6 +470,7 @@ a.see-more:hover {
 .halloween .card.post:hover {
     background: rgba(51,3,64,0.2) !important;
 }
+
 
 @media (min-width: 320px){
     .xs\:h-screen {

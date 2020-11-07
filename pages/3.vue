@@ -15,7 +15,9 @@
             />
           </nuxt-link>
         </b-navbar-brand>
-        <b-nav-text class="title-home"><h1>Toutes mes recettes</h1></b-nav-text>
+        <b-nav-text class="title-home">
+          <h1>Mes recettes - page 3</h1>
+        </b-nav-text>
         <!-- Right aligned nav items -->
         <b-navbar-nav class="ml-auto pt-2">
           <AppSearchInput />
@@ -29,21 +31,8 @@
         </b-navbar-nav>
       </b-navbar>
       <b-container fluid="lg" class="animate animate3 slideUp">
-        <CategoriesPush />
         <b-row class="content-row">
           <b-col>
-            <h2 class="text-center subtitle-home">Mes dernières recettes</h2>
-            <p class="lead">
-              Chaque semaine, je poste 3 recettes sur une thématique et je
-              conclue la semaine en beauté avec un dessert. Venez me suivre sur
-              <a
-                href="https://www.instagram.com/josiesrecipes/"
-                target="_blank"
-              >
-                Instagram
-              </a>
-              pour les découvrir en avant première.
-            </p>
             <b-card-group id="posts" columns>
               <b-card
                 v-for="article of articles"
@@ -74,14 +63,6 @@
                 </NuxtLink>
               </b-card>
             </b-card-group>
-            <div class="flex items-center">
-              <nuxt-link
-                to="/2"
-                class="flex-1 py-2 px-4 rounded mb-5 text-center see-more"
-              >
-                Voir plus de recettes
-              </nuxt-link>
-            </div>
           </b-col>
         </b-row>
       </b-container>
@@ -104,7 +85,7 @@ export default {
         'url'
       ])
       .sortBy('id', 'desc')
-      .limit(30)
+      .skip(80)
       .fetch()
     return {
       articles
@@ -112,7 +93,7 @@ export default {
   },
   data() {
     return {
-      title: 'Mes dernières recettes'
+      title: 'Toutes mes recettes - Page 3'
     }
   },
   head() {
