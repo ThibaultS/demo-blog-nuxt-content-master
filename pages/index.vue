@@ -29,11 +29,9 @@
         </b-navbar-nav>
       </b-navbar>
       <b-container fluid="lg" class="animate animate3 slideUp">
-        <CategoriesPush />
-        <b-row class="content-row">
+        <b-row>
           <b-col>
-            <h2 class="text-center subtitle-home">Mes dernières recettes</h2>
-            <p class="lead">
+            <p class="lead mt-4">
               Chaque semaine, je poste 3 recettes sur une thématique et je
               conclue la semaine en beauté avec un dessert. Venez me suivre sur
               <a
@@ -44,6 +42,12 @@
               </a>
               pour les découvrir en avant première.
             </p>
+          </b-col>
+        </b-row>
+        <CategoriesPush />
+        <b-row class="content-row">
+          <b-col>
+            <h2 class="subtitle-home mb-4">Découvrez mes dernières recettes</h2>
             <b-card-group id="posts" columns>
               <b-card
                 v-for="article of articles"
