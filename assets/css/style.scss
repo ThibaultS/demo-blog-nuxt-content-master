@@ -325,23 +325,106 @@ article {
     }
 }
 
-.halloween .intro .lead{
+.halloween .intro .lead, .noel .intro .lead {
     color:#CBB1A4;
     font-size: 1.5rem;
 }
 
 
-.halloween h1  {
+.halloween h1, .noel h1{
     font-size: 3rem;
+}
+
+.halloween h1 {
     text-transform: uppercase;
     color : #F27405
 }
 
-.halloween h1::first-letter {
+.noel h1 {
+    color : #FFF;
+}
+
+.halloween h1::first-letter, .noel h1::first-letter {
     font-size: 3rem;
 }
 
+.noel .card {
+    min-height: 300px;
+    height: 40vh;
+    border : 5px solid #8C0D17;
+    background-image : url(~assets/images/pattern-noel-card.svg);
+    background-color: #F2EADF;
+    display: flex;
+    flex-direction: column;
+    .card-body {
+        display: flex;
+        flex: 1;
+        .card-title {
+            font-size: 1.3rem;
+            font-weight: 600;
+            span {
+                display: block;
+                font-size: 3.5rem;
+                color: #006523;
+            }
+        }
+        .btn {
+            transition: all 0.3s ease-in-out;
+            background-color: #BF1131;
+            color: #fff;
+            border-color: #8C0D17;
+        }
+        .btn:hover {
+            background-color: #8C0D17;
+            color: #D98E04;
+        }
+    }
+    .card-text {
+        padding: 0 1rem;
+    }
+    .card-text.title-recipe{
+        font-size: 1.2rem;
+        text-shadow: 0 0 5px #fff; 
+        transition:all 1s ease-in-out;
+    } 
 
+    .card-footer {
+        border: none;
+        font-style: italic;
+        color: #8C0D17;
+        font-size:1.3rem;
+    }
+
+    .overlay-calendar {
+        transition: all 2s ease-in-out;
+        background-color: rgba($color: #fff, $alpha: 0.5);
+        border-radius: 0.25rem;
+        width: 100%;
+        align-items: center;
+        display: flex;
+        flex:1;
+        .overlay-container {
+            width: 100%;
+        }
+    }
+}
+
+.noel .reveal-calendar .card-body {
+    background-image: url('https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1604261394/Recipes/20201101_madeleine_noisettes_chocolat.jpg');
+    background-size: cover;
+    .overlay-calendar {
+        background-color: rgba($color: #fff, $alpha: 0.8);
+    }
+}
+
+.noel .card.reveal-calendar:hover {
+    .overlay-calendar {
+        background-color: rgba($color: #fff, $alpha: 0.3);
+        .card-text.title-recipe{
+            opacity: 0;
+        }
+    }
+}
 
 #posts .card {
     border:0;
@@ -447,12 +530,14 @@ a.see-more:hover {
 .halloween {
     background-color: #0D0126;
     background-image : url(~assets/images/pattern-halloween.svg);
-    .navbar h1 {
-        color:#F27405;
-    }
 }
 
-.halloween nav {
+.noel {
+    background-color: #BF1131;
+    background-image : url(~assets/images/pattern-noel.svg);
+}
+
+.halloween nav, .noel nav {
     background: transparent;
 }
 
@@ -617,7 +702,7 @@ a.see-more:hover {
         padding-right: 12rem;
     }
 
-    .halloween .container-lg  {
+    .halloween .container-lg {
         padding-right: 15px;
         padding-left: 15px;
     }

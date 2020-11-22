@@ -1,39 +1,24 @@
 ---
-id: 118
-title: Pâtes orzo et boulettes de poulet sauce feta 
+id: 120
+title: Meringues Kisses tricolores
 description: 
-img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1605888881/Recipes/20201119_orzo_boulettes_feta.jpg
-thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1605888881/Recipes/20201119_orzo_boulettes_feta.jpg
-url: https://www.instagram.com/p/CHx9rfdJtOn/
+img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1606066130/Recipes/20201122_meringues_kisses.jpg
+thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1606066130/Recipes/20201122_meringues_kisses.jpg
+url: https://www.instagram.com/p/CH5nFJzJLkj/
 alt: 
-date : 19/11/2020
+date : 22/11/2020
 inspiration : 
-category : "Pâtes"
+category : 
 published : 1
 ---
 
 ## Ingrédients
-Pour 2 personnes :
- - 50 g de poulet haché
- - 1 petite échalote
- - 1 gousse d' ail
- - 1 demi c.à.c d’origan séchées
- - 1 demi c.à.c de paprika
- - 1 c.à.s d'huile d'olive
- - 1 petit citron
- - 50g de pâtes orzo (aussi appelée Risoni)
- - 20-25g d'olives vertes dénoyautées
- - 1 c.à.s d'aneth frais haché
- - 15-20g de tomates séchées
- - 1 c.à.s de vinaigre balsamique
- - Sel et poivre
- - Quelques noisettes de beurre salé
- - Quelques branches de romarin pour la décoration
 
-Pour la sauce :
- - 75g de fromage feta
- - 15g de yogourt grec nature
- - 1 c.à.c d'huile d'olive
+ - 3 blancs d’oeuf
+ - 75g de sucre semoule
+ - 75g de sucre glace
+ - Colorant alimentaire
+ - Perles alimentaires
 
 ## Recette
 Préchauffez le four à 200°C.
