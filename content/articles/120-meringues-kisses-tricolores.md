@@ -13,7 +13,6 @@ published : 1
 ---
 
 ## Ingrédients
-
  - 3 blancs d’oeuf
  - 75g de sucre semoule
  - 75g de sucre glace

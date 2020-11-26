@@ -4,12 +4,14 @@ title: Sablés momies
 description: "Des petits sablés tout ce qu'il y a de plus mignons et délicieux, parfait pour accompagner le café."
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1602790811/Recipes/20201014_sables_momies.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1602790811/Recipes/20201014_sables_momies.jpg
+bkg: url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1602790811/Recipes/20201014_sables_momies.jpg)
 url: https://www.instagram.com/p/CGVR5yCp0fH/
 alt: 
 date : 14/10/2020
 inspiration : 
 category : "Halloween"
 published : 1
+
 ---
 
 ## Ingrédients

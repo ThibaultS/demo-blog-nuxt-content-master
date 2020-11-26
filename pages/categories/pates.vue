@@ -106,6 +106,12 @@ export default {
           name: 'description',
           content:
             'Mes recettes de pâtes pour tous les goûts : raviolis, spaghettis, linguines, lasagnes, gnocchis,...'
+        },
+        {
+          hid: 'og:image',
+          name: 'og:image',
+          content:
+            'https://res.cloudinary.com/thibaults/image/upload/v1606424632/partage-home.png'
         }
       ]
     }

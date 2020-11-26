@@ -4,6 +4,7 @@ title: Halloween cookies sandwichs
 description: "Deux cookies pour le prix d'un avec ces cookies sandwich liés à la crème au beurre."
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600524211/Recipes/20201009_halloween_cookies_sandwichs.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600524211/Recipes/20201009_halloween_cookies_sandwichs.jpg
+bkg: url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600524211/Recipes/20201009_halloween_cookies_sandwichs.jpg)
 url: https://www.instagram.com/p/CGIXQnEJYPJ/
 alt: 
 date : 09/10/2020

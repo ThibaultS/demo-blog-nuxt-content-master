@@ -409,10 +409,9 @@ article {
     }
 }
 
-.noel .reveal-calendar .card-body {
-    background-image: url('https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1604261394/Recipes/20201101_madeleine_noisettes_chocolat.jpg');
+.noel .reveal-calendar {
     background-size: cover;
-    .overlay-calendar {
+    .card-body .overlay-calendar {
         background-color: rgba($color: #fff, $alpha: 0.8);
     }
 }

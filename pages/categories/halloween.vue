@@ -108,6 +108,12 @@ export default {
           name: 'description',
           content:
             "Retrouvez sur mon site toutes les recettes que j'ai publiées sur mon compte instagram @josiesrecipes"
+        },
+        {
+          hid: 'og:image',
+          name: 'og:image',
+          content:
+            'https://res.cloudinary.com/thibaults/image/upload/v1606424631/partage-halloween.png'
         }
       ]
     }

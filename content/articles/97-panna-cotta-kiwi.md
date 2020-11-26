@@ -4,6 +4,7 @@ title: Panna cotta ensanglantée au kiwi
 description: "Une panna cotta aux fruits revisitée pour un résultat ensanglanté."
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1602433074/Recipes/20201011_panna_cotta_kiwi.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1602433074/Recipes/20201011_panna_cotta_kiwi.jpg
+bkg: url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1602433074/Recipes/20201011_panna_cotta_kiwi.jpg)
 url: https://www.instagram.com/p/CGNSoa7Jh-F/
 alt: 
 date : 11/10/2020

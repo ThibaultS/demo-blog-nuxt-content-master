@@ -106,6 +106,12 @@ export default {
           name: 'description',
           content:
             'Mes recettes à base de poissons et de crustacés : saumon, thon, cabillaud, daurade, crabe, huîtres,...'
+        },
+        {
+          hid: 'og:image',
+          name: 'og:image',
+          content:
+            'https://res.cloudinary.com/thibaults/image/upload/v1606424632/partage-home.png'
         }
       ]
     }

@@ -45,25 +45,35 @@
           </b-col>
         </b-row>
         <b-row class="row-cols-1 row-cols-sm-2 row-cols-lg-3">
-          <!-- <b-col class="mb-5">
-            <b-card class="text-center reveal-calendar">
+          <b-col v-for="article of articles" :key="article.slug" class="mb-5">
+            <!-- style="background-image: url(article.thumbnail)" -->
+            <b-card
+              class="text-center reveal-calendar"
+              :style="{ 'background-image': article.bkg }"
+            >
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
                   <b-card-title title-tag="h2">
-                    décembre<span>1</span>
+                    décembre
+                    <span>
+                      {{ article.calendrier }}
+                    </span>
                   </b-card-title>
                   <b-card-text class="title-recipe">
-                    Croquettes de Mont d'Or et poires pochées au vin
+                    {{ article.title }}
                   </b-card-text>
-                  <nuxt-link class="btn btn-secondary" to="/">
+                  <nuxt-link
+                    class="btn btn-secondary"
+                    :to="{ name: 'blog-slug', params: { slug: article.slug } }"
+                  >
                     Découvrir
                   </nuxt-link>
                 </div>
               </div>
             </b-card>
-          </b-col> -->
+          </b-col>
           <b-col class="mb-5">
-            <b-card class="text-center">
+            <b-card class="text-center lollipops95">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
                   <!-- Pour le flex align -->
@@ -353,10 +363,13 @@ export default {
         'thumbnail',
         'date',
         'url',
-        'category'
+        'category',
+        'bkg',
+        'calendrier'
       ])
-      .sortBy('id', 'desc')
-      .where({ category: 'Noel' })
+      .sortBy('id', 'asc')
+      .where({ category: 'Halloween' })
+      .limit(1)
       .fetch()
     return {
       articles
@@ -376,6 +389,12 @@ export default {
           name: 'description',
           content:
             "Chaque jour de décembre, retrouvez une recette pour les fêtes de fin d'année."
+        },
+        {
+          hid: 'og:image',
+          name: 'og:image',
+          content:
+            'https://res.cloudinary.com/thibaults/image/upload/v1606424633/partage-noel.png'
         }
       ]
     }

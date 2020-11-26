@@ -106,6 +106,12 @@ export default {
           name: 'description',
           content:
             'Tous mes dessers à base de chocolat  : gateaux, cupcakes, brioches, biscuits,...'
+        },
+        {
+          hid: 'og:image',
+          name: 'og:image',
+          content:
+            'https://res.cloudinary.com/thibaults/image/upload/v1606424632/partage-home.png'
         }
       ]
     }
