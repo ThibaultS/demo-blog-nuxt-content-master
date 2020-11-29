@@ -45,8 +45,7 @@
           </b-col>
         </b-row>
         <b-row class="row-cols-1 row-cols-sm-2 row-cols-lg-3">
-          <b-col v-for="article of articles" :key="article.slug" class="mb-5">
-            <!-- style="background-image: url(article.thumbnail)" -->
+          <!-- <b-col v-for="article of articles" :key="article.slug" class="mb-5">
             <b-card
               class="text-center reveal-calendar"
               :style="{ 'background-image': article.bkg }"
@@ -71,9 +70,9 @@
                 </div>
               </div>
             </b-card>
-          </b-col>
+          </b-col> -->
           <b-col class="mb-5">
-            <b-card class="text-center lollipops95">
+            <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
                   <!-- Pour le flex align -->
@@ -365,10 +364,11 @@ export default {
         'url',
         'category',
         'bkg',
-        'calendrier'
+        'calendrier',
+        'published'
       ])
       .sortBy('id', 'asc')
-      .where({ category: 'Halloween' })
+      .where({ category: 'Noël' })
       .limit(1)
       .fetch()
     return {

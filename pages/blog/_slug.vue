@@ -42,7 +42,7 @@
           {{ article.description }}
         </p>
         <nuxt-content :document="article" />
-        <p>
+        <p v-if="article.url">
           <a :href="article.url" target="_blank">
             <span class="icon icon-instagram"></span>
           </a>

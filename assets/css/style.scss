@@ -340,6 +340,28 @@ article {
     color : #F27405
 }
 
+.push-category.push-christmas {
+    background-color: #BF1131;
+    background-image : url(~assets/images/pattern-noel.svg);
+    color:#FFF;
+    border: solid 5px #8C0D17;
+    h2 {
+        color:#FFF;
+    }
+    p {
+        color:#FFF
+    }
+    .btn {
+        background-color: #006523;
+        color: #fff;
+        border-color: #00491a;
+    }
+    .btn:hover {
+        background-color: #fff;
+        color: #006523;
+    }
+}
+
 .noel h1 {
     color : #FFF;
 }
@@ -573,7 +595,7 @@ a.see-more:hover {
         display: inline-block;
     }
 
-    .push-category {
+    .push-category.btn-category {
         height:20vh;
         align-items: center;
 

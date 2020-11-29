@@ -9,7 +9,7 @@
     <b-row class="row-cols-1 row-cols-sm-2 row-cols-lg-4 mb-8">
       <b-col class="mb-2">
         <nuxt-link
-          class="text-center card push-category push-chocolat"
+          class="text-center card push-category btn-category push-chocolat"
           to="categories/chocolat"
         >
           <b-card-body>
@@ -21,7 +21,7 @@
       </b-col>
       <b-col class="mb-2">
         <nuxt-link
-          class="text-center card push-category push-pates"
+          class="text-center card push-category btn-category push-pates"
           to="categories/pates"
         >
           <b-card-body>
@@ -33,7 +33,7 @@
       </b-col>
       <b-col class="mb-2">
         <nuxt-link
-          class="text-center card push-category push-poisson"
+          class="text-center card push-category btn-category push-poisson"
           to="categories/poissons-et-crustaces"
         >
           <b-card-body>
@@ -45,7 +45,7 @@
       </b-col>
       <b-col class="mb-2">
         <nuxt-link
-          class="text-center card push-category push-halloween"
+          class="text-center card push-category btn-category push-halloween"
           to="categories/halloween"
         >
           <b-card-body>

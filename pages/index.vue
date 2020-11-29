@@ -44,6 +44,7 @@
             </p>
           </b-col>
         </b-row>
+        <StickyChristmas />
         <CategoriesPush />
         <b-row class="content-row">
           <b-col>
@@ -105,9 +106,11 @@ export default {
         'img',
         'thumbnail',
         'date',
-        'url'
+        'url',
+        'published'
       ])
       .sortBy('id', 'desc')
+      .where({ published: 1 })
       .limit(30)
       .fetch()
     return {

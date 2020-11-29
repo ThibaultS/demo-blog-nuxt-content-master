@@ -90,9 +90,11 @@ export default {
         'img',
         'thumbnail',
         'date',
-        'url'
+        'url',
+        'published'
       ])
       .sortBy('id', 'desc')
+      .where({ published: 1 })
       .skip(30)
       .limit(50)
       .fetch()

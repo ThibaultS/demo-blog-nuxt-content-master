@@ -1,6 +1,5 @@
 ---
 id: 95
-calendrier: 1
 title: Halloween lollipops en meringue
 description: "Des délicieuses meringues en forme de sucette pour le plus grand plaisir des enfants !"
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600524211/Recipes/20201006_halloween_lollipops.jpg
