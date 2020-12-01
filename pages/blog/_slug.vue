@@ -38,6 +38,7 @@
         class="relative xs:py-8 xs:px-8 lg:py-32 lg:px-16 lg:w-1/2 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
       >
         <h1>{{ article.title }}</h1>
+        <StickyChristmasArticle />
         <p v-if="article.description" class="lead">
           {{ article.description }}
         </p>

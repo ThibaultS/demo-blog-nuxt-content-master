@@ -32,7 +32,7 @@
           <b-col class="intro mt-5 mb-5">
             <h1>24 recettes pour mon calendrier de l'avent 2020</h1>
             <p class="lead">
-              C'est la meilleur période de l'année ! Chaque jour de décembre,
+              C'est la meilleure période de l'année ! Chaque jour de décembre,
               retrouvez sur cette page et sur mon compte
               <a
                 href="https://www.instagram.com/josiesrecipes/"
@@ -44,8 +44,8 @@
             </p>
           </b-col>
         </b-row>
-        <b-row class="row-cols-1 row-cols-sm-2 row-cols-lg-3">
-          <!-- <b-col v-for="article of articles" :key="article.slug" class="mb-5">
+        <b-row class="row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-4">
+          <b-col v-for="article of articles" :key="article.slug" class="mb-5">
             <b-card
               class="text-center reveal-calendar"
               :style="{ 'background-image': article.bkg }"
@@ -67,19 +67,6 @@
                   >
                     Découvrir
                   </nuxt-link>
-                </div>
-              </div>
-            </b-card>
-          </b-col> -->
-          <b-col class="mb-5">
-            <b-card class="text-center">
-              <div class="overlay-calendar pt-3 pb-3">
-                <div class="overlay-container">
-                  <!-- Pour le flex align -->
-                  <b-card-title title-tag="h2">
-                    décembre<span>1</span>
-                  </b-card-title>
-                  <b-card-footer>À venir</b-card-footer>
                 </div>
               </div>
             </b-card>
@@ -388,7 +375,7 @@ export default {
           hid: 'description',
           name: 'description',
           content:
-            "Chaque jour de décembre, retrouvez une recette pour les fêtes de fin d'année."
+            "Chaque jour de décembre, découvrez une recette pour les fêtes de fin d'année."
         },
         {
           hid: 'og:image',

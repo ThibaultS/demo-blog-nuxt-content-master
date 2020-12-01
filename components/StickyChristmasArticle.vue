@@ -4,19 +4,15 @@
       <b-card
         class="push-category push-event push-christmas mb-4 pb-8 pt-8 text-center"
       >
-        <b-card-title title-tag="h2">
-          24 recettes pour mon calendrier de l'avent 2020
+        <b-card-title title-tag="h3">
+          Mon calendrier de l'avent avec 24 recettes pour les fêtes
         </b-card-title>
-        <b-card-text class="lead">
-          C'est la meilleure période de l'année ! Chaque jour de décembre,
-          découvrez une nouvelle recette pour préparez vos fêtes !
-        </b-card-text>
         <nuxt-link
           role="button"
           target="_self"
           to="/categories/noel"
           variant="primary"
-          class="btn btn-light"
+          class="btn btn-light mt-4"
         >
           Découvrir
         </nuxt-link>
