@@ -5,7 +5,7 @@ description: "Vous aimez les huîtres ? Et si on essayait les huîtres gratinée
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1606673160/Recipes/20201202_huitres_gratinees.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1606673160/Recipes/20201202_huitres_gratinees.jpg
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1606673160/Recipes/20201202_huitres_gratinees.jpg)
-url: 
+url: https://www.instagram.com/p/CITZstKpBpW/
 alt: 
 date : 02/12/2020
 inspiration : 
