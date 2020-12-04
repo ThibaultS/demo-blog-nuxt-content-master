@@ -76,19 +76,6 @@
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
                   <!-- Pour le flex align -->
-                  <b-card-title title-tag="h2">
-                    jour <span>4</span>
-                  </b-card-title>
-                  <b-card-footer>À venir</b-card-footer>
-                </div>
-              </div>
-            </b-card>
-          </b-col>
-          <b-col class="mb-5">
-            <b-card class="text-center">
-              <div class="overlay-calendar pt-3 pb-3">
-                <div class="overlay-container">
-                  <!-- Pour le flex align -->
                   <b-card-title>jour <span>5</span></b-card-title>
                   <b-card-footer>À venir</b-card-footer>
                 </div>
@@ -330,7 +317,7 @@ export default {
       ])
       .sortBy('id', 'asc')
       .where({ category: 'Noël' })
-      .limit(3)
+      .limit(4)
       .fetch()
     return {
       articles

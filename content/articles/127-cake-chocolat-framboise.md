@@ -4,14 +4,14 @@ title: Mini-cakes chocolat framboise spécial Noël
 description: "Le chocolat et la framboise se marient tellement bien ensemble, miam ! Essayez ces mini-cakes spécial Noël."
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1606861190/Recipes/20201204_cake_chocolat_framboise.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1606861190/Recipes/20201204_cake_chocolat_framboise.jpg
-bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1606684804/Recipes/20201203_souris_agneau.jpg)
+bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1606861190/Recipes/20201204_cake_chocolat_framboise.jpg)
 url: 
 alt: 
 date : 04/12/2020
 inspiration : 
 category : "Noël"
 calendrier: 4
-published : 0
+published : 1
 ---
 
 ## Ingrédients
