@@ -384,6 +384,7 @@ article {
         .card-title {
             font-size: 1.3rem;
             font-weight: 600;
+            text-shadow: 0 0 4px #fff; 
             span {
                 display: block;
                 font-size: 3.5rem;
@@ -434,7 +435,7 @@ article {
 .noel .reveal-calendar {
     background-size: cover;
     .card-body .overlay-calendar {
-        background-color: rgba($color: #fff, $alpha: 0.8);
+        background-color: rgba($color: #fff, $alpha: 0.95);
     }
 }
 
