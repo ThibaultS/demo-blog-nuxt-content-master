@@ -5,7 +5,7 @@ description:
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1607204294/Recipes/20201206_magret_clementines.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607204294/Recipes/20201206_magret_clementines.jpg
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607204294/Recipes/20201206_magret_clementines.jpg)
-url: 
+url: https://www.instagram.com/p/CIdn4NTJIc2/
 alt: 
 date : 06/12/2020
 inspiration : 
