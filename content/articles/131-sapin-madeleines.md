@@ -1,26 +1,26 @@
 ---
 id: 131
 title: Sapin de madeleines à la pistache
-description: 
+description: Vous êtes fan de madeleines ? Et si vous en faisiez un sapin pour les fêtes
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1607204352/Recipes/20201208_sapin_madeleines.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607204352/Recipes/20201208_sapin_madeleines.jpg
-bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607204294/Recipes/20201206_magret_clementines.jpg)
+bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607204352/Recipes/20201208_sapin_madeleines.jpg)
 url: 
 alt: 
 date : 08/12/2020
 inspiration : 
 category : "Noël"
 calendrier: 8
-published : 0
+published : 1
 ---
 
 ## Ingrédients
-Quantités pour une grosse fournée d'au moins 30 madeleines : 
+Quantités pour une grosse fournée d'au moins 30/33 madeleines : 
  - 190g de beurre
  - 150g de farine
  - 1 sachet de levure
  - 30g d'amandes en poudre
- - 3 c.à.s de pâte de pistache verte
+ - 3 c.à.s de pâte de pistache
  - 3 œufs
  - 150g de sucre
  - 1 bonne pincée de sel
