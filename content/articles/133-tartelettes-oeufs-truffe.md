@@ -5,7 +5,7 @@ description: Si vous aimez la truffe, vous allez adorer ces petites tartelettes 
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1607613538/Recipes/20201210_tartelettes_oeufs_truffe.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607613538/Recipes/20201210_tartelettes_oeufs_truffe.jpg
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607613538/Recipes/20201210_tartelettes_oeufs_truffe.jpg)
-url: 
+url: https://www.instagram.com/p/CIn_0ROJAap/
 alt: 
 date : 10/12/2020
 inspiration : 

@@ -5,7 +5,7 @@ description:
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1607508153/Recipes/20201209_ravioles_crevettes_champagne.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607508153/Recipes/20201209_ravioles_crevettes_champagne.jpg
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607508153/Recipes/20201209_ravioles_crevettes_champagne.jpg)
-url: 
+url: https://www.instagram.com/p/CIlavyAJbqx/
 alt: 
 date : 09/12/2020
 inspiration : 
