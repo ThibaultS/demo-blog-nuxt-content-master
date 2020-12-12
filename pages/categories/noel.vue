@@ -76,7 +76,7 @@
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
                   <!-- Pour le flex align -->
-                  <b-card-title>jour <span>14</span></b-card-title>
+                  <b-card-title>jour <span>13</span></b-card-title>
                   <b-card-footer>À venir</b-card-footer>
                 </div>
               </div>
