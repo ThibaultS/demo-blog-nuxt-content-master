@@ -4,7 +4,7 @@ title: Blinis tartare thon-avocat
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1607944867/Recipes/20201214_blinis_thon_avocat.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607944867/Recipes/20201214_blinis_thon_avocat.jpg
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607944867/Recipes/20201214_blinis_thon_avocat.jpg)
-url:
+url: https://www.instagram.com/p/CIyUSoSpkFn/
 alt: 
 date : 14/12/2020
 inspiration : 
