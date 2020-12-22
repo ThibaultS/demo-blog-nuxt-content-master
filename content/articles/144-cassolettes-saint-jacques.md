@@ -17,6 +17,7 @@ published : 1
 ## Ingrédients
 Pour 4 personnes :
  - 300g de champignons de Paris
+ - 16 crevettes décortiquées
  - 1/2 botte de ciboulette
  - 1 échalote
  - 1 gousse d'ail
@@ -35,6 +36,6 @@ Préparez votre fumet de poisson avec les 2 cuillères de fond de poisson et les
 
 Egouttez les champignons et versez un verre de leur jus de cuisson dans les échalotes. Mouillez avec le fumet de poisson. Laissez réduire de moitié sur feu moyen.
 
-Poêlez les noix de Saint-Jacques 5 minutes avec du beurre sur feu vif. Retournez-les pour dorer chaque face. Arrosez de calvados et flambez. Dressez les noix de Saint-Jacques dans leur coquille préalablement lavée.
+Poêlez les noix de Saint-Jacques 5 minutes avec du beurre sur feu vif. Retournez-les pour dorer chaque face. Arrosez de calvados et flambez. Dressez les noix de Saint-Jacques et les crevettes dans leur coquille préalablement lavée.
 
-Hors du feu, ajoutez les champignons aux échalotes et liez la sauce avec le jaune d'oeuf et la crème fraîche. Poivrez. Faites cuire 5 minutes sur feu doux sans cesser de remuer. C’est très important pour ne pas cuire le jaune d'oeuf. Si votre sauce est trop liquide à ce stade, ajoutez 1 c.à.c de Maïzena que vous aurez, au préalable, diluée dans un fond d'eau. Versez la sauce sur les noix de Saint-Jacques. Servez chaud.
+Hors du feu, ajoutez les champignons aux échalotes et liez la sauce avec le jaune d'oeuf et la crème fraîche. Poivrez. Faites cuire 5 minutes sur feu doux sans cesser de remuer. C’est très important pour ne pas cuire le jaune d'oeuf. Si votre sauce est trop liquide à ce stade, ajoutez 1 c.à.c de Maïzena que vous aurez, au préalable, diluée dans un fond d'eau. Versez la sauce sur les fruits de mer. Servez chaud.
