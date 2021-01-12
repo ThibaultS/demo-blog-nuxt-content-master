@@ -9,7 +9,7 @@ alt:
 date : 10/01/2021
 inspiration : 
 description: 
-category :
+category : "Chocolat"
 calendrier: 
 published : 1
 ---
