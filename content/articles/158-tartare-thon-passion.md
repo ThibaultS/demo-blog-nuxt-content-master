@@ -4,7 +4,7 @@ title: Tartare de thon au fruit de la passion
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1611425076/Recipes/20210123_tartare_thon_passion.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1611425076/Recipes/20210123_tartare_thon_passion.jpg
 bkg : 
-url: https://www.instagram.com/p/CKUTWV4JpMc/
+url: https://www.instagram.com/p/CKZYe4zpsLP/
 alt: 
 date : 23/01/2021
 inspiration : 
