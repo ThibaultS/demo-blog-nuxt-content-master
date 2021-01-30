@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CKmNOvWJjn9/
 alt: 
-date : 27/01/2021
+date : 28/01/2021
 inspiration : 
 description: 
 category :
