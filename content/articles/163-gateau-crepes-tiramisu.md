@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CKt63qzJ065/
 alt: 
-date : 30/01/2021
+date : 31/01/2021
 inspiration : 
 description: 
 category : Chocolat

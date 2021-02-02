@@ -44,7 +44,6 @@
             </p>
           </b-col>
         </b-row>
-        <StickyChristmas />
         <CategoriesPush />
         <b-row class="content-row">
           <b-col>

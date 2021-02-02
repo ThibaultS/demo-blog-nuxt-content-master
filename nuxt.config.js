@@ -21,18 +21,7 @@ export default {
       { property: 'og:locale	', content: 'fr-FR' },
       { property: 'twitter:card	', content: 'summary_large_image' }
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }],
-    script: [
-      {
-        src:
-          'https://cmp.osano.com/Azyw8hSD6Ryyh6hb/ab0011f7-c456-425f-9db9-75f49f676558/osano.js'
-      },
-      {
-        src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
-        'data-ad-client': 'ca-pub-4925011117186251',
-        async: true
-      }
-    ]
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }]
   },
   /*
    ** Global CSS
