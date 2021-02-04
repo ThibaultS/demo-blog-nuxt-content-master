@@ -101,12 +101,13 @@ export default {
         'date',
         'url',
         'category',
+        'event',
         'bkg',
         'calendrier',
         'published'
       ])
       .sortBy('id', 'asc')
-      .where({ category: 'Noël' })
+      .where({ event: 'Noël' })
       .limit(24)
       .fetch()
     return {

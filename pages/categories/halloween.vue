@@ -85,10 +85,11 @@ export default {
         'thumbnail',
         'date',
         'url',
+        'event',
         'category'
       ])
       .sortBy('id', 'desc')
-      .where({ category: 'Halloween' })
+      .where({ event: 'Halloween' })
       .fetch()
     return {
       articles

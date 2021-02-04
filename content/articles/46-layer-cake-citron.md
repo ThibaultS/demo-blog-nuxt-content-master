@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/CB_AvoGC6vk/
 alt: 
 date : 28/06/2020
 inspiration :
+main_ingredient : 
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

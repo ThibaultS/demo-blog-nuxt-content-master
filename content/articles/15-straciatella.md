@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/B_iAz3ECxKE/
 alt: 
 date : 28/04/2020
 inspiration :
+theme : 
+main_ingredient : Fromage
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

@@ -9,7 +9,7 @@ alt:
 date : 17/12/2020
 inspiration : 
 description: 
-category : "Noël"
+event : "Noël"
 calendrier: 17
 published : 1
 ---

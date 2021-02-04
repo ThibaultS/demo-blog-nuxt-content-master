@@ -9,6 +9,14 @@ alt:
 date : 19/04/2020
 inspiration :
 category : "Pâtes"
+theme : "Pâtes"
+main_ingredient : Petit pois
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

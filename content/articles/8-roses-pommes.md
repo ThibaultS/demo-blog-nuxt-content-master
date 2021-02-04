@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/B_KzLo0oslS/
 alt: 
 date : 19/04/2020
 inspiration :
+theme : Tartes sucrées
+main_ingredient : Pomme
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

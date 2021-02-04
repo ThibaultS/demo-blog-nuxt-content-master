@@ -9,6 +9,14 @@ alt:
 date : 19/04/2020
 inspiration :
 category : "Poissons et crustacés"
+theme : "Soupes et veloutés"
+main_ingredient : Crabe
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

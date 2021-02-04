@@ -9,6 +9,14 @@ alt:
 date : 24/06/2020
 inspiration :
 category : "Poissons et crustacés"
+main_ingredient : 
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

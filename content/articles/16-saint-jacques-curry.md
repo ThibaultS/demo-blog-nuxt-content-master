@@ -9,6 +9,14 @@ alt:
 date : 30/04/2020
 inspiration :
 category : "Poissons et crustacés"
+theme : 
+main_ingredient : Saint-Jacques
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

@@ -10,6 +10,7 @@ alt:
 date : 11/10/2020
 inspiration : 
 category : "Halloween"
+event : "Halloween"
 published : 1
 ---
 

@@ -9,6 +9,14 @@ alt:
 date : 21/04/2020
 inspiration :
 category : "Pâtes"
+theme : Pâtes
+main_ingredient : Courgette
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

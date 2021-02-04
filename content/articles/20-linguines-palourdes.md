@@ -9,6 +9,14 @@ alt:
 date : 07/05/2020
 inspiration :
 category : "Pâtes"
+main_ingredient : 
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/B_KzFG9IV9o/
 alt: 
 date : 19/04/2020
 inspiration :
+main_ingredient : Aubergine
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

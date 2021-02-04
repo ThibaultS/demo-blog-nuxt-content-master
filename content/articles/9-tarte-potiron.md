@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/B_KzIbJIsK4/
 alt: 
 date : 19/04/2020
 inspiration :
+theme : Tartes salées et pizzas
+main_ingredient : Potiron
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

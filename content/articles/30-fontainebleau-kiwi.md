@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/CAk60RIilOm/
 alt: 
 date : 24/05/2020
 inspiration : Alexia Duchène
+main_ingredient : 
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

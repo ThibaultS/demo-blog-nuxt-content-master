@@ -7,8 +7,16 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 url: https://www.instagram.com/p/B_sjeCuo7Hy/
 alt: 
 date : 02/05/2020
+theme : Gâteaux
+main_ingredient : Chocolat
 category : "Chocolat"
 inspiration :
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

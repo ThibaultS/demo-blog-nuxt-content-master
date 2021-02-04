@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/B_Sr8RHoSro/
 alt: 
 date : 22/04/2020
 inspiration :
+theme : 
+main_ingredient : Betterave
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

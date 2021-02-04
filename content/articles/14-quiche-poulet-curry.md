@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/B_c3oEto0Ke/
 alt: 
 date : 26/04/2020
 inspiration :
+theme : Tartes salées et pizzas
+main_ingredient : Poulet
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

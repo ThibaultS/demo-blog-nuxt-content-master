@@ -8,18 +8,26 @@ url: https://www.instagram.com/p/CCbXXGUi8kx/
 alt: 
 date : 09/07/2020
 inspiration :
+main_ingredient : 
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 
 ## Ingrédients
  - 2 gros steaks hachés dont 1 de porc et 1 de poulet à demander chez le boucher
- - 1 cuillère à soupe de sucre + 1 pour la sauce
- - 1,5 cuillère à soupe de fécule de maïs
+ - 1 c.à.s de sucre + 1 pour la sauce
+ - 1,5 c.à.s de fécule de maïs
  - 1 demi échalote ciselée
  - 1 petite gousse d’ail hachée
- - 1 cuillère à café de levure chimique
- - 2 cuillères à soupe de sauce nuoc mam + 1 pour la sauce d'accompagnement
- - 1 cuillère à soupe d’huile d’olive
+ - 1 c.à.c de levure chimique
+ - 2 c.à.s de sauce nuoc mam + 1 pour la sauce d'accompagnement
+ - 1 c.à.s d’huile d’olive
  - Graine de sésame
  - 1 paquet de vermicelle de riz
  - 2 œufs
