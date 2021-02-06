@@ -10,7 +10,15 @@ date : 30/01/2021
 inspiration : 
 description: 
 category : "Poissons et crustacés"
-calendrier: 
+main_ingredient : Crevette
+theme : 
+sweety_salty : 
+veggie : 
+country : Vietnam
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

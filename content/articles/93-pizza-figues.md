@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/CF4vjANpFrg/
 alt: 
 date : 03/10/2020
 inspiration : 
+main_ingredient : Figue
+theme : Tartes salées et pizzas
+sweety_salty : 1
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

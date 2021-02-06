@@ -9,8 +9,16 @@ alt:
 date : 04/02/2021
 inspiration : 
 description: 
-category : 
-calendrier: 
+main_ingredient : Patate douce
+theme : 
+tag : Healthy
+sweety_salty : 
+veggie : 1
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

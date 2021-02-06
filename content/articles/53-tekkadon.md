@@ -9,11 +9,11 @@ alt:
 date : 12/07/2020
 inspiration :
 category : "Poissons et crustacés"
-main_ingredient : 
-theme : 
+main_ingredient : Truite
+theme : Bowls
 sweety_salty : 
 veggie : 
-country :
+country : Japon
 difficulty :
 with : 
 time : 

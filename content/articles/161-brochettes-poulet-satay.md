@@ -10,7 +10,15 @@ date : 28/01/2021
 inspiration : 
 description: 
 category :
-calendrier: 
+main_ingredient : Poulet
+theme : Bowls
+sweety_salty : 
+veggie : 
+country : Indonésie
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

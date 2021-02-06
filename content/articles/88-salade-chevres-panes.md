@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/CFhyYu6iBUh/
 alt: 
 date : 24/09/2020
 inspiration : 
+main_ingredient : Fromage
+theme : Salades
+sweety_salty : 1
+veggie : 1
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

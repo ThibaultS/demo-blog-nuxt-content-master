@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CAk60RIilOm/
 alt: 
 date : 24/05/2020
 inspiration : Alexia Duchène
-main_ingredient : 
+main_ingredient : Kiwi
 theme : 
 sweety_salty : 
 veggie : 

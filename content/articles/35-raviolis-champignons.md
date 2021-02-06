@@ -9,8 +9,8 @@ alt:
 date : 02/06/2020
 inspiration :
 category : "Pâtes"
-main_ingredient : 
-theme : 
+main_ingredient : Champignon
+theme : Pâtes
 sweety_salty : 
 veggie : 
 country :

@@ -10,7 +10,15 @@ date : 09/01/2021
 inspiration : 
 description: 
 category :
-calendrier: 
+main_ingredient : Oeuf
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

@@ -8,10 +8,11 @@ url: https://www.instagram.com/p/CAdRFoqCZOL/
 alt: 
 date : 21/05/2020
 inspiration :
-main_ingredient : 
-theme : 
-sweety_salty : 
-veggie : 
+main_ingredient : Fenouil
+tag : Healthy
+theme : Salades
+sweety_salty : 1
+veggie : 1
 country :
 difficulty :
 with : 

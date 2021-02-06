@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/CCq8GRMiZB8/
 alt: 
 date : 15/07/2020
 inspiration :
+main_ingredient : Tomate
+theme : Tartines
+sweety_salty : 
+veggie : 1
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

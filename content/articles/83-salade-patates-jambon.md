@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/CFKkxAQCGLB/
 alt: 
 date : 15/09/2020
 inspiration : 
+main_ingredient : Jambon
+theme : Salades
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

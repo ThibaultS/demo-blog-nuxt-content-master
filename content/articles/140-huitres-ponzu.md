@@ -10,6 +10,14 @@ date : 17/12/2020
 inspiration : 
 description: 
 event : "Noël"
+main_ingredient : Huître
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 calendrier: 17
 published : 1
 ---

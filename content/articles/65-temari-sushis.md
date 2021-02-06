@@ -9,6 +9,14 @@ alt:
 date : 14/08/2020
 inspiration :
 category : "Poissons et crustacés"
+main_ingredient : Saumon
+theme : Sushis et makis
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

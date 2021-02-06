@@ -9,7 +9,7 @@ alt:
 date : 16/06/2020
 inspiration :
 category : "Poissons et crustacés"
-main_ingredient : 
+main_ingredient : Saumon
 theme : 
 sweety_salty : 
 veggie : 

@@ -10,7 +10,16 @@ date : 19/01/2021
 inspiration : 
 description: 
 category : "Poissons et crustacés"
-calendrier: 
+main_ingredient : Daurade
+theme : 
+tag: Healthy
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

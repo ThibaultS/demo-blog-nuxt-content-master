@@ -10,7 +10,15 @@ date : 05/01/2021
 inspiration : 
 description: 
 category :
-calendrier: 
+main_ingredient : Saumon
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

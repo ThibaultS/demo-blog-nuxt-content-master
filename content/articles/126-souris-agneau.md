@@ -10,6 +10,14 @@ alt:
 date : 03/12/2020
 inspiration : 
 event : "Noël"
+main_ingredient : Agneau
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 calendrier: 3
 published : 1
 ---

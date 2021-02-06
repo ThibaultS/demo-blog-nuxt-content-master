@@ -9,8 +9,8 @@ alt:
 date : 07/05/2020
 inspiration :
 category : "Pâtes"
-main_ingredient : 
-theme : 
+main_ingredient : Palourde
+theme : Pâtes
 sweety_salty : 
 veggie : 
 country :

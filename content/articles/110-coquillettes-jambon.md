@@ -9,6 +9,15 @@ alt:
 date : 05/11/2020
 inspiration : "Chef Zanoni Simone"
 category : "Pâtes"
+main_ingredient : Jambon
+theme : Pâtes
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

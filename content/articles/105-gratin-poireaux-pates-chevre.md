@@ -9,6 +9,15 @@ alt:
 date : 27/10/2020
 inspiration : 
 category : "Pâtes"
+main_ingredient : Poireau
+theme : Pâtes
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

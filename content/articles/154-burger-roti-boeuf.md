@@ -10,7 +10,15 @@ date : 16/01/2021
 inspiration : 
 description: "Avez-vous déjà fait un burger à base de tranche de rôti de boeuf ? Ça change et c'est délicieux !"
 category : 
-calendrier: 
+main_ingredient : Boeuf
+theme : Burgers
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

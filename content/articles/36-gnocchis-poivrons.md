@@ -9,10 +9,10 @@ alt:
 date : 04/06/2020
 inspiration :
 category : "Pâtes"
-main_ingredient : 
-theme : 
+main_ingredient : Poivron
+theme : Pâtes
 sweety_salty : 
-veggie : 
+veggie : 1
 country :
 difficulty :
 with : 

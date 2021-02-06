@@ -9,6 +9,14 @@ alt:
 date : 28/08/2020
 inspiration :
 category : "Poissons et crustacés"
+main_ingredient : Cabillaud
+theme : 
+sweety_salty : 1
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

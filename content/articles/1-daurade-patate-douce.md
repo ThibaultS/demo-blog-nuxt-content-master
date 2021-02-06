@@ -9,9 +9,10 @@ alt:
 date : 19/04/2020
 inspiration :
 category : "Poissons et crustacés"
+tag : Healthy
 main_ingredient : Daurade
 theme : 
-sweety_salty : 
+sweety_salty : 1
 veggie : 
 country :
 difficulty :

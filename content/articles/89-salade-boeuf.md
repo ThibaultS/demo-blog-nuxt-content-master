@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/CFmgs4cCI97/
 alt: 
 date : 26/09/2020
 inspiration : 
+main_ingredient : Boeuf
+theme : Salades
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

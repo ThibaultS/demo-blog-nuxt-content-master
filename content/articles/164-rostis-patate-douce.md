@@ -10,7 +10,16 @@ date : 02/02/2021
 inspiration : 
 description: "J'ai revisité la recette des röstis, recette typiquement suisse, avec des patates douces. Je les ai accompagné d'une burrata et d'avocat pour plus de fraicheur."
 category : 
-calendrier: 
+main_ingredient : Patate douce
+theme : 
+tag : Healthy
+sweety_salty : 
+veggie : 1
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

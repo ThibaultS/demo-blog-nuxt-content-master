@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/CFAJii5iqBW/
 alt: 
 date : 11/09/2020
 inspiration : 
+main_ingredient : Champignon
+theme : Tartes salées et pizzas
+sweety_salty : 
+veggie : 1
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

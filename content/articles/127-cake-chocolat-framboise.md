@@ -10,6 +10,14 @@ alt:
 date : 04/12/2020
 inspiration : 
 event : "Noël"
+main_ingredient : Chocolat
+theme : Gâteaux
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 calendrier: 4
 published : 1
 ---

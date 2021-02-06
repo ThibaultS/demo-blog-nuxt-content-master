@@ -11,6 +11,14 @@ date : 11/10/2020
 inspiration : 
 category : "Halloween"
 event : "Halloween"
+main_ingredient : Kiwi
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

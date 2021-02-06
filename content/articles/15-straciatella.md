@@ -10,9 +10,9 @@ date : 28/04/2020
 inspiration :
 theme : 
 main_ingredient : Fromage
-sweety_salty : 
-veggie : 
-country :
+sweety_salty : 1
+veggie : 1
+country : Italie
 difficulty :
 with : 
 time : 

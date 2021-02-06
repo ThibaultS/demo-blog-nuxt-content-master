@@ -10,7 +10,15 @@ date : 07/01/2021
 inspiration : Chef Yoni Saada
 description: 
 category :
-calendrier: 
+main_ingredient : Oeuf
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

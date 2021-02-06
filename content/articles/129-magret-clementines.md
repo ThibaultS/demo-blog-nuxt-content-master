@@ -10,6 +10,14 @@ alt:
 date : 06/12/2020
 inspiration : 
 event : "Noël"
+main_ingredient : Canard
+theme : 
+sweety_salty : 1
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 calendrier: 6
 published : 1
 ---

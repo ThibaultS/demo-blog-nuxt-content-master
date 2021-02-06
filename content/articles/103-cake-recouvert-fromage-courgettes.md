@@ -9,6 +9,15 @@ alt:
 date : 24/10/2020
 inspiration : 
 category : 
+main_ingredient : Courgette
+theme : Cakes salés
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

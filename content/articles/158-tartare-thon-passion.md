@@ -10,7 +10,15 @@ date : 23/01/2021
 inspiration : 
 description: 
 category : "Poissons et crustacés"
-calendrier: 
+main_ingredient : Thon
+theme : 
+sweety_salty : 1
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

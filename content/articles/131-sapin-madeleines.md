@@ -10,6 +10,14 @@ alt:
 date : 08/12/2020
 inspiration : 
 event : "Noël"
+main_ingredient : Pistache
+theme : Gâteaux
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 calendrier: 8
 published : 1
 ---

@@ -9,6 +9,15 @@ alt:
 date : 27/10/2020
 inspiration : 
 category : "Poissons et crustacés"
+main_ingredient : Poireau
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

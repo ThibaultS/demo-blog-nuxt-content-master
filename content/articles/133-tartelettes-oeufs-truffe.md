@@ -10,6 +10,14 @@ alt:
 date : 10/12/2020
 inspiration : 
 event : "Noël"
+main_ingredient : Truffe
+theme : Tartes salées et pizzas
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 calendrier: 10
 published : 1
 ---

@@ -10,6 +10,14 @@ date : 23/12/2020
 inspiration : 
 description: 
 event : "Noël"
+main_ingredient : Chapon
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 calendrier: 23
 published : 1
 ---

@@ -9,10 +9,10 @@ alt:
 date : 17/05/2020
 inspiration :
 main_ingredient : 
-theme : 
+theme : Bowls
 sweety_salty : 
 veggie : 
-country :
+country : Mexique
 difficulty :
 with : 
 time : 

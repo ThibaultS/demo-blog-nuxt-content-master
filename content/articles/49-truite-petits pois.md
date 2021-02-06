@@ -9,8 +9,9 @@ alt:
 date : 04/07/2020
 inspiration :
 category : "Poissons et crustacés"
-main_ingredient : 
+main_ingredient : Truite
 theme : 
+tag: Healthy
 sweety_salty : 
 veggie : 
 country :

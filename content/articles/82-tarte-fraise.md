@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/CFFS6_rinyA/
 alt: 
 date : 13/09/2020
 inspiration : 
+main_ingredient : Fraise
+theme : Tartes sucrées
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

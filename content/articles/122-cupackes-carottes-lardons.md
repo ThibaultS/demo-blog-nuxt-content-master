@@ -9,6 +9,15 @@ alt:
 date : 25/11/2020
 inspiration : 
 category : 
+main_ingredient : Carotte
+theme : Cakes salés
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

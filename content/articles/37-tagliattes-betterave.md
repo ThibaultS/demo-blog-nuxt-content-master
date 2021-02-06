@@ -9,8 +9,8 @@ alt:
 date : 08/06/2020
 inspiration :
 category : "Pâtes"
-main_ingredient : 
-theme : 
+main_ingredient : Betterave
+theme : Pâtes
 sweety_salty : 
 veggie : 
 country :

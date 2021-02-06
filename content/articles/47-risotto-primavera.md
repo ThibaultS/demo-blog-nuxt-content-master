@@ -8,8 +8,8 @@ url: https://www.instagram.com/p/CCEj34Hifqu/
 alt: 
 date : 30/06/2020
 inspiration :
-main_ingredient : 
-theme : 
+main_ingredient : Petit pois
+theme : Risottos
 sweety_salty : 
 veggie : 
 country :

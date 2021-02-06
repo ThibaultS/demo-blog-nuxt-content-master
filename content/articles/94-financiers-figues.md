@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/CF7XbNwJ4R6/
 alt: 
 date : 04/10/2020
 inspiration : 
+main_ingredient : Figue
+theme : Gâteaux
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

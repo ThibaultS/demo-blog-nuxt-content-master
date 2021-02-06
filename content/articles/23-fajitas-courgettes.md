@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CAGEpUqCKwV/
 alt: 
 date : 12/05/2020
 inspiration :
-main_ingredient : 
+main_ingredient : Courgette
 theme : 
 sweety_salty : 
 veggie : 

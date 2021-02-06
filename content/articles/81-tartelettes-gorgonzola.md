@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/CFCsvtyiCrW/
 alt: 
 date : 12/09/2020
 inspiration : 
+main_ingredient : Fromage
+theme : Tartes salées et pizzas
+sweety_salty : 1
+veggie : 1
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

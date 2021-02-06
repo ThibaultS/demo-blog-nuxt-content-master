@@ -10,6 +10,14 @@ date : 15/12/2020
 inspiration : 
 description: 
 event : "Noël"
+main_ingredient : Saint-Jacques
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 calendrier: 15
 published : 1
 ---

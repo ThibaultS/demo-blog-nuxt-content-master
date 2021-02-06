@@ -9,7 +9,7 @@ alt:
 date : 09/05/2020
 inspiration :
 category : "Poissons et crustacés"
-main_ingredient : 
+main_ingredient : Coques
 theme : 
 sweety_salty : 
 veggie : 

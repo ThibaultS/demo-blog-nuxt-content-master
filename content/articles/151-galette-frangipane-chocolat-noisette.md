@@ -10,7 +10,15 @@ date : 10/01/2021
 inspiration : 
 description: 
 category : "Chocolat"
-calendrier: 
+main_ingredient : Chocolat
+theme : Tartes sucrées
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

@@ -9,6 +9,15 @@ alt:
 date : 14/11/2020
 inspiration : 
 category : "Pâtes"
+main_ingredient : Butternut
+theme : Pâtes
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

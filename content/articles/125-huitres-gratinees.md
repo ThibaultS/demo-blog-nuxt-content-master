@@ -10,6 +10,14 @@ alt:
 date : 02/12/2020
 inspiration : 
 event : "Noël"
+main_ingredient : Huître
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 calendrier: 2
 published : 1
 ---

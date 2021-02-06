@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/CFzrTx8JV3S/
 alt: 
 date : 01/10/2020
 inspiration : 
+main_ingredient : Veau
+theme : 
+sweety_salty : 1
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

@@ -9,6 +9,15 @@ alt:
 date : 25/10/2020
 inspiration : 
 category : 
+main_ingredient : Figue
+theme : Gâteaux
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

@@ -9,6 +9,14 @@ alt:
 date : 04/09/2020
 inspiration : Alexia Duchène
 category : "Pâtes"
+main_ingredient : Artichaut
+theme : Pâtes
+sweety_salty : 
+veggie : 1
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

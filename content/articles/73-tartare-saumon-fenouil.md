@@ -9,6 +9,14 @@ alt:
 date : 30/08/2020
 inspiration :
 category : "Poissons et crustacés"
+main_ingredient : Saumon
+theme : 
+sweety_salty : 1
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

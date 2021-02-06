@@ -9,6 +9,15 @@ alt:
 date : 21/11/2020
 inspiration : 
 category : 
+main_ingredient : Poulet
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

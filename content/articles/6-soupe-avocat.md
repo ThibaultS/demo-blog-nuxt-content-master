@@ -9,9 +9,10 @@ alt:
 date : 19/04/2020
 inspiration :
 category : "Poissons et crustacés"
+tag : Healthy
 theme : "Soupes et veloutés"
 main_ingredient : Crabe
-sweety_salty : 
+sweety_salty : 1
 veggie : 
 country :
 difficulty :

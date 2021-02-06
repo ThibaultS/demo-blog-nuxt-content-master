@@ -10,6 +10,14 @@ date : 18/12/2020
 inspiration : 
 description: 
 event : "Noël"
+main_ingredient : Fromage
+theme : Cakes salés
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 calendrier: 18
 published : 1
 ---

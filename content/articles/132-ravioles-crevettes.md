@@ -10,6 +10,14 @@ alt:
 date : 09/12/2020
 inspiration : 
 event : "Noël"
+main_ingredient : Crevette
+theme : Pâtes
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 calendrier: 9
 published : 1
 ---

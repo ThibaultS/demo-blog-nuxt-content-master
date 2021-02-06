@@ -9,8 +9,9 @@ alt:
 date : 19/05/2020
 inspiration :
 category : "Poissons et crustacés"
-main_ingredient : 
-theme : 
+tag : Healthy
+main_ingredient : Saumon
+theme : Salades
 sweety_salty : 
 veggie : 
 country :

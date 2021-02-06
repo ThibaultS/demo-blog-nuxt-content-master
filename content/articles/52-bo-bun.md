@@ -8,8 +8,8 @@ url: https://www.instagram.com/p/CCbXXGUi8kx/
 alt: 
 date : 09/07/2020
 inspiration :
-main_ingredient : 
-theme : 
+main_ingredient : Poulet
+theme : Bowls
 sweety_salty : 
 veggie : 
 country :

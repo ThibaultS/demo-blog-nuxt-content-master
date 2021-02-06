@@ -9,6 +9,16 @@ alt:
 date : 10/11/2020
 inspiration : 
 category : "Poissons et crustacés"
+main_ingredient : Saumon
+tag : Healthy
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

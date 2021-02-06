@@ -9,6 +9,15 @@ alt:
 date : 03/11/2020
 inspiration : "Chef Zanoni Simone"
 category : "Pâtes"
+main_ingredient : Crevette
+theme : Pâtes
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

@@ -10,6 +10,14 @@ date : 19/12/2020
 inspiration : 
 description: En voilà une entrée festive, proposez un cheesecake salé aux crevettes et aux écrevisses accompagné d’une salade verte
 event : "Noël"
+main_ingredient : Crevette
+theme : Cakes salés
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 calendrier: 19
 published : 1
 ---

@@ -11,6 +11,7 @@ inspiration :
 category : "Pâtes"
 theme : Pâtes
 main_ingredient : Courgette
+tag : Healthy
 sweety_salty : 
 veggie : 
 country :

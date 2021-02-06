@@ -9,6 +9,14 @@ alt:
 date : 16/08/2020
 category : "Chocolat"
 inspiration :
+main_ingredient : Chocolat
+theme : Gâteaux
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

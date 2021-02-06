@@ -9,6 +9,14 @@ alt:
 date : 02/09/2020
 inspiration : Alexia Duchène
 category : "Pâtes"
+main_ingredient : Poutargue
+theme : Pâtes
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

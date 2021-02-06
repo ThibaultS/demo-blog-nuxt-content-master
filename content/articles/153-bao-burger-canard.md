@@ -10,7 +10,15 @@ date : 14/01/2021
 inspiration : 
 description: 
 category : 
-calendrier: 
+main_ingredient : Boeuf
+theme : Burgers
+sweety_salty : 
+veggie : 
+country : Chine
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

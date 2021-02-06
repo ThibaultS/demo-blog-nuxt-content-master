@@ -8,8 +8,9 @@ url: https://www.instagram.com/p/CCJmeoViXRM/
 alt: 
 date : 02/07/2020
 inspiration :
-main_ingredient : 
-theme : 
+main_ingredient : Petit pois
+theme : Salades
+tag: Healthy
 sweety_salty : 
 veggie : 
 country :

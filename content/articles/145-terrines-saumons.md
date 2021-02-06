@@ -10,6 +10,14 @@ date : 22/12/2020
 inspiration : 
 description: 
 event : "Noël"
+main_ingredient : Saumon
+theme : Cakes salés
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 calendrier: 22
 published : 1
 ---

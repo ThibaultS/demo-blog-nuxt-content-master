@@ -9,6 +9,15 @@ alt:
 date : 20/10/2020
 inspiration : 
 category : 
+main_ingredient : Saumon
+theme : Cakes salés
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

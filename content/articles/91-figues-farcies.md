@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/CFuxL9ni-g-/
 alt: 
 date : 29/09/2020
 inspiration : 
+main_ingredient : Figue
+theme : 
+sweety_salty : 1
+veggie : 1
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

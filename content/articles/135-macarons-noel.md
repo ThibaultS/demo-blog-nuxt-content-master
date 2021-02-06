@@ -10,6 +10,14 @@ alt:
 date : 12/12/2020
 inspiration : 
 event : "Noël"
+main_ingredient : Amande
+theme : Gâteaux
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 calendrier: 12
 published : 1
 ---

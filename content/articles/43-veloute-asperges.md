@@ -9,8 +9,9 @@ alt:
 date : 24/06/2020
 inspiration :
 category : "Poissons et crustacés"
-main_ingredient : 
-theme : 
+main_ingredient : Asperge
+theme : Soupes et veloutés
+tag : Healthy
 sweety_salty : 
 veggie : 
 country :

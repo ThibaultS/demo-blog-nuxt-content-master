@@ -10,6 +10,14 @@ alt:
 date : 05/12/2020
 inspiration : 
 event : "Noël"
+main_ingredient : Saumon
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 calendrier: 5
 published : 1
 ---

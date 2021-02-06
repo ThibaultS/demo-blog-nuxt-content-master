@@ -8,8 +8,9 @@ url: https://www.instagram.com/p/CAiSt5VCpGo/
 alt: 
 date : 23/05/2020
 inspiration :
-main_ingredient : 
-theme : 
+main_ingredient : Lentille
+tag : Healthy
+theme : Salades
 sweety_salty : 
 veggie : 
 country :

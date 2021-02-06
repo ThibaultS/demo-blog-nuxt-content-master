@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/CDMhT0uCXnm/
 alt: 
 date : 28/07/2020
 inspiration :
+main_ingredient : Tomates
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

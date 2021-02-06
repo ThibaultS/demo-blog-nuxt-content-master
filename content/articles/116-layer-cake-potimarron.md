@@ -9,6 +9,15 @@ alt:
 date : 15/11/2020
 inspiration : 
 category : 
+main_ingredient : Potimarron
+theme : Gâteaux
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

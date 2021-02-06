@@ -9,6 +9,15 @@ alt:
 date : 19/11/2020
 inspiration : 
 category : "Pâtes"
+main_ingredient : Poulet
+theme : Pâtes
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

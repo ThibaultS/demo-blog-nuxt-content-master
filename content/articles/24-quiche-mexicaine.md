@@ -9,10 +9,10 @@ alt:
 date : 14/05/2020
 inspiration :
 main_ingredient : 
-theme : 
+theme : Tartes salées et pizzas
 sweety_salty : 
 veggie : 
-country :
+country : Mexique
 difficulty :
 with : 
 time : 

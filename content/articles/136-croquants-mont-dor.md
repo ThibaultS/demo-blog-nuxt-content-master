@@ -10,6 +10,14 @@ date : 13/12/2020
 inspiration : 
 description: Ça vous dit une entrée sucrée-salée pour les fêtes ? Je vous propose des croquants de mont d'Or avec une poire pochée.
 event : "Noël"
+main_ingredient : Fromage
+theme : 
+sweety_salty : 1
+veggie : 1
+country :
+difficulty :
+with : 
+time : 
 calendrier: 13
 published : 1
 ---

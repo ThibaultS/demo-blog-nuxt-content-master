@@ -8,6 +8,15 @@ url: https://www.instagram.com/p/CEKRUaqCuEQ/
 alt: 
 date : 21/08/2020
 inspiration :
+main_ingredient : Cerise
+theme : Salades
+tag : Healthy
+sweety_salty : 1
+veggie : 1
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

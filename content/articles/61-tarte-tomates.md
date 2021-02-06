@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/CDZL-qfi-xC/
 alt: 
 date : 02/08/2020
 inspiration :
+main_ingredient : Tomate
+theme : Tartes salées et pizzas
+sweety_salty : 
+veggie : 1
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

@@ -10,6 +10,14 @@ alt:
 date : 07/12/2020
 inspiration : 
 event : "Noël"
+main_ingredient : Saumon
+theme : Sushis et makis
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 calendrier: 7
 published : 1
 ---

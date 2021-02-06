@@ -8,6 +8,15 @@ url: https://www.instagram.com/p/CEPOAduiZW0/
 alt: 
 date : 23/08/2020
 inspiration :
+main_ingredient : Carotte
+theme : Salades
+tag : Healthy
+sweety_salty : 
+veggie : 1
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

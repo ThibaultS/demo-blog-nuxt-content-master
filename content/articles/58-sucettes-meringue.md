@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/CDEpXw2Csgt/
 alt: 
 date : 25/07/2020
 inspiration :
+main_ingredient : Meringue
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

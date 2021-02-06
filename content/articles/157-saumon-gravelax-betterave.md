@@ -10,7 +10,16 @@ date : 21/01/2021
 inspiration : 
 description: Si vous êtes adeptes du saumon gravelax, essayez cette variante à la betterave. Un délice !
 category : "Poissons et crustacés"
-calendrier: 
+main_ingredient : 
+theme : Saumon
+tag: Healthy
+sweety_salty : 1
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

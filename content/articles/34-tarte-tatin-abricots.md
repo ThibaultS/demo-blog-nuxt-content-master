@@ -8,8 +8,8 @@ url: https://www.instagram.com/p/CA2-nD8i0bR/
 alt: 
 date : 31/05/2020
 inspiration :
-main_ingredient : 
-theme : 
+main_ingredient : Abricot
+theme : Tartes sucrées
 sweety_salty : 
 veggie : 
 country :

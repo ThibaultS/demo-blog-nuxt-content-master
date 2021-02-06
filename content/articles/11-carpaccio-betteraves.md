@@ -11,7 +11,7 @@ inspiration :
 theme : 
 main_ingredient : Betterave
 sweety_salty : 
-veggie : 
+veggie : 1
 country :
 difficulty :
 with : 

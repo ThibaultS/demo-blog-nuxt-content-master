@@ -10,6 +10,14 @@ alt:
 date : 11/12/2020
 inspiration : 
 event : "Noël"
+main_ingredient : Boudin
+theme : 
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 calendrier: 11
 published : 1
 ---

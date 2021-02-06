@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/CCv-3yTCnaq/
 alt: 
 date : 17/07/2020
 inspiration :
+main_ingredient : Poivron
+theme : Tartines
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

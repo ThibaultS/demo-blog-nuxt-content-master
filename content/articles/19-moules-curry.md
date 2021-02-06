@@ -9,7 +9,7 @@ alt:
 date : 05/05/2020
 inspiration :
 category : "Poissons et crustacés"
-main_ingredient : 
+main_ingredient : Moule
 theme : 
 sweety_salty : 
 veggie : 

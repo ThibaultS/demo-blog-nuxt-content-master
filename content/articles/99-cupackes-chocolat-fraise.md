@@ -11,6 +11,14 @@ date : 17/10/2020
 inspiration : 
 category : "Halloween"
 event : "Halloween"
+main_ingredient : Chocolat
+theme : Gâteaux
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 
 ---

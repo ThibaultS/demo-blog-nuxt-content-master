@@ -9,6 +9,15 @@ alt:
 date : 24/11/2020
 inspiration : 
 category : 
+main_ingredient : Carotte
+theme : 
+sweety_salty : 1
+veggie : 1
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

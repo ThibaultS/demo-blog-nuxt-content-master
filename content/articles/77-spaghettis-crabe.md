@@ -9,6 +9,14 @@ alt:
 date : 06/09/2020
 inspiration : Simone Zanoni
 category : "Pâtes"
+main_ingredient : Crabe
+theme : Pâtes
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

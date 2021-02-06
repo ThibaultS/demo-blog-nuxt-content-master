@@ -8,7 +8,8 @@ url: https://www.instagram.com/p/CB3gmM0CTRd/
 alt: 
 date : 25/06/2020
 inspiration :
-main_ingredient : 
+main_ingredient : Asperge
+tag : Healthy
 theme : 
 sweety_salty : 
 veggie : 

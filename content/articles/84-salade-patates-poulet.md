@@ -8,6 +8,14 @@ url: https://www.instagram.com/p/CFSW2vliVPJ/
 alt: 
 date : 18/09/2020
 inspiration : 
+main_ingredient : Poulet
+theme : Salades
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

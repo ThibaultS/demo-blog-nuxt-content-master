@@ -8,7 +8,16 @@ url: https://www.instagram.com/p/CHf-9lKJE_2/
 alt: 
 date : 12/11/2020
 inspiration : 
-category : ""
+category : 
+main_ingredient : Potimarron
+theme : Tartines
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
+event :
 published : 1
 ---
 

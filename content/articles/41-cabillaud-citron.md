@@ -9,9 +9,10 @@ alt:
 date : 22/06/2020
 inspiration :
 category : "Poissons et crustacés"
-main_ingredient : 
+tag : Healthy
+main_ingredient : Cabillaud
 theme : 
-sweety_salty : 
+sweety_salty : 1
 veggie : 
 country :
 difficulty :

@@ -9,11 +9,11 @@ alt:
 date : 05/07/2020
 inspiration :
 category : "Chocolat"
-main_ingredient : 
+main_ingredient : Chocolat
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : Italie
 difficulty :
 with : 
 time : 

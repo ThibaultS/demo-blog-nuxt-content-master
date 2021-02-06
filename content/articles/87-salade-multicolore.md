@@ -8,6 +8,15 @@ url: https://www.instagram.com/p/CFfNb2kCxbB/
 alt: 
 date : 23/09/2020
 inspiration : 
+main_ingredient : Endive
+theme : Salades
+tag : Healthy
+sweety_salty : 
+veggie : 1
+country :
+difficulty :
+with : 
+time : 
 published : 1
 ---
 

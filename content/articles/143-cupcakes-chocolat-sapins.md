@@ -10,6 +10,14 @@ date : 20/12/2020
 inspiration : 
 description: 
 event : "Noël"
+main_ingredient : Chocolat
+theme : Gâteaux
+sweety_salty : 
+veggie : 
+country :
+difficulty :
+with : 
+time : 
 calendrier: 20
 published : 1
 ---

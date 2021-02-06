@@ -9,7 +9,7 @@ alt:
 date : 18/06/2020
 inspiration : Laurent Mariotte
 category : "Poissons et crustacés"
-main_ingredient : 
+main_ingredient : Daurade
 theme : 
 sweety_salty : 
 veggie : 
