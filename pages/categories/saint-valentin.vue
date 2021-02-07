@@ -1,5 +1,5 @@
 <template>
-  <div class="halloween">
+  <div class="saint-valentin">
     <div>
       <b-navbar
         type="dark"
@@ -30,38 +30,46 @@
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>
           <b-col class="intro mt-5 mb-5">
-            <h1>Halloween</h1>
+            <h1>Mes desserts pour la Saint-Valentin</h1>
             <p class="lead">
-              Retrouvez la liste de toutes les recettes que j'ai préparées
-              spécialement pour Halloween.
+              Préparez vous, la Saint-Valentin arrive à grand pas. L'occasion de
+              mettre l'amour à l'honneur. Découvrez les recettes que je vous ai
+              concoctées sur
+              <a
+                href="https://www.instagram.com/josiesrecipes/"
+                target="_blank"
+              >
+                Instagram.
+              </a>
             </p>
           </b-col>
         </b-row>
-        <b-row class="content-row">
-          <b-col>
-            <b-card
-              v-for="article of articles"
-              :key="article.slug"
-              class="post mb-5"
-              no-body
-            >
+        <b-row class="row-cols-1 row-cols-sm-1 row-cols-lg-1 row-cols-xl-2">
+          <b-col v-for="article of articles" :key="article.slug" class="mb-5">
+            <b-card class="post" no-body>
               <NuxtLink
                 :to="{ name: 'blog-slug', params: { slug: article.slug } }"
               >
-                <b-row no-gutters>
-                  <div class="img-halloween-container">
+                <b-row>
+                  <b-col md="5">
                     <b-card-img-lazy
                       :src="article.thumbnail"
+                      left
+                      blank-color="#d0b8ac"
                       loading="lazy"
                       alt=""
-                    />
-                  </div>
-                  <b-card-body>
-                    <b-card-title title-tag="h2">
-                      {{ article.title }}
-                    </b-card-title>
-                    <p>{{ article.description }}</p>
-                  </b-card-body>
+                    >
+                    </b-card-img-lazy>
+                  </b-col>
+                  <b-col md="7">
+                    <b-card-body>
+                      <b-card-title title-tag="h3">
+                        {{ article.title }}
+                      </b-card-title>
+                      <p class="lead">{{ article.description }}</p>
+                      <p class="mt-3">{{ article.date }}</p>
+                    </b-card-body>
+                  </b-col>
                 </b-row>
               </NuxtLink>
             </b-card>
@@ -89,7 +97,7 @@ export default {
         'category'
       ])
       .sortBy('id', 'desc')
-      .where({ event: 'Halloween' })
+      .where({ event: 'Saint-Valentin' })
       .fetch()
     return {
       articles
@@ -97,7 +105,7 @@ export default {
   },
   data() {
     return {
-      title: "Mes desserts d'Halloween"
+      title: 'Mes desserts pour la Saint-Valentin'
     }
   },
   head() {
@@ -114,7 +122,7 @@ export default {
           hid: 'og:image',
           name: 'og:image',
           content:
-            'https://res.cloudinary.com/thibaults/image/upload/v1606424631/partage-halloween.png'
+            'https://res.cloudinary.com/thibaults/image/upload/v1606424631/partage-home.png'
         }
       ]
     }

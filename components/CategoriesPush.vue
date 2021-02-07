@@ -8,6 +8,7 @@
         <!-- <AppSearchInput /> -->
       </b-col>
     </b-row>
+    <StickyValentine />
     <b-row class="row-cols-1 row-cols-sm-2 row-cols-lg-2 mb-8">
       <b-col class="mb-2">
         <nuxt-link

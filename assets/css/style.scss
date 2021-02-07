@@ -34,6 +34,10 @@ a {
     color : #b48e7b;
 }
 
+.lead {
+    font-size: 1.125rem;
+}
+
 nav.customnav {
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d0b8ac+1,d0b8ac+100&1+65,0+93 */
     background:none;
@@ -325,19 +329,23 @@ article {
     }
 }
 
-.halloween .intro .lead, .noel .intro .lead {
+.halloween .intro .lead, .noel .intro .lead,.saint-valentin .intro .lead {
     color:#CBB1A4;
     font-size: 1.5rem;
 }
 
 
-.halloween h1, .noel h1{
+.halloween h1, .noel h1, .saint-valentin h1{
     font-size: 3rem;
 }
 
 .halloween h1 {
     text-transform: uppercase;
     color : #F27405
+}
+
+.saint-valentin h1, .saint-valentin .intro .lead {
+    color:#FFC2CD;
 }
 
 .push-category.push-christmas {
@@ -356,10 +364,33 @@ article {
         color: #fff;
         border-color: #00491a;
     }
-    .btn:hover {
-        background-color: #fff;
-        color: #006523;
+}
+
+.push-category.push-valentin {
+    background-color: #FF084A;
+    background-image : url(~assets/images/pattern-saint-valentin.svg);
+    color:#FFF;
+    border: solid 5px #FF93AB;
+    h2 {
+        color:#FFF;
     }
+    p {
+        color:#FFF
+    }
+    .btn {
+        background-color: #FFC2CD;
+        color: #FF084A;
+        border-color: #FF6289;
+    }
+    .btn:hover {
+        background-color: #FF084A;
+        color: #FFC2CD;
+    }
+}
+
+.push-category.push-christmas .btn:hover {
+    background-color: #fff;
+    color: #006523;
 }
 
 .noel h1 {
@@ -368,6 +399,10 @@ article {
 
 .halloween h1::first-letter, .noel h1::first-letter {
     font-size: 3rem;
+}
+
+.saint-valentin .lead a {
+    color: #ffd9e0;
 }
 
 .noel .card {
@@ -525,6 +560,7 @@ article {
     }
 }
 
+
 a.see-more {
     color: #B99B8B;
     background-color: #fff;
@@ -542,6 +578,7 @@ a.see-more:hover {
     box-shadow: 0 5px 6px 0 rgba(132, 87, 76, 0.5);
 }
 
+
 // content 
 
 .nuxt-content ul {
@@ -552,11 +589,19 @@ a.see-more:hover {
 .halloween {
     background-color: #0D0126;
     background-image : url(~assets/images/pattern-halloween.svg);
+    min-height: 100vh;
 }
 
 .noel {
     background-color: #BF1131;
     background-image : url(~assets/images/pattern-noel.svg);
+    min-height: 100vh;
+}
+
+.saint-valentin {
+    background-color:#FF084A;
+    background-image : url(~assets/images/pattern-saint-valentin.svg);
+    min-height: 100vh;
 }
 
 .halloween nav, .noel nav {
@@ -575,9 +620,38 @@ a.see-more:hover {
     
 }
 
+.saint-valentin .card.post {
+    background-color: #ffd9e0;
+    border: #FF084A;
+
+    a  {
+        h3 {
+            color: #FF084A;
+        }
+        p {
+            color: #FC3468;
+        }
+        p.date {
+            color:#FC3468;
+        }
+    }
+    a:hover {
+        text-decoration: none;
+        h3 {
+            color: #FF084A;
+            text-decoration: underline;
+        }
+    }
+}
+
+.saint-valentin .card.post:hover {
+    background-color: #FFC2CD;
+}
+
 .halloween .card.post:hover {
     background: rgba(51,3,64,0.2) !important;
 }
+
 
 @media (min-width: 320px){
     .xs\:h-screen {
@@ -713,16 +787,17 @@ a.see-more:hover {
     .insta-link {
         display: flex;
     }
+
+    .saint-valentin .card.post .card-body {
+        padding-left: 0;
+    }
+
 }
 
 
 
 @media (min-width: 1024px){
 
-
-    .container-lg {
-        padding-right: 12rem;
-    }
 
     .halloween .container-lg {
         padding-right: 15px;
@@ -759,6 +834,13 @@ a.see-more:hover {
     }
 }
 
+@media (min-width: 1280px){
+
+    .container-lg {
+        padding-right: 12rem;
+    }
+
+}
 
 @media (min-width: 1440px){
     .card-columns {
