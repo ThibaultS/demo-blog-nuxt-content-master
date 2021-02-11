@@ -13,7 +13,7 @@ main_ingredient : Frambroise
 theme : 
 tag : 
 sweety_salty : 
-veggie : 1
+veggie : 
 country :
 difficulty :
 with : 
