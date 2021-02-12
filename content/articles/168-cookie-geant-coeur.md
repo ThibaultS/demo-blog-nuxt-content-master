@@ -7,7 +7,7 @@ bkg :
 url: https://www.instagram.com/p/CLHoMfopsu6/
 alt: 
 date : 10/02/2021
-inspiration : Saint-Valentin
+inspiration :
 description: C'est si gourmand, un cœur géant en cookie avec une ganache au chocolat.
 main_ingredient : Chocolat
 theme : Gâteaux
