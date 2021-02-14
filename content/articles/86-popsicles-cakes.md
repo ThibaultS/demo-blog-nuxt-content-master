@@ -1,14 +1,14 @@
 ---
 id: 86
 title: Popsicles cakes
-description: 
+description: Cela ressemble à des glaces mais ce sont des mini-cakes au chocolat. Surprise assurée pour vos invités.
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600524211/Recipes/20200920_popsicles_cake.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600524211/Recipes/20200920_popsicles_cake.jpg
 url: https://www.instagram.com/p/CFW_U2kCXYJ/
 alt: 
 date : 20/09/2020
 inspiration : 
-category : "Chocolat"
+event : Saint-Valentin
 main_ingredient : Chocolat
 theme : Gâteaux
 sweety_salty : 

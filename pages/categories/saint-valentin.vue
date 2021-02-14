@@ -44,22 +44,27 @@
             </p>
           </b-col>
         </b-row>
-        <b-row class="row-cols-1 row-cols-sm-1 row-cols-lg-1 row-cols-xl-2">
+        <b-row
+          id="posts"
+          class="row-cols-1 row-cols-sm-1 row-cols-lg-1 row-cols-xl-2"
+        >
           <b-col v-for="article of articles" :key="article.slug" class="mb-5">
-            <b-card class="post" no-body>
+            <b-card class="post horizontal" no-body>
               <NuxtLink
                 :to="{ name: 'blog-slug', params: { slug: article.slug } }"
               >
                 <b-row>
                   <b-col md="5">
-                    <b-card-img-lazy
-                      :src="article.thumbnail"
-                      left
-                      blank-color="#d0b8ac"
-                      loading="lazy"
-                      alt=""
-                    >
-                    </b-card-img-lazy>
+                    <div class="img-container">
+                      <b-card-img-lazy
+                        :src="article.thumbnail"
+                        left
+                        blank-color="#d0b8ac"
+                        loading="lazy"
+                        alt=""
+                      >
+                      </b-card-img-lazy>
+                    </div>
                   </b-col>
                   <b-col md="7">
                     <b-card-body>
@@ -116,13 +121,13 @@ export default {
           hid: 'description',
           name: 'description',
           content:
-            "Retrouvez sur mon site toutes les recettes que j'ai publiées sur mon compte instagram @josiesrecipes"
+            'Retrouvez toutes mes desserts pour la fête des amoureux, la Saint-Valentin.'
         },
         {
           hid: 'og:image',
           name: 'og:image',
           content:
-            'https://res.cloudinary.com/thibaults/image/upload/v1606424631/partage-home.png'
+            'https://res.cloudinary.com/thibaults/image/upload/v1613314763/partage-saint-valentin.png'
         }
       ]
     }

@@ -37,31 +37,37 @@
             </p>
           </b-col>
         </b-row>
-        <b-row class="content-row">
-          <b-col>
-            <b-card
-              v-for="article of articles"
-              :key="article.slug"
-              class="post mb-5"
-              no-body
-            >
+        <b-row
+          id="posts"
+          class="row-cols-1 row-cols-sm-1 row-cols-lg-1 row-cols-xl-2"
+        >
+          <b-col v-for="article of articles" :key="article.slug" class="mb-5">
+            <b-card class="post horizontal" no-body>
               <NuxtLink
                 :to="{ name: 'blog-slug', params: { slug: article.slug } }"
               >
-                <b-row no-gutters>
-                  <div class="img-halloween-container">
-                    <b-card-img-lazy
-                      :src="article.thumbnail"
-                      loading="lazy"
-                      alt=""
-                    />
-                  </div>
-                  <b-card-body>
-                    <b-card-title title-tag="h2">
-                      {{ article.title }}
-                    </b-card-title>
-                    <p>{{ article.description }}</p>
-                  </b-card-body>
+                <b-row>
+                  <b-col md="5">
+                    <div class="img-container">
+                      <b-card-img-lazy
+                        :src="article.thumbnail"
+                        left
+                        blank-color="#d0b8ac"
+                        loading="lazy"
+                        alt=""
+                      >
+                      </b-card-img-lazy>
+                    </div>
+                  </b-col>
+                  <b-col md="7">
+                    <b-card-body>
+                      <b-card-title title-tag="h3">
+                        {{ article.title }}
+                      </b-card-title>
+                      <p class="lead">{{ article.description }}</p>
+                      <p class="mt-3">{{ article.date }}</p>
+                    </b-card-body>
+                  </b-col>
                 </b-row>
               </NuxtLink>
             </b-card>

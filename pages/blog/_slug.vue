@@ -42,6 +42,12 @@
         <p v-if="article.description" class="lead">
           {{ article.description }}
         </p>
+        <p v-if="article.veggie">
+          Cette recette est végétarienne.
+          <a href="/categories/vegetarien">
+            Découvrez toutes mes recettes végératienne.
+          </a>
+        </p>
         <nuxt-content :document="article" />
         <p v-if="article.url">
           <a :href="article.url" target="_blank">
