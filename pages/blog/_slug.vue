@@ -38,7 +38,6 @@
         class="relative xs:py-8 xs:px-8 lg:py-32 lg:px-16 lg:w-1/2 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
       >
         <h1>{{ article.title }}</h1>
-        <StickyValentineArticle />
         <p v-if="article.description" class="lead">
           {{ article.description }}
         </p>
@@ -54,6 +53,7 @@
             <span class="icon icon-instagram"></span>
           </a>
         </p>
+        <StickyValentineArticle />
         <p class="pt-2">{{ article.date }}</p>
       </div>
     </div>
@@ -80,8 +80,7 @@ export default {
         {
           hid: 'description',
           name: 'description',
-          content:
-            "Retrouvez sur mon site toutes les recettes que j'ai publiées sur mon compte instagram @josiesrecipes"
+          content: this.article.description
         },
         {
           property: 'og:title',

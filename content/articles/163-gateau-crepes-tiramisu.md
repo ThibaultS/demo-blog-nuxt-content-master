@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CKt63qzJ065/
 alt: 
 date : 31/01/2021
 inspiration : 
-description: 
+description: Si vous aimez les crèpes et le tiramisu, vous allez adorer ce gâteau. Parfait pour fêter la chandeleur en famille.
 category : Chocolat
 main_ingredient : Chocolat
 theme : Gâteaux

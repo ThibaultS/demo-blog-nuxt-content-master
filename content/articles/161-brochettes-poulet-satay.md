@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CKmNOvWJjn9/
 alt: 
 date : 28/01/2021
 inspiration : 
-description: 
+description: La sauce satay est une sauce à base de beurre de cacahuètes provenant d'Asie, idéale pour accompagnée vos boulettes de poulet.
 category :
 main_ingredient : Poulet
 theme : Bowls

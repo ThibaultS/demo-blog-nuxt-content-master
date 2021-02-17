@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CKb1Yz8JMx8/
 alt: 
 date : 24/01/2021
 inspiration : 
-description: 
+description: Les muffins au chocolat c'est toujours une valeur sûr. Cette recette choco-noisette raviera vos invités !
 category : "Chocolat"
 main_ingredient : Chocolat
 theme : Gâteaux

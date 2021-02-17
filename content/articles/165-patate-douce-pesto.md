@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CK4YacopAE_/
 alt: 
 date : 04/02/2021
 inspiration : 
-description: 
+description: Cette recette de patate douce rôtie est parfaite pour un repas végétarien en hiver.
 main_ingredient : Patate douce
 theme : 
 tag : Healthy

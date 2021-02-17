@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CKUTWV4JpMc/
 alt: 
 date : 21/01/2021
 inspiration : 
-description: Si vous êtes adeptes du saumon gravelax, essayez cette variante à la betterave. Un délice !
+description: Si vous êtes adeptes du saumon gravelax, essayez cette variante à la betterave, c'est un délice !
 category : "Poissons et crustacés"
 main_ingredient : 
 theme : Saumon

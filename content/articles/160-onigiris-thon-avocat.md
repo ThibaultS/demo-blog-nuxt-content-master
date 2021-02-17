@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CKjmIz7Ja87/
 alt: 
 date : 27/01/2021
 inspiration : 
-description: 
+description: Vous voulez reproduire les onigiris que vous voyez dans les animés japonais ? C'est pas si compliqué.
 category : "Poissons et crustacés"
 main_ingredient : Thon
 theme :

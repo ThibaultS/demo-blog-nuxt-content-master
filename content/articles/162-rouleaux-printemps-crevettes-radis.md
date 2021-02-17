@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CKrStarJ7vc/
 alt: 
 date : 30/01/2021
 inspiration : 
-description: 
+description: L'avantage des rouleaux de printemps est la possibilité de le composer de milles façons. Je vous propose ici une recette avec des radis.
 category : "Poissons et crustacés"
 main_ingredient : Crevette
 theme : 

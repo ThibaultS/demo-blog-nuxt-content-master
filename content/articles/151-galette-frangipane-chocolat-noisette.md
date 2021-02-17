@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CJ3txafJwE5/
 alt: 
 date : 10/01/2021
 inspiration : 
-description: 
+description: Si comme moi, vous n'êtes pas fan de la frangipane classique, essayez donc cette recette de frangipane chocolat et noisette.
 category : "Chocolat"
 main_ingredient : Chocolat
 theme : Tartes sucrées

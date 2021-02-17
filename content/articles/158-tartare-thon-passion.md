@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CKZYe4zpsLP/
 alt: 
 date : 23/01/2021
 inspiration : 
-description: 
+description: Si vous aimez le poisson cru et le sucré-salé, vous allez adorer cette recette de tartare de thon avec du fruit de la passion.
 category : "Poissons et crustacés"
 main_ingredient : Thon
 theme : 
@@ -39,6 +39,6 @@ Pour 1 tartare :
 ## Recette
 Dans un premier temps, préparez votre salade. Épluchez le concombre et coupez la moitié en tout petit cube, ainsi que les tomates cerises. Puis, émincez votre steak de thon. Assaisonnez avec le jus et les graines de passion, la sauce soja salé, un filet d’huile d’olive, du sel et du poivre. 
 
-Dans une assiette, disposez une emporte pièce au centre. Versez votre préparation à base de thon et tassez. Disposez par dessus les œufs de lompe afin de recouvrir la surface en pensant bien à laisser un trou au milieu. Dans ce trou, disposez votre jaune d’œuf. 
+Dans une assiette, disposez une emporte-pièce au centre. Versez votre préparation à base de thon et tassez. Disposez par dessus les œufs de lompe afin de recouvrir la surface en pensant bien à laisser un trou au milieu. Dans ce trou, disposez votre jaune d’œuf. 
 
 Disposez votre salade, tout autour de votre tartare.

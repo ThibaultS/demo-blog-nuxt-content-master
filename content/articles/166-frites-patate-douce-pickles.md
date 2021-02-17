@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CK9Nn3Op5Tw/
 alt: 
 date : 06/02/2021
 inspiration : 
-description: 
+description: Essayez les frites de patate douce cuites au four pour changer. Vous aurez des frites ultra moelleuses.
 main_ingredient : Patate douce
 theme : 
 tag : Healthy

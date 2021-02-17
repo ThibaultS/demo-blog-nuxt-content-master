@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CKPCReDJH1O/
 alt: 
 date : 19/01/2021
 inspiration : 
-description: 
+description: La betterave est parfaite pour accompagner de la daurade crue finement tranchée.
 category : "Poissons et crustacés"
 main_ingredient : Daurade
 theme : 

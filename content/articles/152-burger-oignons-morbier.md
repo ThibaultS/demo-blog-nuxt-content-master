@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CJ8-D1SpePN/
 alt: 
 date : 12/01/2021
 inspiration : 
-description: 
+description: Avouons-le, les oignons caramélisés dans un burger c'est toujours délicieux ! Découvrez cette recette de burger au morbier.
 category : 
 main_ingredient : Boeuf
 theme : Burgers
