@@ -13,7 +13,7 @@ main_ingredient : Truffe
 theme : Pâtes
 tag : 
 sweety_salty : 
-veggie : 
+veggie : 1
 country :
 difficulty :
 with : 
