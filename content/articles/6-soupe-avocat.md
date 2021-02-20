@@ -18,6 +18,7 @@ country :
 difficulty :
 with : 
 time : 
+recipeYield : 
 published : 1
 ---
 

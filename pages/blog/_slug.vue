@@ -41,12 +41,23 @@
         <p v-if="article.description" class="lead">
           {{ article.description }}
         </p>
-        <p v-if="article.veggie">
-          Cette recette est végétarienne.
-          <a href="/categories/vegetarien">
-            Découvrez toutes mes recettes végératienne.
-          </a>
-        </p>
+        <b-card class="mb-3 bg-secondary">
+          <div v-if="article.veggie">
+            Cette recette est végétarienne.
+            <a href="/categories/vegetarien">
+              Découvrez toutes mes recettes végératienne.
+            </a>
+          </div>
+          <div v-if="article.sweety_salty">Recette sucrée-salée</div>
+          <div v-if="article.country">Origine : {{ article.country }}</div>
+          <div v-if="article.difficulty">
+            Difficulté : {{ article.difficulty }}
+          </div>
+          <div v-if="article.time">
+            Durée de préparation : {{ article.time }} min
+          </div>
+          <div v-if="article.recipeYield">Pour {{ article.recipeYield }}</div>
+        </b-card>
         <nuxt-content :document="article" />
         <p v-if="article.url">
           <a :href="article.url" target="_blank">
@@ -54,7 +65,7 @@
           </a>
         </p>
         <StickyValentineArticle />
-        <p class="pt-2">{{ article.date }}</p>
+        <p class="pt-2">Publié le {{ formatDate(article.date) }}</p>
       </div>
     </div>
   </article>
@@ -70,28 +81,67 @@ export default {
   methods: {
     formatDate(date) {
       const options = { year: 'numeric', month: 'long', day: 'numeric' }
-      return new Date(date).toLocaleDateString('en', options)
+      return new Date(date).toLocaleDateString('fr', options)
     }
   },
   head() {
     return {
       title: this.article.title,
+      script: [
+        {
+          type: 'application/ld+json',
+          json: {
+            '@context': 'https://schema.org',
+            '@type': 'Recipe',
+            name: this.article.title,
+            url: 'https://josies-recipes.netlify.app/blog/' + this.article.slug,
+            image: this.article.thumbnail,
+            author: {
+              '@type': 'Person',
+              name: 'Josie'
+            },
+            datePublished: this.article.date,
+            description: this.article.description,
+            totalTime: 'PT' + this.article.time + 'M'
+          }
+        }
+      ],
       meta: [
         {
           hid: 'description',
           name: 'description',
           content: this.article.description
         },
+        // Open Graph
         {
+          hid: 'og:title',
           property: 'og:title',
           content: this.article.title
         },
         {
+          hid: 'og:description',
+          property: 'og:description',
+          content: this.article.description
+        },
+        {
+          hid: 'og:image',
           property: 'og:image',
           content: this.article.img
         },
+        // Twitter Card
         {
-          property: 'og:type',
+          hid: 'twitter:title',
+          name: 'twitter:title',
+          content: this.article.title
+        },
+        {
+          hid: 'twitter:description',
+          name: 'twitter:description',
+          content: this.article.description
+        },
+        {
+          hid: 'twitter:image',
+          property: 'twitter:image',
           content: this.article.img
         }
       ]

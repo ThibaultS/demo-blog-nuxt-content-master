@@ -15,9 +15,10 @@ tag :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Difficile
 with : 
 time : 
+recipeYield : 
 event : Saint-Valentin
 published : 1
 ---

@@ -19,6 +19,7 @@ difficulty :
 with : 
 time : 
 event : Saint-Valentin
+recipeYield : 
 published : 1
 ---
 

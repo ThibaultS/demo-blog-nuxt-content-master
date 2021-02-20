@@ -15,10 +15,11 @@ tag :
 sweety_salty : 
 veggie : 1
 country :
-difficulty :
+difficulty : Moyen
 with : 
-time : 
+time : 60
 event : 
+recipeYield : Pour 2 personnes
 published : 1
 ---
 

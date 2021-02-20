@@ -6,20 +6,22 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CLcPVj7pX8k/
 alt: 
-date : 18/02/2021
+date : '2021-02-18'
 inspiration : 
-description: Et si vous faisiez vos gnocchis vous même ? Ce n'est pas si compliqué et vous pouvez les adapter selon vos goûts, ici des gnocchis à la truffe.
+description: Avez-vous déjà penser à faire des financiers salés ? Et encore mieux à la truffe ? Une tuerie !
 main_ingredient : Truffe
 theme : Cakes salés
 tag : 
 sweety_salty : 
 veggie : 1
 country :
-difficulty :
+difficulty : Facile
 with : 
-time : 
+time : 30
 event : 
+recipeYield : 12 financiers
 published : 1
+
 ---
 
 ## Ingrédients

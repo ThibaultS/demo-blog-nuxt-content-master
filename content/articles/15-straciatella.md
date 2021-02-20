@@ -16,6 +16,7 @@ country : Italie
 difficulty :
 with : 
 time : 
+recipeYield : 
 published : 1
 ---
 
