@@ -1,6 +1,6 @@
 ---
 id: 22
-title: Muffin citron meringué
+title: Muffins citron meringué
 description: 
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600517450/Recipes/20200510_muffin_citron.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600517450/Recipes/20200510_muffin_citron.jpg

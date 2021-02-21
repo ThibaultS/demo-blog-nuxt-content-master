@@ -21,7 +21,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 4 personnes :
  - 4 pavés de saumon
  - 250g de riz basmati
  - 2 avocats

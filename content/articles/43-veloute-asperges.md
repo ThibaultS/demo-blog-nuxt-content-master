@@ -22,7 +22,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 4 personnes :
  - 600 g d'asperges vertes (réservez 2 asperges pour la décoration)
  - 1 oignon
  - 1 noisette de beurre

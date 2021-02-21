@@ -19,6 +19,7 @@ difficulty :
 with : 
 time : 
 calendrier: 19
+recipeYield: 4 personnes
 published : 1
 ---
 

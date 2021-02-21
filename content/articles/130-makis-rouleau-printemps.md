@@ -19,11 +19,11 @@ difficulty :
 with : 
 time : 
 calendrier: 7
+recipeYield: 3 personnes
 published : 1
 ---
 
 ## Ingrédients
-Pour 3 personnes :
  - 2 Feuilles de riz
  - 2 tranches de saumon fumé
  - 1 petit pot d’œufs de brochet au wasabi

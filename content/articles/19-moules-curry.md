@@ -25,10 +25,10 @@ published : 1
  - 1kg de moules
  - 1 oignon jaune
  - 1 échalote
- - 10 cl de vin blanc
+ - 10cl de vin blanc
  - 1 gousse d'ail
  - Ciboulette
- - 25 gr de beurre
+ - 25g de beurre
  - Crème fraîche épaisse
  - Curry en poudre
  - 600g de pommes de terres à frites

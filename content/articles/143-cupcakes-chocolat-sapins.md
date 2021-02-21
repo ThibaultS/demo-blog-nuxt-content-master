@@ -19,11 +19,11 @@ difficulty :
 with : 
 time : 
 calendrier: 20
+recipeYield: 10 cupcakes
 published : 1
 ---
 
 ## Ingrédients
-Pour 10 cupcakes : 
  - 125g de chocolat noir 
  - 120g de beurre 
  - 4 oeufs

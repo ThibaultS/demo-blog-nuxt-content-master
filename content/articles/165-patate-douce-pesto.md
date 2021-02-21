@@ -15,15 +15,15 @@ tag : Healthy
 sweety_salty : 
 veggie : 1
 country :
-difficulty :
+difficulty : Facile
 with : 
 time : 
 event :
+recipeYield: 2 personnes
 published : 1
 ---
 
 ## Ingrédients
-Pour 2 personnes :
  - 2 patates douces
  - 2 grosses c.à.s de yaourt grec
  - 2 grosses c.à.s de pesto vert maison ou industriel

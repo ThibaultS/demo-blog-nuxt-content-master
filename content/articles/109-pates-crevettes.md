@@ -22,7 +22,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 2 personnes :
  - 240g de spaghettis
  - 10 grosses crevettes
  - 5g de fenouil

@@ -15,10 +15,11 @@ theme : Tartes sucrées
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
 time : 
 event :
+recipeYield: 1 galette
 published : 1
 ---
 

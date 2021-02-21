@@ -19,11 +19,11 @@ difficulty :
 with : 
 time : 
 calendrier: 17
+recipeYield: 4 personnes
 published : 1
 ---
 
 ## Ingrédients
-Pour 4 personnes : 
  - 12 huîtres
  - 1 branche d’aneth
  - 6 c.à.s de sauce ponzu

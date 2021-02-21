@@ -16,15 +16,15 @@ tag: Healthy
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
 time : 
 event :
+recipeYield: 2 assiettes
 published : 1
 ---
 
 ## Ingrédients
-Pour 2 assiettes :
  - 2 filets de daurade royale
  - Environ 10 grandes feuilles de basilic
  - 1 betterave cuite

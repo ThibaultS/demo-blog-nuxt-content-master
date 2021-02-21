@@ -19,12 +19,11 @@ difficulty :
 with : 
 time : 
 calendrier: 12
+recipeYield: 15 macarons de taille standard
 published : 1
 ---
 
 ## Ingrédients
-Ingrédients pour 15 macarons de taille standard.
-
 Pour la ganache montée :
  - 130 ml de crème liquide
  - 130g de chocolat au lait

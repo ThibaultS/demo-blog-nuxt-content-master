@@ -15,15 +15,15 @@ theme : Gâteaux
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Facile
 with : 
 time : 
 event :
+recipeYield: 6 muffins
 published : 1
 ---
 
 ## Ingrédients
-Pour 6 muffins :
  - 125g de farine
  - 90g de sucre
  - 120g de beurre doux

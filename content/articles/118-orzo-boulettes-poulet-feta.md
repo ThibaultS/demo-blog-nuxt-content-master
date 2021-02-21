@@ -22,7 +22,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 2 personnes :
  - 50 g de poulet haché
  - 1 petite échalote
  - 1 gousse d' ail

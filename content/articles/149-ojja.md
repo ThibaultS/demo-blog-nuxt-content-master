@@ -19,11 +19,11 @@ difficulty :
 with : 
 time : 
 event :
+recipeYield: 3 personnes
 published : 1
 ---
 
 ## Ingrédients
-Pour 3 personnes :
  - 6 oeufs
  - 2 chipolata + 1 merguez
  - 1 pomme de terre charlotte

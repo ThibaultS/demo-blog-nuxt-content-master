@@ -15,15 +15,15 @@ theme :
 sweety_salty : 
 veggie : 
 country : Vietnam
-difficulty :
+difficulty : Facile
 with : 
 time : 
 event :
+recipeYield: 8 rouleaux de printemps
 published : 1
 ---
 
 ## Ingrédients
-Pour 8 rouleaux de printemps : 
  - 8 feuilles de riz
  - 8 crevettes cuites
  - 1 carotte

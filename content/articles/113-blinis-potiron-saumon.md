@@ -23,7 +23,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 7-8 blinis :
  - 250g de chair de potiron cuite
  - 125g de lait fermenté ou de kéfir
  - 2 œufs

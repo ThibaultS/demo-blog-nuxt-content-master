@@ -22,7 +22,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 2 personnes :
  - 1 poireau
  - 10g de beurre
  - 50g de lait entier

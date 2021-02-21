@@ -19,6 +19,7 @@ difficulty :
 with : 
 time : 
 calendrier: 4
+recipeYield: 6 mini-cakes
 published : 1
 ---
 
@@ -43,7 +44,7 @@ Pour l’insert et le glaçage :
 ## Recette
 Tout d’abord, préparez le gateau au chocolat à faire cuire dans un moule rond. Préchauffez votre four à 180°C. Séparez les blancs et les jaunes d’oeufs. Prenez en premier les jaunes et ajoutez les 200g de sucre avant de battre le tout. Vous devez obtenir une texture un peu mousseuse. Ajoutez-y la farine, la levure et le lait tout en mélangeant au fouet. Ensuite, faites fondre 200g de chocolat et 50g de beurre. Une fois fondu, ajoutez le mélange à la préparation.
 
-Maintenant, prenez les blancs et montez-les en neige. Quand ils deviennent mousseux, ajoutez-y au fur et à mesure les 50g de sucre restants. Finissez par incoporez les blancs à la préparation avec une maryse. Beurrez le moule, versez la pâte et enfourner pendant environ 45 minutes.
+Maintenant, prenez les blancs et montez-les en neige. Quand ils deviennent mousseux, ajoutez-y au fur et à mesure les 50g de sucre restants. Finissez par incoporez les blancs à la préparation avec une maryse. Beurrez le moule, versez la pâte et enfournez pendant environ 45 minutes.
 
 Une fois le gateau cuit, laissez le refroidir. Prenez un emporte-pièce en forme de cercle de 3-4 cm et emporte-piècez dans le gâteau autant de fois que vous le pouvez. Une fois que vous avez vos cylindres de gâteau, coupez les horizontalement en 2. Ajoutez une cuillière à soupe de framboise entre les 2 morceaux et refermez.
 

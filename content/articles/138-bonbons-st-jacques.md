@@ -19,11 +19,11 @@ difficulty :
 with : 
 time : 
 calendrier: 15
+recipeYield: 16 bonbons
 published : 1
 ---
 
 ## Ingrédients
-Pour 16 bonbons :
  - 1 paquet de pâtes phyllo
  - 300g de noix de Saint Jacques surgelées
  - 75 g de beurre

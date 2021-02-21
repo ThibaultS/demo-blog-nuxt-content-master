@@ -21,7 +21,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 2 personnes :
  - 6 asperges blanches
  - 1 jaune d'oeuf + 1 blanc d’œuf
  - 1cuil. à café moutarde forte

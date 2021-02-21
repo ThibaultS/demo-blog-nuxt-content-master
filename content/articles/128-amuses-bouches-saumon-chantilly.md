@@ -19,11 +19,11 @@ difficulty :
 with : 
 time : 
 calendrier: 5
+recipeYield: 6 personnes
 published : 1
 ---
 
 ## Ingrédients
-Pour 6 personnes :
  - 2 petits pavés de saumon
  - 20cl de crème fleurette très froide
  - 1 citron 

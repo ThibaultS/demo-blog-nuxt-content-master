@@ -19,6 +19,7 @@ difficulty :
 with : 
 time : 
 calendrier: 9
+recipeYield: 24 ravioles
 published : 1
 ---
 
@@ -28,9 +29,9 @@ Pour la pâte à ravioles :
  - 13 cl d'eau bouillante
  - 1 pincée de sel 
 
-Ou à 24 carrés de pâte à raviolis chinois 
+Ou 24 carrés de pâte à raviolis chinois 
 
-Pour 24 ravioles :
+Pour les ravioles :
  - 24 crevettes crues
  - 1 carotte
  - 2 oignons nouveaux

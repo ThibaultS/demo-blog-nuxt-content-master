@@ -15,15 +15,15 @@ tag :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Difficile
 with : 
 time : 
 event : Saint-Valentin
+recipeYield: 4 personnes
 published : 1
 ---
 
 ## Ingrédients
-Pour 4 personnes :
  - 225g de framboises surgelées
  - 2,5 feuilles de gélatine
  - 2-3 blancs d’œuf (environ 75g)

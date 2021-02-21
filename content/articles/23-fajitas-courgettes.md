@@ -20,7 +20,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 4 fajitas:
  - 1 courgette
  - 1 œuf
  - 30 g de farine

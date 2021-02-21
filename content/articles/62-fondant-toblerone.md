@@ -21,7 +21,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 4 fondants au chocolat :
  - 2 œufs
  - 50g de sucre
  - 40g de farine

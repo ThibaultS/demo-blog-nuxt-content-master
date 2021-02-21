@@ -15,15 +15,15 @@ theme :
 sweety_salty : 1
 veggie : 
 country :
-difficulty :
+difficulty : Facile
 with : 
 time : 
 event :
+recipeYield: 1 tartare
 published : 1
 ---
 
 ## Ingrédients
-Pour 1 tartare :
  - 1 steak de thon frais 
  - 1 pot d’œuf de lompe noir 
  - 1 jaune d’œuf 

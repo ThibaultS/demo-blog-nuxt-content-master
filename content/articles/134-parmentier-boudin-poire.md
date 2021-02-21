@@ -19,11 +19,11 @@ difficulty :
 with : 
 time : 
 calendrier: 11
+recipeYield: 2 personnes
 published : 1
 ---
 
 ## Ingrédients
-Pour 2 personnes : 
  - 200g de boudin noir
  - 300g de pommes de terre
  - 1 poire

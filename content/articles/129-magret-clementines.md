@@ -19,11 +19,11 @@ difficulty :
 with : 
 time : 
 calendrier: 6
+recipeYield: 2 personnes
 published : 1
 ---
 
-## Ingrédients
-Pour 2 personnes : 
+## Ingrédients 
  - 60 g de sucre en poudre + 1 c. à soupe
  - 6 cl de vinaigre de vin rouge (Xérès, etc.)
  - 20 cl de jus de clémentine

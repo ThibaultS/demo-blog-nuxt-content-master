@@ -20,7 +20,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 6 sucettes :
  - 2 blancs d’oeufs
  - 60g de sucre semoule
  - 70g de sucre glace

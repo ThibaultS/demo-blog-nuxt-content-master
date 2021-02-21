@@ -21,7 +21,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 2 personnes :
  - 200g de saumon frais sans la peau
  - 300g de pommes de terre
  - 1 avocat

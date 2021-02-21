@@ -15,22 +15,15 @@ theme : Burgers
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Facile
 with : 
 time : 
 event :
+recipeYield: 2 personnes
 published : 1
 ---
 
 ## Ingrédients
-Pour les oignons caramélisés :
- - 2 petits oignons rouges émincés
- - 50g de sucre roux
- - 5cl de vinaigre balsamique
- - 5cl d'huile d'olive
- - 20cl d'eau
-
-Pour 2 burgers :
  - 2 buns fait maison ou industriel
  - 2 steaks hachés
  - 4 tranches de poitrine fumée
@@ -40,6 +33,13 @@ Pour 2 burgers :
  - Mayonnaise
  - 4 feuilles de basilic
  - 1 branche de persil
+
+Pour les oignons caramélisés :
+ - 2 petits oignons rouges émincés
+ - 50g de sucre roux
+ - 5cl de vinaigre balsamique
+ - 5cl d'huile d'olive
+ - 20cl d'eau
 
 ## Recette
 Pour réaliser les oignons caramélisés, mettez tous les ingrédients listés plus haut dans une cocotte. Portez à ébullition puis baissez le feu et laissez compoter doucement au moins une heure, jusqu'à ce que les oignons soient tendres et caramélisés. Quand il n'y a presque plus de liquide, remuez souvent avec une cuillère en bois.

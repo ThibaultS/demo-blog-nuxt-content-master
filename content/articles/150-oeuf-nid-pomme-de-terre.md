@@ -15,15 +15,15 @@ theme :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Facile
 with : 
 time : 
 event :
+recipeYield: 6 portions
 published : 1
 ---
 
 ## Ingrédients
-Pour 6 portions :
  - 500 g de pommes de terre
  - 8 œufs (dont 6 pour garnir les nids)
  - 100 g de cheddar râpé

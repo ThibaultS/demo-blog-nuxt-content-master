@@ -21,7 +21,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 2-3 personnes :
  - 2 pavés de saumon sans peau
  - 1 pomme
  - 10 fraises

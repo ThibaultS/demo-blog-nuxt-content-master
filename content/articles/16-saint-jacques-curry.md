@@ -22,17 +22,17 @@ published : 1
 ---
 
 ## Ingrédients
- - 2 cuillères à soupe d’huile d’olive
- - 300 g de riz basmati
- - 2 cuillères à soupe d’huile d’olive 4 echalottes
+ - 2 c.à.s d’huile d’olive
+ - 300g de riz basmati
+ - 2 c.à.s d’huile d’olive 4 echalottes
  - 4 cm de gingembre
  - 4 gousses d’ail
  - Une boite (400 ml) de tomates concassées
  - 1 bâton de citronnelle
  - 400 ml de lait de coco
- - 1 cuillère à soupe de curry en poudre
+ - 1 c.à.s de curry en poudre
  - 1 petit piment séché
- - 2 cuillères à soupe d’huile d’olive
+ - 2 c.à.s d’huile d’olive
  - 12 noix de saint Jacques ou celles de chez Picard
  - De la coriandre ciselée
 

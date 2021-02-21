@@ -19,11 +19,11 @@ difficulty :
 with : 
 time : 
 calendrier: 21
+recipeYield: 4 personnes
 published : 1
 ---
 
 ## Ingrédients
-Pour 4 personnes :
  - 300g de champignons de Paris
  - 16 crevettes décortiquées
  - 1/2 botte de ciboulette

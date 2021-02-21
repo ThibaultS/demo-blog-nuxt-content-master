@@ -21,7 +21,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 4 personnes :
  - 5 pommes de terre
  - 3 poivrons rouges
  - 2 jaunes d’œufs

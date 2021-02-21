@@ -19,11 +19,11 @@ difficulty :
 with : 
 time : 
 calendrier: 10
+recipeYield: 15-20 bouchées
 published : 1
 ---
 
 ## Ingrédients
-Pour 16/18 bouchées : 
  - 1 pâte feuilletée 
  - 4 œufs 
  - 2 c.à.s de crème fraîche épaisse 

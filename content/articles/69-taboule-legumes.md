@@ -21,7 +21,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 2-3 personnes :
  - 1 sachet de perle de blé
  - 3 poivrons
  - 1 courgette

@@ -20,7 +20,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 6 personnes :
  - 1 roti de veau de 1kg
  - 125g de beurre demi-sel
  - sel,poivre
@@ -29,7 +28,7 @@ Pour 6 personnes :
  - Chutney de figue
 
 ## Recette
-Vous trouvez ma recette de chutney de figue dans mes stories à la une. Préchauffez votre four à 200 degrés. Lavez et grattez la peau des rattes. Coupez les en 2 et disposez les sur une plaque recouverte de papier de cuisson. Arrosez d’un peu d’huile d’olive, de sel et de poivre. Enfournez 30 minutes puis réservez.
+Vous trouvez ma recette de chutney de figue dans mes stories à la une sur Instagram. Préchauffez votre four à 200 degrés. Lavez et grattez la peau des rattes. Coupez les en 2 et disposez les sur une plaque recouverte de papier de cuisson. Arrosez d’un peu d’huile d’olive, de sel et de poivre. Enfournez 30 minutes puis réservez.
 
 Préchauffez le four à 130° Faites chauffer un petit morceau de beurre demi-sel dans une poêle. Déposez le rôti et faites le dorer sur toutes ses faces puis réservez sur un plat allant au four. Ajoutez le reste du beurre sur le rôti. Salez légèrement et poivrez. Enfournez le rôti 2 h en l’arrosant régulièrement de son beurre salé.
 

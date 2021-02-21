@@ -19,11 +19,11 @@ difficulty :
 with : 
 time : 
 calendrier: 24
+recipeYield: 15-20 donuts
 published : 1
 ---
 
 ## Ingrédients
-Pour une vingtaine de donuts : 
  - 500g de farine
  - 2 oeufs
  - 25 cl de lait

@@ -19,11 +19,11 @@ difficulty :
 with : 
 time : 
 calendrier: 8
+recipeYield: 30-35 madeleines
 published : 1
 ---
 
 ## Ingrédients
-Quantités pour une grosse fournée d'au moins 30/33 madeleines : 
  - 190g de beurre
  - 150g de farine
  - 1 sachet de levure

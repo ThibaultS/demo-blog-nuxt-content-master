@@ -19,12 +19,11 @@ difficulty :
 with : 
 time : 
 calendrier: 23
+recipeYield: 2 personnes
 published : 1
 ---
 
 ## Ingrédients
-Pour 2 personnes : 
-
 Pour le plat : 
  - 2 cuisses de chapon + 2 noix de beurre 
  - 1/2 verre de vin blanc sec 

@@ -22,7 +22,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 12 biscuits :
  - 200g de figues sèches
  - 60g de cassonade
  - 80g de beurre mou
@@ -34,7 +33,7 @@ Pour 12 biscuits :
 ## Recette
 Commencez par la pâte de figues. Placez les figues dans un bol d'eau pendant au moins 3 heures, de préférence toute une nuit, afin de les réhydrater au maximum.
 
-Prélevez 4 cuillères à soupe de cette eau pour la mettre dans une casserole avec 30g dr cassonade. Faites bouillir jusqu'à ce que la cassonade fonde. Baissez le feu et ajoutez les figues. Couvrez et laissez cuire pendant une vingtaine de minutes. Mixez ensuite les figues jusqu'à obtention d'une pâte homogène.
+Prélevez 4 cuillères à soupe de cette eau pour la mettre dans une casserole avec 30g de cassonade. Faites bouillir jusqu'à ce que la cassonade fonde. Baissez le feu et ajoutez les figues. Couvrez et laissez cuire pendant une vingtaine de minutes. Mixez ensuite les figues jusqu'à obtention d'une pâte homogène.
 
 Pour la pâte à biscuit, mélangez ensemble le beurre et les 30g restants de cassonade (avec la feuille du robot si vous en avez un). Dans un autre récipient, mélangez ensemble la poudre d'amande, la farine et le sel. Versez cette préparation dans la première et mélangez bien. Pour lier le tout, ajoutez le jaune d’œuf. Laissez reposer la pâte au réfrigérateur pendant deux heures.
 

@@ -15,10 +15,11 @@ tag :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
 time : 
 event : Saint-Valentin
+recipeYield: 1 cookie
 published : 1
 ---
 

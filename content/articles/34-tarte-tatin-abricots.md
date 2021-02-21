@@ -20,14 +20,14 @@ published : 1
 ---
 
 ## Ingrédients
- -  200 g de farine
- -  90 g de beurre froid coupé en dés
- -  1 càs de sucre 
+ -  200g de farine
+ -  90g de beurre froid coupé en dés
+ -  1 c.à.s de sucre 
  -  1 pincée de sel
- -  2 à 3 càs d’eau
- -  1 kg d’abricots mûrs (environ 650-700 g d’abricots dénoyautés)
- -  60 g de sucre de canne
- -  50 g de beurre
+ -  2 à 3 c.à.s d’eau
+ -  1kg d’abricots mûrs (environ 650-700 g d’abricots dénoyautés)
+ -  60g de sucre de canne
+ -  50g de beurre
 
 ## Recette
 Préparez la pâte brisée quelques heures à l’avance.

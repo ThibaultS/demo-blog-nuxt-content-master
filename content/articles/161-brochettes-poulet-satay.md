@@ -15,15 +15,15 @@ theme : Bowls
 sweety_salty : 
 veggie : 
 country : Indonésie
-difficulty :
+difficulty : Moyen
 with : 
 time : 
 event :
+recipeYield: 2 personnes
 published : 1
 ---
 
 ## Ingrédients
-Pour 2 personnes:
  - 2 filet de poulet
  - 100g de riz basmati
  - 1 mini concombre

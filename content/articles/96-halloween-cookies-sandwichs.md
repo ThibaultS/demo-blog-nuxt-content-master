@@ -23,7 +23,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 10 cookies :
  - 150g de farine
  - 50g de sucre
  - 50g de beurre

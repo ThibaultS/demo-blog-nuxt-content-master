@@ -22,7 +22,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour les madeleines :
  - 100g de farine
  - 50g de poudre de noisettes
  - 1 c.a.s de cacao amer en poudre

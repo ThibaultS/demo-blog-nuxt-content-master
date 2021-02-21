@@ -22,7 +22,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 1 grande tarte ou 4 tartelettes :
  - 1 Pâte sablée pur beurre
  - 4 Poires
  - 15g d’amandes entières

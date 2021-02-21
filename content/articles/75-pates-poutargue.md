@@ -21,7 +21,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 2 personnes :
 - 200g de spaghetti
  - 60g de poutargue
  - Huile d’olive

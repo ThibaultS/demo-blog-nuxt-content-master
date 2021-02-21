@@ -19,11 +19,11 @@ difficulty :
 with : 
 time : 
 event :
+recipeYield: 4 oeufs cocottes
 published : 1
 ---
 
 ## Ingrédients
-Pour 4 oeufs cocottes :
  - 1 échalote, émincée finement
  - 1 c.à.s de beurre
  - 1 c.à.s de vin blanc sec

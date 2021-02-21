@@ -1,6 +1,6 @@
 ---
 id: 17
-title: Pop cake
+title: Pop cakes
 description: 
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600517887/Recipes/20200502_popcake.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600517887/Recipes/20200502_popcake.jpg
@@ -22,7 +22,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 40 sucettes :
  - 1 savane bonne maman
  - 1 quatre quart bonne maman
  - 250g de mascarpone

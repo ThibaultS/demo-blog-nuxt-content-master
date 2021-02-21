@@ -19,11 +19,11 @@ difficulty :
 with : 
 time : 
 calendrier: 18
+recipeYield: 4 personnes
 published : 1
 ---
 
 ## Ingrédients
-Pour 4 personnes : 
  - 20 à 30g de truffe noire entière
  - 50cl de lait
  - 200g de mont d’Or

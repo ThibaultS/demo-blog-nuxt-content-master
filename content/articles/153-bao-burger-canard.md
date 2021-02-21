@@ -15,16 +15,15 @@ theme : Burgers
 sweety_salty : 
 veggie : 
 country : Chine
-difficulty :
+difficulty : Difficile
 with : 
 time : 
 event :
+recipeYield: 2 personnes
 published : 1
 ---
 
 ## Ingrédients
-Pour 2 personnes :
-
 Pour le pain bao à la vapeur :
  - 62g d’eau à température ambiante
  - 3g de levure chimique

@@ -21,7 +21,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 2 personnes :
  - 120g de blé
  - 63g de petits pois écossés
  - 75g de petites fèves écossées

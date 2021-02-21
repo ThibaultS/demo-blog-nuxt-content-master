@@ -19,11 +19,11 @@ difficulty :
 with : 
 time : 
 calendrier: 3
+recipeYield: 2 personnes
 published : 1
 ---
 
 ## Ingrédients
-Pour 2 personnes : 
  - 2 souris d'agneau
  - 75cl de bière blonde (genre Affligem, Leffe, Grimbergen…)
  - 40g de beurre salé
@@ -43,7 +43,7 @@ Pour 2 personnes :
 ## Recette
 Coupez grossièrement les échalotes et fendez les gousses ails en deux. Préparez les souris d’agneau en les laissant reposer quelques minutes à température ambiante, puis salez et poivrez. 
 
-Dans un fait tout, saisissez les souris d’agneau à feu vif, sur toutes les faces. Une fois la viande colorée, baissez à feu doux. Ajoutez un peu de fleur de sel, 20g de beurre, les échalotes, l’ail et le romarin. Versez la bière et ajoutez 2 cs de miel. Couvrez et laissez mijoter à feu doux pendant 1h30.
+Dans un fait tout, saisissez les souris d’agneau à feu vif, sur toutes les faces. Une fois la viande colorée, baissez à feu doux. Ajoutez un peu de fleur de sel, 20g de beurre, les échalotes, l’ail et le romarin. Versez la bière et ajoutez 2 c.à.s de miel. Couvrez et laissez mijoter à feu doux pendant 1h30.
 
 Pendant ce temps, épluchez 2 grosses patates et coupez des morceaux de la même taille. A 20 minutes de la fin de la cuisson des souris d’agneau, lancez les pommes de terre dans une casserole d’eau bouillante 15-20 minutes (vous devez pouvoir piquer un couteau facilement). Lancez également dans de l’eau bouillante, les haricots équeutés pendant 12 minutes. 
 

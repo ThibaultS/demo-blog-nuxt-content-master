@@ -22,7 +22,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 2 personnes :
  - 1 c.à.s d'huile d'olive
  - 50 g de courge buttenut
  - 1 petite gousse d'ail écrasée

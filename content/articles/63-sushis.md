@@ -21,7 +21,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 4-5 personnes :
  - 2 pavés de saumon sans peau
  - 10 crevettes cuites et décortiquées
  - Œufs de poisson

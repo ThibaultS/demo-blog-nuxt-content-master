@@ -22,7 +22,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 2 personnes en plat ou 4 personnes en accompagnement :
  - 1 bottes de carottes multicolores
  - 2 c.à.s d’huile d’olive
  - 2 c.à.s de miel

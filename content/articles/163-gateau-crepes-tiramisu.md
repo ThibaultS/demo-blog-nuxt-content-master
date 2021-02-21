@@ -15,10 +15,11 @@ theme : Gâteaux
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
 time : 
 event :
+recipeYield: 1 gâteau
 published : 1
 ---
 

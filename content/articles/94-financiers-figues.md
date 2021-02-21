@@ -20,7 +20,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 6 pièces :
  - 40g de poudre d'amandes
  - 20g de farine
  - 80g de sucre glace

@@ -20,7 +20,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 3 personnes :
  - 2 paquets de tomates cerises
  - 1 cuilliere à soupe de sucre roux
  - 1 cuilliere à soupe de sauce soja sucrée

@@ -15,15 +15,16 @@ theme : Sushis et makis
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
-time :
+time : 60
+recipeYield : 2 personnes
 calendrier: 1
+
 published : 1
 ---
 
 ## Ingrédients
-Pour 2 personnes :
  - 200g de riz japonais ou riz rond
  - 3 cl de vinaigre de riz
  - 1 c.à.c de sucre
@@ -34,8 +35,14 @@ Pour 2 personnes :
  - 1 petit bol de sauce soja
 
 ## Recette
-Epluchez vos pommes de terre, vos ottes et vos betteraces. Tranchez les en rondelles très fines. Si vous avez utilisez une mandoline. Puis déposez chaque légume dans son propre récipient. Préchauffez votre four à 200 ° C. Graissez un plat de cuisson avec du beurre. Emincez vos feuilles de persil.
+Tout d’abord préparez votre riz vinaigré. Pour les moins motivés, vous pouvez l’acheter tout prêt au Japonais.
 
-Versez 50g de crème, 20g de parmesan rapé et le persil dans chacun des 3 bols. Salez, poivrez. Mélangez chacun des trois bols. Chaque rondelle doit être crémée. Versez la crème restante au fond du plat allant au four. Prenez une pile de pommes de terre et alignez-les pour faire une ligne, en bas du plat de cuisson. Faites ensuite 2 rangées de carottes puis une rangée de betteraves. Une fois le plat rempli, saupoudrez du reste de parmesan et d'ail émincé. Assaisonnez le dessus du gratin avec du sel, du poivre.
+Faites tremper le riz dans de l’eau froide et mélangez-le avec les mains pour enlever l’amidon et ainsi éviter de rater la cuisson. Changez l’eau et remuez à nouveau le riz. Renouvelez cette opération jusqu’à ce que l’eau soit limpide. Laissez le riz égoutté 1 h dans une passoire. 
 
-Couvrez de papier d'aluminium et faites cuire au four 30-40 minutes. Sortez du four, enlevez le papier aluminiym garnissez de gruyère râpé. Remettez le gratin dans le four, à découvert, et poursuivez la cuisson pendant 20 à 25 minutes supplémentaires jusqu'à ce que le dessus soit légèrement doré. Sortez du four et saupoudrez par une pincée de feuilles de persil frais avant de servir chaud.
+Versez dans une casserole les 200g avec 200ml d’eau. Faites en sorte que l'eau couvre bien le riz. Couvrez avec un couvercle et Mettre à feu fort jusque la première ébullition. Ensuite diminuez à feu moyen pour une dizaine de minutes. Les 10 min passées sortez la casserole du feu, ne touchez surtout pas le couvercle, la vapeur est essentielle. Laissez reposer encore une dizaine de minutes.
+
+Pendant que le riz se prépare, chauffez à feu moyen le vinaigre-sucre-sel. Cela ne doit pas bouillir pour ne pas laisser s'échapper de la vapeur. Lorsque le sucre fond, mettez de côté pour refroidir.
+
+Une fois le riz et le vinaigre prêts, mettez les dans un saladier, pour ensuite mélanger délicatement afin que le riz ne se transforme pas en une bouillie. Il faut que le riz refroidisse afin qu'il soit collant comme dans les sushi, maki. Dès que le riz est froid il est prêt !
+
+Moulez les sushis à la main en tassant bien le riz. Si vous avez un petit emporte pièce carré, utilisez le. Découpez le saumon en lamelles de même taille que les sushis. Rincez et épongez la ciboulette. Sur chaque sushi, posez un petit peu de wasabi, ou de gingembre, et une lamelle de saumon. Puis ficelez-les avec les brins de ciboulette. Vous devriez pouvoir faire une vingtaine de sushi ! Dégustez avec la sauce soja.

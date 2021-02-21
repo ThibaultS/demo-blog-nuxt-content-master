@@ -22,7 +22,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 2 petites pièces montées : 6 pers
  - 1 gousse de vanille
  - 1 c.à.c d’arôme vanille
  - 1 c.à.c de cannelle

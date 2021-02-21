@@ -15,16 +15,16 @@ theme : Saumon
 tag: Healthy
 sweety_salty : 1
 veggie : 
-country :
-difficulty :
+country : 
+difficulty : Moyen
 with : 
 time : 
 event :
+recipeYield: 2 personnes
 published : 1
 ---
 
 ## Ingrédients
-Pour 2 personnes:
  - 2 gros pavés de saumon sans peau et sans arrête
  - 1/2 bouquet d'aneth
  - 1 betterave crue

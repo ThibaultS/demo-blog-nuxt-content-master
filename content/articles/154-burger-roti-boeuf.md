@@ -15,15 +15,15 @@ theme : Burgers
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
 time : 
 event :
+recipeYield: 2 personnes
 published : 1
 ---
 
 ## Ingrédients
-Pour 2 burgers :
  - 6 fines tranches de rôti de boeuf
  - 4 tranches de poitrine fumée
  - 1/4 de radis noir

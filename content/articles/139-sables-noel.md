@@ -19,6 +19,7 @@ difficulty :
 with : 
 time : 
 calendrier: 16
+recipeYield: 15-20 biscuits
 published : 1
 ---
 

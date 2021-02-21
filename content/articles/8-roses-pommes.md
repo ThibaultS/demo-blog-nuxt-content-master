@@ -21,7 +21,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 12 roses :
  - 2 pomme rouges
  - 2 rouleaux pâte feuilletée
  - Caramel beurre salé ou confiture

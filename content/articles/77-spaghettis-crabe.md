@@ -21,7 +21,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 2 personnes :
  - 240g de spaghettis
  - 150g de chair au crabe
  - 7 gousses d’ail

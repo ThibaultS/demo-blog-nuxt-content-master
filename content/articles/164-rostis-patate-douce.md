@@ -16,15 +16,15 @@ tag : Healthy
 sweety_salty : 
 veggie : 1
 country :
-difficulty :
+difficulty : Facile
 with : 
 time : 
 event :
+recipeYield: 4 personnes
 published : 1
 ---
 
 ## Ingrédients
-Pour 4 personnes :
  - 1 patate douce (environ 350g)
  - 2 avocats
  - 1 burrata

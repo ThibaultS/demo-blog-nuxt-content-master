@@ -54,9 +54,11 @@
             Difficulté : {{ article.difficulty }}
           </div>
           <div v-if="article.time">
-            Durée de préparation : {{ article.time }} min
+            Temps de préparation et cuisson : {{ article.time }} min
           </div>
-          <div v-if="article.recipeYield">Pour {{ article.recipeYield }}</div>
+          <div v-if="article.recipeYield">
+            Quantité : pour {{ article.recipeYield }}
+          </div>
         </b-card>
         <nuxt-content :document="article" />
         <p v-if="article.url">

@@ -22,7 +22,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 8 cupcakes :
  - 10 cl d'huile d'olive
  - 10 cl de lait
  - 200g de saumon fumé

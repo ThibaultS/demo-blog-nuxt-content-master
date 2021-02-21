@@ -19,7 +19,7 @@ difficulty : Moyen
 with : 
 time : 60
 event : 
-recipeYield : Pour 2 personnes
+recipeYield : 2 personnes
 published : 1
 ---
 

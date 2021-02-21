@@ -19,11 +19,11 @@ difficulty :
 with : 
 time : 
 calendrier: 22
+recipeYield: 4 personnes
 published : 1
 ---
 
 ## Ingrédients
-Pour 4 personnes :
  - 300g de saumon frais (sans peau ni arêtes)
  - 100g de saumon fumé
  - 2 oeufs

@@ -17,8 +17,9 @@ veggie :
 country :
 difficulty :
 with : 
-time : 
+time : 80
 calendrier: 2
+recipeYield : 16 huitres
 published : 1
 ---
 

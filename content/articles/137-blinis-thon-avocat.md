@@ -19,12 +19,11 @@ difficulty :
 with : 
 time : 
 calendrier: 14
+recipeYield: 25 petits blinis
 published : 1
 ---
 
 ## Ingrédients
-Ingrédients pour 25 petits blinis.
-
 Pour le tartare : 
  - 200g de thon en conserve = 1 grosse boîte
  - 1 citron vert

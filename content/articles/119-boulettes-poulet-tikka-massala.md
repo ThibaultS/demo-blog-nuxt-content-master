@@ -22,8 +22,6 @@ published : 1
 ---
 
 ## Ingrédients
-Pour 3 personnes :
-
 Pour les cheese naan:
  - 250g de farine
  - 63g de yaourt nature (soit 1/2 pot)

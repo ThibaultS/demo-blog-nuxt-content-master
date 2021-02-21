@@ -15,11 +15,11 @@ tag :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
-with : 
+difficulty : Moyen
+with : 100
 time : 
 event : Saint-Valentin
-recipeYield : 
+recipeYield : 15-20 sablés
 published : 1
 ---
 

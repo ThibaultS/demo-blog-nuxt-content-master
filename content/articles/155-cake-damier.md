@@ -15,10 +15,11 @@ theme : Gâteaux
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
 time : 
 event :
+recipeYield: 1 cake
 published : 1
 ---
 
@@ -47,6 +48,7 @@ Dans le premier récipient, ajoutez quelques gouttes de colorant alimentaire bl
 Pendant la cuisson, préparez votre glaçage qui viendra recouvrir votre gâteau. Dans le bol de votre batteur, montez en chantilly la crème fraîche épaisse. Incorporez et mélangez le sucre glace et l’extrait de vanille liquide. Ajoutez ensuite les 600g de Philadelphia nature, 600g de mascarpone et quelques gouttes de colorant rose. Fouettez à vitesse maximale pendant quelques instants pour que le mélange devienne homogène. Mettez votre glaçage dans une poche à douille avec une douille et laissez reposer au frais.
 
 Quand vos gâteaux sont démoulés, vous pouvez attaquer le découpage. Pour faire le damier vous allez devoir découper 2 cercles pour chacun de vos cakes de 20 cm de diamètre. Pour cela, il vous faut idéalement 2 emportes pièces en metal : le premier de 15 cm de diamètre et le second de 10 cm de diamètre. Ils sont normalement assez tranchants pour découper vos cercles en appuyant les emportes pièces dans vos gâteaux. Si vous n’en avez pas, aidez-vous d’assiettes rondes, verres ou encore bols ayant les tailles indiquées, utilisez-les comme patron et découpez votre gâteau au couteau. Pour chaque gâteau, vous obtenez alors 1 disque de 10cm de diamètre et 2 cercles de 20 et 15 cm de diamètre.
+
 Procédez au montage du gâteau : déposez le plus grand des cercles de couleur bleu sur un plat. Étalez un peu de pâte à tartiner à l'intérieur du cercle. Déposez à l'intérieur, le cercle moyen du gâteau blanc, puis badigeonnez-en à nouveau l'intérieur de pâte à tartiner. Terminez avec le petit disque du gâteau bleu. Tartinez le dessus du gâteau reformé avec de la pâte à tartiner. Par-dessus le premier gâteau, répétez les opérations avec le second gâteau : grand cercle, pâte à tartiner, cercle moyen, pâte à tartiner, petit disque. Vous obtenez ainsi un montage décalé des deux couleurs.
 
 Déposez une première couche de glaçage sur le dessus du gâteau et les côtes et étalez à l’aide d’une spatule pour recouvrir l’ensemble. Attention, cette couche doit être très fine, elle sert simplement à égaliser le gâteau et lui donner une jolie forme. Vous pouvez ensuite faire votre pochage en forme de rosaces sur l’intégralité du gâteau. Dès que vous avez fini, mettez directement au frigo pendant au moins 30 min pour que le glaçage durcisse.

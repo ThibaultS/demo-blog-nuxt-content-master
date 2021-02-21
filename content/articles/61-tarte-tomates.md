@@ -20,8 +20,12 @@ published : 1
 ---
 
 ## Ingrédients
-A venir
-
+ - 3 tomates de couleurs différentes
+ - 1 pâte brisée
+ - Cheddar rapé
+ - Mozzarella rapée
+ - 10 feuilles de basilic
+ - 1 c.à.s de crème fraîche épaisse
 
 ## Recette
 Sur une pâte brisée, étalez une bonne cuillère à soupe de crème fraîche épaisse. Parsemez à votre guise du cheddar râpé et de la mozzarella râpée. Puis ciselez du basilic frais. Coupez en tranche 3 tomates de couleurs différentes puis disposez les sur la tarte. Rabattez légèrement les bords. Salez et poivrez. Mettez au four pendant 30 minutes à 180 degrés.

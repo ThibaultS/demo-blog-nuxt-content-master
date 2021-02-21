@@ -15,15 +15,15 @@ tag : Healthy
 sweety_salty : 
 veggie : 1
 country :
-difficulty :
+difficulty : Facile
 with : 
 time : 
 event :
+recipeYield: 2 personnes
 published : 1
 ---
 
 ## Ingrédients
-Pour 2 personnes :
  - 1 patate douce
  - 1 blanc d’oeuf
  - 1 c.à.c de paprika fumé

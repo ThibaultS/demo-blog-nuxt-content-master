@@ -19,11 +19,11 @@ difficulty :
 with : 
 time : 
 calendrier: 13
+recipeYield: 6 personnes
 published : 1
 ---
 
 ## Ingrédients
-Pour 6 personnes :
  - 1 mont d’Or
  - 50g de chapelure
  - 1 oeuf
