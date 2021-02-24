@@ -13,9 +13,10 @@ theme : Tartines
 sweety_salty : 
 veggie : 1
 country :
-difficulty :
+difficulty : Facile
 with : 
-time : 
+time : 15
+recipeYield : 4 personnes
 published : 1
 ---
 

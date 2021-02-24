@@ -17,7 +17,8 @@ veggie :
 country :
 difficulty :
 with : 
-time : 
+time : 20
+recipeYield : 2 personnes
 published : 1
 ---
 

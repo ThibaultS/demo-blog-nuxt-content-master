@@ -13,9 +13,10 @@ theme : Salades
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Facile
 with : 
-time : 
+time : 50
+recipeYield : 2 personnes
 published : 1
 ---
 
@@ -35,7 +36,7 @@ published : 1
  - Moutarde au basilic
 
 ## Recette
-Sortez le rôti de boeuf au moins 1 h à l’avance du réfrigérateur afin qu’il revienne à température ambiante. Si vous ignorez son poids, pesez-le … Le temps de cuisson varie fonction de celui-ci. Préchauffez votre four 240°C.
+Sortez le rôti de boeuf au moins 1 h à l’avance du réfrigérateur afin qu’il revienne à température ambiante. Si vous ignorez son poids, pesez-le. Le temps de cuisson varie fonction de celui-ci. Préchauffez votre four 240°C.
 
 Mettez votre rôti dans un plat allant au four, ajoutez quelques morceaux de beurre sur le dessus puis salez légèrement. Mettez deux cuillères à soupe d’eau au fond du plat (cela fait du jus) et enfournez.
 

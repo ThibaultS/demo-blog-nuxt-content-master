@@ -18,6 +18,7 @@ difficulty :
 with : 
 time : 
 event :
+recipeYield : 40-50 mini meringues
 published : 1
 ---
 

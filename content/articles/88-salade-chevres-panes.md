@@ -13,9 +13,10 @@ theme : Salades
 sweety_salty : 1
 veggie : 1
 country :
-difficulty :
+difficulty : Moyen
 with : 
-time : 
+time : 35
+recipeYield : 2 personnes
 published : 1
 ---
 

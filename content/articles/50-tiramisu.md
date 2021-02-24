@@ -16,7 +16,8 @@ veggie :
 country : Italie
 difficulty :
 with : 
-time : 
+time : 30
+recipeYield : 2 personnes
 published : 1
 ---
 

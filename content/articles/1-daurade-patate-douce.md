@@ -17,8 +17,8 @@ veggie :
 country :
 difficulty :
 with : 
-time : 
-recipeYield : 
+time : 45
+recipeYield : 2 personnes
 published : 1
 ---
 
@@ -39,9 +39,10 @@ published : 1
 
 ## Recette
 Pour la purée :
-Pelez les patates douces, coupez en morceaux et cuisez les avec le lait de coco et la gousse de vanille grattée. Cuisez environ 20 minutes puis mixez finement. Assaisonnez.
+Pelez les patates douces, coupez en morceaux et cuisez-les dans une casserole avec le lait de coco et la gousse de vanille grattée. Cuisez environ 20 minutes puis mixez finement. Assaisonnez.
+
 Pour le crumble:
-Hachez la coriandre. Mélangez la poudre de noisette, la farine, le sucre, la coriandre et le beurre pommade. Etalez sur une plaque et cuire au four à 180 ° C. Laissez refroidir et émiettez.
+Hachez la coriandre. Mélangez la poudre de noisette, la farine, le sucre, la coriandre et le beurre pommade. Etalez sur une plaque et cuire au four à 180 ° C pendant 10 min. Laissez refroidir et émiettez.
 
 Pour les petits dés de poire :
 Pelez et coupez les poires en petits dés. Arrosez les d’un jus de citron et d’un filet d’huile d’olive.

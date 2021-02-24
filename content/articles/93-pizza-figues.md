@@ -13,9 +13,10 @@ theme : Tartes salées et pizzas
 sweety_salty : 1
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
-time : 
+time : 60
+recipeYield : 1 grande pizza
 published : 1
 ---
 

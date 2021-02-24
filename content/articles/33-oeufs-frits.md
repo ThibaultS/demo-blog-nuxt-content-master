@@ -13,9 +13,10 @@ theme :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Difficile
 with : 
-time : 
+time : 20
+recipeYield : 2 personnes
 published : 1
 ---
 

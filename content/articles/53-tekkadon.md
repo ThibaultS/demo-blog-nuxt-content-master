@@ -16,7 +16,8 @@ veggie :
 country : Japon
 difficulty :
 with : 
-time : 
+time : 45
+recipeYield : 2-3 personnes
 published : 1
 ---
 

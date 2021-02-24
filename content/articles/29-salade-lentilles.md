@@ -16,7 +16,8 @@ veggie :
 country :
 difficulty :
 with : 
-time : 
+time : 10
+recipeYield : 2 personnes
 published : 1
 ---
 
@@ -30,6 +31,6 @@ published : 1
 - Des feuilles de basilic
 
 ## Recette
-Découpez les tomates, la mozzarella, les oignons. Récupérez le zeste du citron. Réunissez tous les ingrédients pour former une salade.
+Découpez la betterave, les tomates, la mozzarella, les oignons. Récupérez le zeste du citron. Réunissez tous les ingrédients pour former une salade.
 
 Pour une vinaigrette pour 2 personnes, mélangez 2 cuillères à soupe d’huile d’olive au citron, 1 grosse cuillère à café de velours de balsamique, quelques gouttes d’arôme maggi et 1 demi cuillère à café de moutarde au basilic.

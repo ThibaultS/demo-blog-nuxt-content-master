@@ -15,7 +15,8 @@ veggie :
 country :
 difficulty :
 with : 
-time : 
+time : 60
+recipeYield : 10-12 cannelés
 published : 1
 ---
 

@@ -16,7 +16,8 @@ veggie :
 country :
 difficulty :
 with : 
-time : 
+time : 30
+recipeYield : 4 parts
 published : 1
 ---
 

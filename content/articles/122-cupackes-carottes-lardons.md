@@ -18,6 +18,7 @@ difficulty :
 with : 
 time : 
 event :
+recipeYield : 6 cupcakes
 published : 1
 ---
 

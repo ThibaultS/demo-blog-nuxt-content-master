@@ -18,6 +18,7 @@ difficulty :
 with : 
 time : 
 event :
+recipeYield : 1 grande tarte ou 4 tartelettes
 published : 1
 ---
 

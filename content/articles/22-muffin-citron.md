@@ -15,7 +15,8 @@ veggie :
 country :
 difficulty :
 with : 
-time : 
+time : 100
+recipeYield : 8-10 muffins
 published : 1
 ---
 

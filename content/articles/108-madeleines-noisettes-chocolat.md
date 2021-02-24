@@ -18,6 +18,7 @@ difficulty :
 with : 
 time : 
 event :
+recipeYield : 15-20 madeleines
 published : 1
 ---
 

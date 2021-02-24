@@ -13,9 +13,10 @@ theme :
 sweety_salty : 1
 veggie : 1
 country :
-difficulty :
+difficulty : Facile
 with : 
-time : 
+time : 20
+recipeYield : 8 figues
 published : 1
 ---
 

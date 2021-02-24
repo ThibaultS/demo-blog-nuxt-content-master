@@ -13,10 +13,10 @@ main_ingredient : Pomme
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
-time : 
-recipeYield : 
+time : 45
+recipeYield : 12 parts
 published : 1
 ---
 

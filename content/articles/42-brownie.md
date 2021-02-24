@@ -16,7 +16,8 @@ veggie :
 country :
 difficulty :
 with : 
-time : 
+time : 80
+recipeYield : 1 gâteau
 published : 1
 ---
 

@@ -14,9 +14,10 @@ theme : Gâteaux
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
-time : 
+time : 60
+recipeYield : 12 parts
 published : 1
 ---
 
@@ -34,4 +35,4 @@ published : 1
 ## Recette
 Faites fondre le chocolat blanc avec huile de coco. Vous pouvez ajouter davantage d’huile de coco si le chocolat n’est pas assez liquide. Une fois fondu, ajoutez quelques gouttes de colorant pour teinter le chocolat. A l’aide d’un pinceau, badigeonnez le fond de chaque moules de chocolat sur le fond et les rebords en essayant que cette couche ne soit pas trop épaisse. Ajoutez le bâtonnet en bois dans le moule. Mettez au frigo que cela durcisse.
 
-Émiettez 1/3 du quatre quart, ajoutez le mascarpone et les morceaux de daims hachés au préalable. Mélangez pour obtenir une sorte de pâte.Sortez votre moule du frigo et garnissez de pâte. N’allez pas tout à fait jusqu’au rebord. Mettez au congélateur quelques minutes.Sortez à nouveau le moule et recouvrez d’une fine couche de chocolat. Remettez au frigo le temps que le chocolat durcisse. Démoulez vos glaces. Faites des petits points de chocolat fondu pour y fixer dessus vos décorations en sucre.
+Émiettez 1/3 du quatre quart, ajoutez le mascarpone et les morceaux de daims hachés au préalable. Mélangez pour obtenir une sorte de pâte. Sortez votre moule du frigo et garnissez de pâte. N’allez pas tout à fait jusqu’au rebord. Mettez au congélateur quelques minutes.Sortez à nouveau le moule et recouvrez d’une fine couche de chocolat. Remettez au frigo le temps que le chocolat durcisse. Démoulez vos glaces. Faites des petits points de chocolat fondu pour y fixer dessus vos décorations en sucre.

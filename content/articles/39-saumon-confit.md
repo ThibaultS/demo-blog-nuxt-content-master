@@ -16,7 +16,8 @@ veggie :
 country :
 difficulty :
 with : 
-time : 
+time : 80
+recipeYield : 4 personnes
 published : 1
 ---
 
@@ -49,6 +50,6 @@ Pour le saumon confit :
 ## Recette
 La veille, faites chauffer légèrement l’huile avec le thym, le romarin, le piment, les zestes de citron et d’orange et le carvi. Laissez infuser à température ambiante pendant 12 heures.
 
-Le lendemain, préchauffez le four à 60 °C. Versez l’huile dans un plat à four, puis enfournez. Poêlez rapidement les pavés de saumon côté peau, salez. Sortez-les, retirez la peau, replacez celle-ci dans la poêle, disposez un papier cuisson par-dessus et un poids, repassez les peaux à feu doux jusqu’à ce qu’elles deviennent croustillantes, épongez, réservez. Disposez les pavés de saumon dans le plat au four et faites confire 20 min. Égouttez. Hachez les herbes (aneth, menthe, cerfeuil, coriandre), puis panez les pavés cuits côté arête avec les herbes, filmez, réservez au frais 2 h.
+Le lendemain, préchauffez le four à 60 °C. Versez l’huile dans un plat à four, puis enfournez. Poêlez rapidement les pavés de saumon côté peau, salez. Sortez-les, retirez la peau, replacez celle-ci dans la poêle, disposez un papier cuisson par-dessus et un poids, repassez les peaux à feu doux jusqu’à ce qu’elles deviennent croustillantes, épongez, réservez. Disposez les pavés de saumon dans le plat qui est déjà au four et faites confire 20 min. Égouttez. Hachez les herbes (aneth, menthe, cerfeuil, coriandre), puis panez les pavés cuits côté arête avec les herbes, filmez, réservez au frais 2 h.
 
 Préparez l’assaisonnement : pelez l’ail et pilez-le. Mélangez le zeste, le jus de citron et l’ail avec le yaourt, pimentez légèrement, puis ajoutez la menthe ciselée très finement, rectifiez l’assaisonnement. Lavez et épluchez le concombre, émincez très finement la peau et mettez-la à dégorger avec un peu de gros sel 30 min, réservez. Réalisez des petits cubes avec le concombre et les cornichons. Faites chauffer l’huile avec l’ail écrasé dans une poêle, ajoutez les cubes, salez, faites sauter 1 à 2 min. Réservez. Coupez les pavés de saumon en émincés un peu épais et posez-les sur des assiettes. Recouvrez- les du mélange d’herbes. Disposez tout autour le tzatziki, puis dressez un nid avec la peau de concombre émincée et répartissez les cubes de concombre et les chips de peau.

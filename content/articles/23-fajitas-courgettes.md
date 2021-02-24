@@ -15,7 +15,8 @@ veggie :
 country :
 difficulty :
 with : 
-time : 
+time : 30
+recipeYield : 4 fajitas
 published : 1
 ---
 

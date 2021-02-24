@@ -18,6 +18,7 @@ difficulty :
 with : 
 time : 
 event :
+recipeYield : 2 personnes en plat ou 4 personnes en accompagnement
 published : 1
 ---
 

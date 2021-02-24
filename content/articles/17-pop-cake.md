@@ -16,8 +16,8 @@ veggie :
 country :
 difficulty :
 with : 
-time : 
-recipeYield : 
+time : 30
+recipeYield : 30-40 sucettes
 published : 1
 ---
 

@@ -15,9 +15,10 @@ tag: Healthy
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Difficile
 with : 
-time : 
+time : 120
+recipeYield : 2 personnes
 published : 1
 ---
 
@@ -37,7 +38,7 @@ published : 1
 
 ## Recette
 Pour la préparation du poisson :
-Pour lever la truite, commencez par enlever les nageoires au couteau ou aux ciseaux. Incisez la tête derrière les branchies des deux côtés et coupez d’un coup sec. Répétez pour la queue. (Réserver têtes et queues pour le fumet). Palpez le poisson au niveau du dos pour trouver la colonne vertébrale puis incisez lentement sous la colonne vertébrale sur toute la longueur. Répétez l’opération de l’autre côté. Gardez les arêtes pour le fumet
+Pour lever la truite, commencez par enlever les nageoires au couteau ou aux ciseaux. Incisez la tête derrière les branchies des deux côtés et coupez d’un coup sec. Répétez pour la queue. (Réserver têtes et queues pour le fumet). Palpez le poisson au niveau du dos pour trouver la colonne vertébrale puis incisez lentement sous la colonne vertébrale sur toute la longueur. Répétez l’opération de l’autre côté. Gardez les arêtes pour le fumet.
 
 Détaillez les filets. Enlevez le ventre. Enlevez la peau en glissant le couteau entre la peau et la chair délicatement. Gardez pour le fumet. Mettez les filets en saumure 20 min: 35g de sel + 1 litre d’eau
 

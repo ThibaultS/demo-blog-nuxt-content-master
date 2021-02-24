@@ -13,10 +13,10 @@ main_ingredient : Poulet
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Facile
 with : 
-time : 
-recipeYield : 
+time : 45
+recipeYield : 1 quiche
 published : 1
 ---
 

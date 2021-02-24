@@ -15,7 +15,8 @@ veggie :
 country :
 difficulty :
 with : 
-time : 
+time : 20
+recipeYield : 2 personnes
 published : 1
 ---
 
@@ -28,5 +29,6 @@ published : 1
  - Huile d’olive
 
 ## Recette
-"Égouttez le fromage blanc dans un torchon ou passoire tapissée pendant 2H. Montez la crème en chantilly (pas trop serrée) avec le sucre. Mélangez la crème et fromage blanc délicatement à la spatule et dressez dans des bols.
+Égouttez le fromage blanc dans un torchon ou passoire tapissée pendant 2H. Montez la crème en chantilly (pas trop serrée) avec le sucre. Mélangez la crème et fromage blanc délicatement à la spatule et dressez dans des bols.
+
 Taillez le kiwi en brunoise et émincez l’oseille. Mettez le kiwi sur le fontainebleau, recouvrez d’oseille pour l’acidité et d’un généreux filet d’huile d’olive.

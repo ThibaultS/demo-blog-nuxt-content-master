@@ -16,9 +16,10 @@ theme :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Difficile
 with : 
-time : 
+time : 180
+recipeYield : 10 grandes meringues
 published : 1
 ---
 

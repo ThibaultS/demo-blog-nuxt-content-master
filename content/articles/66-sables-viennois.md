@@ -16,7 +16,8 @@ veggie :
 country :
 difficulty :
 with : 
-time : 
+time : 35
+recipeYield : 10-15 sablés
 published : 1
 ---
 

@@ -13,10 +13,10 @@ main_ingredient : Betterave
 sweety_salty : 
 veggie : 1
 country :
-difficulty :
+difficulty : Facile
 with : 
-time : 
-recipeYield : 
+time : 15
+recipeYield : 2 personnes
 published : 1
 ---
 

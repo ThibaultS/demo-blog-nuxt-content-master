@@ -14,10 +14,10 @@ main_ingredient : Truffe
 sweety_salty : 
 veggie : 
 country :
-difficulty :
-with : 
+difficulty : Moyen
+with : 25
 time : 
-recipeYield : 
+recipeYield : 2 personnes
 published : 1
 ---
 

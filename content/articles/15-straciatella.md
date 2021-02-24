@@ -13,10 +13,10 @@ main_ingredient : Fromage
 sweety_salty : 1
 veggie : 1
 country : Italie
-difficulty :
+difficulty : Facile
 with : 
-time : 
-recipeYield : 
+time : 10
+recipeYield : 2 personnes
 published : 1
 ---
 

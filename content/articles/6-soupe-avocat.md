@@ -15,10 +15,10 @@ main_ingredient : Crabe
 sweety_salty : 1
 veggie : 
 country :
-difficulty :
+difficulty : Facile
 with : 
-time : 
-recipeYield : 
+time : 10
+recipeYield : 2 personnes
 published : 1
 ---
 
@@ -26,7 +26,7 @@ published : 1
  - Chair de crabe
  - 1 pomme verte
  - Coriandre et basilic
- - 2 cuil. à s. d’huile d’olive
+ - 2 c.à.s d’huile d’olive
  - 2 avocats
  - 1 tige de citronnelle
  - Le jus d’un demi citron

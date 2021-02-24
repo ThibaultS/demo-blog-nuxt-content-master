@@ -15,8 +15,8 @@ veggie :
 country :
 difficulty :
 with : 
-time : 
-recipeYield : 
+time : 25
+recipeYield : 1 tarte
 published : 1
 ---
 

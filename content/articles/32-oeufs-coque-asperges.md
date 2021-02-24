@@ -16,7 +16,8 @@ veggie :
 country :
 difficulty :
 with : 
-time : 
+time : 15
+recipeYield : 2 personnes
 published : 1
 ---
 
@@ -27,8 +28,7 @@ published : 1
  - Sel, poivre
 
 ## Recette
-Faites cuire quelques asperges. Taillez des lamelles de saumon fumé. Une fois les asperges cuites, enroulez les lamelles de saumon fumé autour.
-Portez à ébullition une grande casserole d’eau. Plongez-y délicatement les oeufs. Comptez 3 minutes de cuisson à partir de la reprise de l’ébullition de l’eau. Puis à l’aide d’une écumoire sortez les oeufs.
+Faites cuire quelques asperges. Taillez des lamelles de saumon fumé. Une fois les asperges cuites, enroulez les lamelles de saumon fumé autour. Portez à ébullition une grande casserole d’eau. Plongez-y délicatement les oeufs. Comptez 3 minutes de cuisson à partir de la reprise de l’ébullition de l’eau. Puis à l’aide d’une écumoire sortez les oeufs.
 
 Placez les oeufs dans des coquetiers puis disposez-les sur de petites assiettes, et répartissez quelques mouillettes d’asperges autour.
 Laissez à chacun le soin d’ouvrir son œuf et de l’assaisonner. Servir aussitôt.

@@ -14,9 +14,10 @@ theme : Pâtes
 sweety_salty : 
 veggie : 1
 country :
-difficulty :
+difficulty : Moyen
 with : 
-time : 
+time : 60
+recipeYield : 2 personnes
 published : 1
 ---
 
@@ -39,11 +40,11 @@ published : 1
  - 1 mozzarella de bufala
 
 ## Recette
-Pour la caponata :
+### Pour la caponata :
 Lavez les légumes. Coupez les aubergines en petits cubes. Ouvrez les poivrons et épépinez-les. Coupez les poivrons et le céleri en lanières puis en dés. Faites revenir les aubergines et les poivrons dans une sauteuse avec 2 cuil. à soupe d’huile d’olive pendant 15 min, salez, poivrez. Faites fondre l’oignon et l’ail hachés avec le céleri dans une poêle 10 min (avec l’huile d’olive restante). Au bout de ce temps, ajoutez les tomates concassées et le concentré de tomates. Laissez réduire 15 min environ, salez, poivrez. Versez cette préparation sur les aubergines et les poivrons, mélangez bien. Ajoutez le vinaigre, le sucre, les olives. Poursuivez la cuisson 10 min. Laissez refroidir.
 
-Pour les petits artichauts:
+### Pour les petits artichauts:
 Retirez les feuilles inférieures des petits artichauts, gardez la tige et épluchez la. Coupez le bout des feuilles. Coupez les feuilles vertes tout autour de la tige. Plongez les artichauts dans de l’eau citronnée. Faites cuire les artichauts pendant environ 6 min dans de l’eau salée jusqu’à ce qu’ils soient à peine tendres. Laissez refroidir.
 
-Pour les raviolis :
+### Pour les raviolis :
 Faites les cuire le temps indiqué sur l’emballage. Pour ma part, j’ai choisi des raviolis a la mortadelle et au parmesan. Laissez refroidir. Une fois que tout est froid, coupez la mozzarella en cube et mélangez tous les ingrédients ensemble.

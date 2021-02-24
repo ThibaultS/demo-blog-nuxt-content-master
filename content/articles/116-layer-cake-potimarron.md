@@ -18,6 +18,7 @@ difficulty :
 with : 
 time : 
 event :
+recipeYield : 2 mini pièces montées
 published : 1
 ---
 

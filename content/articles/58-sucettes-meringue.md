@@ -13,9 +13,10 @@ theme :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
-time : 
+time : 140
+recipeYield : 6 sucettes
 published : 1
 ---
 

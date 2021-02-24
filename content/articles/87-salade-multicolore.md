@@ -14,9 +14,10 @@ tag : Healthy
 sweety_salty : 
 veggie : 1
 country :
-difficulty :
+difficulty : Facile
 with : 
-time : 
+time : 20
+recipeYield : 2 personnes
 published : 1
 ---
 

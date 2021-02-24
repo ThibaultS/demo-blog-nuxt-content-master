@@ -14,10 +14,10 @@ main_ingredient : Chocolat
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Difficile
 with : 
-time : 
-recipeYield : 
+time : 80
+recipeYield : 1 gâteau
 published : 1
 ---
 
@@ -49,7 +49,7 @@ Pour la décoration:
 
 ## Recette
 Pour le gâteau :
-Préchauffez le four à 160°. Faites fondre le beurre. Fouettez les œufs, le sucre et le miel jusqu’à ce que le mélange blanchisse légèrement. Portez la crème à frémissement et versez-la sur le chocolat cassé en morceaux. Laissez fondre quelques instants, puis mélangez et incorporez au mélange œufs-sucre. Ajoutez la farine tamisée, la levure chimique, la poudre de noisette et le cacao. Incorporez le beurre fondu. Faites cuire cette pâte dans 3 moules rond de 18cm.
+Préchauffez le four à 160°. Faites fondre le beurre. Fouettez les œufs, le sucre et le miel jusqu’à ce que le mélange blanchisse légèrement. Portez la crème à frémissement et versez-la sur le chocolat cassé en morceaux. Laissez fondre quelques instants, puis mélangez et incorporez au mélange œufs-sucre. Ajoutez la farine tamisée, la levure chimique, la poudre de noisette et le cacao. Incorporez le beurre fondu. Faites cuire cette pâte dans 3 moules rond de 18cm pendant 20-30 min (vérifier la cuisson avec la pointe d'un couteau, elle doit ressortir sans trace).
 
 Pour la pralinoise croustillante:
 Faites fondre le chocolat Pralinoise puis incorporez-la aux gavottes et aux noisettes hachées. Posez un premier gâteau sur une feuille de papier cuisson. Etalez la moitié de la préparation pralinoise par dessus en allant bien jusqu’aux bords. Superposez un 2ème gâteau et recommencez l’opération avec le reste de préparation pralinoise. Refermez le tout avec le dernier gâteau. Faites prendre 20mn au réfrigérateur.

@@ -18,7 +18,8 @@ veggie :
 country :
 difficulty :
 with : 
-time : 
+time : 80
+recipeYield : 10 cookies
 published : 1
 ---
 
@@ -48,11 +49,11 @@ Ingrédients supplémentaires :
  - 1 douille de votre choix
 
 ## Recette
-Pour les cookies :
+### Pour les cookies :
 Faites ramollir le beurre au micro-ondes (mais ne le faites pas fondre). Mélangez beurre, oeuf, sucre et sucre vanillé. Ajoutez la farine, le sel et la levure petit à petit, puis du colorant pour avoir une pâte gris foncé/noire. Faites des petites boules, mettez les sur du papier sulfurisé. Enfournez à 180°C pendant 10 à 12 min (suivant la texture que vous désirez, moi j'aime quand c'est très moelleux).
 
-Pour la crème au beurre :
+### Pour la crème au beurre :
 Dans une casserole, mélangez le sucre, la farine et la fécule de maïs. Ajoutez le lait, mélangez au fouet et faites chauffer à feu moyen. Touillez avec une cuillère en bois jusqu’à ce que le mélange arrive à ébullition, laissez cuire 1 minute, puis ajoutez l’arôme, et transvasez dans un bol. Couvrez le. Laissez bien refroidir pour arriver à température ambiante, c’est important sinon la chaleur du mélange va faire fondre le beurre, et c’est irrattrapable. Quand ce mélange est froid, mettez le dans un saladier et à l’aide d’un fouet électrique, battez le pour en faire une crème. Toujours à l’aide du fouet électrique (vitesse moyenne) incorporez le beurre, 1 cuillère à soupe à la fois. Quand tout le beurre a été incorporé, passez en vitesse maximum pendant au moins 2 à 3 minutes. Mettez une douille dans une poche à douille. Remplissez là de crème au beurre rose et laissez reposer 1 heure à température ambiante avant de l’utiliser, elle va s’affermir un peu.
 
-Pour la décoration de vos cookies :
+### Pour la décoration de vos cookies :
 Faites un tout petit trou dans votre poche à douille ou vous avez la crème au beurre blanche. Puis sur 5 cookies, dessiner sur la moitié une toile d’araignée. Disposez ensuite des petites perles comestibles. Prenez maintenant vos 5 autres cookies non décorées et à l’aide de votre poche à douille avec la crème rose, formez une spirales sur l’intérieur du biscuit. Disposez ensuite une grosse cuillère à café de caramel. Refermez comme un sandwich avec votre 2eme cookie décorés. Gardez un petit peu de crème au beurre blanche à part que vous pouvez mettre dans une poche à douille. Cela vous servira pour la décoration. Ajoutez du colorant rose dans le reste de la crème et mélangez.

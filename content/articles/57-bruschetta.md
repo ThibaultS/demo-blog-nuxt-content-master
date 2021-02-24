@@ -13,9 +13,10 @@ theme : Tartines
 sweety_salty : 
 veggie : 1
 country :
-difficulty :
+difficulty : Moyen
 with : 
-time : 
+time : 60
+recipeYield : 8-10 partss
 published : 1
 ---
 

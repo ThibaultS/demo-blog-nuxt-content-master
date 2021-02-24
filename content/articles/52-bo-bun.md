@@ -15,7 +15,8 @@ veggie :
 country :
 difficulty :
 with : 
-time : 
+time : 45
+recipeYield : 2 personnes
 published : 1
 ---
 
@@ -39,9 +40,9 @@ published : 1
  - 1 cuillère à soupe de vinaigre de riz
 
 ## Recette
-Dans un récipient, mettez y la viande et ajoutez le sucre, la fécule de maïs, l’échalote ciselée, la gousse d’ail hachée, la levure chimique, la sauce nuoc mam et l’huile d’olive avec un peu de sel et de poivre. Mélangez le tout avec vos mains et formez des boulettes. Disposez les sur une plaque recouverte de papier sulfurisé et ajoutez des graines de sésame par dessus. Enfournez 30 minutes à 180 degrés. 
+Dans un récipient, mettez-y la viande et ajoutez le sucre, la fécule de maïs, l’échalote ciselée, la gousse d’ail hachée, la levure chimique, la sauce nuoc mam et l’huile d’olive avec un peu de sel et de poivre. Mélangez le tout avec vos mains et formez des boulettes. Disposez les sur une plaque recouverte de papier sulfurisé et ajoutez des graines de sésame par dessus. Enfournez 30 minutes à 180 degrés. 
 
-Réhydratez les vermicelles avec de l’eau chaude pendant 5 minutes puis égouttez les. 
+Réhydratez les vermicelles avec de l’eau chaude pendant 5 minutes puis égouttez-les. 
 
 A l’aide d’une mandoline, faites des lamelles de carotte et de radis. Pour la sauce, faites chauffer 1 cuillère à soupe de sucre avec 1 cuillère à soupe de sauce nuoc mam, 1 cuillère à soupe de vinaigre de riz et 4 cuillère d’eau afin que tous les ingrédients se mélangent.
 

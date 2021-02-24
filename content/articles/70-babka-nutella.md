@@ -14,9 +14,10 @@ theme :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Difficile
 with : 
-time : 
+time : 80
+recipeYield : 1 babka
 published : 1
 ---
 

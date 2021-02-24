@@ -14,10 +14,10 @@ main_ingredient : Saint-Jacques
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : 
 with : 
-time : 
-recipeYield : 
+time : 35
+recipeYield : 2 personnes
 published : 1
 ---
 

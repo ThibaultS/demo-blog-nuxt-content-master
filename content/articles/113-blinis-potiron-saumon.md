@@ -19,6 +19,7 @@ difficulty :
 with : 
 time : 
 event :
+recipeYield : 8 blinis
 published : 1
 ---
 

@@ -13,9 +13,10 @@ theme : Tartes salées et pizzas
 sweety_salty : 1
 veggie : 1
 country :
-difficulty :
+difficulty : Facile
 with : 
-time : 
+time : 30
+recipeYield : 6 tartelettes
 published : 1
 ---
 
@@ -31,4 +32,4 @@ Étalez votre pâte feuilletée. A l’aide d’un emporte pièce rond canne
 
 Avec un jaune d’œuf, badigeonnez les bords de la pâte. À l’aide d’une mandoline, fais des lamelles moyennement épaisse de poire et placez les sur le dessus des tartelettes.
 
-Mettez au four le temps indiqué sur l’emballage de votre pâte. Une fois cuites, n’hésitez pas, si vous êtes gourmand, à refaire fondre un peu de gorgonzola pour en remettre par dessus, ainsi que quelques morceaux de noix.
+Mettez au four le temps indiqué sur l’emballage de votre pâte. Une fois cuites, si vous êtes gourmand, n’hésitez pas à refaire fondre un peu de gorgonzola pour en remettre par dessus, ainsi que quelques morceaux de noix.

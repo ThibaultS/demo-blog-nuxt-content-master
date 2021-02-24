@@ -18,6 +18,7 @@ difficulty :
 with : 
 time : 
 event :
+recipeYield : 3-4 personnes
 published : 1
 ---
 

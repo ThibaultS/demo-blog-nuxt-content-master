@@ -14,9 +14,10 @@ theme : Sushis et makis
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
-time : 
+time : 80
+recipeYield : 1 cake
 published : 1
 ---
 

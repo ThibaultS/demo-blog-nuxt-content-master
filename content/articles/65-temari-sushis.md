@@ -14,9 +14,10 @@ theme : Sushis et makis
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Difficile
 with : 
-time : 
+time : 60
+recipeYield : 10-15 sushis
 published : 1
 ---
 
