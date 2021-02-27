@@ -9,7 +9,7 @@ alt:
 date : '2021-02-24'
 inspiration : 
 description: Préparez vous un délicieux tajine de boulettes de boeuf avec des petits pois pour réchauffer vos soirées d'hiver
-main_ingredient : 
+main_ingredient : Boeuf
 theme : 
 tag : 
 sweety_salty : 
