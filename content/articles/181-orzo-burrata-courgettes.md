@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CMFi4zeJqzZ/
 alt: 
 date : '2021-03-06'
 inspiration : 
-description: 
+description: "Vous cherchez des recettes végétariennes de pâtes ? Essayez ces pâtes orzo aux courgettes, citron et burrata"
 main_ingredient : Courgette
 theme : Pâtes
 tag : Healthy
