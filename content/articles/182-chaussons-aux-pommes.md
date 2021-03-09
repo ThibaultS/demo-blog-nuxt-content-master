@@ -8,12 +8,12 @@ url: https://www.instagram.com/p/CMIAmcGpZuC/
 alt: 
 date : '2021-03-07'
 inspiration : 
-description: "Découvrez cette recette de chausson aux pommes maison, avec des pommes caramélisées et un chantilly pour plus de fraicheur"
+description: "Découvrez cette recette de chausson aux pommes maison, avec des pommes caramélisées et une chantilly pour plus de fraicheur"
 main_ingredient : Pomme
 theme : Tartes sucrées
 tag : 
 sweety_salty : 
-veggie : 1
+veggie : 
 country : 
 difficulty : Moyen
 with : 
