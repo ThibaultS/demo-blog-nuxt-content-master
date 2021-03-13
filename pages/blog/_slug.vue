@@ -42,7 +42,11 @@
           {{ article.description }}
         </p>
         <b-card class="mb-3 bg-secondary">
-          <div v-if="article.veggie">
+          <div v-if="article.theme == 'Pâtes'">
+            Thème :
+            <a href="/categories/pates">Pâtes</a>
+          </div>
+          <div v-if="article.theme">
             Cette recette est végétarienne.
             <a href="/categories/vegetarien">
               Découvrez toutes mes recettes végératienne.

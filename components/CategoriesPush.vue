@@ -8,8 +8,20 @@
         <!-- <AppSearchInput /> -->
       </b-col>
     </b-row>
-    <StickyValentine />
-    <b-row class="row-cols-1 row-cols-sm-2 row-cols-lg-2 mb-8">
+    <!-- <StickyValentine /> -->
+    <b-row class="row-cols-1 row-cols-sm-3 row-cols-lg-3 mb-8">
+      <b-col class="mb-2">
+        <nuxt-link
+          class="text-center card push-category btn-category push-valentin push-event"
+          to="categories/saint-valentin"
+        >
+          <b-card-body>
+            <b-card-title title-tag="h3">
+              Mes desserts pour la <strong>Saint-Valentin</strong>
+            </b-card-title>
+          </b-card-body>
+        </nuxt-link>
+      </b-col>
       <b-col class="mb-2">
         <nuxt-link
           class="text-center card push-category btn-category push-halloween"

@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CLMyPg1pPA5/
 alt: 
 date : 12/02/2021
 inspiration : 
-description: J'ai revisité les sablés lunettes, aussi appelés Souvaroff, avec un emporte-pièce en forme de coeur. Cette recette devrait vous rappeler plein de souvenirs d'enfance.
+description: J'ai revisité les sablés lunettes (ou Souvaroff), avec un emporte-pièce en coeur. Une recette pleine de souvenirs d'enfance.
 main_ingredient : Fraise
 theme : Gâteaux
 tag : 

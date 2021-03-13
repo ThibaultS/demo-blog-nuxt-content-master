@@ -100,7 +100,8 @@ export default {
         'url',
         'event',
         'category',
-        'veggie'
+        'veggie',
+        'theme'
       ])
       .sortBy('id', 'desc')
       .where({ veggie: 1 })

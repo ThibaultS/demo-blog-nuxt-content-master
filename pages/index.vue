@@ -32,8 +32,9 @@
         <b-row>
           <b-col>
             <p class="lead mt-4">
-              Chaque semaine, je poste 3 recettes sur une thématique et je
-              conclue la semaine en beauté avec un dessert. Venez me suivre sur
+              Bienvenue sur mon site ! Chaque semaine, je poste 3 recettes sur
+              une thématique et je conclue la semaine en beauté avec un dessert.
+              Venez me suivre sur
               <a
                 href="https://www.instagram.com/josiesrecipes/"
                 target="_blank"
@@ -106,7 +107,9 @@ export default {
         'thumbnail',
         'date',
         'url',
-        'published'
+        'published',
+        'theme',
+        'main_ingredient'
       ])
       .sortBy('id', 'desc')
       .where({ published: 1 })
