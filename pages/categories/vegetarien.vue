@@ -15,17 +15,7 @@
             />
           </nuxt-link>
         </b-navbar-brand>
-        <!-- Right aligned nav items -->
-        <b-navbar-nav class="ml-auto pt-2">
-          <AppSearchInput />
-          <a
-            href="https://www.instagram.com/josiesrecipes/"
-            target="_blank"
-            class="mr-1 ml-3 mt-1 self-center text-white font-bold hover:underline insta-link"
-          >
-            Instagram
-          </a>
-        </b-navbar-nav>
+        <NavItems />
       </b-navbar>
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>
@@ -48,7 +38,7 @@
           id="posts"
           class="row-cols-1 row-cols-sm-1 row-cols-lg-1 row-cols-xl-2"
         >
-          <b-col v-for="article of articles" :key="article.slug" class="mb-5">
+          <b-col v-for="article of articles" :key="article.slug" class="mb-3">
             <b-card class="post horizontal" no-body>
               <NuxtLink
                 :to="{ name: 'blog-slug', params: { slug: article.slug } }"

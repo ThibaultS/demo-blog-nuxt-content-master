@@ -9,7 +9,7 @@ alt:
 date : '2021-03-13'
 inspiration : 
 description: "Découvrez LA recette du moment sur TikTok et Instagram : des pâtes avec une sauce à la fêta"
-main_ingredient : 
+main_ingredient : Tomate
 theme : Pâtes
 tag : 
 sweety_salty : 

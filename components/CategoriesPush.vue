@@ -2,14 +2,14 @@
   <div>
     <b-row>
       <b-col>
-        <h2 class="subtitle-home mb-4">
+        <h2 class="subtitle-home mb-2">
           Mes recettes pour les grandes occasions
         </h2>
         <!-- <AppSearchInput /> -->
       </b-col>
     </b-row>
     <!-- <StickyValentine /> -->
-    <b-row class="row-cols-1 row-cols-sm-3 row-cols-lg-3 mb-8">
+    <b-row class="row-cols-1 row-cols-sm-3 row-cols-lg-3 mb-4">
       <b-col class="mb-2">
         <nuxt-link
           class="text-center card push-category btn-category push-valentin push-event"

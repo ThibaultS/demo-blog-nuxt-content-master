@@ -16,7 +16,7 @@
           </nuxt-link>
         </b-navbar-brand>
         <b-nav-text class="title-home">
-          <h1>Mes recettes - page 4</h1>
+          <h1>Mes recettes - page 5</h1>
         </b-nav-text>
         <NavItems />
       </b-navbar>
@@ -55,7 +55,7 @@
             </b-card-group>
             <div class="flex items-center">
               <nuxt-link
-                to="/5"
+                to="/6"
                 class="flex-1 py-2 px-4 rounded mb-5 text-center see-more"
               >
                 Voir plus de recettes
@@ -85,7 +85,7 @@ export default {
       ])
       .sortBy('id', 'desc')
       .where({ published: 1 })
-      .skip(90)
+      .skip(130)
       .limit(40)
       .fetch()
     return {
@@ -94,7 +94,7 @@ export default {
   },
   data() {
     return {
-      title: 'Toutes mes recettes - Page 4'
+      title: 'Toutes mes recettes - Page 5'
     }
   },
   head() {

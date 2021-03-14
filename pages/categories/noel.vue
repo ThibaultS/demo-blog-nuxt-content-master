@@ -15,17 +15,7 @@
             />
           </nuxt-link>
         </b-navbar-brand>
-        <!-- Right aligned nav items -->
-        <b-navbar-nav class="ml-auto pt-2">
-          <AppSearchInput />
-          <a
-            href="https://www.instagram.com/josiesrecipes/"
-            target="_blank"
-            class="mr-1 ml-3 mt-1 self-center text-white font-bold hover:underline insta-link"
-          >
-            Instagram
-          </a>
-        </b-navbar-nav>
+        <NavItems />
       </b-navbar>
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>

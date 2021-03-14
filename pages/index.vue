@@ -16,22 +16,12 @@
           </nuxt-link>
         </b-navbar-brand>
         <b-nav-text class="title-home"><h1>Toutes mes recettes</h1></b-nav-text>
-        <!-- Right aligned nav items -->
-        <b-navbar-nav class="ml-auto pt-2">
-          <AppSearchInput />
-          <a
-            href="https://www.instagram.com/josiesrecipes/"
-            target="_blank"
-            class="mr-1 ml-3 mt-1 self-center text-white font-bold hover:underline insta-link"
-          >
-            Instagram
-          </a>
-        </b-navbar-nav>
+        <NavItems />
       </b-navbar>
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>
           <b-col>
-            <p class="lead mt-4">
+            <p class="lead lead-home mt-4">
               Bienvenue sur mon site ! Chaque semaine, je poste 3 recettes sur
               une thématique et je conclue la semaine en beauté avec un dessert.
               Venez me suivre sur
@@ -43,42 +33,53 @@
               </a>
               pour les découvrir en avant première.
             </p>
+            <AppSearchInputHome />
           </b-col>
         </b-row>
         <CategoriesPush />
-        <b-row class="content-row">
+        <b-row>
           <b-col>
-            <h2 class="subtitle-home mb-4">Découvrez mes dernières recettes</h2>
-            <b-card-group id="posts" columns>
-              <b-card
-                v-for="article of articles"
-                :key="article.slug"
-                class="post bg-tertiary"
-                no-body
+            <h2 class="subtitle-home mb-2">Découvrez mes dernières recettes</h2>
+          </b-col>
+        </b-row>
+        <b-row
+          id="posts"
+          class="row-cols-1 row-cols-sm-1 row-cols-lg-1 row-cols-xl-2"
+        >
+          <b-col v-for="article of articles" :key="article.slug" class="mb-3">
+            <b-card class="post horizontal" no-body>
+              <NuxtLink
+                :to="{ name: 'blog-slug', params: { slug: article.slug } }"
               >
-                <NuxtLink
-                  :to="{ name: 'blog-slug', params: { slug: article.slug } }"
-                >
-                  <div class="img-container">
-                    <b-card-img-lazy
-                      :src="article.thumbnail"
-                      top
-                      blank-color="#d0b8ac"
-                      loading="lazy"
-                      fluid
-                      alt=""
-                    >
-                    </b-card-img-lazy>
-                  </div>
-                  <b-card-body>
-                    <b-card-title title-tag="h3">
-                      {{ article.title }}
-                    </b-card-title>
-                    <p>{{ article.date }}</p>
-                  </b-card-body>
-                </NuxtLink>
-              </b-card>
-            </b-card-group>
+                <b-row>
+                  <b-col md="5">
+                    <div class="img-container">
+                      <b-card-img-lazy
+                        :src="article.thumbnail"
+                        left
+                        blank-color="#d0b8ac"
+                        loading="lazy"
+                        alt=""
+                      >
+                      </b-card-img-lazy>
+                    </div>
+                  </b-col>
+                  <b-col md="7">
+                    <b-card-body>
+                      <b-card-title title-tag="h3">
+                        {{ article.title }}
+                      </b-card-title>
+                      <p class="lead">{{ article.description }}</p>
+                      <p class="mt-3">{{ article.date }}</p>
+                    </b-card-body>
+                  </b-col>
+                </b-row>
+              </NuxtLink>
+            </b-card>
+          </b-col>
+        </b-row>
+        <b-row>
+          <b-col>
             <div class="flex items-center">
               <nuxt-link
                 to="/2"
@@ -113,7 +114,7 @@ export default {
       ])
       .sortBy('id', 'desc')
       .where({ published: 1 })
-      .limit(30)
+      .limit(10)
       .fetch()
     return {
       articles

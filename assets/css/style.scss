@@ -39,6 +39,10 @@ a {
     font-size: 1.125rem;
 }
 
+.lead.lead-home {
+    font-size: 1.5rem;
+}
+
 nav.customnav {
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d0b8ac+1,d0b8ac+100&1+65,0+93 */
     background:none;
@@ -187,6 +191,17 @@ h2.subtitle-home {
     a {
         color:#000;
     }
+}
+
+.search-container-home .search-recipes {
+    font-size: 2.5rem;
+}
+
+.search-container-home .search-list-recipes {
+    font-size: 1.5rem;
+    z-index: 300;
+    width: 90%;
+    height: 30vh;
 }
 
 .dropdown-item {

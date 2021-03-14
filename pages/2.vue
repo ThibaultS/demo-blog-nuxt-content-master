@@ -18,17 +18,7 @@
         <b-nav-text class="title-home">
           <h1>Mes recettes - page 2</h1>
         </b-nav-text>
-        <!-- Right aligned nav items -->
-        <b-navbar-nav class="ml-auto pt-2">
-          <AppSearchInput />
-          <a
-            href="https://www.instagram.com/josiesrecipes/"
-            target="_blank"
-            class="mr-1 ml-3 mt-1 self-center text-white font-bold hover:underline insta-link"
-          >
-            Instagram
-          </a>
-        </b-navbar-nav>
+        <NavItems />
       </b-navbar>
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row class="content-row">
@@ -95,8 +85,8 @@ export default {
       ])
       .sortBy('id', 'desc')
       .where({ published: 1 })
-      .skip(30)
-      .limit(50)
+      .skip(10)
+      .limit(40)
       .fetch()
     return {
       articles
