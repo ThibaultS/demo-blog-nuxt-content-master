@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CJG2EnxJtMO/
 alt: 
 date : 22/12/2020
 inspiration : 
-description: 
+description: Découvrez cette délicieuse entrée pour les férues de saumon. Parfait avec une salade verte.
 event : "Noël"
 main_ingredient : Saumon
 theme : Cakes salés

@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CJMDi3cJ3l-/
 alt: 
 date : 24/12/2020
 inspiration : 
-description: 
+description: Il n'y a pas de saison pour les donuts ! J'ai adapté la déco au moment de l'année.
 event : "Noël"
 main_ingredient : Gâteaux
 theme : 

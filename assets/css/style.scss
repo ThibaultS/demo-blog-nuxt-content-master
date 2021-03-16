@@ -194,7 +194,7 @@ h2.subtitle-home {
 }
 
 .search-container-home .search-recipes {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
 }
 
 .search-container-home .search-list-recipes {
@@ -823,7 +823,10 @@ a.see-more:hover {
 
 
 @media (min-width: 1024px){
-
+    .search-container-home .search-recipes {
+        font-size: 2.5rem;
+    }
+    
     article h1 {
         position: fixed;
         bottom: -3rem;

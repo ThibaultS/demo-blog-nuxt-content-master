@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CKCQNWvJtHs/
 alt: 
 date : 14/01/2021
 inspiration : 
-description: Si vous souhaitez faire découvrir le pain Bao à vos convives, c'est la recette idéale ! Un délicieux burger de canard avec ce pain à la vapeur.
+description: "Un délicieux burger de canard avec ce pain à la vapeur : la recette idéale faire découvrir le pain Bao à vos convives !"
 category : 
 main_ingredient : Boeuf
 theme : Burgers

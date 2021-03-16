@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CI3hgNBpVZV/
 alt: 
 date : 16/12/2020
 inspiration : 
-description: 
+description: En voilà une activité ludique à faire en famille pendant les fêtes. Vous allez adorés ces sablés de Noël.
 event : "Noël"
 main_ingredient : Gâteaux
 theme : 

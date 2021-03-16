@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CJEe0nBJZg2/
 alt: 
 date : 21/12/2020
 inspiration : 
-description: 
+description: "C'est tellement bon les Saint-Jacques en cassolette, surtout avec une sauce au vin blanc."
 event : "Noël"
 main_ingredient : Saint-Jacques
 theme : 
@@ -30,7 +30,7 @@ published : 1
  - 1 échalote
  - 1 gousse d'ail
  - 1/2 verre de vin blanc
- - 8 noix de saint jacques avec leur coquille
+ - 8 noix de Saint-Jacques avec leur coquille
  - 1 noix de beurre
  - 1 verre de calvados
  - 1 jaune d'oeuf

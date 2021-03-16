@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CI6DMaeJBF-/
 alt: 
 date : 18/12/2020
 inspiration : 
-description: 
+description: Rapide à préparer mais un peu technique, essayez ce soufflé au mont d'Or avec de la truffe.
 event : "Noël"
 main_ingredient : Fromage
 theme : Cakes salés

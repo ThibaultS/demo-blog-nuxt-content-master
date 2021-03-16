@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CJq8K2IpUfJ/
 alt: 
 date : 05/01/2021
 inspiration : 
-description: 
+description: Il y a milles versions des oeufs cocotte, essayez cette recette avec du saumon fumé.
 category :
 main_ingredient : Saumon
 theme : 

@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CJBnz6rJUZu/
 alt: 
 date : 20/12/2020
 inspiration : 
-description: 
+description: Décorez vos cupcakes au chocolat avec une crème en forme de sapin de Noël.
 event : "Noël"
 main_ingredient : Chocolat
 theme : Gâteaux

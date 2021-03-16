@@ -1,6 +1,6 @@
 ---
 id: 146
-title: Cuisses de chapon et sa sauce au foie et à la truffe 
+title: Cuisses de chapon et sa sauce au foie gras et à la truffe 
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1608758932/Recipes/20201223_chapons.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1608758932/Recipes/20201223_chapons.jpg
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1608758932/Recipes/20201223_chapons.jpg)
@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CJJe3xkJLPn/
 alt: 
 date : 23/12/2020
 inspiration : 
-description: 
+description: "Chapon, foie gras et truffe : 3 ingrédients parfaits pour une recette de Noël !"
 event : "Noël"
 main_ingredient : Chapon
 theme : 

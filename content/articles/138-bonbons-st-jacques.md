@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CI05oeZpXe_/
 alt: 
 date : 15/12/2020
 inspiration : 
-description: 
+description: Et si vous essayiez des petits bonbons de Saint-Jacques en apéritif pour votre réveillon ? 
 event : "Noël"
 main_ingredient : Saint-Jacques
 theme : 
