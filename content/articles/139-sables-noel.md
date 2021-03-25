@@ -17,7 +17,7 @@ veggie :
 country :
 difficulty :
 with : 
-time : 
+time : 60
 calendrier: 16
 recipeYield: 15-20 biscuits
 published : 1
