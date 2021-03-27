@@ -27,7 +27,7 @@ published : 1
 ## Ingrédients
  - Des moules en forme d'œuf (acheté sur Amazon)
  - 200g de chocolat au lait
- - 1 c.a.s d’huile de coco
+ - 1 c.à.s d’huile de coco
  - 1 gâteau au yaourt maison ou industriel
  - La confiture de votre choix
  - Peinture alimentaire dorée

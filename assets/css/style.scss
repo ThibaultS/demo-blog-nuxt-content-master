@@ -373,6 +373,10 @@ article {
     color:#fff;
 }
 
+.easter h1, .easter .intro .lead {
+    color:#FF3294;
+}
+
 .push-category.push-christmas {
     background-color: #BF1131;
     background-image : url(~assets/images/pattern-noel.svg);
@@ -407,10 +411,33 @@ article {
         color: #FF084A;
         border-color: #FF6289;
     }
-    .btn:hover {
-        background-color: #FF084A;
-        color: #FFC2CD;
+}
+
+.push-category.push-easter {
+    background-color:#fce3ae;
+    background-image : url(~assets/images/pattern-easter.svg);
+    color:#FF3294;
+    border: solid 5px #ffd374;
+    h2 {
+        color:#FF3294;
     }
+    p {
+        color:#FF3294;
+    }
+    .btn {
+        background-color: #FF3294;
+        color: #fce3ae;
+        border-color: #fce3ae;
+    }
+    .btn:hover {
+        background-color: #fce3ae;
+        color: #FF3294;
+    }
+}
+
+.push-category.push-valentin .btn:hover {
+    background-color: #FF084A;
+    color: #FFC2CD;
 }
 
 .push-category.push-christmas .btn:hover {
@@ -654,6 +681,13 @@ a.see-more:hover {
     min-height: 100vh;
 }
 
+.easter {
+    background-color:#fce3ae;
+    background-image : url(~assets/images/pattern-easter.svg);
+    min-height: 100vh;
+}
+
+
 .halloween nav, .noel nav {
     background: transparent;
 }
@@ -667,6 +701,27 @@ a.see-more:hover {
         color: #F27405;
     }
     
+}
+
+.easter .card.post {
+    background-color: #ffd374;
+    border: #FF3294;
+
+    a  {
+        h3 {
+            color: #FF3294;
+        }
+        p {
+            color: #FF3294;
+        }
+        p.date {
+            color:#FF3294;
+        }
+    }
+}
+
+.easter .intro .lead a {
+    color:#FF3294;
 }
 
 .saint-valentin .card.post {
@@ -693,8 +748,21 @@ a.see-more:hover {
     }
 }
 
+.easter .card.post a:hover {
+    text-decoration: none;
+    h3 {
+        color: #FF3294;
+        text-decoration: underline;
+    }
+}
+
+
 .saint-valentin .card.post:hover {
     background-color: #FFC2CD;
+}
+
+.easter .card.post:hover {
+    background-color: #ffdd94;
 }
 
 .halloween .card.post:hover {

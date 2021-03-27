@@ -1,5 +1,5 @@
 <template>
-  <div class="category-page">
+  <div class="category-page easter">
     <div>
       <b-navbar
         type="dark"
@@ -119,7 +119,7 @@ export default {
           hid: 'og:image',
           name: 'og:image',
           content:
-            'https://res.cloudinary.com/thibaults/image/upload/v1606424631/partage-home.png'
+            'https://res.cloudinary.com/thibaults/image/upload/v1616879007/partage-easter.png'
         }
       ]
     }
