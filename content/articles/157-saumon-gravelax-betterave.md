@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CKUTWV4JpMc/
 alt: 
-date : 21/01/2021
+date : '2021-01-21'
 inspiration : 
 description: Si vous êtes adeptes du saumon gravelax, essayez cette variante à la betterave, c'est un délice !
 category : "Poissons et crustacés"
@@ -18,7 +18,7 @@ veggie :
 country : 
 difficulty : Moyen
 with : 
-time : 
+time : 30
 event :
 recipeYield: 2 personnes
 published : 1

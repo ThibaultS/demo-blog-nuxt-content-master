@@ -17,7 +17,7 @@ veggie :
 country : 
 difficulty : Difficile
 with : 
-time : 18à
+time : 180
 event : Pâques
 recipeYield : 5-6 lapins
 published : 1
@@ -40,6 +40,7 @@ Pour la brioche :
  - 50g de beurre
  - Des raisins secs
 
+Pour la dorure :
  - 1 jaune d’œuf
  - 20g de lait
 

@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CLXIeR5J-oR/
 alt: 
-date : 16/02/2021
+date : '2021-02-16'
 inspiration : 
 description: Et si vous faisiez vos gnocchis vous même ? Ce n'est pas si compliqué et vous pouvez les adapter selon vos goûts, ici des gnocchis à la truffe.
 main_ingredient : Truffe

@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CKb1Yz8JMx8/
 alt: 
-date : 24/01/2021
+date : '2021-01-24'
 inspiration : 
 description: Les muffins au chocolat c'est toujours une valeur sûr. Cette recette choco-noisette raviera vos invités !
 category : "Chocolat"
@@ -17,7 +17,7 @@ veggie :
 country :
 difficulty : Facile
 with : 
-time : 
+time : 45
 event :
 recipeYield: 6 muffins
 published : 1

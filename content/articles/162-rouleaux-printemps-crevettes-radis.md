@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CKrStarJ7vc/
 alt: 
-date : 30/01/2021
+date : '2021-01-30'
 inspiration : 
 description: Les rouleaux de printemps, vous pouvez les composer de milles façons. Je vous propose ici une recette avec des radis.
 category : "Poissons et crustacés"
@@ -17,7 +17,7 @@ veggie :
 country : Vietnam
 difficulty : Facile
 with : 
-time : 
+time : 20
 event :
 recipeYield: 8 rouleaux de printemps
 published : 1

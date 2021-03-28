@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CLHoMfopsu6/
 alt: 
-date : 10/02/2021
+date : '2021-02-10'
 inspiration :
 description: C'est si gourmand, un cœur géant en cookie avec une ganache au chocolat.
 main_ingredient : Chocolat
@@ -17,7 +17,7 @@ veggie :
 country :
 difficulty : Moyen
 with : 
-time : 
+time : 45
 event : Saint-Valentin
 recipeYield: 1 cookie
 published : 1

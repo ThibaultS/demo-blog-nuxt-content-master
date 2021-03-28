@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CJ8-D1SpePN/
 alt: 
-date : 12/01/2021
+date : '2021-01-12'
 inspiration : 
 description: Avouons-le, les oignons caramélisés dans un burger c'est toujours délicieux ! Découvrez cette recette de burger au morbier.
 category : 
@@ -17,7 +17,7 @@ veggie :
 country :
 difficulty : Facile
 with : 
-time : 
+time : 30
 event :
 recipeYield: 2 personnes
 published : 1

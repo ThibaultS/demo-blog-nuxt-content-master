@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CKZYe4zpsLP/
 alt: 
-date : 23/01/2021
+date : '2021-01-23'
 inspiration : 
 description: Si vous aimez le poisson cru et le sucré-salé, vous allez adorer cette recette de tartare de thon avec du fruit de la passion.
 category : "Poissons et crustacés"
@@ -17,7 +17,7 @@ veggie :
 country :
 difficulty : Facile
 with : 
-time : 
+time : 20
 event :
 recipeYield: 1 tartare
 published : 1

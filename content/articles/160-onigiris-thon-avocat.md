@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CKjmIz7Ja87/
 alt: 
-date : 27/01/2021
+date : '2021-01-27'
 inspiration : 
 description: Vous voulez reproduire les onigiris que vous voyez dans les animés japonais ? C'est pas si compliqué.
 category : "Poissons et crustacés"
@@ -17,7 +17,7 @@ veggie :
 country : Japon
 difficulty : Moyen
 with : 
-time : 
+time : 45
 event :
 recipeYield: 6-8 onigiris
 published : 1

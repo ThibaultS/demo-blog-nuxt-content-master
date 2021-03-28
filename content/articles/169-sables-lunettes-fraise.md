@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CLMyPg1pPA5/
 alt: 
-date : 12/02/2021
+date : '2021-02-12'
 inspiration : 
 description: J'ai revisité les sablés lunettes (ou Souvaroff), avec un emporte-pièce en coeur. Une recette pleine de souvenirs d'enfance.
 main_ingredient : Fraise
@@ -16,8 +16,8 @@ sweety_salty :
 veggie : 
 country :
 difficulty : Moyen
-with : 100
-time : 
+with : 
+time : 120
 event : Saint-Valentin
 recipeYield : 15-20 sablés
 published : 1

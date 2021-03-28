@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CK9Nn3Op5Tw/
 alt: 
-date : 06/02/2021
+date : '2021-02-06'
 inspiration : 
 description: Essayez les frites de patate douce cuites au four pour changer. Vous aurez des frites ultra moelleuses.
 main_ingredient : Patate douce
@@ -17,7 +17,7 @@ veggie : 1
 country :
 difficulty : Facile
 with : 
-time : 
+time : 30
 event :
 recipeYield: 2 personnes
 published : 1

@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CLPax5_Ju7F/
 alt: 
-date : 13/02/2021
+date : '2021-02-13'
 inspiration : 
 description: Célébrez l’amour avec cette mini pièce montée à la vanille et aux fruits rouges.
 main_ingredient : Fraise

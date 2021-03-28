@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CJ1i10MJHem/
 alt: 
-date : 09/01/2021
+date : '2021-01-09'
 inspiration : 
 description: Faites vos oeufs surprises dans des nids de pomme de terre, vous verrez c'est super bon !
 category :
@@ -17,7 +17,7 @@ veggie :
 country :
 difficulty : Facile
 with : 
-time : 
+time : 45
 event :
 recipeYield: 6 portions
 published : 1

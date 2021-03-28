@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CKJ3Gs0Jq-x/
 alt: 
-date : 17/01/2021
+date : '2021-01-17'
 inspiration : 
 description: "Impressionnez vos invités avec un gâteau en damier. Surprise garantie à la découpe !"
 category : "Chocolat"
@@ -17,7 +17,7 @@ veggie :
 country :
 difficulty : Moyen
 with : 
-time : 
+time : 100
 event :
 recipeYield: 1 cake
 published : 1

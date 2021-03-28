@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CK_ox34pk-q/
 alt: 
-date : 07/02/2021
+date : '2021-02-07'
 inspiration : Chelsea Wilson
 description: Une mousse à la frambroise avec une base de meringue italienne pour encore plus de gourmandise.
 main_ingredient : Frambroise
@@ -17,7 +17,7 @@ veggie :
 country :
 difficulty : Difficile
 with : 
-time : 
+time : 80
 event : Saint-Valentin
 recipeYield: 4 personnes
 published : 1

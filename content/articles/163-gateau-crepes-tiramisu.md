@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CKt63qzJ065/
 alt: 
-date : 31/01/2021
+date : '2021-01-31'
 inspiration : 
 description: Si vous aimez les crèpes et le tiramisu, vous allez adorer ce gâteau. Parfait pour fêter la chandeleur en famille.
 category : Chocolat
@@ -17,7 +17,7 @@ veggie :
 country :
 difficulty : Moyen
 with : 
-time : 
+time : 60
 event :
 recipeYield: 1 gâteau
 published : 1

@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CKy_saKJwEE/
 alt: 
-date : 02/02/2021
+date : '2021-02-02'
 inspiration : 
 description: "J'ai revisité la recette des röstis, recette typiquement suisse, avec des patates douces. Je les ai accompagné d'une burrata et d'avocat pour plus de fraicheur."
 category : 
@@ -18,7 +18,7 @@ veggie : 1
 country :
 difficulty : Facile
 with : 
-time : 
+time : 45
 event :
 recipeYield: 4 personnes
 published : 1

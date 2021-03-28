@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CJwJqwCpNSJ/
 alt: 
-date : 07/01/2021
+date : '2021-01-07'
 inspiration : Chef Yoni Saada
 description: Une recette d'oeuf idéal pour un brunch en amoureux ! Découvrez cette spécialité maghrébine similaire à la chakchouka. 
 category :
@@ -15,9 +15,9 @@ theme :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Facile
 with : 
-time : 
+time : 20
 event :
 recipeYield: 3 personnes
 published : 1

@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CKCQNWvJtHs/
 alt: 
-date : 14/01/2021
+date : '2021-01-14'
 inspiration : 
 description: "Un délicieux burger de canard avec ce pain à la vapeur : la recette idéale faire découvrir le pain Bao à vos convives !"
 category : 
@@ -17,7 +17,7 @@ veggie :
 country : Chine
 difficulty : Difficile
 with : 
-time : 
+time : 140
 event :
 recipeYield: 2 personnes
 published : 1

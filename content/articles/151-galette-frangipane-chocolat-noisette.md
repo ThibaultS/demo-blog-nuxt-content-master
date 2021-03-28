@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CJ3txafJwE5/
 alt: 
-date : 10/01/2021
+date : '2021-01-10'
 inspiration : 
 description: Si comme moi, vous n'êtes pas fan de la frangipane classique, essayez donc cette recette de frangipane chocolat et noisette.
 category : "Chocolat"
@@ -17,7 +17,7 @@ veggie :
 country :
 difficulty : Moyen
 with : 
-time : 
+time : 140
 event :
 recipeYield: 1 galette
 published : 1

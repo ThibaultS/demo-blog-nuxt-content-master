@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CK4YacopAE_/
 alt: 
-date : 04/02/2021
+date : '2021-02-04'
 inspiration : 
 description: Cette recette de patate douce rôtie est parfaite pour un repas végétarien en hiver.
 main_ingredient : Patate douce
@@ -17,7 +17,7 @@ veggie : 1
 country :
 difficulty : Facile
 with : 
-time : 
+time : 65
 event :
 recipeYield: 2 personnes
 published : 1

@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CJq8K2IpUfJ/
 alt: 
-date : 05/01/2021
+date : '2021-01-05'
 inspiration : 
 description: Il y a milles versions des oeufs cocotte, essayez cette recette avec du saumon fumé.
 category :
@@ -15,9 +15,9 @@ theme :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Facile
 with : 
-time : 
+time : 30
 event :
 recipeYield: 4 oeufs cocottes
 published : 1

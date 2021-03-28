@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : 
 url: https://www.instagram.com/p/CKHf7IZJ7gz/
 alt: 
-date : 16/01/2021
+date : '2021-01-16'
 inspiration : 
 description: "Avez-vous déjà fait un burger à base de tranche de rôti de boeuf ? Ça change et c'est délicieux !"
 category : 
@@ -17,7 +17,7 @@ veggie :
 country :
 difficulty : Moyen
 with : 
-time : 
+time : 60
 event :
 recipeYield: 2 personnes
 published : 1
