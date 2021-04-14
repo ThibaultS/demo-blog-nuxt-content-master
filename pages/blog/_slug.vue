@@ -31,7 +31,6 @@
         <p v-if="article.description" class="lead">
           {{ article.description }}
         </p>
-        <StickyEasterArticle />
         <b-card class="mb-3 bg-secondary">
           <div v-if="article.theme == 'Pâtes'">
             Thème :
@@ -62,6 +61,7 @@
           </a>
         </p>
         <p class="pt-2">Publié le {{ formatDate(article.date) }}</p>
+        <StickyEasterArticle />
       </div>
     </div>
   </article>
