@@ -15,9 +15,9 @@ theme :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Facile
 with : 
-time : 
+time : 45
 calendrier: 21
 recipeYield: 4 personnes
 published : 1

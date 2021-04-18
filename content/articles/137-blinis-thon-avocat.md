@@ -15,9 +15,9 @@ theme :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Facile
 with : 
-time : 
+time : 20
 calendrier: 14
 recipeYield: 25 petits blinis
 published : 1

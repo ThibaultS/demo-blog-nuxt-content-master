@@ -15,9 +15,9 @@ theme : Cakes salés
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Facile
 with : 
-time : 
+time : 30
 calendrier: 19
 recipeYield: 4 personnes
 published : 1

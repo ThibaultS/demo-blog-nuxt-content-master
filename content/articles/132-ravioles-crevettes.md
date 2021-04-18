@@ -15,9 +15,9 @@ theme : Pâtes
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Difficile
 with : 
-time : 
+time : 90
 calendrier: 9
 recipeYield: 24 ravioles
 published : 1

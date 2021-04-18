@@ -15,9 +15,9 @@ theme :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Difficile
 with : 
-time : 
+time : 120
 calendrier: 24
 recipeYield: 15-20 donuts
 published : 1

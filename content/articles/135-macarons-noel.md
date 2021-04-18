@@ -15,9 +15,9 @@ theme : Gâteaux
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Difficile
 with : 
-time : 
+time : 90
 calendrier: 12
 recipeYield: 15 macarons de taille standard
 published : 1

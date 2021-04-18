@@ -15,9 +15,9 @@ theme :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
-time : 
+time : 30
 calendrier: 15
 recipeYield: 16 bonbons
 published : 1

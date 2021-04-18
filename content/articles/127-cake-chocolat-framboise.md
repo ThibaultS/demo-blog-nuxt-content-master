@@ -15,9 +15,9 @@ theme : Gâteaux
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
-time : 
+time : 90
 calendrier: 4
 recipeYield: 6 mini-cakes
 published : 1

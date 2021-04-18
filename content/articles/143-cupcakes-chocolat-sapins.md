@@ -15,9 +15,9 @@ theme : Gâteaux
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
-time : 
+time : 120
 calendrier: 20
 recipeYield: 10 cupcakes
 published : 1

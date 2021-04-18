@@ -15,9 +15,9 @@ theme : Sushis et makis
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Facile
 with : 
-time : 
+time : 30
 calendrier: 7
 recipeYield: 3 personnes
 published : 1

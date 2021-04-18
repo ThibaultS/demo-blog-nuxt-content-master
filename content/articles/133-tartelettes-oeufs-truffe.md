@@ -15,9 +15,9 @@ theme : Tartes salées et pizzas
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
-time : 
+time : 30
 calendrier: 10
 recipeYield: 15-20 bouchées
 published : 1
