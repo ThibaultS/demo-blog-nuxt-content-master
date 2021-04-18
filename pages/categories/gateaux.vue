@@ -21,11 +21,11 @@
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>
           <b-col class="intro mt-5 mb-5">
-            <h1>Mes recettes de pâtes</h1>
+            <h1>Mes recettes de gâteaux</h1>
             <p class="lead">
-              J'adore les pâtes. Je vous propose de nombreuses recettes pour
-              tous les goûts. Pour découvrir mes nouvelles recettes suivez-moi
-              sur
+              Retrouvez tous mes recette de gâteaux en tout genre : cake,
+              cookies, biscuits, madeleine, brioche,... Pour découvrir mes
+              nouvelles recettes suivez-moi sur
               <a
                 href="https://www.instagram.com/josiesrecipes/"
                 target="_blank"
@@ -99,7 +99,7 @@ export default {
       ])
       .sortBy('id', 'desc')
       .limit(30)
-      .where({ theme: 'Pâtes' })
+      .where({ theme: 'Gâteaux' })
       .fetch()
     return {
       articles
@@ -107,7 +107,7 @@ export default {
   },
   data() {
     return {
-      title: 'Toutes mes recettes de pâtes'
+      title: 'Toutes mes recettes de gateaux'
     }
   },
   head() {
@@ -118,7 +118,7 @@ export default {
           hid: 'description',
           name: 'description',
           content:
-            'Mes recettes de pâtes pour tous les goûts : raviolis, spaghettis, linguines, lasagnes, gnocchis,...'
+            'Retrouvez tous mes recette de gâteaux en tout genre : cake, cookies, biscuits, madeleine, brioche,...'
         },
         {
           hid: 'og:image',

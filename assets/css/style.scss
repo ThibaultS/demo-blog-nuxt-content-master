@@ -1,4 +1,4 @@
-$salmon: #F4816E !default;
+$salmon: #F73A64 !default;
 $taupe: #d0b8ac !default;
 $taupe-600: #f3d8c7 !default;
 $taupe-400: #efe5dc !default;
@@ -27,7 +27,7 @@ body {
 }
 
 input:focus {
-    outline: 3px solid #F4816E;
+    outline: 3px solid #F73A64;
 }  
 
 a {
@@ -37,6 +37,11 @@ a {
 
 .lead {
     font-size: 1.125rem;
+}
+
+article .lead {
+    font-size: 1.25rem;
+    font-weight: 600;
 }
 
 .lead.lead-home {
@@ -74,8 +79,8 @@ h2.subtitle-home {
 }
 
 .btn-tertiary.nuxt-link-exact-active {
-    background-color: #F4816E;
-    border-color: #F4816E;
+    background-color: #F73A64;
+    border-color: #F73A64;
     color:#FFFDFC;
 }
 
@@ -223,14 +228,14 @@ h2.subtitle-home {
     display: inline-block;
     width: 1.5rem;
     height: 1.65rem;
-    background: #fff;
+    background: #75513e;
     mask-size: cover;
     transition: ease-in 0.1s;
     -webkit-transition: ease-in 0.3s;
 }
   
   .icon:hover,.icon:focus {
-    background: #F4816E;
+    background: #F73A64;
   }
   
 .nuxt-content h2 {
@@ -578,7 +583,7 @@ article {
     -moz-box-shadow: 0 5px 6px 0 rgba(132, 87, 76, 0.5);;
     box-shadow: 0 5px 6px 0 rgba(132, 87, 76, 0.5);    
     .icon {
-        background: #F4816E;
+        background: #F73A64;
     }
     .icon:hover {
         background: #253237;
@@ -621,7 +626,7 @@ article {
 .card.post {
     a  {
         h3 {
-            color: #B99B8B;
+            color: #b48e7b;
         }
         p {
             color: #CBB1A4;
@@ -631,7 +636,7 @@ article {
     a:hover {
         text-decoration: none;
         h3 {
-            color: #b48e7b;
+            color: #FF3294;
             text-decoration: underline;
         }
     }
@@ -834,6 +839,22 @@ a.see-more:hover {
     
     article h1 {
         font-size: 3rem;
+        color: #F73A64;
+    }
+
+    article h2 {
+        border-bottom: 4px solid #F73A64;
+    }
+
+    article li {
+        list-style-type: none;
+    }
+
+    article li::before {
+        color: #F73A64;
+        content : "•";
+        padding-right: 0.7rem;
+        font-weight: 1000;
     }
 
     h1::first-letter {

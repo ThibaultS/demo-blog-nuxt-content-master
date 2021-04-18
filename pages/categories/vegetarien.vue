@@ -29,7 +29,11 @@
                 href="https://www.instagram.com/josiesrecipes/"
                 target="_blank"
               >
-                Instagram.
+                Instagram
+              </a>
+              et
+              <a target="_blank" href="https://www.facebook.com/josiesrecipes">
+                Facebook.
               </a>
             </p>
           </b-col>

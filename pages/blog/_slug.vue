@@ -31,10 +31,15 @@
         <p v-if="article.description" class="lead">
           {{ article.description }}
         </p>
-        <b-card class="mb-3 bg-secondary">
+        <b-card class="mb-4 bg-secondary">
           <div v-if="article.theme == 'Pâtes'">
-            Thème :
-            <a href="/categories/pates">Pâtes</a>
+            Thème : <a href="/categories/pates">Pâtes</a>
+          </div>
+          <div v-if="article.main_ingredient == 'Chocolat'">
+            A base de <a href="/categories/chocolat">chocolat</a>
+          </div>
+          <div v-if="article.theme == 'Gâteaux'">
+            Thème : <a href="/categories/gateaux">Gâteaux</a>
           </div>
           <div v-if="article.veggie">
             Cette recette est végétarienne.
@@ -53,14 +58,37 @@
           <div v-if="article.recipeYield">
             Quantité : pour {{ article.recipeYield }}
           </div>
+          <div v-if="article.url" class="mt-2">
+            <a :href="article.url" target="_blank">
+              <span class="icon icon-instagram"></span>
+            </a>
+          </div>
         </b-card>
         <nuxt-content :document="article" />
-        <p v-if="article.url">
-          <a :href="article.url" target="_blank">
-            <span class="icon icon-instagram"></span>
-          </a>
-        </p>
         <p class="pt-2">Publié le {{ formatDate(article.date) }}</p>
+        <div class="mb-3">
+          <h2>Ça pourrait vous intéresser</h2>
+          <div v-if="article.theme == 'Pâtes'">
+            <a href="/categories/pates">
+              Découvrez toutes mes recettes de pâtes.
+            </a>
+          </div>
+          <div v-if="article.main_ingredient == 'Chocolat'">
+            <a href="/categories/chocolat">
+              Découvrez tous mes desserts aux chocolat.
+            </a>
+          </div>
+          <div v-if="article.theme == 'Gâteaux'">
+            <a href="/categories/gateaux">
+              Découvrez toutes mes recettes de gâteaux.
+            </a>
+          </div>
+          <div v-if="article.veggie">
+            <a href="/categories/vegetarien">
+              Découvrez toutes mes recettes végératienne.
+            </a>
+          </div>
+        </div>
         <StickyEasterArticle />
       </div>
     </div>
