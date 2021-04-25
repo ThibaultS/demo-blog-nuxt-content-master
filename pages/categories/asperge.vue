@@ -110,7 +110,7 @@ export default {
   },
   data() {
     return {
-      title: 'Mes recette avec des asperges'
+      title: 'Mes recettes avec des asperges'
     }
   },
   head() {
