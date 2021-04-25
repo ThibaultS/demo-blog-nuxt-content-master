@@ -54,7 +54,8 @@ export default {
     // Doc: https://github.com/nuxt/content
     '@nuxt/content',
     'bootstrap-vue/nuxt',
-    '@nuxtjs/gtm'
+    '@nuxtjs/gtm',
+    '@nuxtjs/sitemap'
   ],
   gtm: {
     id: 'GTM-MX36K52'
@@ -68,6 +69,15 @@ export default {
       prism: {
         theme: 'prism-themes/themes/prism-material-oceanic.css'
       }
+    }
+  },
+  sitemap: {
+    hostname: 'https://josies-recipes.netlify.app/',
+    gzip: true,
+    routes: async () => {
+      const { $content } = require('@nuxt/content')
+      const articles = await $content('articles').only(['path']).fetch()
+      return articles.map((p) => p.path)
     }
   },
   /*
