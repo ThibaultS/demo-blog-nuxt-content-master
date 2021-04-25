@@ -14,7 +14,7 @@ main_ingredient : Courgette
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Facile
 with : 
 time : 40
 recipeYield : 2 personnes

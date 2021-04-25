@@ -14,7 +14,7 @@ theme :
 sweety_salty : 
 veggie : 
 country : Italie
-difficulty :
+difficulty : Facile
 with : 
 time : 30
 recipeYield : 2 personnes

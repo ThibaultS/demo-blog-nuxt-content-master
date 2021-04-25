@@ -1,7 +1,7 @@
 ---
 id: 45
 title: Panna cotta d'asperges
-description: 
+description: La panna cotta ce n'est pas forcément qu'en dessert. Découvrez cette entrée aux asperges.
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600509283/Recipes/20200627_pannacotta_asperges.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600509283/Recipes/20200627_pannacotta_asperges.jpg
 url: https://www.instagram.com/p/CB8kTELCSz8/
@@ -14,7 +14,7 @@ theme :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
 time : 45
 recipeYield : 2 personnes

@@ -15,7 +15,7 @@ theme : Gâteaux
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Difficile
 with : 
 time : 80
 recipeYield : 6-8 parts

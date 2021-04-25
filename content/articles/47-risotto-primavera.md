@@ -1,7 +1,7 @@
 ---
 id: 47
 title: Risotto primavera
-description: 
+description: Essayez ce délicieux risotto végétal avec des petits pois, des asperges et des fèves.
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600461023/Recipes/20200630_risotto_primavera.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600461023/Recipes/20200630_risotto_primavera.jpg
 url: https://www.instagram.com/p/CCEj34Hifqu/
@@ -9,12 +9,12 @@ alt:
 date : 30/06/2020
 inspiration :
 main_ingredient : Petit pois
-theme : Risottos
+theme : 
 sweety_salty : 
-veggie : 
+veggie : 1
 country :
-difficulty :
-with : 
+difficulty : Moyen
+with : Asperge
 time : 40
 recipeYield : 2 personnes
 published : 1
@@ -28,7 +28,7 @@ published : 1
  - 1 gros oignon
  - 50g de beurre
  - 5 cl de vin blanc sec
- - 1 tablette et demie de bouillon de volaille
+ - 1 tablette et demie de bouillon de végétal
  - 40g de parmesan râpé
  - 150g de parmesan pour la tuile
  - Sel, poivre

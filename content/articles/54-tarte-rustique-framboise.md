@@ -13,7 +13,7 @@ theme : Tartes sucrées
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
 time : 40
 recipeYield : 1 tarte

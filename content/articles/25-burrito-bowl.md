@@ -13,7 +13,7 @@ theme : Bowls
 sweety_salty : 
 veggie : 
 country : Mexique
-difficulty :
+difficulty : Facile
 with : 
 time : 20
 recipeYield : 2 personnes

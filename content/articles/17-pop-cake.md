@@ -14,7 +14,7 @@ inspiration :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
 time : 30
 recipeYield : 30-40 sucettes

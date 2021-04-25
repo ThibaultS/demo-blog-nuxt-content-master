@@ -13,7 +13,7 @@ theme : Gâteaux
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
 time : 60
 recipeYield : 10-12 cannelés

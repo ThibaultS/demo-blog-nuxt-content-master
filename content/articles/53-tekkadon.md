@@ -14,7 +14,7 @@ theme : Bowls
 sweety_salty : 
 veggie : 
 country : Japon
-difficulty :
+difficulty : Moyen
 with : 
 time : 45
 recipeYield : 2-3 personnes

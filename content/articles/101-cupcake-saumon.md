@@ -14,9 +14,9 @@ theme : Cakes salés
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
-time : 
+time : 40
 event :
 recipeYield : 8 cupcakes
 published : 1

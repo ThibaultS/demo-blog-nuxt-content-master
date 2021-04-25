@@ -1,7 +1,7 @@
 ---
 id: 44
 title: Asperges à la mayonnaise
-description: 
+description: Préparez en entrée des asperges avec une mayonnaise maison très aérée. Simple et efficace !
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600517509/Recipes/20200625_asperges.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600517509/Recipes/20200625_asperges.jpg
 url: https://www.instagram.com/p/CB3gmM0CTRd/
@@ -14,7 +14,7 @@ theme :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
 time : 30
 recipeYield : 2 personnes

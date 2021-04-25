@@ -14,7 +14,7 @@ theme : Gâteaux
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
 time : 60
 recipeYield : 20-30 sablés

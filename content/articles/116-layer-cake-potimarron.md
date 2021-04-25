@@ -14,9 +14,9 @@ theme : Gâteaux
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
-time : 
+time : 60
 event :
 recipeYield : 2 mini pièces montées
 published : 1

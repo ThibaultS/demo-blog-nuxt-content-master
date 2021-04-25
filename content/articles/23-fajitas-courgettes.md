@@ -13,7 +13,7 @@ theme :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
 time : 30
 recipeYield : 4 fajitas

@@ -14,9 +14,9 @@ theme : Pâtes
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Facile
 with : 
-time : 
+time : 30
 event :
 recipeYield : 3-4 personnes
 published : 1

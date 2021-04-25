@@ -14,9 +14,9 @@ theme :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
-time : 
+time : 120
 event :
 recipeYield : 40-50 mini meringues
 published : 1

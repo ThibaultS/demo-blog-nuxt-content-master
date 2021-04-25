@@ -13,7 +13,7 @@ theme : Tartes salées et pizzas
 sweety_salty : 
 veggie : 
 country : Mexique
-difficulty :
+difficulty : Facile
 with : 
 time : 60
 recipeYield : 1 tarte

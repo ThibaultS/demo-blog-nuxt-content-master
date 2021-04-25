@@ -15,9 +15,9 @@ theme :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Facile
 with : 
-time : 
+time : 30
 event :
 recipeYield : 8 blinis
 published : 1

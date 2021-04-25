@@ -1,7 +1,7 @@
 ---
 id: 27
 title: Salade au saumon
-description: 
+description: Une salade multicolore à base de saumon, asperges, carottes crues, radis et tomates !
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600509158/Recipes/20200519_salade_saumon.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600509158/Recipes/20200519_salade_saumon.jpg
 url: https://www.instagram.com/p/CAYFceWiRW-/
@@ -15,8 +15,8 @@ theme : Salades
 sweety_salty : 
 veggie : 
 country :
-difficulty :
-with : 
+difficulty : Facile
+with : Asperge
 time : 20
 recipeYield : 2 personnes
 published : 1

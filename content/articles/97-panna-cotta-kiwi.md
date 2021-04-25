@@ -16,7 +16,7 @@ theme :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Difficile
 with : 
 time : 40
 recipeYield : 2 personnes

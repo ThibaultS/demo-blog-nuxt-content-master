@@ -13,9 +13,9 @@ theme : Gâteaux
 sweety_salty : 
 veggie : 
 country :
-difficulty : 30
+difficulty : Moyen
 with : 
-time : Moyen
+time : 30
 recipeYield : 6 financiers
 published : 1
 ---

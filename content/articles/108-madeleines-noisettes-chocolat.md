@@ -14,9 +14,9 @@ theme : Gâteaux
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
-time : 
+time : 80
 event :
 recipeYield : 15-20 madeleines
 published : 1

@@ -14,9 +14,9 @@ theme : Cakes salés
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Moyen
 with : 
-time : 
+time : 100
 event :
 recipeYield : 1 cake
 published : 1

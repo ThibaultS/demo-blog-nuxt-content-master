@@ -14,7 +14,7 @@ theme : Pâtes
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Difficile
 with : 
 time : 45
 recipeYield : 2 personnes

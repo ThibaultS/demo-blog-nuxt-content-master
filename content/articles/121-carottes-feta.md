@@ -14,9 +14,9 @@ theme :
 sweety_salty : 1
 veggie : 1
 country :
-difficulty :
+difficulty : Facile
 with : 
-time : 
+time : 40
 event :
 recipeYield : 2 personnes en plat ou 4 personnes en accompagnement
 published : 1

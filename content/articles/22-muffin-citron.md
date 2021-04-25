@@ -13,7 +13,7 @@ theme : Gâteaux
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Difficile
 with : 
 time : 100
 recipeYield : 8-10 muffins

@@ -1,7 +1,7 @@
 ---
 id: 43
 title: Velouté froid d’asperges accompagné d’une burrata et de saumon fumé
-description: 
+description: Cette assiette froide est parfaite pour un déjeuner de printemps. En quelques minutes c'est prêt.
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600509401/Recipes/20200624_burrata_asperges.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600509401/Recipes/20200624_burrata_asperges.jpg
 url: https://www.instagram.com/p/CB04vjaC4ZT/
@@ -15,7 +15,7 @@ tag : Healthy
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Facile
 with : 
 time : 20
 recipeYield : 4 personnes
@@ -23,7 +23,7 @@ published : 1
 ---
 
 ## Ingrédients
- - 600 g d'asperges vertes (réservez 2 asperges pour la décoration)
+ - 600g d'asperges vertes (réservez 2 asperges pour la décoration)
  - 1 oignon
  - 1 noisette de beurre
  - 1 bouillon de poule

@@ -66,26 +66,36 @@
         </b-card>
         <nuxt-content :document="article" />
         <p class="pt-2">Publié le {{ formatDate(article.date) }}</p>
-        <div class="mb-3">
+        <div class="mb-3 rebound-block">
           <h2>Ça pourrait vous intéresser</h2>
-          <div v-if="article.theme == 'Pâtes'">
-            <a href="/categories/pates">
+          <div v-if="article.theme == 'Pâtes'" class="mb-1">
+            <a class="btn btn-secondary" href="/categories/pates">
               Découvrez toutes mes recettes de pâtes.
             </a>
           </div>
-          <div v-if="article.main_ingredient == 'Chocolat'">
-            <a href="/categories/chocolat">
+          <div v-if="article.main_ingredient == 'Chocolat'" class="mb-1">
+            <a class="btn btn-secondary" href="/categories/chocolat">
               Découvrez tous mes desserts aux chocolat.
             </a>
           </div>
-          <div v-if="article.theme == 'Gâteaux'">
-            <a href="/categories/gateaux">
+          <div v-if="article.theme == 'Gâteaux'" class="mb-1">
+            <a class="btn btn-secondary" href="/categories/gateaux">
               Découvrez toutes mes recettes de gâteaux.
             </a>
           </div>
-          <div v-if="article.veggie">
-            <a href="/categories/vegetarien">
-              Découvrez toutes mes recettes végératienne.
+          <div v-if="article.veggie" class="mb-1">
+            <a class="btn btn-secondary" href="/categories/vegetarien">
+              Découvrez toutes mes recettes végératiennes.
+            </a>
+          </div>
+          <div
+            v-if="
+              article.main_ingredient == 'Asperge' || article.with == 'Asperge'
+            "
+            class="mb-1"
+          >
+            <a class="btn btn-secondary" href="/categories/asperge">
+              Découvrez toutes mes recettes avec des asperges.
             </a>
           </div>
         </div>

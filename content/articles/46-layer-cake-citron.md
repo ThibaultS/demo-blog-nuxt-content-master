@@ -13,7 +13,7 @@ theme : Gâteaux
 sweety_salty : 
 veggie : 1
 country :
-difficulty :
+difficulty : Difficile
 with : 
 time : 90
 recipeYield : 1 gâteau

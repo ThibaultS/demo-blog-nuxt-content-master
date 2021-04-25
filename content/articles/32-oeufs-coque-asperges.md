@@ -1,7 +1,7 @@
 ---
 id: 32
 title: Œufs à la coque et ses mouillettes d’asperges et de saumon
-description: 
+description: Remplacez vos mouillettes de pain par des asperges pour vos oeufs à la coques !
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600460919/Recipes/20200529_oeufs_coque.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600460919/Recipes/20200529_oeufs_coque.jpg
 url: https://www.instagram.com/p/CAx6z0rC_wM/
@@ -14,8 +14,8 @@ theme :
 sweety_salty : 
 veggie : 
 country :
-difficulty :
-with : 
+difficulty : Facile
+with : Asperge
 time : 15
 recipeYield : 2 personnes
 published : 1

@@ -16,7 +16,7 @@ sweety_salty :
 veggie : 
 country :
 difficulty : Moyen
-with : 
+with : Asperge
 time : 80
 calendrier: 23
 recipeYield: 2 personnes

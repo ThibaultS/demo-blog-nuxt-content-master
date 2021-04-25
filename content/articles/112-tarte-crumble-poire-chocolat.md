@@ -14,9 +14,9 @@ theme : Tartes sucrées
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Facile
 with : 
-time : 
+time : 60
 event :
 recipeYield : 1 grande tarte ou 4 tartelettes
 published : 1

@@ -13,7 +13,7 @@ main_ingredient : Potiron
 sweety_salty : 
 veggie : 
 country :
-difficulty :
+difficulty : Facile
 with : 
 time : 25
 recipeYield : 1 tarte
