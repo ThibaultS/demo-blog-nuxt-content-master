@@ -1,7 +1,7 @@
 ---
 id: 123
 title: Gratin de carottes, betteraves et pommes de terre 
-description: 
+description: "En hiver, il n'y a rien de mieux qu'un bon gratin. Découvrez donc cette version à base de carottes, betteraves et pommes de terre !"
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1606416872/Recipes/20201127_gratin_carottes_betteraves.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1606416872/Recipes/20201127_gratin_carottes_betteraves.jpg
 url: https://www.instagram.com/p/CIGurD7pNyR/

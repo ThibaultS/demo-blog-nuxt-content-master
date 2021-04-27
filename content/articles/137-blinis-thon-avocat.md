@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CIyUSoSpkFn/
 alt: 
 date : 14/12/2020
 inspiration : 
-description: 
+description: En amuse bouche ou en entrée, ces blinis ravieront vos convives !
 event : "Noël"
 main_ingredient : Thon
 theme : 
