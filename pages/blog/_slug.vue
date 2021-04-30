@@ -70,22 +70,27 @@
           <h2>Ça pourrait vous intéresser</h2>
           <div v-if="article.theme == 'Pâtes'" class="mb-1">
             <a class="btn btn-secondary" href="/categories/pates">
-              Découvrez toutes mes recettes de pâtes.
+              Découvrez toutes mes recettes de pâtes
             </a>
           </div>
           <div v-if="article.main_ingredient == 'Chocolat'" class="mb-1">
             <a class="btn btn-secondary" href="/categories/chocolat">
-              Découvrez tous mes desserts aux chocolat.
+              Découvrez tous mes desserts aux chocolat
             </a>
           </div>
           <div v-if="article.theme == 'Gâteaux'" class="mb-1">
             <a class="btn btn-secondary" href="/categories/gateaux">
-              Découvrez toutes mes recettes de gâteaux.
+              Découvrez toutes mes recettes de gâteaux
             </a>
           </div>
           <div v-if="article.veggie" class="mb-1">
             <a class="btn btn-secondary" href="/categories/vegetarien">
-              Découvrez toutes mes recettes végératiennes.
+              Découvrez toutes mes recettes végératiennes
+            </a>
+          </div>
+          <div v-if="article.theme == 'Salades'" class="mb-1">
+            <a class="btn btn-secondary" href="/categories/salades">
+              Découvrez toutes mes recettes de salade
             </a>
           </div>
           <div

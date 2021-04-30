@@ -32,6 +32,6 @@ published : 1
  - Basilic frais
 
 ## Recette
-Coupez votre bagel en deux, faites le griller au grille pain ou au four quelques minutes. Coupez les tomates cerises en deux ou en trois. Coupez les boules de mozza en deux.
+Coupez un bagel en deux, faites le griller au grille pain ou au four quelques minutes. Coupez les tomates cerises en deux ou en trois. Coupez les boules de mozza en deux.
 
 Quand les moitiés de bagel sont grillés, tartinez de pesto. Déposez les tomates en alternant avec la mozza. Disposez quelques feuilles de basilic. Plus qu’à déguster ! Pour ma part, j'ai mangé une moitié avec un petit bol de soupe en accompagnement.
