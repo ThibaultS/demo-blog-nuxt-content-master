@@ -10,7 +10,7 @@ date : '2021-04-20'
 inspiration : Sarah Mainguy
 description: "Le restaurant gastronomique s'invite à la maison avec ces asperges en tagliatelles !"
 main_ingredient : Asperge
-theme : 
+theme : Salades
 tag : Healthy
 sweety_salty : 
 veggie : 
