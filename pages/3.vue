@@ -48,8 +48,25 @@
                       <b-card-title title-tag="h3">
                         {{ article.title }}
                       </b-card-title>
-                      <p class="lead">{{ article.description }}</p>
-                      <p class="mt-3">{{ article.date }}</p>
+                      <p class="lead mb-3">{{ article.description }}</p>
+                      <div class="infos-card">
+                        <div v-if="article.veggie">
+                          <i class="fas fa-seedling"></i>
+                          Recette végétarienne
+                        </div>
+                        <div v-if="article.country">
+                          <i class="fas fa-globe-americas"></i>
+                          {{ article.country }}
+                        </div>
+                        <div v-if="article.difficulty">
+                          <i class="fas fa-check-double"></i>
+                          {{ article.difficulty }}
+                        </div>
+                        <div v-if="article.time">
+                          <i class="fas fa-stopwatch"></i>
+                          {{ article.time }} min
+                        </div>
+                      </div>
                     </b-card-body>
                   </b-col>
                 </b-row>
@@ -61,7 +78,7 @@
           <b-col>
             <div class="flex items-center">
               <nuxt-link
-                to="/4"
+                to="/3"
                 class="flex-1 py-2 px-4 rounded mb-5 text-center see-more"
               >
                 Voir plus de recettes
@@ -87,7 +104,14 @@ export default {
         'thumbnail',
         'date',
         'url',
-        'published'
+        'published',
+        'theme',
+        'main_ingredient',
+        'time',
+        'difficulty',
+        'country',
+        'veggie',
+        'sweety_salty'
       ])
       .sortBy('id', 'desc')
       .where({ published: 1 })

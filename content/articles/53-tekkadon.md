@@ -9,7 +9,7 @@ alt:
 date : 12/07/2020
 inspiration :
 category : "Poissons et crustacés"
-main_ingredient : Truite
+main_ingredient : Thon
 theme : Bowls
 sweety_salty : 
 veggie : 

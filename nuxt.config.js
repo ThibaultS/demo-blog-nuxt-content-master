@@ -20,7 +20,11 @@ export default {
       { property: 'og:locale	', content: 'fr-FR' },
       { property: 'twitter:card	', content: 'summary_large_image' }
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }]
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }],
+    script: [
+      { src: 'https://kit.fontawesome.com/0bafaa22a3.js' },
+      { crossorigin: 'anonymous' }
+    ]
   },
   /*
    ** Global CSS

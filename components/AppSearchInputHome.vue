@@ -1,11 +1,11 @@
 <template>
-  <div class="search-container-home mb-4">
+  <div class="search-container-home mb-2">
     <label class="sr-only" for="search">Rechercher une recette</label>
     <input
       v-model="searchQuery"
       type="search"
       autocomplete="off"
-      placeholder="Rechercher une recette"
+      placeholder="Recherchez une recette"
       class="search-recipes"
     />
     <ul v-if="articles.length" class="search-list-recipes">

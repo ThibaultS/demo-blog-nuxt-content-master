@@ -9,7 +9,7 @@
       </b-col>
     </b-row>
     <!-- <StickyValentine /> -->
-    <b-row class="row-cols-1 row-cols-sm-4 row-cols-lg-4 mb-4">
+    <b-row class="row-cols-1 row-cols-sm-4 row-cols-lg-4 mb-2">
       <b-col class="mb-2">
         <nuxt-link
           class="text-center card push-category btn-category push-easter push-event"
@@ -58,6 +58,9 @@
           </b-card-body>
         </nuxt-link>
       </b-col>
+    </b-row>
+    <b-row class="mb-4">
+      <CategoriesLinks />
     </b-row>
   </div>
 </template>

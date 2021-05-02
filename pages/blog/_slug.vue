@@ -32,35 +32,54 @@
           {{ article.description }}
         </p>
         <b-card class="mb-4 bg-secondary">
-          <div v-if="article.theme == 'Pâtes'">
-            Thème : <a href="/categories/pates">Pâtes</a>
-          </div>
-          <div v-if="article.main_ingredient == 'Chocolat'">
-            A base de <a href="/categories/chocolat">chocolat</a>
-          </div>
-          <div v-if="article.theme == 'Gâteaux'">
-            Thème : <a href="/categories/gateaux">Gâteaux</a>
-          </div>
-          <div v-if="article.veggie">
-            Cette recette est végétarienne.
-            <a href="/categories/vegetarien">
-              Découvrez toutes mes recettes végératienne.
-            </a>
-          </div>
-          <div v-if="article.sweety_salty">Recette sucrée-salée</div>
-          <div v-if="article.country">Origine : {{ article.country }}</div>
-          <div v-if="article.difficulty">
-            Difficulté : {{ article.difficulty }}
-          </div>
-          <div v-if="article.time">
-            Temps de préparation et cuisson : {{ article.time }} min
-          </div>
-          <div v-if="article.recipeYield">
-            Quantité : pour {{ article.recipeYield }}
+          <div class="detail-infos-card">
+            <div v-if="article.theme == 'Pâtes'">
+              Thème : <a href="/categories/pates" class="link">Pâtes</a>
+            </div>
+            <div v-if="article.main_ingredient == 'Chocolat'">
+              A base de <a href="/categories/chocolat" class="link">chocolat</a>
+            </div>
+            <div v-if="article.theme == 'Gâteaux'">
+              Thème : <a href="/categories/gateaux" class="link">Gâteaux</a>
+            </div>
+            <div
+              v-if="
+                article.main_ingredient == 'Saumon' ||
+                article.main_ingredient == 'Thon' ||
+                article.main_ingredient == 'Daurade' ||
+                article.main_ingredient == 'Lotte'
+              "
+            >
+              Thème :
+              <a href="/categories/poissons-et-crustace" class="link">
+                Poissons et crustacés
+              </a>
+            </div>
+            <div v-if="article.veggie">
+              <i class="fas fa-seedling"></i>
+              <a href="/categories/vegetarien" class="link">Végératien</a>
+            </div>
+            <div v-if="article.sweety_salty">Recette sucrée salée</div>
+            <div v-if="article.country">
+              <i class="fas fa-globe-americas"></i>
+              Origine : {{ article.country }}
+            </div>
+            <div v-if="article.difficulty">
+              <i class="fas fa-check-double"></i>
+              {{ article.difficulty }}
+            </div>
+            <div v-if="article.time">
+              <i class="fas fa-stopwatch"></i>
+              {{ article.time }} min
+            </div>
+            <div v-if="article.recipeYield">
+              <i class="fas fa-utensils"></i>
+              Pour {{ article.recipeYield }}
+            </div>
           </div>
           <div v-if="article.url" class="mt-2">
-            <a :href="article.url" target="_blank">
-              <span class="icon icon-instagram"></span>
+            <a :href="article.url" target="_blank" class="icon-insta">
+              <i class="fab fa-instagram fa-2x"></i>
             </a>
           </div>
         </b-card>
@@ -68,43 +87,65 @@
         <p class="pt-2">Publié le {{ formatDate(article.date) }}</p>
         <div class="mb-3 rebound-block">
           <h2>Ça pourrait vous intéresser</h2>
-          <div v-if="article.theme == 'Pâtes'" class="mb-1">
-            <a class="btn btn-secondary" href="/categories/pates">
-              Découvrez toutes mes recettes de pâtes
-            </a>
-          </div>
-          <div v-if="article.main_ingredient == 'Chocolat'" class="mb-1">
-            <a class="btn btn-secondary" href="/categories/chocolat">
-              Découvrez tous mes desserts aux chocolat
-            </a>
-          </div>
-          <div v-if="article.theme == 'Gâteaux'" class="mb-1">
-            <a class="btn btn-secondary" href="/categories/gateaux">
-              Découvrez toutes mes recettes de gâteaux
-            </a>
-          </div>
-          <div v-if="article.veggie" class="mb-1">
-            <a class="btn btn-secondary" href="/categories/vegetarien">
-              Découvrez toutes mes recettes végératiennes
-            </a>
-          </div>
-          <div v-if="article.theme == 'Salades'" class="mb-1">
-            <a class="btn btn-secondary" href="/categories/salades">
-              Découvrez toutes mes recettes de salade
-            </a>
-          </div>
-          <div
+          <a
+            v-if="article.theme == 'Pâtes'"
+            class="link mr-2"
+            href="/categories/pates"
+          >
+            Pâtes
+          </a>
+          <a
+            v-if="article.main_ingredient == 'Chocolat'"
+            class="link mr-2"
+            href="/categories/chocolat"
+          >
+            Desserts au chocolat
+          </a>
+          <a
+            v-if="article.theme == 'Gâteaux'"
+            class="link mr-2"
+            href="/categories/gateaux"
+          >
+            Gâteaux
+          </a>
+          <a
+            v-if="article.veggie"
+            class="link mr-2"
+            href="/categories/vegetarien"
+          >
+            Végératien
+          </a>
+          <a
+            v-if="
+              article.main_ingredient == 'Saumon' ||
+              article.main_ingredient == 'Thon' ||
+              article.main_ingredient == 'Daurade' ||
+              article.main_ingredient == 'Lotte'
+            "
+            class="link mr-2"
+            href="/categories/poissons-et-crustaces"
+          >
+            Poissons et crustacés
+          </a>
+          <a
+            v-if="article.theme == 'Salades'"
+            class="link mr-2"
+            href="/categories/salades"
+          >
+            Salades
+            <i class="fas fa-long-arrow-alt-right"></i>
+          </a>
+          <a
             v-if="
               article.main_ingredient == 'Asperge' || article.with == 'Asperge'
             "
-            class="mb-1"
+            class="link mr-2"
+            href="/categories/asperge"
           >
-            <a class="btn btn-secondary" href="/categories/asperge">
-              Découvrez toutes mes recettes avec des asperges.
-            </a>
-          </div>
+            Asperges
+            <i class="fas fa-long-arrow-alt-right"></i>
+          </a>
         </div>
-        <StickyEasterArticle />
       </div>
     </div>
   </article>

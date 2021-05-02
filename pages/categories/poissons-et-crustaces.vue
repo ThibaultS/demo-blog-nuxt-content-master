@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="category-page">
     <div>
       <b-navbar
         type="dark"
@@ -15,54 +15,82 @@
             />
           </nuxt-link>
         </b-navbar-brand>
-        <b-nav-text class="title-home">
-          <h1>Poisson et crustacés</h1>
-        </b-nav-text>
         <!-- Right aligned nav items -->
-        <b-navbar-nav class="ml-auto pt-2">
-          <AppSearchInput />
-          <a
-            href="https://www.instagram.com/josiesrecipes/"
-            target="_blank"
-            class="mr-1 ml-3 mt-1 self-center text-white font-bold hover:underline insta-link"
-          >
-            Instagram
-          </a>
-        </b-navbar-nav>
+        <NavItems />
       </b-navbar>
       <b-container fluid="lg" class="animate animate3 slideUp">
-        <b-row class="content-row">
-          <b-col>
-            <b-card-group id="posts" columns>
-              <b-card
-                v-for="article of articles"
-                :key="article.slug"
-                class="post bg-tertiary"
-                no-body
+        <b-row>
+          <b-col class="intro mt-5 mb-5">
+            <h1>Mes recettes à base de poissons et crustacés</h1>
+            <p class="lead">
+              Retrouvez sur cette page des recettes de poissons et de crustacés
+              pour tous les goûts : saumon, thon, bar, crevette, cabillaud,...
+              Pour découvrir mes nouvelles recettes je vous invite à me suivre
+              sur
+              <a
+                href="https://www.instagram.com/josiesrecipes/"
+                target="_blank"
               >
-                <NuxtLink
-                  :to="{ name: 'blog-slug', params: { slug: article.slug } }"
-                >
-                  <div class="img-container">
-                    <b-card-img-lazy
-                      :src="article.thumbnail"
-                      top
-                      blank-color="#d0b8ac"
-                      loading="lazy"
-                      fluid
-                      alt=""
-                    >
-                    </b-card-img-lazy>
-                  </div>
-                  <b-card-body>
-                    <b-card-title title-tag="h3">
-                      {{ article.title }}
-                    </b-card-title>
-                    <p>{{ article.date }}</p>
-                  </b-card-body>
-                </NuxtLink>
-              </b-card>
-            </b-card-group>
+                Instagram
+              </a>
+              et
+              <a target="_blank" href="https://www.facebook.com/josiesrecipes">
+                Facebook.
+              </a>
+            </p>
+          </b-col>
+        </b-row>
+        <b-row
+          id="posts"
+          class="row-cols-1 row-cols-sm-1 row-cols-lg-1 row-cols-xl-2"
+        >
+          <b-col v-for="article of articles" :key="article.slug" class="mb-3">
+            <b-card class="post horizontal" no-body>
+              <NuxtLink
+                :to="{ name: 'blog-slug', params: { slug: article.slug } }"
+              >
+                <b-row>
+                  <b-col md="5">
+                    <div class="img-container">
+                      <b-card-img-lazy
+                        :src="article.thumbnail"
+                        left
+                        blank-color="#d0b8ac"
+                        loading="lazy"
+                        alt=""
+                      >
+                      </b-card-img-lazy>
+                    </div>
+                  </b-col>
+                  <b-col md="7">
+                    <b-card-body>
+                      <b-card-title title-tag="h3">
+                        {{ article.title }}
+                      </b-card-title>
+                      <p class="lead mb-3">{{ article.description }}</p>
+                      <div class="infos-card">
+                        <div v-if="article.veggie">
+                          <i class="fas fa-seedling"></i>
+                          Recette végétarienne
+                        </div>
+                        <div v-if="article.country">
+                          <i class="fas fa-globe-americas"></i>
+                          {{ article.country }}
+                        </div>
+                        <div v-if="article.difficulty">
+                          <i class="fas fa-check-double"></i>
+                          {{ article.difficulty }}
+                        </div>
+                        <div v-if="article.time">
+                          <i class="fas fa-stopwatch"></i>
+                          {{ article.time }} min
+                        </div>
+                      </div>
+                    </b-card-body>
+                  </b-col>
+                </b-row>
+              </NuxtLink>
+            </b-card>
           </b-col>
         </b-row>
       </b-container>
@@ -82,11 +110,38 @@ export default {
         'img',
         'thumbnail',
         'date',
-        'url'
+        'url',
+        'published',
+        'theme',
+        'main_ingredient',
+        'time',
+        'difficulty',
+        'country',
+        'veggie',
+        'sweety_salty'
       ])
       .sortBy('id', 'desc')
       .limit(30)
-      .where({ category: 'Poissons et crustacés' })
+      .where({
+        main_ingredient: {
+          $in: [
+            'Saumon',
+            'Daurade',
+            'Thon',
+            'Crevette',
+            'Bar',
+            'Cabillaud',
+            'Lotte',
+            'Saint-Jacques',
+            'Huître',
+            'Crabe',
+            'Truite',
+            'Coques',
+            'Palourde',
+            'Moule'
+          ]
+        }
+      })
       .fetch()
     return {
       articles
@@ -94,7 +149,7 @@ export default {
   },
   data() {
     return {
-      title: 'Mes recette de poissons et crustacés'
+      title: 'Mes recettes de poissons et crustacés'
     }
   },
   head() {

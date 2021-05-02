@@ -22,11 +22,12 @@
         <b-row>
           <b-col class="intro mt-5 mb-5">
             <h1>Mes recettes de salades</h1>
-            <!-- <p class="lead">
-              Lorsque la saison des asperges arrivent, je suis la plus heureuse
-              du monde. Déacouvrez ici mes recettes à faire à l'arrivée du
-              printemps. Pour découvrir mes nouvelles recettes je vous invite à
-              me suivre sur
+            <p class="lead">
+              Il y a tellement de possibilité pour faire des salades, lorsque le
+              printemps arrive. Retrouvez sur cette page toutes mes recettes de
+              salades avec : des radis, de la betterave, du maïs, des carottes,
+              ou encore des tomates. Pour découvrir mes nouvelles recettes je
+              vous invite à me suivre sur
               <a
                 href="https://www.instagram.com/josiesrecipes/"
                 target="_blank"
@@ -37,7 +38,7 @@
               <a target="_blank" href="https://www.facebook.com/josiesrecipes">
                 Facebook.
               </a>
-            </p> -->
+            </p>
           </b-col>
         </b-row>
         <b-row
@@ -67,8 +68,25 @@
                       <b-card-title title-tag="h3">
                         {{ article.title }}
                       </b-card-title>
-                      <p class="lead">{{ article.description }}</p>
-                      <p class="mt-3">{{ article.date }}</p>
+                      <p class="lead mb-3">{{ article.description }}</p>
+                      <div class="infos-card">
+                        <div v-if="article.veggie">
+                          <i class="fas fa-seedling"></i>
+                          Recette végétarienne
+                        </div>
+                        <div v-if="article.country">
+                          <i class="fas fa-globe-americas"></i>
+                          {{ article.country }}
+                        </div>
+                        <div v-if="article.difficulty">
+                          <i class="fas fa-check-double"></i>
+                          {{ article.difficulty }}
+                        </div>
+                        <div v-if="article.time">
+                          <i class="fas fa-stopwatch"></i>
+                          {{ article.time }} min
+                        </div>
+                      </div>
                     </b-card-body>
                   </b-col>
                 </b-row>
@@ -94,11 +112,14 @@ export default {
         'thumbnail',
         'date',
         'url',
-        'event',
-        'category',
+        'published',
         'theme',
         'main_ingredient',
-        'with'
+        'time',
+        'difficulty',
+        'country',
+        'veggie',
+        'sweety_salty'
       ])
       .sortBy('id', 'desc')
       .limit(30)
