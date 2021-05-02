@@ -24,7 +24,7 @@
             <h1>Mes recettes de salades</h1>
             <!-- <p class="lead">
               Lorsque la saison des asperges arrivent, je suis la plus heureuse
-              du monde. Découvrez ici mes recettes à faire à l'arrivée du
+              du monde. Déacouvrez ici mes recettes à faire à l'arrivée du
               printemps. Pour découvrir mes nouvelles recettes je vous invite à
               me suivre sur
               <a
