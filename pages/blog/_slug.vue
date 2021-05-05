@@ -133,7 +133,6 @@
             href="/categories/salades"
           >
             Salades
-            <i class="fas fa-long-arrow-alt-right"></i>
           </a>
           <a
             v-if="
@@ -143,7 +142,6 @@
             href="/categories/asperge"
           >
             Asperges
-            <i class="fas fa-long-arrow-alt-right"></i>
           </a>
         </div>
       </div>

@@ -65,7 +65,7 @@
                       <div class="infos-card">
                         <div v-if="article.veggie">
                           <i class="fas fa-seedling"></i>
-                          Recette végétarienne
+                          Végétarien
                         </div>
                         <div v-if="article.country">
                           <i class="fas fa-globe-americas"></i>
