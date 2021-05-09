@@ -7,7 +7,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 url: https://www.instagram.com/p/CHI0C35pIkp/
 alt: 
 date : 03/11/2020
-inspiration : "Chef Zanoni Simone"
+inspiration : "Simone Zanoni"
 category : "Pâtes"
 main_ingredient : Crevette
 theme : Pâtes

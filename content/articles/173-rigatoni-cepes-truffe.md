@@ -7,7 +7,7 @@ bkg :
 url: https://www.instagram.com/p/CLha17Rpyl1/
 alt: 
 date : '2021-02-20'
-inspiration : Chef Zanoni Simone
+inspiration : Simone Zanoni
 description: Soyons honnêtes, la meilleur recette de pâtes c'est les pâtes à la truffe. Essayez donc cette recette délicieuse.
 main_ingredient : Truffe
 theme : Pâtes
