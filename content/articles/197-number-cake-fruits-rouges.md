@@ -43,7 +43,8 @@ Pour la crème :
  - 50g d’eau
  - 250g de beurre mou
  - 1 c.à.s d’arôme vanille
-+
+
+Pour le montage et la décoration :
  - 1 barquette de fraise
  - 1 barquette de framboise
  - 1 pot de confiture aux fruits rouges
