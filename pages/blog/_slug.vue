@@ -42,6 +42,9 @@
             <div v-if="article.theme == 'Gâteaux'">
               Thème : <a href="/categories/gateaux" class="link">Gâteaux</a>
             </div>
+            <div v-if="article.theme == 'Salades'">
+              Thème : <a href="/categories/salades" class="link">Salades</a>
+            </div>
             <div
               v-if="
                 article.main_ingredient == 'Saumon' ||
