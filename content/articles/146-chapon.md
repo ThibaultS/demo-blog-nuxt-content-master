@@ -43,7 +43,7 @@ Pour la sauce (2 utilisations) :
  - 1 noix de beurre 
  - Sel, poivre 
 
-## Recette
+## Recette détaillée
 Préchauffez votre four à 180°. Dans un plat allant au four, mettez les cuisses de chapon. Salez, poivrez-les et ajoutez une noix de beurre sur chaque cuisse. Ajoutez le vin dans le fond du plat. 
 
 À côté, lavez vos pommes de terre et vos carottes. Sur une plaque de cuisson recouverte d'un papier de cuisson, disposez les légumes et aspergez d’un filet d’huile d’olive, salez, poivrez et mélangez avec vos mains. Étalez harmonieusement afin que vos légumes aient de la place. 

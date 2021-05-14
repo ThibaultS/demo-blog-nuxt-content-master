@@ -41,7 +41,7 @@ Pour la décoration :
  - Colorants alimentaires
  - Billes alimentaires blanches
 
-## Recette
+## Recette détaillée
 Dans un cul de poule, versez la farine tamisée. Ajoutez le beurre coupé en morceaux. Malaxez et sablez du bout des doigts la farine. Battez l'oeuf et incorporez-le, ainsi que l'amande en poudre, le sucre glace, le sel et la vanille. Mélangez rapidement à l’aide d’une maryse (ou une spatule en bois, une corne) pour rassembler les éléments puis formez une boule de pâte homogène. Déposez la préparation sur le plan de travail fariné. Fraisez la pâte avec la paume de la main en écrasant celle-ci et la poussant la paume vers l’avant pour bien homogénéiser tous les ingrédients. Aplatissez la pâte en forme de disque sur une épaisseur de 1 cm puis enveloppez-la de film alimentaire et réservez pendant 30 minutes au réfrigérateur.
 
 Sortez et étalez la pâte, détaillez vos biscuits avec un emporte pièce en forme de lapin, disposez les sur du papier cuisson et enfournez-les 10 min à 180 degrés.

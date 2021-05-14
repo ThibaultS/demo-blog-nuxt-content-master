@@ -33,7 +33,7 @@ published : 1
  - Caramel beurre salé Salidou
  - Gros sel
 
-## Recette
+## Recette détaillée
 Versez la farine dans un saladier avec le cacao, la poudre d’amande, la levure, le sucre, le beurre coupé en dés et enfin l’œuf. Commencez à mélanger avec les doigts. Sablez la pâte légèrement puis pétrissez-la jusqu’à obtenir une pâte homogène. Reformez la pâte en boule et continuez ainsi jusqu’à ce que la pâte forme une boule bien homogène.
 
 Déposez du papier sulfurisé sur une plaque allant au four. Réalisez 15 boules de la même taille. Aplatissez-les légèrement puis réalisez avec votre pouce un creux au milieu du sablé. Faites préchauffer votre four à 180°C et enfournez pour 15 à 20 minutes, le temps qu’ils soient joliment dorés.

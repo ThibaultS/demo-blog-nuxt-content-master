@@ -21,12 +21,12 @@
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>
           <b-col class="intro mt-5 mb-5">
-            <h1>Mes recettes avec des asperges</h1>
+            <h1>Mes recettes en 30 minutes chrono</h1>
             <p class="lead">
-              Lorsque la saison des asperges arrivent, je suis la plus heureuse
-              du monde. Découvrez ici mes recettes à faire à l'arrivée du
-              printemps. Pour découvrir mes nouvelles recettes je vous invite à
-              me suivre sur
+              Vous pensez ne pas avoir le temps de cuisiner ? Vous avez bien 30
+              minutes devant vous ! Retrouvez la liste de mes recettes à
+              préparer en moins de 30 minutes montre en main. Pour découvrir mes
+              nouvelles recettes je vous invite à me suivre sur
               <a
                 href="https://www.instagram.com/josiesrecipes/"
                 target="_blank"
@@ -122,7 +122,7 @@ export default {
       ])
       .sortBy('id', 'desc')
       .limit(50)
-      .search('asperge')
+      .where({ time: { $lte: 30 } })
       .fetch()
     return {
       articles
@@ -130,7 +130,7 @@ export default {
   },
   data() {
     return {
-      title: 'Mes recettes avec des asperges'
+      title: 'Mes recettes en moins de 30 minutes chrono'
     }
   },
   head() {
@@ -141,7 +141,7 @@ export default {
           hid: 'description',
           name: 'description',
           content:
-            'Toutes mes recettes avec des asperges à tester au printemps.'
+            'Vous pensez ne pas avoir le temps de cuisiner ? Vous avez bien 30 minutes devant vous ! Retrouvez la liste de mes recettes à préparer en moins de 30 minutes montre en main.'
         },
         {
           hid: 'og:image',

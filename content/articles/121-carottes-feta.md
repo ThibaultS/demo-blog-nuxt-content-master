@@ -31,5 +31,5 @@ published : 1
  - 1 tige d’aneth
  - Sel, poivre
 
-## Recette
+## Recette détaillée
 Préchauffez le four à 180 °C. Coupez les fanes et épluchez les carottes. Placez-les ensuite dans un grand plat allant au four. Arrosez-les d’huile d’olive et de miel puis assaisonnez-les de sel et de poivre. Enfournez-les et laissez-les rôtir environ 30 min. Retirez les carottes du four, saupoudrez-les feta émiettée, de grains de grenade et de quelques feuilles d'aneth. À manger chaud.

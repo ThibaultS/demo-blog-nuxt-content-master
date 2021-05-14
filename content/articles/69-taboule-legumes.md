@@ -35,7 +35,7 @@ published : 1
  - Moutarde au basilic
  - Sel, poivre
 
-## Recette
+## Recette détaillée
 Faites cuire les perles de blé dans de l’eau bouillante le temps indiqué sur la boîte. Puis laissez refroidir. 
 
 Coupez les poivrons en 4 en enlevant les pépins et la partie blanche. Brûlez la peau des poivrons au grill dans le four. Une fois que la peau est noire, emballez les poivrons dans un sac hermétique jusqu’à ce qu’ils refroidissent. Épluchez les par la suite et coupez les en petits dés. Épluchez les carottes et la courgette et coupez les en petit dés. Posez les sur une plaque de papier de cuisson, ajoutez un filet d’huile en olive, un filet de miel, du sel et du poivre et mélangez. Mettez le tout au four 30 minutes à 200°C.

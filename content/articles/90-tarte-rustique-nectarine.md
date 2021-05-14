@@ -32,7 +32,7 @@ published : 1
  - 1 càs de jus de citron vert + des zestes
  - 1/2 càc de vanille en poudre
 
-## Recette
+## Recette détaillée
 Pour la pâte sablée : dans un bol, mélangez le beurre mou, le sucre, la poudre d’amandes; l’oeuf et la farine. Pétrissez jusqu’à obtenir une boule de pâte homogène. Filmez et réservez au frais 1h. Préchauffez votre four à 180°C.
 
 Abaissez la pâte pour formez un rond (d’environ 30cm de diamètre) puis placez-la sur une plaque recouverte de papier cuisson. Lavez les nectarines et coupez les en tranches. Placez les tranches de nectarines dans un saladier. Ajoutez-y 1 càs de sucre roux, le jus de citron, la maïzena et la vanille et mélangez bien.

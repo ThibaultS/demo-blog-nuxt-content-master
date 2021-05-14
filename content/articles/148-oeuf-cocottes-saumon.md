@@ -35,7 +35,7 @@ published : 1
  - Sel et poivre du moulin
  - 1 pâte feuilletée ou du pain
 
-## Recette
+## Recette détaillée
 Préchauffez votre four à 200°C.
 
 Détaillez votre pâte feuilletée avec les emportes pièces de votre choix. Ça peut être aussi des longues tiges pour faire des mouillettes. Enfournez le temps indiqué sur l’emballage de la pâte. Vérifiez régulièrement. Quand c’est bien doré vous pouvez retirer.

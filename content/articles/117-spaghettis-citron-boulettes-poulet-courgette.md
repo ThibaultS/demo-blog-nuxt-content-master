@@ -40,7 +40,7 @@ Pâtes au citron :
  - 115g de spaghetti
  - 1 c.à.s de beurre salé
 
-## Recette
+## Recette détaillée
 Préchauffez le four à 220°C. Graissez une plaque de cuisson avec de l'huile. Faites bouillir une grande casserole d'eau salée.
 
 Coupez grossièrement le poulet et les courgettes. Mixez ensemble le poulet, les courgettes, le parmesan. Salez et poivrez. Nappez vos mains d'huile d'olive et roulez la viande en boulettes de la taille d'une cuillère à soupe. Déposez les sur la plaque de cuisson. Enfournez pendant 10 minutes. Retirez du four. Parsemez vos boulettes avec la chapelure. Remettez au four encore 5 minutes, en surveillant attentivement, jusqu'à ce que les boulettes de viande soient bien cuites et que la chapelure soient dorées.

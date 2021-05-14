@@ -1,7 +1,7 @@
 ---
 id: 129
 title: Magret de canard aux amandes et clémentines
-description: 
+description: "J'ai essayé une recette sucrée-salée de magret de canard : amandes pour le croquant et clémentines pour l'acidité."
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1607204294/Recipes/20201206_magret_clementines.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607204294/Recipes/20201206_magret_clementines.jpg
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607204294/Recipes/20201206_magret_clementines.jpg)
@@ -35,7 +35,7 @@ published : 1
  - 10 g de beurre
  - Poivre, sel
 
-## Recette
+## Recette détaillée
 Préchauffez le four à 180°. Faites dorer les amandes à sec dans une poêle quelques minutes. Saupoudrez d’1 cuillère à soupe de sucre en poudre et laissez caraméliser 2 min. Mettez les amandes sur une planche recouverte de papier sulfurisé et laissez tiédir, puis ôtez le papier et concassez grossièrement.
 
 Quadrillez la peau du magret. Salez et poivrez la chair. Parsemez d’amandes caramélisées la peau du magret. Faites cuire 20 min environ au four, selon la cuisson désirée. Sortez-le du four, couvrez-le d’un papier aluminium et laissez reposer 5-10 min.

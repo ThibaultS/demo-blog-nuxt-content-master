@@ -36,7 +36,7 @@ published : 1
  - Huile d’olive
  - Sel, poivre
 
-## Recette
+## Recette détaillée
 Émincez le poivron en petit cube et faites-les revenir pendant 15/20 minutes dans une poêle pour qu’il devienne fondant.
 
 Dans un bol, versez vos crevettes décortiquées, le paprika fumé, la poudre d’ail et 1 c.à.s d’huile d’olive. Mélangez et réservez.

@@ -29,7 +29,7 @@ published : 1
  - Sel, poivre
 
 
-## Recette
+## Recette détaillée
 Lavez et coupez les poivrons en 2. Enlevez les pépins et la partie blanche puis posez les sur une plaque recouverte de papier de cuisson. Mettez la plaque au four en mode grill et laissez noircir la peau des poivrons. Une fois que c’est bien noir, vous pouvez retirer et laissez refroidir les poivrons dans un sac plastique ou sac de congélation.
 
 Faites ensuite griller vos tartines pour qu’elles soient plus croustillantes. Une fois les poivrons refroidis, vous pouvez facilement enlever la peau. Coupez les ensuite en lamelles. Divisez votre burrata en 4 et placez en sur une extrémité de chaque tartine. Formez ensuite une sorte de fleur avec vos lamelles de poivrons. Coupez ensuite vos tranches de jambon de parme en 2 et roulez les. Déposez le tout sur la tartine. Finissez avec un filet d’huile d’olive, du sel et du poivre.

@@ -39,7 +39,7 @@ published : 1
  - 10 noisettes concassées
  - Quelques gouttes de colorant orange
 
-## Recette
+## Recette détaillée
 Avec un fouet, battez pendant 8 à 10 minutes les oeufs et le sucre. Le mélange devient très blanc et mousseux. Intégrez progressivement la purée de courge au mélange oeuf-sucre.
 
 Extrayez la chair de la gousse de vanille et mélangez la à la farine. Ajoutez y aussi la cannelle, la noix de muscade et la levure. Tamisez le tout en l’intégrant progressivement au mélange précédent.

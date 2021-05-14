@@ -35,7 +35,7 @@ published : 1
  - 1/2 citron jaune
  - Confiture de fraise
 
-## Recette
+## Recette détaillée
 Dans un hachoir, réduisez grossièrement les amandes, les noisettes et les pistaches. Puis, mélangez dans un bol avec l’huile de coco, le sucre et le miel.Utilisez un moule à tarte avec fond amovible et graissez le d’un peu d’huile de coco. Étalez votre mélange en remontant sur les bords. Réservez au frais.
 
 Faites monter votre crème fraîche en chantilly à l’aide d’un robot. Une fois bien montée, ajoutez progressivement la mascarpone. Ajoutez ensuite petit à petit du sucre glace en goûtant régulièrement pour doser selon votre goût. Sortez le moule du frigo et déposez la crème sur la pâte. Faites quelques points de confiture et, à l’aide d’un cure-dent, faites des zigzags dans la confiture. Remettez au frais.

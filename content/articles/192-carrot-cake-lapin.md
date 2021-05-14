@@ -46,7 +46,7 @@ Pour le glaçage :
  - 12 mini lapin en chocolat
  - Paillette alimentaire
 
-## Recette
+## Recette détaillée
 Munissez-vous d’un moule à donuts ou un moule à donuts en forme de fleur. J’ai trouvé les miens sur Amazon.
 
 Préchauffez le four à 170°C. Graissez avec un peu de beurre l'intérieur du moule pour chaque donuts.

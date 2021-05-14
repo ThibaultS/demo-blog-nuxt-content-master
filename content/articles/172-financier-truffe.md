@@ -33,7 +33,7 @@ published : 1
  - 3 c.à.c de purée de truffe
  - 15g de truffe noire
 
-## Recette
+## Recette détaillée
 Préchauffez le four à 210°C. Mélangez la farine tamisée avec la poudre d’amande et le parmesan. Ajoutez les blancs d’œufs, que vous aurez légèrement battus au préalable dans un autre récipient. Continuez de mélanger, ajoutez le beurre fondu tiède. Enfin, ajoutez la purée de truffe. Continuez de mélanger jusqu'à avoir une préparation homogène.
 
 Remplissez aux 3/4 un moule à financiers et enfournez pour 10 min. Pendant ce temps, détaillez la truffe en fines lamelles à l’aide d’une mandoline. Sortez du four vos financiers cuits et déposez des lamelles de truffe sur chaque financier. Servez tiède."

@@ -30,7 +30,7 @@ published : 1
  - Tabasco, sel
  - 1 grosse courgette
 
-## Recette
+## Recette détaillée
 Écrasez un avocat bien mûr avec le jus d’un demi citron vert, un peu de crème fraîche liquide allégée, du basilic frais ciselé, 3 gouttes de Tabasco, du sel.
 Vous obtiendrez la consistance d’une sauce épaisse.
 

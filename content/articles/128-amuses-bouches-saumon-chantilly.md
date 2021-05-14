@@ -31,7 +31,7 @@ published : 1
  - Sel
  - Poivre
 
-## Recette
+## Recette détaillée
 Coupez le beurre en morceaux et faites-le fondre au micro-ondes. Découpez 9 petits carrés dans chaque feuille de brick. Beurrez légèrement au pinceau vos carrés de feuilles de brick. Déposez-les en les superposant 2 par 2 dans les alvéoles d’un moule pour cupcake ou pour cannelé en silicone. Le but est de les faire prendre la forme d’un nid. 
 
 Enfournez à 180 °C pendant 5 minutes. Démoulez délicatement vos nids. Zestez votre citron dans un bol (réservez en un peu pour la décoration). Montez au batteur la crème fleurette en chantilly. Ajoutez un peu de jus de citron, poivrez et mélangez à nouveau. Mettez votre chantilly dans une poche à douille. Coupez votre saumon en 18 petits cubes. Garnissez de chantilly vos nids de feuilles de brick . Surmontez d’un cube de saumon. Agrémentez de zeste de citron.

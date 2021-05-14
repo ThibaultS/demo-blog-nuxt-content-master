@@ -30,7 +30,7 @@ published : 1
  - 1 boîte d’haricots rouge
  - 2 petits avocats ou 1 gros
 
-## Recette
+## Recette détaillée
 Cette fois-ci j’ai opté pour du riz complet. Une fois cuit je l’ai placé au fond de mon bol. Du coup pour cette recette, il me restait de la préparation de ma <a href="/blog/24-quiche-mexicaine">quiche mexicaine</a>. 
 
 À côté j’ai découpé une tomate fraîche et j’ai préparé une sauce à l’avocat : 2 petits avocats avec un peu de crème liquide, du sel et du poivre. Que j’ai ensuite haché avec mon super hachoir Tefal (hyper pratique). J’ai, pour finir, disposé d’un côté la garniture à base de viande, de l’autre les tomates fraîches et la sauce d’avocat.

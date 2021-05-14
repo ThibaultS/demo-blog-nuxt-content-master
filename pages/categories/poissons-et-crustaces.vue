@@ -121,11 +121,12 @@ export default {
         'sweety_salty'
       ])
       .sortBy('id', 'desc')
-      .limit(30)
+      .limit(50)
       .where({
         main_ingredient: {
           $in: [
             'Saumon',
+            'Coques',
             'Daurade',
             'Thon',
             'Crevette',
@@ -136,9 +137,9 @@ export default {
             'Huître',
             'Crabe',
             'Truite',
-            'Coques',
             'Palourde',
-            'Moule'
+            'Moule',
+            'Calamar'
           ]
         }
       })

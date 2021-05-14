@@ -43,7 +43,7 @@ Pour le montage en sapin :
  - Beaucoup de cure-dents
  - Quelques M&Ms rouges
 
-## Recette
+## Recette détaillée
 Faites fondre le beurre. Tamisez ensemble la farine, la levure, la poudre d'amande, une pincée de sel. Dans un autre bol, mélangez au fouet les œufs et le sucre puis travaillez bien à la spatule. Ajoutez le mélange farine-levure-amande et mélangez pour obtenir une pâte bien lisse. Versez le beurre fondu et les cuillères de pâte à pistache. Travaillez rapidement au fouet jusqu’à l’obtention d’une pâte homogène.
 
 Pour mieux doser, mettez la pâte dans une poche à douille et laissez la reposer 1h au réfrigérateur avant cuisson. Faites préchauffer le four à 220-230° (selon la force de votre four). Remplissez votre moule à madeleine avec la poche à douille et enfournez. Faites cuire pendant 6 min puis baissez la température à 180°. Laissez cuire pendant 5-6 min jusqu’à ce qu’elles soient dorées. Démoulez vos madeleines et laissez refroidir. Faites plusieurs fournées jusqu’à épuisement de la pâte. 

@@ -38,7 +38,7 @@ published : 1
  - Sel, poivre
  - Huile d’olive
 
-## Recette
+## Recette détaillée
 Coupez les cèpes en gros morceaux. Faites rôtir les cèpes avec de l’huile dans une poêle bien chaude. Ecrasez les gousses d’ail, salez et poivrez. Ajoutez la sauge.
 
 Faites chauffer de l’eau salée dans une casserole et faites cuire vos pâtes la moitié du temps préconisé sur le paquet.

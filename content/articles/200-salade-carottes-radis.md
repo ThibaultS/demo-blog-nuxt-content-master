@@ -36,7 +36,7 @@ published : 1
  - Moutarde
  - Sel, poivre
 
-## Recette
+## Recette détaillée
 Épluchez vos carottes et coupez les en biseau. Mettez-les dans un bol, ajoutez 2 cuillères à soupe d’huile d’olive et 1 cuillère à soupe de miel, du sel, du poivre, mélangez. Disposez vos carottes sur une plaque allant au four recouverte d’un papier de cuisson. Enfournez pendant 30 minutes à 200 degrés.
 
 En attendant, épluchez 1/3 de vos radis et avec une mandoline, faites de fines lamelles. Coupez 1/3 de votre grenade et récupérez les graines.

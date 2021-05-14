@@ -32,7 +32,7 @@ published : 1
  - Sel, poivre
  - Huile
 
-## Recette
+## Recette détaillée
 Épluchez, lavez, séchez puis râpez vos pommes de terre grossièrement pour avoir des bouts assez gros. Déposez vos pommes de terre râpée sur une planche à découper et, avec de l’essuie-tout, pressez la pomme de terre pour éliminer le plus d'eau possible. Préchauffez le four à 200°.
 Disposez les pommes de terre égouttées dans un saladier. Ajoutez le fromage râpé pour ma part j’ai utilisé un mélange cheddar mozzarella, 2 œufs et 5 branches de ciboulette, préalablement ciselée. Salez et poivrez. Mélangez avec les mains (ou à la cuillère) jusqu'à ce que tous les ingrédients soient bien mélangés. Pressez à nouveau l'excès de jus si besoin.
 

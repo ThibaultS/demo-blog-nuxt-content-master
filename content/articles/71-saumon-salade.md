@@ -34,7 +34,7 @@ published : 1
  - Huile d’olive
  - Sel poivre
 
-## Recette
+## Recette détaillée
 Épluchez les avocats, l’oignon rouge et la mangue. Coupez les en petits dés. Coupez également en petits dés la tomate et le poivron. Mettez le tout dans un bol, versez un filet d’huile d’olive et le jus d’un demi citron vert. Salez, poivrez et réservez.
 
 Dans de l’eau bouillante, faites cuire le riz le temps indiqué sur le paquet. Faites cuire les pavés de saumon à l’unilatérale, en les déposant toujours côté peau, dans une poêle très chaude et contenant un filet d’huile d’olive. La chaleur va monter jusqu’au cœur des pavés. À la dernière minute retourner quelques secondes votre pavé pour colorer le dessus.

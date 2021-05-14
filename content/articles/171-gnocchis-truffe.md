@@ -43,7 +43,7 @@ Pour la sauce à la truffe :
  - Arôme Maggi
  - Quelques copeaux de parmesan
 
-## Recette
+## Recette détaillée
 Epluchez les pommes de terre et coupez-les en gros morceaux. Faites-les cuire dans de l'eau salée bouillante pendant environ 15-20 min jusqu'à ce qu'elles soient bien tendres. Egouttez-les et laissez-les refroidir quelques minutes. Ecrasez-les en purée.
 
 Farinez votre plan de travail. Formez un puit avec la purée. Déposez au centre, le jaune d'oeuf, la muscade, la purée de truffe et une partie de la farine. Mélangez du bout des doigts en incorporant au fur et à mesure le reste de la farine. Vous devez obtenir une boule non collante.

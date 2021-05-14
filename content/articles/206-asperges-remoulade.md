@@ -35,7 +35,7 @@ published : 1
  - Vinaigre
  - Sel
 
-## Recette
+## Recette détaillée
 Pour les asperges :
 Mettez de l’eau avec une pincée de sel à bouillir dans un grand récipient. Coupez la queue des asperges pour ne garder que la moitié la plus tendre. Épluchez bien toutes les asperges à l’aide d’un économe et coupez les asperges à l’aide d’une mandoline (ou très finement au couteau) dans le sens de la longueur. Coupez les lamelles obtenues au couteau à nouveau en trois ou quatre dans la longueur pour obtenir des tagliatelles.
 

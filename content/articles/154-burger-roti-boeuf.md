@@ -35,7 +35,7 @@ published : 1
  - Huile d’olive
  - Sel poivre
 
-## Recette
+## Recette détaillée
 Avant toute chose, préparez votre rôti de boeuf. Pour ma part, j’ai utilisé la fin d’un rôti de boeuf que j’avais fait les jours précédents. Demandez à votre boucher la durée de cuisson en fonction du poids pour qu’il soit bien rosé. Il faut compter entre 24 et 30 minutes par kilo de rôti. La température à cœur à la sortie du four doit être de 50 à 55 °C pour une cuisson saignante. Une fois cuits, coupez vos tranches de rôti finement. Vous en ajouterez 3 par burger.
 
 A l’aide d’une mandoline, faites des tranches fines de courgette et disposez les sur une plaque allant au four recouvert de papier de cuisson. Ajoutez un filet d’huile d’olive, du sel et du poivre.

@@ -33,7 +33,7 @@ published : 1
  - 150g de parmesan pour la tuile
  - Sel, poivre
 
-## Recette
+## Recette détaillée
 Préparez du bouillon en diluant les tablettes dans 1,5L d’eau très chaude. Réservez au chaud. Pelez et émincez le gros oignon. Faites chauffer 40g de beurre dans une sauteuse. Mettez les oignons à revenir doucement sans colorer, puis ajoutez le riz et remuez-le à feu doux jusqu’à ce que les grains soient translucides. Versez alors le vin, et remuez jusqu’à ce qu’il soit évaporé. Ajoutez tout le bouillon, mélangez, couvrez et laissez cuire à feu doux 20 min.
 
 Pendant ce temps, épluchez et coupez en tronçons les asperges. Pelez les petits oignons en gardant un bout de leur tige. Émincez-les. Plongez les asperges dans de l’eau bouillante salée, comptez 7 min de cuisson. Ajoutez les petits pois et les fèves, poursuivez la cuisson 7 min. Égouttez tous ces légumes. Ôtez la peau des fèves si nécessaire. Lorsque le risotto est cuit, retirez la sauteuse du feu, ajoutez le reste de beurre en morceaux, le parmesan. Salez, poivrez, mélangez délicatement, ajoutez tous les légumes, couvrez et laissez reposer 5 min avant de servir.

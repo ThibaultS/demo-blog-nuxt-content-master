@@ -33,7 +33,7 @@ published : 1
  - Arôme maggi
  - Moutarde au basilic
 
-## Recette
+## Recette détaillée
 Dans une casserole d’eau bouillante, faites cuire le blé selon le temps indiqué sur l’emballage. Dans une deuxième casserole d’eau bouillante, faites cuire les petits pois et les fèves 10 minutes. En attendant, lavez et coupez les fraises en 4. Émiettez également la fêta. Lavez quelques feuilles de basilic et ciselez les.
 
 Pour la vinaigrette, mélangez 2 cuillères à soupe d’huile d’olive, 1 grosse cuillère à café de velours de balsamique, quelques gouttes d’arôme maggi et 1 demi cuillère à café de moutarde au basilic.

@@ -120,7 +120,7 @@ export default {
         'sweety_salty'
       ])
       .sortBy('id', 'desc')
-      .limit(30)
+      .limit(50)
       .where({ main_ingredient: 'Chocolat' })
       .fetch()
     return {

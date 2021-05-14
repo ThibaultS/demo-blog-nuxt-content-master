@@ -27,7 +27,7 @@ published : 1
  - 1 filet de miel liquide
  - Sel, poivre
 
-## Recette
+## Recette détaillée
 Préchauffez votre four à 180°. Lavez les figues et incisez les en croix sur le dessus jusqu'à mi-hauteur. Hachez finement les noix au couteau. Dans un bol, mélangez le fromage avec les noix hachées, salez très légèrement et poivrez.
 
 Garnissez généreusement les figues avec le mélange (avec les doigts, c'est plus facile et plus rapide). Déposez les figues farcies dans un plat allant au four et arrosez les d'un filet de miel liquide (plus ou moins selon vos goûts). Enfournez pour une petite dizaine de minutes. Servez chaud avec une salade.

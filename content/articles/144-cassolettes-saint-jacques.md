@@ -39,7 +39,7 @@ published : 1
  - 20cl de crème fraîche liquide
  - Sel, poivre
 
-## Recette
+## Recette détaillée
 Préparez votre fumet de poisson avec les 2 cuillères de fond de poisson et les 20cl d’eau. Lavez et taillez les champignons en petits morceaux. Cuire 20 minutes à l'eau salée et poivrée. Parfumez le jus de cuisson de ciboulette ciselée. Épluchez et hachez ensemble l'échalote et l'ail. Faites-les blondir dans le vin blanc sur feu moyen.
 
 Egouttez les champignons et versez un verre de leur jus de cuisson dans les échalotes. Mouillez avec le fumet de poisson. Laissez réduire de moitié sur feu moyen.

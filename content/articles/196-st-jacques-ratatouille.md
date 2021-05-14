@@ -44,7 +44,7 @@ published : 1
  - 1 c.à.s de miel
  - Sel poivre
 
-## Recette
+## Recette détaillée
 Epluchez l’oignon et les gousses d’ail et ciselez-les. Rincez le basilic et séchez-le. Lavez les courgettes et les aubergines, enlevez les extrémités et coupez-les en petits cubes. Nettoyez les tomates, ôtez les trognons et coupez-les en 4 ou en 6 en fonction de leurs tailles.
 
 Enlevez le pédoncule des poivrons, coupez-les en quatre et nettoyez l’intérieur. Déposez les tranches sur une plaque et enfournez en mode grill. Laissez jusqu’à ce que la peau soit noire. Une fois noire, la peau va se décoller très facilement de tous les morceaux de poivron. Découpez-les en petits morceaux.

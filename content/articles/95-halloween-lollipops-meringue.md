@@ -32,7 +32,7 @@ published : 1
  - 1 poche à douille
  - 1 douille #9FT
 
-## Recette
+## Recette détaillée
 Battez les blancs d’œuf à vitesse moyenne avec la moitié du sucre. Lorsque le fouet laisse des marques, ajoutez l'autre moitié du sucre. Battez jusqu'à ce que le blanc forme des pics lorsqu'on soulève le fouet. Placez la poche à douille dans un récipient profond type verre doseur, et à l'aide d'un pinceau, faire 4 traits à l'intérieur avec les colorants alimentaires.
 
 Remplissez la poche de meringue et faites un point de meringue sur une plaque de cuisson. Posez un bâtonnet sur le point puis formez une spirale ou un zingzag.

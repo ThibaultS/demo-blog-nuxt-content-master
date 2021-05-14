@@ -32,7 +32,7 @@ published : 1
  - 1 tête d’ail
  - Gros sel
 
-## Recette
+## Recette détaillée
 Au préalable, préparez votre ail confit. Mettez votre tête d’ail dans du papier aluminium. Faites la cuire au four pendant 45 min à 180°C. 
 
 Prenez votre vieu pain, découpez le en gros bouts. faites le rotir dans un four à 100°C pendant 30-45 min pour le dessécher. 

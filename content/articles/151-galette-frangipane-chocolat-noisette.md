@@ -52,7 +52,7 @@ Pour la dorure :
  - 1 jaune d'oeuf
  - une pincée de sel
 
-## Recette
+## Recette détaillée
 Commencez par la crème pâtissière. Mélangez ensemble la farine et la maïzena dans un saladier. Ajoutez le jaune d’œuf et mélangez de nouveau. Faites chauffer le lait et le sucre dans une casserole. Quand le lait est chaud, versez-le sur le premier mélange. Remettez la préparation dans la casserole et portez à ébullition. Laissez cuire pendant 5 minutes en mélangeant vivement à l’aide d’un fouet. Sortez du feu et laissez tiédir dans un récipient. Lorsque le mélange est tiède, ajoutez le beurre et mélangez jusqu’à ce que la consistance soit homogène. Recouvrez le récipient de film alimentaire et réservez au réfrigérateur pendant quelques minutes le temps que la crème refroidisse bien (30 min environ).
 
 Ensuite, préparez la garniture chocolat noisette de votre galette. Mélangez les noisettes en poudre et le sucre pour avoir un mélange homogène. Faites fondre me chocolat pâtissier au bain marie. Dans un saladier, travaillez le beurre mou en morceaux à la fourchette afin d’obtenir un beurre pommade. Dans ce même saladier, incorporez le mélange noisettes-sucre, le chocolat fondu, la vanille, le sel et la maïzena en mélangeant au fur et à mesure au fouet. Ajoutez l’oeuf, puis la crème pâtissière, et mélangez jusqu’à obtenir une consistance homogène. Réservez dans un poche à douille au frigo.

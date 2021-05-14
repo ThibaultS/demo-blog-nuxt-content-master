@@ -39,7 +39,7 @@ published : 1
  - Sel, poivre
  - 2 c.à.s d'aneth
 
-## Recette
+## Recette détaillée
 Epluchez vos carottes. Coupez-les en rondelle. Coupez le poireau en 2 sur la longueur puis en morceaux de 0,5cm de large. Coupez le céleri branche en morceau de 0,5cm de large. Emincez la gousse d'ail. Rapez le zeste du citron et coupez 2 rondelles pour la décoration.
 
 Chauffez l'huile dans une grande casserole à feu moyen. Ajoutez le poireau, le céleri, les carottes et faites cuire 5 à 8 minutes en remuant souvent et jusqu'à ce que les légumes soient tendres. Incorporez l'ail, le thym et le zeste de citron. Ajoutez le poulet et le bouillon. Portez à ébullition, couvrez et réduisez le feu. Laissez mijoter jusqu'à ce que le poulet soit bien cuit, durant 15 à 20 minutes. Transférez le poulet dans une assiette. Laissez-le refroidir, puis hachez-le en petits morceaux.

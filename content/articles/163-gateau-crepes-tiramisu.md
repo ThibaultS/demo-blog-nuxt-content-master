@@ -41,7 +41,7 @@ Pour la décoration :
  - Cacao en poudre non sucré
  - 4 carrés de chocolat noir patissier
 
-## Recette
+## Recette détaillée
 Débutez par la préparation de la pâte à crêpes. Il faut que votre lait soit tiède. Commencez par casser votre oeuf dans un grand saladier. Fouettez le vigoureusement pour que le liquide soit homogène. Ensuite ajoutez le sucre en poudre et fouettez à nouveau pour homogénéiser. Ajoutez 1 tiers de la quantité de lait et la moitié du café et mélangez. Ajoutez toute la farine et fouettez doucement pour faire une pâte homogène. Ajoutez le second tiers de lait et le reste du café et mélangez pour homogénéiser. Terminez avec le reste de lait et fouettez doucement. Votre pâte à crêpes est prête et ne devrait pas avoir de grumeaux. Laissez reposer une quinzaine de minutes à température ambiante avant de les cuire.
 
 C’est parti pour la cuisson des crêpes. J’ai utilisé ma machine à crêpes pour faire des crêpes de petite taille (10cm environ). Vous pouvez aussi faire de grandes crêpes que vous taillerez avec un emporte pièce de 10cm de diamètre. Pour ma part j’ai pu faire une vingtaine de crêpes de cette taille.

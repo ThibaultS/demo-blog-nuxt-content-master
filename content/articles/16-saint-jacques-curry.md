@@ -36,7 +36,7 @@ published : 1
  - 12 noix de saint Jacques ou celles de chez Picard
  - De la coriandre ciselée
 
-## Recette
+## Recette détaillée
 Pour la cuisson du riz, il vous suffit de respecter les instructions sur le paquet.
 
 Pendant ce temps préparez la sauce. Epluchez les échalotes, les gousses d’ail et coupez-les en dés. Pelez le gingembre et coupez-le également en cubes. Fendez le bâton de citronnelle en deux et écrasez-le légèrement pour une meilleure diffusion des arômes.

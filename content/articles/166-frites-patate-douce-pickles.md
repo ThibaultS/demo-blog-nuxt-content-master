@@ -44,7 +44,7 @@ Pour les pickles d’oignon :
  - 1 bocal
  - Sel, poivre
 
-## Recette
+## Recette détaillée
 Quelques jours avant, préparez vos pickles d’oignon. Ils doivent rester plusieurs jours au frigo. Pelez et lavez les oignons. Mettez-les dans une casserole. Ajoutez l’huile, le vinaigre balsamique, l’eau et le sucre et faites bouillir. Salez et poivrez. Mettez dans un bocal les oignons puis ajoutez-y le mélange à base de vinaigre. Laissez refroidir, fermez le bocal et réservez au frigo au minimum 48h.
 
 Epluchez et coupez la patate douce en frites. Préchauffer votre four à 210°C. Mettez les frites dans un saladier, ajoutez un blanc d’œuf, le paprika fumé et un filet d’huile d’olive. Salez, poivrez. Mélangez délicatement pour ne pas casser les frites. Disposez une feuille de papier cuisson sur une plaque de cuisson et étalez vos frites dessus. Enfournez pendant 20-30min, jusqu’à qu’elles soient bien dorées. Retournez-les après 15 min pour que les différentes faces soient dorées.

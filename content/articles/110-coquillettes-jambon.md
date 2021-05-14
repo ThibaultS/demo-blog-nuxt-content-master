@@ -32,7 +32,7 @@ published : 1
  - Bouillon de poulet
  - Sel poivre
 
-## Recette
+## Recette détaillée
 Coupez votre jambon en petit dés. Râpez votre parmesan. Ciselez très finement les feuilles de sauge. Dans une casserole d’eau bouillante, faites cuire vos coquillettes un peu moins de la moitié du temps indiqué. Une fois le temps passé, égouttez vos pâtes.
 
 Dans une poêle, versez 3-4 louches de bouillon de poulet et faites chauffer puis ajoutez vos coquillettes. On va les laisser cuire dans le bouillon le reste du temps de cuisson. Si le bouillon s’évapore trop rapidement et que les pâtes ne sont pas cuites, n’hésitez pas à ajouter un peu de bouillon. Salez et poivrez à votre convenance.

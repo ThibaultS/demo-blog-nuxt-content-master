@@ -21,12 +21,11 @@
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>
           <b-col class="intro mt-5 mb-5">
-            <h1>Mes recettes avec des asperges</h1>
+            <h1>Mes recettes à base de viandes</h1>
             <p class="lead">
-              Lorsque la saison des asperges arrivent, je suis la plus heureuse
-              du monde. Découvrez ici mes recettes à faire à l'arrivée du
-              printemps. Pour découvrir mes nouvelles recettes je vous invite à
-              me suivre sur
+              Retrouvez sur cette mes recettes de viandes pour tous les goûts :
+              agneau, boeuf, poulet, veau, canard, lapin, dinde, chapon,... Pour
+              découvrir mes nouvelles recettes je vous invite à me suivre sur
               <a
                 href="https://www.instagram.com/josiesrecipes/"
                 target="_blank"
@@ -122,7 +121,22 @@ export default {
       ])
       .sortBy('id', 'desc')
       .limit(50)
-      .search('asperge')
+      .where({
+        main_ingredient: {
+          $in: [
+            'Boeuf',
+            'Poulet',
+            'Dinde',
+            'Veau',
+            'Canard',
+            'Chapon',
+            'Agneau',
+            'Lapin',
+            'Boudin',
+            'Porc'
+          ]
+        }
+      })
       .fetch()
     return {
       articles
@@ -130,7 +144,7 @@ export default {
   },
   data() {
     return {
-      title: 'Mes recettes avec des asperges'
+      title: 'Mes recettes de viandes'
     }
   },
   head() {
@@ -141,7 +155,7 @@ export default {
           hid: 'description',
           name: 'description',
           content:
-            'Toutes mes recettes avec des asperges à tester au printemps.'
+            'Mes recettes de viandes pour tous les goûts : agneau, boeuf, poulet, veau, canard, lapin, dinde, chapon,...'
         },
         {
           hid: 'og:image',

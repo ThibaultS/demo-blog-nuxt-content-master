@@ -40,7 +40,7 @@ Crumble de parmesan :
 Décoration:
  - 2 tranches de jambon de parme
 
-## Recette
+## Recette détaillée
 Pour la panna cotta :
 Épluchez les asperges et faites-les cuire une vingtaine de minutes dans de l'eau bouillante salée avec d'un cube de bouillon. Égouttez-les et mixez-les avec 4 cuillères à soupe d'eau de cuisson et la crème. Pensez à en mettre de côté pour le dressage avant de les mixer. Salez, poivrez, ajoutez un peu de piment d'Espelette. Passez le tout au chinois puis faites bouillir une minute avec l'agar agar. Laissez tiédir 15 minutes et versez la crème dans les assiettes puis réservez au frais 1h30 minimum.
 

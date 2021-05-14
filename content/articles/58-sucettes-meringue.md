@@ -29,7 +29,7 @@ published : 1
  - Une poche à douille avec la douille de votre choix
 
 
-## Recette
+## Recette détaillée
 Mettez les blancs d’œufs dans le bol de votre robot. Si vous souhaitez parfumer vos meringues, mettez l’arôme dans les blancs avant de les monter. Montez vos blancs en neige. Ajoutez le sucre semoule vers la fin, lorsque les blancs sont montés pour les serrer. Vos blancs doivent être bien fermes. A l’aide d’une maryse, incorporez petit à petit et délicatement le sucre glace. La meringue est prête. Remplissez votre poche à douille de votre meringue. 
 
 Sur une feuille de papier sulfurisé, posez un bâtonnet et faites des rosaces de meringue par dessus. Pour cela il suffit de commencer par le centre puis de faire un mouvement de cercle. Décorez avec des billes colorées si vous le souhaitez. Mettez vos meringues au four à 110°C pendant 1 heure, puis à 90°C pendant encore 1 heure. Eteignez votre four, laissez les meringues à l’intérieur pour quelle termine de sécher.

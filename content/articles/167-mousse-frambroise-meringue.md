@@ -31,7 +31,7 @@ published : 1
  - 190g de sucre
  - 125g de crème liquide entière
 
-## Recette
+## Recette détaillée
 Réhydratez la gélatine dans dans un bol d’eau.
 
 Dans une casserole, faites chauffer les framboises avec 1 c.à.c d’eau. Dès que vous avez les premières ébullitions, écrasez les framboises avec une spatule pour en faire une purée. Dans un chinois, tamisez les framboises pour enlever les graines. Ajoutez la gélatine préalablement essorée, mélangez et laissez refroidir.

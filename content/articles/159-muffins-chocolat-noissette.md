@@ -34,7 +34,7 @@ published : 1
  - 40g de pépite de chocolat
  - 20g de noisettes concassées
 
-## Recette
+## Recette détaillée
 Préchauffez le four à 200°C. Déposez des caissettes papier, ou des carrés de papier sulfurisé dans vos moules à muffins.
 
 Dans un grand saladier, mélangez au fouet le beurre et le sucre jusqu'à obtenir une consistance homogène. Ajoutez les œufs un par un, continuez à mélanger au fouet pendant 5 minutes.

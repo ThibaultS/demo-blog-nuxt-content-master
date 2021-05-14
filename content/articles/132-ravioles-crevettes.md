@@ -1,7 +1,7 @@
 ---
 id: 132
 title: Ravioles aux crevettes, émulsion champagne et citronnelle
-description: 
+description: "Découvrez comment faire vos ravioles vapeur maison. Je l'accompagne d'une emulsion au champagne."
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1607508153/Recipes/20201209_ravioles_crevettes_champagne.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607508153/Recipes/20201209_ravioles_crevettes_champagne.jpg
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607508153/Recipes/20201209_ravioles_crevettes_champagne.jpg)
@@ -42,7 +42,7 @@ Pour les ravioles :
  - 10cl de crème liquide
  - 80g de beurre doux
 
-## Recette
+## Recette détaillée
 Si vous n’avez pas envie de faire la pâte à raviolis, vous pouvez en trouver des carrés de raviolis chinois déjà préparé dans des commerces asiatiques. 
 
 Si vous souhaitez faire la pâte, voici la recette : Pour préparer la pâte à ravioles, faites bouillir de l'eau dans une casserole. Versez la farine dans un saladier. Ajoutez une pincée de sel. Lorsque l'eau bout, versez-la petit à petit dans la farine en plusieurs fois et en mélangeant. Une fois que la pâte commence à former de gros grumeaux, arrêtez de verser l'eau et pétrissez à la main. Une fois que la pâte forme une boule et qu'il ne reste pas de farine collée aux parois du saladier, filmez et laissez reposer à température ambiante au moins 30 minutes.

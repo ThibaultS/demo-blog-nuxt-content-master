@@ -40,7 +40,7 @@ Pour la sauce vierge :
  - 1 pincée de sel fin
  - 4 tours de poivre du moulin
 
-## Recette
+## Recette détaillée
 Préparez la sauce vierge. Rincez puis ciselez l’aneth, le persil et le cerfeuil. Épluchez et ciselez l’oignon. Zestez, pelez à vif puis détaillez en segments les citrons. Coupez en deux les segments et disposez-les dans un bol. Ajoutez les zestes, les herbes, l’oignon, l’ail très finement haché, l’huile d’olive, le piment d’Espelette, le sel et le poivre. Mélangez et réservez.
 
 Disposez vos rondelles de calamar dans la poêle, à feu moyen, puis versez la sauce vierge dessus. Ajoutez un filet de vinaigre de Xérès et faites cuire 10 min. Servez bien chaud avec du riz ou une salade.

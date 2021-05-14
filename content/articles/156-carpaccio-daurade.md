@@ -33,7 +33,7 @@ published : 1
  - 3 c.à.s de sauce soja
  - 1 c.à.s de jus de citron
 
-## Recette
+## Recette détaillée
 A l’aide d’un couteau bien affûté, coupez en biais de fines lamelles de daurade. Disposez le premier filet découpé dans l’assiette sur les contours pour former une rosace. Filmez et conservez au frigo. Faites la même chose avec la seconde assiette. Epluchez la betterave, coupez là en deux et avec un bon couteau découpez des lamelles ni trop fines, ni trop épaisses dans le sens de la largeur. Après, il vous suffit d’appuyer un peu sur les lamelles, de les aligner et de les rouler en éventail pour former une rose
 
 Émincez finement le basilic. Sortez votre assiette de poisson, disposez le basilic au centre. Ajoutez la rose de betterave et parsemez de pistaches sur le basilic. Disposez quelques œufs de saumon sur les tranches de daurade. Pour la sauce, mélangez à la cuillère la sauce soja et le jus de citron.

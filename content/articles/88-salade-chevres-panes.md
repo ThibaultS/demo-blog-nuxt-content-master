@@ -34,7 +34,7 @@ published : 1
  - Arôme maggi
  - Moutarde au basilic
 
-## Recette
+## Recette détaillée
 Battez l'œuf dans une assiette. Dans une autre assiette, mettez la chapelure avec du sel et du poivre. Trempez les rondelles de chèvre dans l'œuf puis dans la chapelure. Mettez dans une poêle avec une bonne quantité d'huile de tournesol et faites dorer de chaque côté. Coupez la grenade en 4 et extrayez les graines.
 
 Dans une assiette, disposez la salade puis la grenade par dessus. Ajoutez ensuite les chèvres panés et 1 ou 2 quartiers d’orange. 

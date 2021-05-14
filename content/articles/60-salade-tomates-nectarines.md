@@ -31,5 +31,5 @@ published : 1
  - Sel, poivre
 
 
-## Recette
+## Recette détaillée
 Coupez en tranche la tomate, la nectarine et la mozzarella. Dénoyautez les cerises en les coupant en deux. Dans une assiste alternez chaque ingrédients afin de faire un cercle. Versez un filet d’huile. Un peu de sel et de poivre et c’est prêt à être déguster !

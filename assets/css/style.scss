@@ -119,6 +119,7 @@ article li::before {
 }
 
 article .detail-infos-card {
+    color: #75513e;
     i {
         color : #F73A64
     }
@@ -654,23 +655,27 @@ article {
 .card.post {
     a  {
         h3 {
-            color: #b48e7b;
+            color: #F73A64;
         }
         p {
             color: #CBB1A4;
             margin-bottom: 0; 
         }
-        // .infos-card {
-        //     i {
-        //         color : #F73A64
-        //     }
-        // }
+        .infos-card {
+            color: #75513e;
+            i {
+                color : #F73A64
+            }
+        }
     }
     a:hover {
         text-decoration: none;
         h3 {
             color: #F73A64;
             text-decoration: underline;
+        }
+        p {
+            color: #b48e7b;
         }
     }
 }
@@ -856,7 +861,7 @@ a.see-more:hover {
     }
 }
 
-@media (min-width: 760px){
+@media (min-width: 768px){
     body {
         background: rgba(239,229,220,1);
         background: linear-gradient(180deg, rgba(208,184,172,1) 5vw, rgba(239,229,220,1) 100vw);
@@ -922,10 +927,14 @@ a.see-more:hover {
         padding-left: 0;
     }
     #posts .card {
+        .card-body {
+            padding-left: 0;
+        }
         .img-container {
             overflow: hidden;
             height: initial;
             margin-bottom: 20px;
+            margin-right: 0;
         }
     }
 }

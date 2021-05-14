@@ -44,7 +44,7 @@ Pour la sauce :
  - 15g de yogourt grec nature
  - 1 c.à.c d'huile d'olive
 
-## Recette
+## Recette détaillée
 Préchauffez le four à 200°C.
 
 Coupez grossièrement le poulet. Mixez ensemble le poulet, l’échalote, la moitié de la gousse d’ail, le paprika et l'origan. Salez et poivrez. Nappez vos mains d'huile d'olive et roulez la viande en boulettes de la taille d'une cuillère à soupe. Déposez les sur la plaque de cuisson. Enfournez pendant 10-15 minutes en les retournant 2-3 fois. 

@@ -32,7 +32,7 @@ published : 1
  - Épices masala
  - Sel, poivre
 
-## Recette
+## Recette détaillée
 La veille, décongelez les noix de Saint Jacques au réfrigérateur.
 
 Lavez le persil, égouttez-le et ciselez-le finement. Réservez. Faites fondre à feu doux le beurre dans une casserole.

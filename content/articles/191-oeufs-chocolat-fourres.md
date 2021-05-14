@@ -33,7 +33,7 @@ published : 1
  - Peinture alimentaire dorée
  - Poudre alimentaire dorée
 
-## Recette
+## Recette détaillée
 Pour ma part j’ai fait un gâteau au yaourt maison que j’ai coloré en rose à l'aide de colorants. Mais un gâteau au yaourt industriel marche aussi bien !
 
 Faites fondre le chocolat avec huile de coco. Vous pouvez ajoutez davantage d’huile de coco si le chocolat n’est pas assez liquide.

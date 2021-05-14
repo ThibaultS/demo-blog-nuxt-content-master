@@ -119,6 +119,7 @@ export default {
         'sweety_salty'
       ])
       .sortBy('id', 'desc')
+      .limit(50)
       .where({ veggie: 1 })
       .fetch()
     return {

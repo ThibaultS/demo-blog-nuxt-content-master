@@ -32,7 +32,7 @@ published : 1
  - Huile d’olive
  - Sel, poivre
 
-## Recette
+## Recette détaillée
 Émincez en petits cubes les pavés de saumon puis réservez au frais. Coupez également en petits morceaux de la même taille les fraises, le fenouil, la pomme. Mélangez la salade et le saumon. Ajoutez y le jus du citron, de l’aneth ciselée et un bon filet d’huile d’olive. Salez et poivrez.
 
 Déposez sur votre assiette une poignée de roquette. Disposez un emporte pièce au milieu de votre assiette puis garnissez de tartare de saumon. Vous pouvez décorez le dessus du tartare avec des herbes comme du basilic, du persil, de la coriandre.

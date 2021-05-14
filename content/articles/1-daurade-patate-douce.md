@@ -37,7 +37,7 @@ published : 1
  - Huile d’olive, sel et poivre
  - Crème de balsamique
 
-## Recette
+## Recette détaillée
 Pour la purée :
 Pelez les patates douces, coupez en morceaux et cuisez-les dans une casserole avec le lait de coco et la gousse de vanille grattée. Cuisez environ 20 minutes puis mixez finement. Assaisonnez.
 

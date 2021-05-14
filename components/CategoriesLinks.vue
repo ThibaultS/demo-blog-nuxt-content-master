@@ -13,20 +13,24 @@
       Végétarien
       <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
     </a>
-    <a href="/categories/asperge" class="link mr-2">
-      Asperges
-      <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
-    </a>
     <a href="/categories/salades" class="link mr-2">
       Salades
+      <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
+    </a>
+    <a href="/categories/pates" class="link mr-2">
+      Pâtes
+      <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
+    </a>
+    <a href="/categories/viandes" class="link mr-2">
+      Viandes
       <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
     </a>
     <a href="/categories/poissons-et-crustaces" class="link mr-2">
       Poissons et crustacés
       <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
     </a>
-    <a href="/categories/pates" class="link mr-2">
-      Pâtes
+    <a href="/categories/asperge" class="link mr-2">
+      Asperges
       <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
     </a>
     <a href="/categories/paques" class="link mr-2">

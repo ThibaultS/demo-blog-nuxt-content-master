@@ -37,7 +37,7 @@ published : 1
  - 1/2 c.à.c d’huile de coco
  - 1 paquet de pralin (pour la finition)
 
-## Recette
+## Recette détaillée
 Râpez l'écorce d'une orange et réservez dans un bol. Préchauffez votre four à 180°C.
 
 Dans le bol du robot pâtissier (ou un saladier), ajoutez les œufs, le sucre, l’ecorce d’orange, le sel et la vanille en poudre. Mélangez au fouet. Ajoutez ensuite la farine tamisée et la levure chimique. Mélangez jusqu'à obtenir une pâte homogène. Ajoutez les amandes dans le bol et mélangez délicatement.

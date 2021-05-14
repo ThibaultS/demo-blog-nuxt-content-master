@@ -27,7 +27,7 @@ published : 1
  - 4 tranches de saumon fumé
  - Sel, poivre
 
-## Recette
+## Recette détaillée
 Faites cuire quelques asperges. Taillez des lamelles de saumon fumé. Une fois les asperges cuites, enroulez les lamelles de saumon fumé autour. Portez à ébullition une grande casserole d’eau. Plongez-y délicatement les oeufs. Comptez 3 minutes de cuisson à partir de la reprise de l’ébullition de l’eau. Puis à l’aide d’une écumoire sortez les oeufs.
 
 Placez les oeufs dans des coquetiers puis disposez-les sur de petites assiettes, et répartissez quelques mouillettes d’asperges autour.

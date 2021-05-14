@@ -40,7 +40,7 @@ published : 1
 - Sel, poivre
 - Huile d’olive
 
-## Recette
+## Recette détaillée
 Commencez par préparer vos pommes de terre. Epluchez-les et coupez-les en petits cubes de 2 cm de côté.
 
 Préparez les boulettes de viande. Hachez 10 feuilles de persil. Dans un saladier, mettez la viande hachée et le persil. Salez, poivrez. Ajoutez le paprika, un peu d’huile d’olive et la purée de tomate. Huilez vos mains et formez les boulettes. Réservez dans un plat.

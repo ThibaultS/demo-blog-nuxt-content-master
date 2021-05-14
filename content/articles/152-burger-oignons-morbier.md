@@ -41,7 +41,7 @@ Pour les oignons caramélisés :
  - 5cl d'huile d'olive
  - 20cl d'eau
 
-## Recette
+## Recette détaillée
 Pour réaliser les oignons caramélisés, mettez tous les ingrédients listés plus haut dans une cocotte. Portez à ébullition puis baissez le feu et laissez compoter doucement au moins une heure, jusqu'à ce que les oignons soient tendres et caramélisés. Quand il n'y a presque plus de liquide, remuez souvent avec une cuillère en bois.
 
 Quand les oignons sont presque prêts, faites cuire vos steaks hachés et vos tranches de poitrine fumées. Quand les steaks sont presque cuit, disposez une tranche de morbier sur chaque steak et poursuivez la cuisson pour faire fondre le fromage.

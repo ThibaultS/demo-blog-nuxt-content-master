@@ -44,7 +44,7 @@ Pour le cookie :
  - Perles et paillettes alimentaires
  - Un moule en forme de coeur
 
-## Recette
+## Recette détaillée
 Faites votre ganache la veille. Faites fondre le chocolat au bain marie. Ajoutez le beurre coupé en morceaux. Mélangez bien. Faites chauffer la crème dans une casserole jusqu’à ébullition. Incorporez-la au chocolat et beurre fondus. Mélangez et mettez au frigo jusqu’au lendemain.
 
 Pour le cookie:

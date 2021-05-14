@@ -31,7 +31,7 @@ published : 1
  - Amandes effilées
  - Arôme vanille
 
-## Recette
+## Recette détaillée
 Dans un saladier, mettez la poudre d'amande, la farine, le sucre glace. Ajoutez les blancs d'oeufs un par un, 1 cuillère à café d'arôme vanille puis le beurre fondu. Mélangez énergiquement. Verser la pâte dans un moule à financier. Ajoutez par dessus les figues en lamelles et quelques amandes effilées.
 
 Mettez à cuire dans un four préchauffé à 220°C pendant 5 minutes, puis baisser la température à 180°C pendant environ 10 minutes. A la sortie du four, badigeonnez de miel les financiers, laissez refroidir puis démoulez !

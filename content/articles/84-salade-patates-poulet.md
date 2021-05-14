@@ -30,7 +30,7 @@ published : 1
  - Quelques gouttes d’arôme Maggi
  - Sel, poivre
 
-## Recette
+## Recette détaillée
 Épluchez les pommes de terre, coupez les en rondelle et faites les cuire dans de l’eau bouillante environ 15 minutes. Piquez les à partir de 10 minutes pour vérifier la cuisson. Quand votre couteau s’enfonce comme dans du beurre c’est que c’est cuit.
 
 Émincez votre poulet et faites le cuire dans une poêle avec un peu d’huile. Salez et poivrez le. Il faut qu’il soit bien doré. Mélangez le yaourt grec avec la moutarde, quelques gouttes d’arôme maggi, un peu de sel et poivre. Mélangez les pommes de terre avec la sauce. Disposez les dans une assiette, ajoutez les morceaux de poulet, quelques olives et de la ciboulette ciselée.

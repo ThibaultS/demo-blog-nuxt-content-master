@@ -33,7 +33,7 @@ published : 1
  - Moutarde au basilic
  - Sel, poivre
 
-## Recette
+## Recette détaillée
 Faites cuire les perles de blé dans de l’eau bouillante le temps indiqué sur la boîte. Puis laissez refroidir. Faites cuire en parallèle les aiguillettes de poulet. Laissez refroidir également. Épluchez le concombre, coupez le en deux puis taillez le finement en tranche. Coupez les tomates cerises en deux.
 
 Pour une vinaigrette pour 2 personnes, mélangez 2 cuillères à soupe d’huile d’olive d’olive, 1 grosse cuillère à café de velours de balsamique, quelques gouttes d’arôme maggi et 1 demi cuillère à café de moutarde au basilic.

@@ -36,7 +36,7 @@ published : 1
  - Huile d’olive
  - Sel, poivre
 
-## Recette
+## Recette détaillée
 Hachez grossièrement le basilic frais. Râpez le parmesan. Hachez finement l’échalote. Faites chauffer une casserole d’eau salée. Chauffez une grande poêle à feu moyen avec de l’huile d’olive. Lorsque l'huile scintille, ajoutez l'échalote. Faites cuire environ 5 minutes jusqu'à ce que les échalotes commencent à caraméliser. Passez à feu doux, ajoutez la purée de tomate, le pesto et la vodka et faites cuire 4-5 minutes, jusqu'à épaississement. Ajoutez ensuite la crème et assaisonnez avec du sel et du poivre. Gardez au chaud à feu doux. Quand l’eau bout, ajoutez les pâtes et faites cuire selon les instructions sur l'emballage. Avant d'égoutter, retirez 1 grand verre d'eau de cuisson des pâtes.
 
 Ajoutez les pâtes dans la poêle avec la sauce et la moitié du verre d'eau de cuisson des pâtes. Remuez quelques minutes que la sauce épaississe. Ajoutez le parmesan râpée et le basilic. Si nécessaire, diluez la sauce avec de l'eau de cuisson supplémentaire pour les pâtes.

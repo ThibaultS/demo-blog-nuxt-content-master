@@ -30,7 +30,7 @@ published : 1
  - Huile de tournesol
  - Sel, poivre
 
-## Recette
+## Recette détaillée
 Faites cuire vos œufs 5 minutes, puis plongez les dans de l’eau glacée pour stopper la cuisson. Écalez les œufs, roulez les dans la farine, puis dans un œuf battu, ainsi que dans la chapelure. Faites les frire dans de l’huile à une température entre 155°C et 180°C afin qu’ils soient bien dorés. Une fois cuits, égouttez les pour absorber le surplus d’huile.
 
 Dans une assiette, disposez un œuf frit, une cuillère à café d’œuf de hareng et une de crème fraîche épaisse. Ajoutez quelques morceaux de ciboulettes ciselées et vous pouvez déguster !

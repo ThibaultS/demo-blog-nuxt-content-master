@@ -38,7 +38,7 @@ published : 1
  - 1 mini concombre
  - Crème fraîche épaisse
 
-## Recette
+## Recette détaillée
 Dans un bol, placez le sucre, la vodka, le zest de citron, le sel, le poivre et l’aneth hachée. Pelez la betterave, râpez la finement puis intégrez aux autres ingrédients de la marinade, mélangez bien. Recouvrez le saumon de la marinade. N’hésitez pas à malaxer avec vos mains. Placez le tout dans un plat et recouvrez de film étirable. Laissez mariner minimum 24h au frigo. Nettoyez le saumon de la marinade. Et en faites-en de fines tranches.
 
 Épluchez votre concombre et à l’aide d’une mandoline, faites des lamelles fines sur la longueur que vous viendrez enroulez sur elles même. Videz également votre passion pour récupérer le jus et les graines.

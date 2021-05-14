@@ -31,7 +31,7 @@ published : 1
  - ½ botte de ciboulette
  - sel, poivre
 
-## Recette
+## Recette détaillée
 Faites cuire les pommes de terre sans les peler. Comptez environ 20 minutes après l'ébullition (vérifier la cuisson en piquant avec un couteau). Laissez ensuite refroidir puis pelez et coupez les pommes de terre en morceaux.
 
 Coupez le saumon en cube et faites le cuire rapidement sur feu vif dans une poêle légèrement huilée bien chaude. Réservez. Préparez la sauce, mélangez le fromage blanc avec un peu de jus de citron (quantité en fonction de vos préférences), la ciboulette ciselée, du sel et poivre. Mélangez la salade, les pommes de terre et le saumon puis ajoutez l'avocat coupé en petits morceaux. Servez la salade avec la sauce à la ciboulette.

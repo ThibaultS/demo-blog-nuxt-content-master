@@ -27,7 +27,7 @@ published : 1
  - Quelques noix
  - 1 jaune d’œuf
 
-## Recette
+## Recette détaillée
 Étalez votre pâte feuilletée. A l’aide d’un emporte pièce rond cannelé, faites des ronds dans votre pâte. Enlevez l’excédent de pâte. Coupez des morceaux de gorgonzola et étalez légèrement dans le centre. Émiettez grossièrement des petits morceaux de noix sur le dessus.
 
 Avec un jaune d’œuf, badigeonnez les bords de la pâte. À l’aide d’une mandoline, fais des lamelles moyennement épaisse de poire et placez les sur le dessus des tartelettes.

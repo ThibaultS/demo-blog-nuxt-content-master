@@ -37,7 +37,7 @@ published : 1
  - Sauce soja salée et sucrée
 
 
-## Recette
+## Recette détaillée
 ### Pour le riz vinaigré :
 Lavez le riz 3 fois afin d'enlever tous les résidus. L’eau doit rester transparente.
 Mettez le riz rincé dans un fait tout par exemple, puis versez les 400ml d'eau (Il faut le même poids en riz et en eau). Faites en sorte que l'eau couvre bien le riz. Couvrez avec un couvercle. Mettez à feu fort jusqu’à la première ébullition, et diminuez à feu moyen pour une dizaine de minutes. Les 10 min passées, ne touchez surtout pas le couvercle, la vapeur est essentielle. Laissez reposer encore une dizaine de minutes. Pendant que le riz se prépare, chauffez à feu moyen le vinaigre avec le sucre et le sel. Cela ne doit pas bouillir pour ne pas laisser s'échapper de la vapeur. Lorsque le sucre fond, mettre de côté pour refroidir. Mettez dans un saladier le riz cuit et le vinaigre, puis mélangez délicatement afin que le riz ne se transforme pas en une bouillie. Le riz sera prêt quand il aura suffisamment refroidi, il doit être collant comme dans les sushis.

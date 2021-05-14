@@ -34,7 +34,7 @@ published : 1
  - Huile d’olive
  - Sel, Poivre
 
-## Recette
+## Recette détaillée
 Préchauffez votre four à 200°C. Lavez les pommes de terre, coupez-les en deux. Mettez les dans un saladier. Ajoutez 3 cuillères à soupe d’huile d’olive, salez, poivrez. Mélangez. Disposez les pommes de terre peau vers le bas sur une plaque allant au four recouvert de papier de cuisson. Enfournez pour 30-35 à 200°C, jusqu’à ce qu’elles soient bien dorées.
 
 Dans un plat allant au four, disposez vos filets de bar. Ajoutez les tomates cerises préalablement lavée. Versez un gros filet d’huile d’olive sur l’ensemble. Salez, poivre. Enfournez avec les pommes de terre pendant 20 min.

@@ -33,7 +33,7 @@ published : 1
  - 8 mûres
  - Sel, poivre
 
-## Recette
+## Recette détaillée
 Préchauffez votre four à 200 degrés. Coupez le dos de cabillaud en 2. Placez les morceaux dans un plat allant au four. Assaisonnez le des deux côtés avec du sel, du poivre et un filet d’huile d’olive. Mettez au four pendant 15 minutes. Pressez le jus du citron et gardez le de côté. Dans une casserole, fondez le beurre à feu doux. Rajoutez la moutarde. Remuez jusqu’à ce que le mélange soit parfaitement homogène.
 
 Ensuite, délayez-le avec la crème liquide et le jus de citron. Ajoutez un peu de sel et de poivre. Coupez les lanières de courgettes avec un éplucheur de légumes ou une mandoline. Trempez les dans de l'huile d'olive, du poivre et du sel. Roulez les lanières de courgettes en petits ronds.

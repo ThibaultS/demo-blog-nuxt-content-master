@@ -50,13 +50,41 @@
                 article.main_ingredient == 'Saumon' ||
                 article.main_ingredient == 'Thon' ||
                 article.main_ingredient == 'Daurade' ||
-                article.main_ingredient == 'Lotte'
+                article.main_ingredient == 'Lotte' ||
+                article.main_ingredient == 'Crevette' ||
+                article.main_ingredient == 'Bar' ||
+                article.main_ingredient == 'Cabillaud' ||
+                article.main_ingredient == 'Saint-Jacques' ||
+                article.main_ingredient == 'Huître' ||
+                article.main_ingredient == 'Crabe' ||
+                article.main_ingredient == 'Truite' ||
+                article.main_ingredient == 'Coques' ||
+                article.main_ingredient == 'Palourde' ||
+                article.main_ingredient == 'Moule' ||
+                article.main_ingredient == 'Calamar'
               "
             >
               Thème :
-              <a href="/categories/poissons-et-crustace" class="link">
+              <a href="/categories/poissons-et-crustaces" class="link">
                 Poissons et crustacés
               </a>
+            </div>
+            <div
+              v-if="
+                article.main_ingredient == 'Boeuf' ||
+                article.main_ingredient == 'Poulet' ||
+                article.main_ingredient == 'Dinde' ||
+                article.main_ingredient == 'Veau' ||
+                article.main_ingredient == 'Canard' ||
+                article.main_ingredient == 'Chapon' ||
+                article.main_ingredient == 'Agneau' ||
+                article.main_ingredient == 'Lapin' ||
+                article.main_ingredient == 'Boudin' ||
+                article.main_ingredient == 'Porc'
+              "
+            >
+              Thème :
+              <a href="/categories/viandes" class="link">Viandes</a>
             </div>
             <div v-if="article.veggie">
               <i class="fas fa-seedling"></i>
@@ -74,6 +102,12 @@
             <div v-if="article.time">
               <i class="fas fa-stopwatch"></i>
               {{ article.time }} min
+              <span v-if="article.time < 31">
+                -
+                <a class="link mr-2" href="/categories/trente-minutes-chrono">
+                  Recettes en moins de 30 min
+                </a>
+              </span>
             </div>
             <div v-if="article.recipeYield">
               <i class="fas fa-utensils"></i>
@@ -89,7 +123,14 @@
         <nuxt-content :document="article" />
         <p class="pt-2">Publié le {{ formatDate(article.date) }}</p>
         <div class="mb-3 rebound-block">
-          <h2>Ça pourrait vous intéresser</h2>
+          <h2>Cela pourrait vous intéresser</h2>
+          <a
+            v-if="article.time < 31"
+            class="link mr-2"
+            href="/categories/trente-minutes-chrono"
+          >
+            Recettes en moins de 30 min
+          </a>
           <a
             v-if="article.theme == 'Pâtes'"
             class="link mr-2"
@@ -123,12 +164,41 @@
               article.main_ingredient == 'Saumon' ||
               article.main_ingredient == 'Thon' ||
               article.main_ingredient == 'Daurade' ||
-              article.main_ingredient == 'Lotte'
+              article.main_ingredient == 'Lotte' ||
+              article.main_ingredient == 'Crevette' ||
+              article.main_ingredient == 'Bar' ||
+              article.main_ingredient == 'Cabillaud' ||
+              article.main_ingredient == 'Saint-Jacques' ||
+              article.main_ingredient == 'Huître' ||
+              article.main_ingredient == 'Crabe' ||
+              article.main_ingredient == 'Truite' ||
+              article.main_ingredient == 'Coques' ||
+              article.main_ingredient == 'Palourde' ||
+              article.main_ingredient == 'Moule' ||
+              article.main_ingredient == 'Calamar'
             "
             class="link mr-2"
             href="/categories/poissons-et-crustaces"
           >
             Poissons et crustacés
+          </a>
+          <a
+            v-if="
+              article.main_ingredient == 'Boeuf' ||
+              article.main_ingredient == 'Poulet' ||
+              article.main_ingredient == 'Dinde' ||
+              article.main_ingredient == 'Veau' ||
+              article.main_ingredient == 'Canard' ||
+              article.main_ingredient == 'Chapon' ||
+              article.main_ingredient == 'Agneau' ||
+              article.main_ingredient == 'Lapin' ||
+              article.main_ingredient == 'Boudin' ||
+              article.main_ingredient == 'Porc'
+            "
+            class="link mr-2"
+            href="/categories/viandes"
+          >
+            Viandes
           </a>
           <a
             v-if="article.theme == 'Salades'"
@@ -233,13 +303,5 @@ export default {
 <style>
 .nuxt-content p {
   margin-bottom: 20px;
-}
-.icon.icon-link {
-  background-image: url('~assets/svg/icon-hashtag.svg');
-  display: inline-block;
-  width: 20px;
-  height: 20px;
-  background-size: 20px 20px;
-  background-color: transparent;
 }
 </style>

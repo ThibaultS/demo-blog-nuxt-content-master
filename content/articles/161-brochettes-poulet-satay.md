@@ -44,7 +44,7 @@ Pour 200 ml de sauce satay:
  - 1 demi c.à.c de sucre en poudre
  - 150 ml d’eau
 
-## Recette
+## Recette détaillée
 Faites chauffer votre eau pour votre riz. Pendant ce temps, coupez grossièrement les filets de poulet en enlevant le gras et les nerfs. Disposez les morceaux dans le mixeur pour le hacher. Hachez finement vos feuilles de persil et mettez-les aussi dans le mixeur. Ajoutez une cuillère d’ail en poudre. Salez, poivrez. Mixez pendant quelques minutes pour avoir une pâte compacte. Préchauffez votre four à 180°C.
 
 Formez des boulettes pour vos brochettes et piquez les directement sur les pics. Pour cette quantité j’ai pu faire 12 boulettes réparties sur 4 brochettes. Disposez vos brochettes sur une plaque allant au four, recouverte de papier sulfurisée. Enfournez pendant 10 min à 180°C. Pendant ce temps faites cuire votre riz basmati.

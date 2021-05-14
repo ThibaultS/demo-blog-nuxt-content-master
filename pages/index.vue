@@ -39,9 +39,12 @@
         <b-row class="mb-4">
           <CategoriesLinks />
         </b-row>
+        <b-row class="mb-4">
+          <CategoryPush />
+        </b-row>
         <b-row>
           <b-col>
-            <h2 class="subtitle-home mb-2">Découvrez mes dernières recettes</h2>
+            <h2 class="subtitle-home mb-2">Mes dernières recettes publiées</h2>
           </b-col>
         </b-row>
         <b-row

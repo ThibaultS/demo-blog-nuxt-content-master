@@ -47,7 +47,7 @@ Pour la décoration:
 - 60g de noisettes hachées
 - 45g de crêpes dentelles émiettées
 
-## Recette
+## Recette détaillée
 Pour le gâteau :
 Préchauffez le four à 160°. Faites fondre le beurre. Fouettez les œufs, le sucre et le miel jusqu’à ce que le mélange blanchisse légèrement. Portez la crème à frémissement et versez-la sur le chocolat cassé en morceaux. Laissez fondre quelques instants, puis mélangez et incorporez au mélange œufs-sucre. Ajoutez la farine tamisée, la levure chimique, la poudre de noisette et le cacao. Incorporez le beurre fondu. Faites cuire cette pâte dans 3 moules rond de 18cm pendant 20-30 min (vérifier la cuisson avec la pointe d'un couteau, elle doit ressortir sans trace).
 

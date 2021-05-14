@@ -34,7 +34,7 @@ Pour la garniture :
  - 25g de beurre
  - Poudre d’amande
 
-## Recette
+## Recette détaillée
 Versez la farine dans un saladier et mélangez avec le sel et le sucre. Incorporez le beurre coupé en dés et travaillez le mélange du bout des doigts jusqu’à obtenir une texture sableuse. Creusez un puit au centre et ajoutez l’œuf entier. Pétrissez le tout jusqu’à obtenir une boule de pâte homogène. Enveloppez-la d’un film alimentaire et laissez reposer au frais au moins 30 min avant de l’étaler.
 
 Dans une casserole, faites chauffer le sucre et le beurre. Puis, ajoutez y les framboises à feu doux quelques minutes pour bien les imbiber. Sur votre pâte sablée étalée, saupoudrez un peu de poudre d’amande (à votre convenance). Disposez ensuite au centre les framboises. Rabattez les bords de la pâte sur les framboises. En option, vous pouvez étalez au pinceau du jaune d’œuf puis y parsemez des graines de sésame. Mettez la tarte au four pendant 20-25 minutes à 180 degrés.

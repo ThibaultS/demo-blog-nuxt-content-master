@@ -34,7 +34,7 @@ published : 1
  - 1 café expresso
  - 30g de farine
 
-## Recette
+## Recette détaillée
 Ajoutez le chocolat et le beurre ensemble dans une casserole et faites-les fondre. Dans un autre saladier, mélangez au fouet les 4 oeufs avec le sucre. Ajoutez la poudre d’amande tout en continuant à mélanger. Faites de même avec la levure chimique. Ajoutez le mélange à base de chocolat et mélangez au fouet à nouveau pour avoir une préparation homogène.
 
 Préchauffez votre four à 220°. Préparez l’expresso et versez-le chaud dans la préparation. Mélangez à la maryse. Ajoutez la farine et mélangez au fouet. Beurrez bien moules, je vous conseille d’utiliser des petits ramequins en céramique. Versez votre préparation à l’intérieur au 3/4.

@@ -30,5 +30,5 @@ published : 1
  - Poivre du moulin
  - Gros sel
 
-## Recette
+## Recette détaillée
 Ouvrez les huîtres en prenant soin de laisser la chair de la coquille attachée sur l’huître. Jetez la première eau. Assaisonnez d’un tour de moulin à poivre. Disposez quelques feuilles d’aneth. Terminez en versant sur chaque huître une demi cuillère à soupe de sauce ponzu. Disposez les huîtres sur un lit de gros sel.

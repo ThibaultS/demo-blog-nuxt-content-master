@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/COlDO9-pbRd/
 alt: 
 date : '2021-05-07'
 inspiration : Simone Zanoni
-description: "Avez vous déjà essayer des recettes terre-mer ? Je vous recommande ces involtinis de veau farci au thon."
+description: "Avez vous déjà essayé des recettes terre-mer ? Je vous recommande ces involtinis de veau farci au thon."
 main_ingredient : Veau
 theme : 
 tag : 
@@ -35,7 +35,7 @@ published : 1
  - Huile d’olive
  - Sel et poivre
 
-## Recette
+## Recette détaillée
 On commence par le veau. Si vos escalopes ne sont pas assez plates, n’hésitez pas à les mettre entre deux feuilles de papier de cuisson pour les aplatir avec un rouleau à pâtisserie en tapant dessus. Faites attention à ne pas déchirer la viande ou l’abîmer en tapant dessus trop fort. Réservez.
 
 On s’attaque ensuite à la farce. Dans un blender, mettez le thon, les câpres, le parmesan, un filet d’huile d’olive, 2 c.a.s d’eau des câpres, 2 feuilles de sauge, le sel et le poivre. Mixez légèrement mais trop car on ne veut pas obtenir une purée et on veut conserver quelques morceaux.

@@ -1,7 +1,7 @@
 ---
 id: 134
 title: Parmentier de boudin noir à la poire
-description: 
+description: "C'est bien réconfortant une parmentier de boudin en hiver, avec des poires pour la touche sucrée."
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1607701269/Recipes/20201211_parmentier_boudin_poire.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607701269/Recipes/20201211_parmentier_boudin_poire.jpg
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607701269/Recipes/20201211_parmentier_boudin_poire.jpg)
@@ -12,7 +12,7 @@ inspiration :
 event : "Noël"
 main_ingredient : Boudin
 theme : 
-sweety_salty : 
+sweety_salty : 1
 veggie : 
 country :
 difficulty : Facile
@@ -35,7 +35,7 @@ published : 1
  - Poivre
  - Persil
 
-## Recette
+## Recette détaillée
 Epluchez et coupez vos pommes de terre en gros morceaux. Faites-les cuire 15 min à la vapeur. Pelez et épépinez les poires. Coupez-les en lamelles, citronnez-les. Ajoutez-les sur les pommes de terre 5 min après le début de leur cuisson. Cuisez les poires et les pommes de terre pendant 10 min. Sortez les de l’eau et réservez dans un saladier
 
 Pendant ce temps, Poêlez le boudin noir pendant 5 min. Ôtez le boyau et réservez au chaud. Écrasez les pommes de terre et les poires à la fourchette en incorporant le beurre et la crème chauffée au préalable. Salez et poivrez, goûtez.

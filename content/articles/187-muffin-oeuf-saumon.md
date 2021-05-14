@@ -39,7 +39,7 @@ Pour la sauce hollandaise :
 - 1/4 de citron
 - Sel, poivre
 
-## Recette
+## Recette détaillée
 Pour la sauce :
 Délayez les jaunes d'oeufs avec 2 cuillieres à soupe d'eau froide. Placez dans un bain-marie chaud et fouettez jusqu'à l'obtention d'une crème mousseuse et légère. Ajoutez alors le beurre coupé en dés en plusieurs fois, en fouettant bien. Salez, poivrez et incorporez le jus du citron. Retirez du feu et servez.
 

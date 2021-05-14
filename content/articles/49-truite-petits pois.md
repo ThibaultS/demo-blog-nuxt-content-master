@@ -36,7 +36,7 @@ published : 1
  - 1 verre de vin blanc
  - Beurre
 
-## Recette
+## Recette détaillée
 Pour la préparation du poisson :
 Pour lever la truite, commencez par enlever les nageoires au couteau ou aux ciseaux. Incisez la tête derrière les branchies des deux côtés et coupez d’un coup sec. Répétez pour la queue. (Réserver têtes et queues pour le fumet). Palpez le poisson au niveau du dos pour trouver la colonne vertébrale puis incisez lentement sous la colonne vertébrale sur toute la longueur. Répétez l’opération de l’autre côté. Gardez les arêtes pour le fumet.
 

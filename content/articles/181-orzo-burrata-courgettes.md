@@ -37,7 +37,7 @@ published : 1
 - 2 petite burrata
 - Sel
 
-## Recette
+## Recette détaillée
 Emincez finement vos oignons et hachez votre ail. Coupez les courgettes en julienne (petit bâtonnet) à l'aide d'une mandoline ou au couteau.
 
 Faites bouillir de l’eau salée et faites cuire vos pâtes le temps indiqué sur le paquet. Réservez une tasse d'eau de cuisson avant d'égoutter.

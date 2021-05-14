@@ -33,7 +33,7 @@ published : 1
  - 80g de Sucre en poudre
  - 80g de Poudre d'amande
 
-## Recette
+## Recette détaillée
 Déroulez la pâte à tarte et garnissez votre moule ou vos moules. Moi j’ai décidé d’en faire 4 petites tartelettes. Piquez le fond à la fourchette. Réservez au frais. Commencez en préchauffant le four à 180 °C (th. 6).
 
 Pelez les poires et coupez-les en deux. Retirez les coeurs et les pépins, coupez la partie bombée de la poire pour la décoration puis détaillez le reste en morceaux. Dans un saladier, réunissez le beurre, le sucre, la farine et 40 g de poudre d’amande. Mélangez du bout des doigts jusqu’à obtenir un mélange sableux. Concassez les amandes, les noisettes et le chocolat et gardez le mélange à part.

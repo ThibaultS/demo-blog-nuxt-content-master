@@ -44,7 +44,7 @@ Pour la crème au beurre :
  - Colorant alimentaire rouge
  - Pâte à sucre noire
 
-## Recette
+## Recette détaillée
 ### Pour les cupcakes :
 Préchauffez le four à 180°C (thermostat 6). Faites fondre le beurre avec le chocolat, mélangez pour bien lisser. Mettez les oeufs dans un saladier et incorporez le sucre. Ajoutez ensuite la farine, puis le mélange beurre-chocolat. Ajoutez du colorant noir pour foncer au maximum votre pâte. Répartissez la préparation dans des petits moules en papier sulfurisé (ou silicone), sans dépasser les trois quarts de la hauteur du moule.
 

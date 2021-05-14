@@ -35,7 +35,7 @@ published : 1
  - 1 branche de basilic + quelques pousses de basilic pour la présentation
  - Huile d’olive
 
-## Recette
+## Recette détaillée
 Prenez une sauce tomate déjà faite (maison ou en commerce). Préparez vos ingrédients : découpez vos tomates en dés, émiettez votre thon, coupez vos olives en 2 ou 3, ciselez le persil et le basilic. Mettez dans des petits pots pour avoir tout à porter de main. 
 
 Faite chauffer de l'eau dans une casserole et lancez vos pâtes en cuisson dans l'eau pendant la moitié du temps indiqué sur le paquet.

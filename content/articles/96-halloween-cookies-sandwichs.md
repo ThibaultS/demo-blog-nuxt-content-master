@@ -48,7 +48,7 @@ Ingrédients supplémentaires :
  - 2 poches à douilles
  - 1 douille de votre choix
 
-## Recette
+## Recette détaillée
 ### Pour les cookies :
 Faites ramollir le beurre au micro-ondes (mais ne le faites pas fondre). Mélangez beurre, oeuf, sucre et sucre vanillé. Ajoutez la farine, le sel et la levure petit à petit, puis du colorant pour avoir une pâte gris foncé/noire. Faites des petites boules, mettez les sur du papier sulfurisé. Enfournez à 180°C pendant 10 à 12 min (suivant la texture que vous désirez, moi j'aime quand c'est très moelleux).
 

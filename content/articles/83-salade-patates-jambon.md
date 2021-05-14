@@ -29,7 +29,7 @@ published : 1
  - 2 càs de vinaigre balsamique
  - Sel et poivre
 
-## Recette
+## Recette détaillée
 Lavez et coupez les pommes de terre en deux. Mettez les sur une plaque allant au four, ajoutez un filet d’huile d’huile, du sel et du poivre. Enfournez 30 à 40 minutes à 200 degrés pour qu’elles soient bien dorées. Coupez les échalotes en rondelle à feu moyen et faites les revenir dans un peu d’huile d’olive pour qu’elles se détendent.
 
 Coupez le jambon en cube. Dans un saladier, mélangez le jambon, les échalotes, la coriandre, l’huile, le vinaigre avec du sel et du poivre. Une fois les pommes de terre cuites, laissez les refroidir puis mélangez le tout.

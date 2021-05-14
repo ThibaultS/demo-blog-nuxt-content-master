@@ -26,7 +26,7 @@ published : 1
  - Caramel beurre salé ou confiture
  - 1 càs jus de citron
 
-## Recette
+## Recette détaillée
 Préchauffez votre four à 180°C. Beurrez un moule à muffins. Coupez les pommes en deux, retirez le trognon puis coupez-les en tranches fines à l’aide d’une mandoline. Mettez les tranches au fur et à mesure dans le bol allant au micro-onde rempli d’eau citronnée. Faites chauffer au micro-ondes pour 4 minutes puis égouttez. Cela va ramollir les pommes pour les rouler ensuite.
 
 Découpez la pate en 6 bandes et nappez ces bandes d’une fine couche de confiture ou de caramel. Déposez les lamelles de pommes sur la moitié supérieure de la bande en les faisant dépasser de la pate et se chevaucher. Repliez la partie inférieure de la pâte sur les pommes. Roulez délicatement la bande sur elle-même en serrant bien. Déposez immédiatement dans le moule à muffin. Répétez l’opération jusqu’à épuisement de la pâte. Enfournez pour 30 minutes.

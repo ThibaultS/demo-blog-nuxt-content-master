@@ -1,7 +1,7 @@
 ---
 id: 122
 title: Cupcakes salés à la carotte, lardons et chèvre
-description: 
+description: "Les possibilités pour des cupackes salées sont illimités : cette fois-ci carottes, lardons et chèvre."
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1606416852/Recipes/20201125_cupcake_carottes_lardons.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1606416852/Recipes/20201125_cupcake_carottes_lardons.jpg
 url: https://www.instagram.com/p/CIBaNXoJuhR/
@@ -34,7 +34,7 @@ published : 1
  - Des graines de courge
  - Sel et Poivre
 
-## Recette
+## Recette détaillée
 Préchauffez votre four à 180°C (Th.6).
 
 Épluchez et râpez les carottes. Coupez le fromage de chèvre en petits dés. Mélangez la farine, la levure et le cumin. Dans un deuxième récipient, battez les oeufs, l'huile et le fromage de chèvre. Mélangez les deux préparations.

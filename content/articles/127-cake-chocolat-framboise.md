@@ -41,7 +41,7 @@ Pour l’insert et le glaçage :
  - 1 tige de romarin 
  - Des M&Ms rouges
 
-## Recette
+## Recette détaillée
 Tout d’abord, préparez le gateau au chocolat à faire cuire dans un moule rond. Préchauffez votre four à 180°C. Séparez les blancs et les jaunes d’oeufs. Prenez en premier les jaunes et ajoutez les 200g de sucre avant de battre le tout. Vous devez obtenir une texture un peu mousseuse. Ajoutez-y la farine, la levure et le lait tout en mélangeant au fouet. Ensuite, faites fondre 200g de chocolat et 50g de beurre. Une fois fondu, ajoutez le mélange à la préparation.
 
 Maintenant, prenez les blancs et montez-les en neige. Quand ils deviennent mousseux, ajoutez-y au fur et à mesure les 50g de sucre restants. Finissez par incoporez les blancs à la préparation avec une maryse. Beurrez le moule, versez la pâte et enfournez pendant environ 45 minutes.

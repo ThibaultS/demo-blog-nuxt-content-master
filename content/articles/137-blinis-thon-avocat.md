@@ -46,7 +46,7 @@ Pour la pâte à blinis :
  - 5g de levure boulangère
  - Sel
 
-## Recette
+## Recette détaillée
 Commencez par la chantilly, battez au fouet la crème liquide. Ensuite, incorporez le mascarpone et continuez à fouetter. Ajoutez le wasabi et le sel et donnez quelques derniers coups de fouet pour une préparation homogène. Une fois que la chantilly est prête, mettez-la dans une poche à douille avec une douille crantée et réservez au frigo pendant 30 min.
 
 Pendant ce temps, préparez le tartare. Dénoyautez l’avocat et taillez-le en petits dés. Réservez dans un saladier et arrosez-le du jus d’un demi citron. Hachez votre oignon rouge et ajoutez-le au saladier. Ajoutez la mayonnaise et le thon écrasé au préalable. Ajoutez le jus restant du citron. Mélangez et réservez au frais.

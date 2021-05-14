@@ -27,7 +27,7 @@ published : 1
  - Sel, poivre
  - Huile d’olive
 
-## Recette
+## Recette détaillée
 Prenez votre betterave. Il vous suffit de couper la betterave avec une mandoline pour avoir de belles lamelles. Si vous en avez pas vous pouvez aussi le faire au couteau.
 
 Disposez les ensuite sur une assiette de manière à former une rosace. Parsemez ensuite de miettes de chèvre frais, de basilic, un filet d’huile d’olive. Du sel et du poivre et le tour est joué !

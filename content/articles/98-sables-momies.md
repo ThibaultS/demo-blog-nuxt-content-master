@@ -32,7 +32,7 @@ published : 1
  - 100g de fondant patissier
  - 30 petits yeux en bonbons
 
-## Recette
+## Recette détaillée
 Sortez le beurre du réfrigérateur et laissez-le ramollir à l’air libre.
 
 Mélangez le sucre et les oeufs jusqu’à ce que ces derniers blanchissent. Travaillez le beurre jusqu’à ce qu’il devienne pommade. Ajoutez petit à petit la farine et le beurre au mélange. Une fois votre pâte formée, étalez-la entre deux feuilles de papier sulfurisé et laissez-la refroidir au réfrigérateur pendant une trentaine de minutes. Préchauffez votre four à 200°C.

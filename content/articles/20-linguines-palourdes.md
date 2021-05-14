@@ -35,7 +35,7 @@ published : 1
  -  Huile d’olive
  -  Sel et poivre
 
-## Recette
+## Recette détaillée
 Dans une casserole, faites chauffer l’huile d’olive sur feu vif pour qu’elle fume légèrement. Ajoutez ensuite les palourdes, l’échalote, l’ail, le céleri et un peu de poivre. Quand le mélange commence à crépiter, ajoutez le vin blanc. Couvrez quelques minutes le temps que les palourdes s’ouvrent. Versez le tout dans une passoire en gardant le jus de cuisson. Faites cuire les liguines dans de l’eau bouillante. Si le temps de cuisson indiqué sur l’emballage est de 9 minutes, alors laissez cuire dans l’eau bouillante 5 minutes. Égouttez les et gardez un peu d’eau de cuisson des pâtes.
 
 Dans une poêle à moyen feu, renversez les pâtes et continuez à cuire pendant 4 minutes en ajoutant petit à petit le jus de cuisson des palourdes tout en mélangeant pour éviter que les pâtes accrochent. Pour finir, ajoutez environ 5cl d’huile d’olive, le persil, les tomates séchées, le persil, le jus de citron et les zestes. Assaisonnez avec du sel, poivre et un peu de piment d’Espelette. Vous pouvez maintenant dresser dans une assiste les pâtes, les palourdes et de vous régaler !

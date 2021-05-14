@@ -33,7 +33,7 @@ published : 1
  - Sel, poivre 
 
 
-## Recette
+## Recette détaillée
 Étalez la pâte feuilletée et détaillez des cercles avec un emporte pièce de 6,8cm (16/18 cercles). Piquez la pâte à l’aide d’une fourchette et placez les dans des moules à cupcakes. 
 
 Chauffez votre four entre 180 et 200° selon sa puissance. Faites cuire à blanc pendant 15 minutes pour qu'elles soient bien dorées. Une fois que c’est cuit, laissez refroidir. 

@@ -31,7 +31,7 @@ published : 1
  - 1 pincée de sel
  - 1 jaune d’œuf
 
-## Recette
+## Recette détaillée
 Commencez par la pâte de figues. Placez les figues dans un bol d'eau pendant au moins 3 heures, de préférence toute une nuit, afin de les réhydrater au maximum.
 
 Prélevez 4 cuillères à soupe de cette eau pour la mettre dans une casserole avec 30g de cassonade. Faites bouillir jusqu'à ce que la cassonade fonde. Baissez le feu et ajoutez les figues. Couvrez et laissez cuire pendant une vingtaine de minutes. Mixez ensuite les figues jusqu'à obtention d'une pâte homogène.

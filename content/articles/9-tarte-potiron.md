@@ -29,7 +29,7 @@ published : 1
  - 100g Chèvre frais
  - 70g Noisette
 
-## Recette
+## Recette détaillée
 Dans une casserole d’eau bouillante, faites cuire le potiron pendant 8 minutes. Égouttez puis mixez le potiron avec le lait, du sel et du poivre. Ajoutez du lait si ce n’est pas assez liquide. Préchauffez le four à 200°C.
 
 Froncez le moule à tarte avec la pâte feuilletée. Piquez avec une fourchette puis faites cuire à blanc 5 à 10 minutes. Faites griller à la poêle les lardons, concassez les noisettes et émiettez le fromage de chèvre. Versez la purée sur le fond de tarte et répartissez-y les miettes de fromage de chèvre, les noisettes et les lardons.

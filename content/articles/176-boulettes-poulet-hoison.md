@@ -45,7 +45,7 @@ Pour la sauce Hoison :
  - 1 demi c.à.c de sambal
  - Poivre
 
-## Recette
+## Recette détaillée
 Pour la sauce Hoison, mélangez tous les ingrédients dans un saladier et à la cuillère pour avoir un résultat homogène.
 
 Coupez votre chou romanesco en morceau. À la casserole, plongez-le dans de l'eau bouillante. Cuisez environ 8 minutes. Préparez-les avant les boulettes pour pouvoir les faire dorer au four en même temps.

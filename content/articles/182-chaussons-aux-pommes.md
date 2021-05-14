@@ -38,7 +38,7 @@ Pour la chantilly :
  - 40g de sucre glace
  - 1 sachet de sucre vanillé
 
-## Recette
+## Recette détaillée
 Pelez et découpez les pommes en cube. Faites fondre le beurre dans une poêle, et faites revenir les pommes. Ajoutez le sucre et mélangez. Rapez la gousse de vanille et mélangez à nouveau. Laissez caraméliser à feu doux pendant environ 15 mn.
 
 Préchauffez votre four à 180°C. Déroulez votre pâte avec le papier sulfurisé. Déposez sur une plaque et coupez-la en deux pour faire 2 chaussons. Au centre de chaque part de pâte, marquez légèrement avec un objet non tranchant pour délimiter le rectangle central. Ensuite découpez des bandes régulières sur les deux côtés de ce rectangle. Déposez votre garniture et tressez votre pâte en faisant rejoindre les bandes de côté sur le rectangle au centre en les inclinant légèrement vers le bas.

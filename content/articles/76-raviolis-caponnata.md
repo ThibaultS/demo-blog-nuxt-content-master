@@ -39,7 +39,7 @@ published : 1
  - 4 Olives noires dénoyautées
  - 1 mozzarella de bufala
 
-## Recette
+## Recette détaillée
 ### Pour la caponata :
 Lavez les légumes. Coupez les aubergines en petits cubes. Ouvrez les poivrons et épépinez-les. Coupez les poivrons et le céleri en lanières puis en dés. Faites revenir les aubergines et les poivrons dans une sauteuse avec 2 cuil. à soupe d’huile d’olive pendant 15 min, salez, poivrez. Faites fondre l’oignon et l’ail hachés avec le céleri dans une poêle 10 min (avec l’huile d’olive restante). Au bout de ce temps, ajoutez les tomates concassées et le concentré de tomates. Laissez réduire 15 min environ, salez, poivrez. Versez cette préparation sur les aubergines et les poivrons, mélangez bien. Ajoutez le vinaigre, le sucre, les olives. Poursuivez la cuisson 10 min. Laissez refroidir.
 

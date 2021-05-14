@@ -33,7 +33,7 @@ published : 1
  - Le jus de 1 citron
  - Sel, poivre
 
-## Recette
+## Recette détaillée
 Dans un plat creux, battez l’œuf avec le lait, ajoutez un peu de sel et de poivre. Dans un deuxième plat, mélangez la chapelure et les amandes effilées.
 
 Faites chauffer le beurre et l’huile dans une poêle. Enrobez les filets de daurade d’œuf battu. Égouttez, puis enrobez-les de chapelure aux amandes. Faites-les cuire 2 minutes par face. Épongez-les sur du papier absorbant puis disposez-les dans 4 assiettes.

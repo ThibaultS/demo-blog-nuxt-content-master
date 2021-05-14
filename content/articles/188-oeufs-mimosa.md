@@ -31,7 +31,7 @@ published : 1
  - Saumon fumé classique ou aromatisé citron/aneth
  - Aneth
 
-## Recette
+## Recette détaillée
 Faites cuire les oeufs 10 min dans l'eau bouillante, puis mettez-les dans l'eau froide pour arrêter la cuisson.
 
 Coupez votre saumon fumé en petits cubes et réservez. Écalez les oeufs, coupez-les dans le sens de la longueur, puis séparez les blancs des jaunes.

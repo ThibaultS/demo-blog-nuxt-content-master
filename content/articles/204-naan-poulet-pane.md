@@ -47,7 +47,7 @@ Pour la sauce blanche :
  - 1 gousse d’ail
  - Sel, poivre
 
-## Recette
+## Recette détaillée
 Préparez la sauce blanche. Mélangez dans un saladier le yaourt, les herbes congelées et la gousse d’ail écrasée. Salez, poivrez à convenance. Réservez au frais.
 Coupez vos tomates cerises en deux. Egrainez la grenade. Emincez l’oignon nouveau.
 

@@ -41,7 +41,7 @@ Pour la préparation à cheesecake :
  - 1 citron
  - 5 brins de ciboulette
 
-## Recette
+## Recette détaillée
 Commencez par préparer votre biscuit pour la base de votre cheesecake. Préchauffez le four à 220°C. Mélangez le parmesan, l’huile, la farine, les blancs d’œufs et les graines de pavot. Etalez votre pâte pour avoir une pâte épaisse de 1cm. Pour monter mon cheesecake, j’ai utilisé un moule rectangulaire de 13 sur 35cm avec un fond amovible. Si vous n’avez pas de fond amovible mettez du papier sulfurisé au fond. Déposez votre pâte dedans. Enfournez 10 min à 15 min en surveillant la cuisson, dès que les bords sont dorés.
 
 Mettez de côté 10 crevettes et 10 écrevisses de côté pour la décoration. Hachez le reste des crustacés. Mélangez ensemble les crustacés hachés, la mascarpone, le st Moret et l’aneth. Déposez la préparation par dessus le biscuit dans le moule. Sortez le cheesecake du moule et coupez le en carré. 

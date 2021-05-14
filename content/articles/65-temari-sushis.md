@@ -33,7 +33,7 @@ published : 1
  - Graines de sésame
  - Wasibi
 
-## Recette
+## Recette détaillée
 Rincez le riz plusieurs fois jusqu'à ce que l'eau soit clair. Mettez le dans une casserole avec 260ml d'eau. Quand l'eau bout, couvrez et baissez le feu. Laissez 15/20 min sans soulever le couvercle. Mélangez le vinaigre, le sucre et le sel jusqu'à dissolution. Quand le riz est cuit, versez le vinaigre dessus puis mélangez doucement pour ne pas écraser le riz. Couvrez le riz avec un torchon humide et laissez refroidir.
 
 Coupez l’avocat, la daurade et le saumon finement. Étalez du film transparent sur votre plan de travail, déposez-y les tranches de saumon, d’avocat ou de concombre. Par dessus, vous pouvez étaler un peu de wasabi. Disposez par dessus une petite boule de riz à sushi. Refermez le film plastique et serrez afin former une sphère bien ronde, sans pour autant trop tasser le riz. Ressortez du film votre sushi et répétez l'opération pour les suivants.

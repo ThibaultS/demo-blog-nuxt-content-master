@@ -29,7 +29,7 @@ published : 1
  - Colorant alimentaire
  - Perles alimentaires
 
-## Recette
+## Recette détaillée
 Préchauffez votre four à 90°C.
 Montez les blancs en neige avec le sucre semoule pour qu'ils soient fermes puis incorporez délicatement le sucre glace à l’aide d’une Maryse.
 
