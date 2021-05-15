@@ -21,7 +21,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - Des coquillettes pour deux personnes
  - Une sauce à la truffe (trouvable sur Frichti)
  - De la crème fraîche épaisse
@@ -31,7 +31,7 @@ published : 1
  - Vinaigre blanc
  - Sel, poivre
 
-## Recette détaillée
+## La recette détaillée
 Pour les œufs pochés :
 Faites bouillir une grande quantité d'eau, ajoutez-y du vinaigre blanc (1 cuillère à soupe). Cassez un oeuf avec précaution dans un petit récipient. Puis versez doucement l'oeuf dans l'eau vinaigrée bouillante. Faites cuire 3 minutes et retirez de suite avec un écumoire. Plongez le de suite dans un saladier rempli d'eau froide pour stopper la cuisson. Retirez les filaments qui se sont formés et recommencez l’opération pour le deuxième œuf.
 

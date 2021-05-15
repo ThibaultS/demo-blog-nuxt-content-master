@@ -20,7 +20,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 2 cuisses de lapin
  - 3 c.a.s de moutarde à l’ancienne
  - 2 c.a.s de crème fraîche entière
@@ -35,7 +35,7 @@ published : 1
  - un peu de poivre noir
  - sel, huile d’olive, beurre
 
-## Recette détaillée
+## La recette détaillée
 Préparation du lapin à la moutarde : Dans une cocotte, faites chauffer une noix de beurre avec un peu d’huile d’olive. Faites revenir votre lapin quelques minutes sur feu moyen jusqu’à ce qu’il soit bien doré. Sortez ensuite vos morceaux de lapin du feu et réservez.
 
 Ajoutez ensuite toujours dans la même cocotte, l’ail, l’oignon et l’échalote hachés. Laissez colorer un instant le temps que les sucs caramélisent, puis déglacez avec le vin blanc. Grattez bien pour décoller tous les sucs de cuisson. Laissez réduire le temps que l’alcool s’évapore, puis ajoutez le fond de volaille (2 c.a.c de poudre de fond de volaille dans un bon verre d’eau tiède). Ajoutez ensuite la moutarde à l’ancienne et mélangez bien. Remettez ensuite vos morceaux de lapin dans la cocotte, remettez le couvercle et laissez mijoter à feu doux pendant une heure environ. Au bout d’une heure, ajoutez la crème et faites réduire quelques minutes. Assaisonnez enfin avec un peu de sel et de poivre noir.

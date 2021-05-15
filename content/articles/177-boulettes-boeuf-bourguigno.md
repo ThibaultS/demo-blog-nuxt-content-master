@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 550g de boeuf haché
  - 1 oeuf
  - 4 tranches de poitrine fumée épaisse
@@ -45,7 +45,7 @@ Pour la purée :
  - 20g de beurre
  - Sel, poivre
 
-## Recette détaillée
+## La recette détaillée
 Préparez vos légumes. Epluchez et coupez en cube l’oignon. Lavez, coupez les champignons en lamelles. Epluchez et coupez les carottes en rondelles. Coupez les tranches de poitrine en gros lardons.
 
 Dans une casserole ou un faitout, ajoutez 2 gros filets d’huile d’olive, l’oignon et les lardons. Faites revenir pendant 5 minutes. Ajoutez les carottes, les champignons, le concentré de tomate et la gousse d’ail finement hachée. Faites cuire encore 5 minutes en remuant régulièrement. Ajouter le vin rouge, le bouillon et le thym. Salez, poivrez. Remuez, portez la sauce à ébullition, et laissez cuire à feu moyen pendant 50 minutes ou jusqu'à ce que les carottes soient tendres.

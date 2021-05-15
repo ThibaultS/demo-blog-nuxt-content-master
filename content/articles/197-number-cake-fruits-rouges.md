@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
 Pour le gâteau :
  - 8 oeufs
  - 450g de sucre en poudre
@@ -53,7 +53,7 @@ Pour le montage et la décoration :
  - Poudre d’or alimentaire
  - Feuille d’or
 
-## Recette détaillée
+## La recette détaillée
 Préchauffez le four à 180°. Commencez par la préparation du gâteau. Dans un récipient, mélangez les œufs à la fourchette. Ajoutez le sucre en poudre pour blanchir vos œufs, idéalement à l’aide d’un robot. Incorporez le beurre mou, mélangez à nouveau puis ajoutez le lait entier. Mélangez pour homogénéiser. Ensuite incorporez au fur et à mesure la farine, le bicarbonate de soude et 1 pincée de sel. Enfin, ajoutez 2 cuillère à soupe d’huile et le colorant de votre choix. Mélangez. Utilisez une plaque de cuisson rectangulaire (38x28 cm) recouverte de papier de cuisson et versez la préparation de manière à recouvrir la surface. Enfournez 25 à 30 minutes selon la puissance de votre four.
 
 Pendant la cuisson, préparez votre garniture. Mettez de côté 2-3 fraises et 2 framboises. Puis, taillez en très petits cubes le reste de fraises et de framboises. Mélangez et réservez au frais.

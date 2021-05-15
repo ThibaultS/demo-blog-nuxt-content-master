@@ -23,7 +23,7 @@ recipeYield: 2 personnes
 published : 1
 ---
 
-## Ingrédients 
+## Tous les ingrédients 
  - 60 g de sucre en poudre + 1 c. à soupe
  - 6 cl de vinaigre de vin rouge (Xérès, etc.)
  - 20 cl de jus de clémentine
@@ -35,7 +35,7 @@ published : 1
  - 10 g de beurre
  - Poivre, sel
 
-## Recette détaillée
+## La recette détaillée
 Préchauffez le four à 180°. Faites dorer les amandes à sec dans une poêle quelques minutes. Saupoudrez d’1 cuillère à soupe de sucre en poudre et laissez caraméliser 2 min. Mettez les amandes sur une planche recouverte de papier sulfurisé et laissez tiédir, puis ôtez le papier et concassez grossièrement.
 
 Quadrillez la peau du magret. Salez et poivrez la chair. Parsemez d’amandes caramélisées la peau du magret. Faites cuire 20 min environ au four, selon la cuisson désirée. Sortez-le du four, couvrez-le d’un papier aluminium et laissez reposer 5-10 min.

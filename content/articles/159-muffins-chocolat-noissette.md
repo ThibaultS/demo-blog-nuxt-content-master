@@ -23,7 +23,7 @@ recipeYield: 6 muffins
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 125g de farine
  - 90g de sucre
  - 120g de beurre doux
@@ -34,7 +34,7 @@ published : 1
  - 40g de pépite de chocolat
  - 20g de noisettes concassées
 
-## Recette détaillée
+## La recette détaillée
 Préchauffez le four à 200°C. Déposez des caissettes papier, ou des carrés de papier sulfurisé dans vos moules à muffins.
 
 Dans un grand saladier, mélangez au fouet le beurre et le sucre jusqu'à obtenir une consistance homogène. Ajoutez les œufs un par un, continuez à mélanger au fouet pendant 5 minutes.

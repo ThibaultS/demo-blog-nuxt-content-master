@@ -24,7 +24,7 @@ recipeYield: 4 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 patate douce (environ 350g)
  - 2 avocats
  - 1 burrata
@@ -35,7 +35,7 @@ published : 1
  - Paprika fumé
  - Sel, poivre
 
-## Recette détaillée
+## La recette détaillée
 Epluchez la patate douce. Rapez-la avec une râpe à gros trous. Ecrasez votre ail avec un presse ail. Hachez finement 10 feuilles de persil. Dans un saladier, ajoutez la patate douce râpée, les œufs, la farine, l’ail et le persil. Assaisonnez avec du sel, du poivre et un peu de paprika fumé à votre convenance. Mélangez bien pour avoir une préparation homogène.
 
 Préchauffez votre four à 200°C. Déposez du papier sulfurisé sur une plaque de cuisson. Formez vos röstis à l’aide d’un emporte pièce de 10cm. Déposez l’emporte pièce sur le papier, déposez 2 cuillères de la préparation et étalez avec le dos de la cuillère. Le rösti doit faire environ 5mm d’épaisseur. Enlevez l’emporte pièce et répétez l’opération. Quand tous vos röstis sont prêts vous pouvez enfournez pour environ 15 min. C’est prêt quand les bords des galettes sont bien dorés.

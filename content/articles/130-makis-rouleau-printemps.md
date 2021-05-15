@@ -23,7 +23,7 @@ recipeYield: 3 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 2 Feuilles de riz
  - 2 tranches de saumon fumé
  - 1 petit pot d’œufs de brochet au wasabi
@@ -33,7 +33,7 @@ published : 1
  - Aneth
  - Poivre
 
-## Recette détaillée
+## La recette détaillée
 Préparez la garniture. Ciselez finement la sucrine et l’aneth. Mettez la sucrine dans un saladier puis une belle cc de crème épaisse, l’aneth, le jus de citron vert et du poivre. Réservez.
 
 Pour le montage, trempez une feuille de riz dans un saladier d’eau tiède. Déposez-la sur un torchon propre. Etalez une demi tranche de saumon fumé sur la moitié de la feuille de riz puis disposez la sucrine en couche pas trop épaisse. Ajoutez 1 grosse cc d’œufs de brochet au wasabi. Recouvrez avec l’autre moitié de la tranche de saumon fumé. Rabattez les côtés de la feuille de riz vers l’intérieur, puis roulez le maki. Recouvrez de film alimentaire et réservez au frais jusqu’au moment de servir. Répétez l’opération avec la seconde feuille.

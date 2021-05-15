@@ -20,7 +20,7 @@ recipeYield : 1 tarte
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 pâte feuilletée
  - 1 gros morceaux de brie
  - 1 grosse pêche
@@ -30,7 +30,7 @@ published : 1
  - Graines de sésame
  - Sel et poivre
 
-## Recette détaillée
+## La recette détaillée
 Si votre pâte feuilletée est ronde, coupez les bords afin de former un carré. Coupez ce carré en quatre. Coupez l’échalote en petit morceaux. Disposez en un petit peu au milieu de vos carrés. Cette fois ci j’ai utilisé de l’échalote congelée. Tranchez des morceaux de brie que vous disposerez sur vos morceaux d’échalotes.
 
 Découpez votre pêche en tranche pas trop épaisse puis répartissez vos bouts sur vos 4 carrés au dessus du brie. Versez du miel de la quantité que vous souhaitez par dessus et le basilic ciselé. Rabattez les bords de la pâte feuilletée sur chaque côté et écrasez les bords à la fourchette. A l’aide d’un pinceau, badigeonnez les bords de jaune d’œuf et parsemez quelques graines de sésame. Plus qu’à mettre au four le temps et à la température indiqué sur l’emballage de votre pâte feuilletée. Si vous êtes gourmand, vous pourrez rajouter un peu de miel une fois la cuisson terminée.

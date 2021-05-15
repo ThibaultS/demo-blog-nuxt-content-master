@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 2 tranches de pain de mie de votre choix
  - 2 oeufs
  - 5 tiges de ciboulette
@@ -32,5 +32,5 @@ published : 1
  - 1 pincée de paprika
  - Sel, poivre
 
-## Recette détaillée
+## La recette détaillée
 Hachez les tiges de ciboulette. Découpez la forme de cœur à l'intérieur de vos tranches de pain. Conserver l'intérieur de la forme. Faites fondre le beurre. Avec un pinceau, badigeonnez les tranches de pain de mie. Dans un poêle chaude, faites dorer un côté des tranches de pain de mie (cœur compris). Retournez-les et cassez les œufs au milieu. Salez et poivrez. Saupoudrez de ciboulette et de paprika. Sortez les du feu et dégustez quand c'est chaud !

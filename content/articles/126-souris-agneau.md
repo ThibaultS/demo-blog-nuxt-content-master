@@ -23,7 +23,7 @@ recipeYield: 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 2 souris d'agneau
  - 75cl de bière blonde (genre Affligem, Leffe, Grimbergen…)
  - 40g de beurre salé
@@ -40,7 +40,7 @@ published : 1
  - Persil frais
  - Sel, poivre
 
-## Recette détaillée
+## La recette détaillée
 Coupez grossièrement les échalotes et fendez les gousses ails en deux. Préparez les souris d’agneau en les laissant reposer quelques minutes à température ambiante, puis salez et poivrez. 
 
 Dans un fait tout, saisissez les souris d’agneau à feu vif, sur toutes les faces. Une fois la viande colorée, baissez à feu doux. Ajoutez un peu de fleur de sel, 20g de beurre, les échalotes, l’ail et le romarin. Versez la bière et ajoutez 2 c.à.s de miel. Couvrez et laissez mijoter à feu doux pendant 1h30.

@@ -23,7 +23,7 @@ recipeYield: 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 200g de boudin noir
  - 300g de pommes de terre
  - 1 poire
@@ -35,7 +35,7 @@ published : 1
  - Poivre
  - Persil
 
-## Recette détaillée
+## La recette détaillée
 Epluchez et coupez vos pommes de terre en gros morceaux. Faites-les cuire 15 min à la vapeur. Pelez et épépinez les poires. Coupez-les en lamelles, citronnez-les. Ajoutez-les sur les pommes de terre 5 min après le début de leur cuisson. Cuisez les poires et les pommes de terre pendant 10 min. Sortez les de l’eau et réservez dans un saladier
 
 Pendant ce temps, Poêlez le boudin noir pendant 5 min. Ôtez le boyau et réservez au chaud. Écrasez les pommes de terre et les poires à la fourchette en incorporant le beurre et la crème chauffée au préalable. Salez et poivrez, goûtez.

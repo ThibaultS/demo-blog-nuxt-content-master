@@ -23,7 +23,7 @@ recipeYield: 4 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 300g de saumon frais (sans peau ni arêtes)
  - 100g de saumon fumé
  - 2 oeufs
@@ -39,7 +39,7 @@ Pour la décoration :
  - Sel 
  - Quelques pluches d'aneth ou brin de romarin
 
-## Recette détaillée
+## La recette détaillée
 Préchauffez le four à 180°. Coupez le saumon frais et le saumon fumé en cubes. Dans le bol d'un robot, mixez les deux saumons avec les œufs et la crème liquide jusqu'à obtenir un appareil lisse. Ajoutez l'aneth effeuillé et le zeste de citron. Poivrez et salez légèrement. Mixez très rapidement pour homogénéiser le tout. Versez dans un moule à cannelés ou à cupcakes préalablement beurré. Pour ma part j’ai utilisé mon moule à cannelés.
 
 Placez le moule dans un grand plat allant four et à bords hauts. Remplissez le plat d'eau bouillante à mi-hauteur du moule. Couvrez de papier aluminium et enfournez 1h. Vérifiez que la terrine a bien pris avec un couteau. Laissez votre terrine dans les moules et laissez refroidir complètement puis réservez au frais au moins 4h voire toute une nuit. Démoulez au moment de servir.

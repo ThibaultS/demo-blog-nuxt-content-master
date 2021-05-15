@@ -21,7 +21,7 @@ recipeYield : 10-15 sablés
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 190g de beurre mou
  - 75g de sucre glace
  - 2 pincées de fleur de sel
@@ -30,7 +30,7 @@ published : 1
  - 225g de farine
  - 250g de chocolat noir ou au lait
 
-## Recette détaillée
+## La recette détaillée
 Travaillez le beurre au batteur jusqu’à ce qu’il devienne bien crémeux. Ajoutez-y le sucre glace, la fleur de sel, la vanille et le blanc d’œuf et mélangez à nouveau au batteur jusqu’à ce que le mélange devienne homogène. Incorporez la farine et dès que celle-ci est bien incorporée, cessez de travailler la pâte.
 
 Préchauffez le four à 180°C. Transvasez la pâte dans une poche à douille munie d’une douille cannelée assez épaisse. Dressez vos sablés en “W” sur une plaque recouverte de papier cuisson en veillant à bien les espacer. Enfournez pour 12 à 15 minutes puis laissez refroidir sur une grille.

@@ -23,7 +23,7 @@ recipeYield: 15-20 donuts
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 500g de farine
  - 2 oeufs
  - 25 cl de lait
@@ -35,7 +35,7 @@ published : 1
  - 1 plaquette de chocolat blanc + 1 c.à.s d’huile de coco 
  - Colorant alimentaire de votre choix 
 
-## Recette détaillée
+## La recette détaillée
 Faites chauffer le lait au micro-ondes pour qu'il tiédisse (pas trop chaud). Ajoutez la levure, mélangez, et laissez reposer. Dans le bol de votre robot, versez la farine, et creusez un puit. Ajoutez-y les œufs, le beurre fondu, le lait, le sucre, et la vanille. Mélangez avec le robot pendant une bonne dizaine de minutes pour obtenir une belle pâte lisse. Laissez reposer cette pâte dans son bol recouvert d'un torchon pendant 1h30. Elle doit doubler de volume.
 
 Préparez votre plan de travail : farinez généreusement. Déposez votre pâte, enrobez-la de farine, et étalez-la en conservant 1 centimètre d'épaisseur. Créez alors vos donuts avec un verre et un bouchon de bouteille pour le trou ou deux emportes pièces de la bonne taille si vous en avez.  Déposez vos donuts un par un sur une grande plaque recouverte de papier sulfurisé. Laissez-les à nouveau gonfler à l'abri des courants d'air pendant 30 minutes.

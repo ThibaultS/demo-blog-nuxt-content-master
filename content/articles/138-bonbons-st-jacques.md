@@ -23,7 +23,7 @@ recipeYield: 16 bonbons
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 paquet de pâtes phyllo
  - 300g de noix de Saint Jacques surgelées
  - 75 g de beurre
@@ -32,7 +32,7 @@ published : 1
  - Épices masala
  - Sel, poivre
 
-## Recette détaillée
+## La recette détaillée
 La veille, décongelez les noix de Saint Jacques au réfrigérateur.
 
 Lavez le persil, égouttez-le et ciselez-le finement. Réservez. Faites fondre à feu doux le beurre dans une casserole.

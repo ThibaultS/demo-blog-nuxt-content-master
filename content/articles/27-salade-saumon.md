@@ -22,7 +22,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 pavé de saumon
  - Quelques asperges
  - 1 carotte
@@ -30,7 +30,7 @@ published : 1
  - 3 radis
  - 2/3 grandes feuilles de salade
 
-## Recette détaillée
+## La recette détaillée
 Pour la cuisson de votre saumon, vous pouvez le cuire à la vapeur ou à poêle en fonction de vos préférences. Cuisez les asperges 8-10 minutes dans de l’eau bouillante. Elles seront cuites quand vous pourrez enfoncer facilement votre couteau dans la tige.  Pour la carotte, passez là à la mandoline pour avoir des tranches très fines afin de pouvoir les rouler. Faites de même avec les radis. Coupez les tomates cerises en 3.
 
 Pour une vinaigrette pour 2 personnes, mélangez 2 cuillères à soupe d’huile d’olive, 1 grosse cuillère à café de velours de balsamique, quelques gouttes d’arôme maggi et 1 demi cuillère à café de moutarde au basilic.

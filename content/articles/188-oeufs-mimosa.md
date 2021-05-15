@@ -24,14 +24,14 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 6 œufs
  - 3 c.à.s de mayonnaise (plus ou moins selon vos goûts)
  - Paprika fumé
  - Saumon fumé classique ou aromatisé citron/aneth
  - Aneth
 
-## Recette détaillée
+## La recette détaillée
 Faites cuire les oeufs 10 min dans l'eau bouillante, puis mettez-les dans l'eau froide pour arrêter la cuisson.
 
 Coupez votre saumon fumé en petits cubes et réservez. Écalez les oeufs, coupez-les dans le sens de la longueur, puis séparez les blancs des jaunes.

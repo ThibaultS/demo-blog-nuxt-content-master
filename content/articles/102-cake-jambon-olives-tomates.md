@@ -22,7 +22,7 @@ recipeYield : 1 cake
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 160g de farine
  - 4 œufs
  - 100ml de lait
@@ -34,7 +34,7 @@ published : 1
  - 1 c à soupe d’huile d’olive
  - Graines de courges
 
-## Recette détaillée
+## La recette détaillée
 Dans un saladier, mélangez la farine et la levure. Ajoutez ensuite les œufs, le lait, les olives dénoyautées, les tomates, le jambon coupé en cube et le fromage. Mélangez bien.
 
 Beurrez généreusement un moule à cake. Versez la préparation dedans et mettez des graines de courge en guise de topping. Enfournez pendant 30 minutes à 180 degrés. Le cake est cuit lorsque le couteau sort sec.

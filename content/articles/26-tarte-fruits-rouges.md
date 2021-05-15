@@ -20,7 +20,7 @@ recipeYield : 1 tarte
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 barquette de framboises
  - 1 petite barquette de fraises
  - Quelques myrtilles
@@ -37,7 +37,7 @@ Pour la pâte sablée :
 Pour faire dorer la pâte :
  - 1 œuf
 
-## Recette détaillée
+## La recette détaillée
 Dans le bol du robot pâtissier, versez la farine, le beurre pommade coupé en morceaux, la cassonade ainsi que l’œuf. Mélangez jusqu’à ce qu’un pâton se forme et se détache de la paroi. Couvrez d’un film transparent et réservez au réfrigérateur 1 heure. Ramenez à température ambiante environ 30 minutes avant de s’en servir. La pâte ne doit pas être dure.
 Préchauffez le four à 180°C.
 

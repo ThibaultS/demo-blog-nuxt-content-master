@@ -23,7 +23,7 @@ recipeYield: 10 cupcakes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 125g de chocolat noir 
  - 120g de beurre 
  - 4 oeufs
@@ -51,7 +51,7 @@ Pour les étoiles sablées et la décoration :
  - Paillette alimentaire dorée 
  - Billes alimentaires
 
-## Recette détaillée
+## La recette détaillée
 Pour les cupcakes : Préchauffez le four à 180°C. Faites fondre le beurre avec le chocolat, mélangez pour bien lisser. Mettez les oeufs dans un saladier et incorporez le sucre. Ajoutez ensuite la farine, puis le mélange beurre-chocolat. Ajoutez du colorant noir pour foncer au maximum votre pâte. Répartissez la préparation dans des petits moules en papier sulfurisé (ou silicone), sans dépasser les trois quarts de la hauteur du moule. Enfournez pour 15 min à 180°C. Vous savez que la cuisson est achevée lorsque la lame d'un couteau enfoncée au coeur du gâteau ressort bien sèche.
 
 Pour la crème au beurre : Dans une casserole, mélangez le sucre, la farine et la fécule de maïs. Ajoutez le lait, mélangez au fouet et faites chauffer à feu moyen. Touillez avec une cuillère en bois jusqu’à ce que le mélange arrive à ébullition, laissez cuire 1 minute, puis ajoutez l’arôme, et transvasez dans un bol. Couvrez le. Laissez bien refroidir pour arriver à température ambiante, c’est important sinon la chaleur du mélange va faire fondre le beurre, et c’est irrattrapable.  Quand ce mélange est froid, mettez le dans un saladier et à l’aide d’un fouet électrique, battez-le pour en faire une crème. Toujours à l’aide du fouet électrique (vitesse moyenne) incorporez le beurre, 1 cuillère à soupe à la fois. Quand tout le beurre a été incorporé, passez en vitesse maximum pendant au moins 2 à 3 minutes. Ajoutez du colorant vert et mélangez. 

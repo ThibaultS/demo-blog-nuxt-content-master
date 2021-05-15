@@ -21,7 +21,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 2 grosses poignées de salade jeunes pousses
  - 1 endive violette
  - 10 tomates cerises
@@ -34,7 +34,7 @@ published : 1
  - Arôme maggi
  - Moutarde au basilic
 
-## Recette détaillée
+## La recette détaillée
 Coupez vos tomates cerises en 2 ou en 3. À la mandoline, faites des lamelles de radis. Disposez dans chaque assiette une poignée de salade, des tomates, des radis et quelques olives. Déposez par dessus quelques feuilles d’endives.
 
 Pour la rose d’avocat, découpez l’avocat dans le sens de la longueur. Épluchez le et enlevez le noyau. Taillez des fines lamelles dans le sens de la largeur. Exercez ensuite une pression sur l’avocat tranché pour séparé les lamelles et alignez les en arc de cercle avant de les rouler doucement en éventail.

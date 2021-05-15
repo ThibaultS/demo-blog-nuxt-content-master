@@ -20,7 +20,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 Grosse aubergine tigrée
  - 8 Grandes tranches fines de chorizo
  - 1 Boule de mozzarella di bufala
@@ -29,7 +29,7 @@ published : 1
  - Thym
  - Fleur de sel et poivre
 
-## Recette détaillée
+## La recette détaillée
  Préchauffez le four à 210 °C (th. 7). Coupez la mozzarella en 4 tranches. Coupez l’aubergine en 12 rondelles. Mélangez le miel, l’huile, le sel et poivre.
  
  Sur une plaque recouverte de papier sulfurisé, disposez les tranches d’aubergine, puis badigeonnez-les de la marinade au miel et parsemezle thym, enfournez pour 25 minutes le temps qu’elles caramélisent.

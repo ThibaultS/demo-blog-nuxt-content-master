@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 160g de sucre semoule + 1 à 2 c.à.s
  - 1 gros œuf
  - 100g d’huile végétal
@@ -44,7 +44,7 @@ Le crumble :
  - 1 pincée de fleur de sel
  - 25g de poudre d’amande
 
-## Recette détaillée
+## La recette détaillée
 Lavez, épluchez et coupez les pommes en petits dés. Faites les revenir dans une poêle avec une petite noix de beurre jusqu’à ce que les pommes soient fondantes mais se tiennent encore bien. Réservez à température ambiante dans la poêle.
 
 Pour le crumble, mettez le beurre, le sucre, la farine, le sel et la poudre d’amande dans un saladier. Mélangez l’ensemble du bout des doigts pour créer des bouts de pâte. La pâte doit être homogène. Réservez au réfrigérateur.

@@ -23,7 +23,7 @@ recipeYield: 1 cake
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 8 oeufs
  - 450g de sucre en poudre
  - 500g de beurre
@@ -40,7 +40,7 @@ published : 1
  - Colorant alimentaire liquide bleu et rose
  - Sel
 
-## Recette détaillée
+## La recette détaillée
 Préchauffez le four à 180°. Dans un récipient, mélangez à la fourchette les œufs. Ajoutez le sucre en poudre pour blanchir vos oeufs. Idéalement faites-le à l’aide d’un robot. Incorporez ensuite le beurre mou, mélangez à nouveau puis ajoutez 5 cuillère à soupe de de lait entier. Mélangez pour homogénéiser. Ensuite incorporez au fur et à mesure la farine, 1,5 cuillère à café de bicarbonate de soude et 1 pincée de sel. Enfin, ajoutez 2 cuillère à soupe d’huile. Divisez la pâte obtenue dans 2 récipients pour vos 2 couleurs de cake.
 
 Dans le premier récipient, ajoutez quelques gouttes de colorant alimentaire bleu. Beurrez vos 2 moules. Les 2 moules doivent faire la même taille, environ 20-22 cm de diamètre, sinon faites cuire vos gâteaux un après l’autre. Dans le cas où vous avez 2 moules, remplissez-les avec les 2 préparations de pâte. Enfournez ensemble les 2 gâteaux pour 30 minutes à 180°. Sortez-le du four et laissez refroidir avant de les démouler.

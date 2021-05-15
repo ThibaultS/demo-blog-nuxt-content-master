@@ -22,7 +22,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - Avocat
  - 1 demi citron vert
  - Crème fraiche liquide
@@ -30,7 +30,7 @@ published : 1
  - Tabasco, sel
  - 1 grosse courgette
 
-## Recette détaillée
+## La recette détaillée
 Écrasez un avocat bien mûr avec le jus d’un demi citron vert, un peu de crème fraîche liquide allégée, du basilic frais ciselé, 3 gouttes de Tabasco, du sel.
 Vous obtiendrez la consistance d’une sauce épaisse.
 

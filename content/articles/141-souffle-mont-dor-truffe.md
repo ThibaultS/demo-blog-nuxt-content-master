@@ -23,7 +23,7 @@ recipeYield: 4 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 20 à 30g de truffe noire entière
  - 50cl de lait
  - 200g de mont d’Or
@@ -33,7 +33,7 @@ published : 1
  - 2g de fécule
  - Sel, poivre
 
-## Recette détaillée
+## La recette détaillée
 Utilisez 20g de beurre pour beurrer vos moules puis saupoudrez de farine. Réservez les moules au frais.
 
 Coupez quelques copeaux de truffe à la mandoline. Cela servira pour la décoration. Hachez le reste de la truffe au couteau et coupez le reste en copeaux. Faites fondre le beurre dans une casserole. Ajoutez et mélangez au fouet la farine, le lait et la fécule jusqu’à obtenir une pâte épaisse. Séparez les jaunes des blancs d’oeuf et conservez-les. Hors du feu, ajoutez le mont d’Or, 5g de sel, les jaunes d’oeuf et la truffe hachée à la préparation en continuant de mélanger au fouet.

@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 2 blancs de poulet
  - 2 poignées de pomme de terre grenaille
 
@@ -44,7 +44,7 @@ Pour les pickles de concombre :
  - 10 grains de poivre noir
  - 20cl de vinaigre de cidre
 
-## Recette détaillée
+## La recette détaillée
 Vous devez réalisez les pickles 24h à 48h avant et vous pouvez préparer le chutney la veille pour gagner du temps.
 
 Pour les pickles, lavez le concombre et coupez-le en rondelles pas trop épaisses. Lavez l’aneth. Déposez le concombre et l’aneth dans un bocal en verre (préalablement stérilisé à l’eau bouillante). Ajoutez le gros sel et le poivre. Versez le vinaigre et le sucre en poudre dans une casserole et portez à ébullition. Laissez cuire 2-3 minutes. Versez le cidre chaud dans le bocal, refermez-le et laissez-le refroidir à température ambiante avant de l’entreposer au réfrigérateur. Vous pourrez les conserver quelques semaines au réfrigérateur.

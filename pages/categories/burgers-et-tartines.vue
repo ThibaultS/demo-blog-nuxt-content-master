@@ -21,13 +21,11 @@
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>
           <b-col class="intro mt-5 mb-5">
-            <h1>Mes recettes de salades</h1>
+            <h1>Mes recettes de burgers et de tartines</h1>
             <p class="lead">
-              Il y a tellement de possibilité pour faire des salades, lorsque le
-              printemps arrive. Retrouvez sur cette page toutes mes recettes de
-              salades avec : des radis, de la betterave, du maïs, des carottes,
-              ou encore des tomates. Pour découvrir mes nouvelles recettes je
-              vous invite à me suivre sur
+              Il existe des milliers de combinaisons pour faire des burgers et
+              des tartines aux goûts de chacun. Pour découvrir mes nouvelles
+              recettes je vous invite à me suivre sur
               <a
                 href="https://www.instagram.com/josiesrecipes/"
                 target="_blank"
@@ -123,7 +121,11 @@ export default {
       ])
       .sortBy('id', 'desc')
       .limit(50)
-      .where({ theme: 'Salades' })
+      .where({
+        theme: {
+          $in: ['Burgers', 'Tartines']
+        }
+      })
       .fetch()
     return {
       articles
@@ -131,7 +133,7 @@ export default {
   },
   data() {
     return {
-      title: 'Mes recettes de salades'
+      title: 'Mes recettes de burgers et tartines'
     }
   },
   head() {
@@ -141,7 +143,8 @@ export default {
         {
           hid: 'description',
           name: 'description',
-          content: "Toutes mes recettes de salades pour le printemps et l'été."
+          content:
+            'Toutes mes recettes de burgers et de tartines pour tous les goûts.'
         },
         {
           hid: 'og:image',

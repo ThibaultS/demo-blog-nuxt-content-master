@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 170g de lait
  - 115g de crème épaisse
  - 85g de pépites de chocolat noir
@@ -37,7 +37,7 @@ Pour la crème fouettée :
  - 115g de crème épaisse
  - Sucre au goût
 
-## Recette détaillée
+## La recette détaillée
 Pour les pots de crème: Préchauffez le four à 150°C. Vous aurez besoin de 4 petits ramequins.
 Dans une casserole, portez à ébullition le lait et la crème à feu moyen. Ajoutez le chocolat et remuez jusqu'à ce que le chocolat soit complètement fondu.
 

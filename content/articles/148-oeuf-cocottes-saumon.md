@@ -23,7 +23,7 @@ recipeYield: 4 oeufs cocottes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 échalote, émincée finement
  - 1 c.à.s de beurre
  - 1 c.à.s de vin blanc sec
@@ -35,7 +35,7 @@ published : 1
  - Sel et poivre du moulin
  - 1 pâte feuilletée ou du pain
 
-## Recette détaillée
+## La recette détaillée
 Préchauffez votre four à 200°C.
 
 Détaillez votre pâte feuilletée avec les emportes pièces de votre choix. Ça peut être aussi des longues tiges pour faire des mouillettes. Enfournez le temps indiqué sur l’emballage de la pâte. Vérifiez régulièrement. Quand c’est bien doré vous pouvez retirer.

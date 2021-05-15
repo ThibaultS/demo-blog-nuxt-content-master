@@ -22,7 +22,7 @@ recipeYield : 8 cupcakes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 10 cl d'huile d'olive
  - 10 cl de lait
  - 200g de saumon fumé
@@ -36,7 +36,7 @@ published : 1
  - 2 chavroux
  - Œufs de saumon
 
-## Recette détaillée
+## La recette détaillée
 Dans un saladier, cassez 3 oeufs puis ajoutez la farine, le sel, le poivre et le demi sachet de levure chimique.
 
 Dans une petite casserole, faites chauffer à petit feu l'huile d'olive et le lait. Une fois le mélange huile d'olive/lait bien chaud, ajoutez le progressivement au reste de la préparation. Mélangez puis ajoutez le gruyère rapé. Découpez les tranches de saumon fumé en petit carrés ou lamelles puis ajoutez les dans le saladier. Ajoutez quelques brin d'aneth ciselée puis mélangez.

@@ -21,7 +21,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 2 dos de cabillaud
  - 1 mangue
  - 2 c. à soupe de miel
@@ -30,7 +30,7 @@ published : 1
  - Sel, Poivre
  - Ciboulette
 
-## Recette détaillée
+## La recette détaillée
 Salez et poivrez les dos de cabillaud sur les deux faces. Faites-les cuire à la poêle avec le beurre. Après la cuisson, réservez-les sur une assiette au chaud.
 
 Découpez en cube les mangues et faites-les caraméliser avec le miel. En fin de cuisson, ajoutez le jus de citron. Disposez vos mangues au centre de l'assiette et posez votre dos de cabillaud dessus.

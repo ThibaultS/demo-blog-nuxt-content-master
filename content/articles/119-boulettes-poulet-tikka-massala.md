@@ -22,7 +22,7 @@ recipeYield : 3 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
 Pour les cheese naan:
  - 250g de farine
  - 63g de yaourt nature (soit 1/2 pot)
@@ -57,7 +57,7 @@ Pour la sauce Massala :
  - 20g de beurre
  - Quelques feuilles de coriandre fraîche pour le service
 
-## Recette détaillée
+## La recette détaillée
 Pour les naans :
 Dans le bol du robot (ou votre saladier), mélangez la farine avec les 2 levures et le sucre. Ajoutez l'eau, l'huile et le yaourt. Commencez à mélanger. Quand la pâte commence à être homogène, ajoutez le sel. Pétrissez la pâte durant 15 minutes à vitesse moyenne. Elle doit être souple et lisse. Recouvrez votre bol d'un film alimentaire et laissez reposer votre pâte dans un endroit chaud à l'abri des courants d'air. La pâte doit doubler de volume.
 

@@ -21,7 +21,7 @@ recipeYield : 4 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 300g d’haricots verts
  - 4 filets de daurade
  - 1 gros œuf
@@ -33,7 +33,7 @@ published : 1
  - Le jus de 1 citron
  - Sel, poivre
 
-## Recette détaillée
+## La recette détaillée
 Dans un plat creux, battez l’œuf avec le lait, ajoutez un peu de sel et de poivre. Dans un deuxième plat, mélangez la chapelure et les amandes effilées.
 
 Faites chauffer le beurre et l’huile dans une poêle. Enrobez les filets de daurade d’œuf battu. Égouttez, puis enrobez-les de chapelure aux amandes. Faites-les cuire 2 minutes par face. Épongez-les sur du papier absorbant puis disposez-les dans 4 assiettes.

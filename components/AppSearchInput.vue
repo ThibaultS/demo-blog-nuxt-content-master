@@ -5,7 +5,7 @@
       v-model="searchQuery"
       type="search"
       autocomplete="off"
-      placeholder="Recherche"
+      placeholder="Rechercher"
       class="search-recipes"
     />
     <ul v-if="articles.length" class="search-list-recipes">

@@ -21,7 +21,7 @@ recipeYield : 1 roulé
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 4 courgettes
  - 3 oeufs
  - 2 cuillères à soupe (30 ml) de crème fraiche
@@ -32,7 +32,7 @@ published : 1
  - Sel et poivre
  - Huile pour cuisson
 
-## Recette détaillée
+## La recette détaillée
 Râpez les 4 courgettes. Versez un peu d’huile dans une poêle et versez y les courgettes râpées. Salez, poivrez et laissez cuire jusqu’à ce qu’elles soient tendres. Dans un bol, versez 3 oeufs, la crème fraiche et la farine. Mélangez bien. Ajoutez petit à petit les 3 blancs d’oeufs en neige en continuant à mélanger.Ajoutez les courgettes râpées au mélange. Versez le mélange dans une plaque à pâtisserie, en le lissant bien. Mettez au four à 200°C pendant 20-25 minutes.
 
 Une fois refroidi, étendez uniformément le fromage aux herbes sur le rectangle cuit. Ajoutez le saumon fumé par-dessus. Formez un rouleau avec le rectangle, enveloppez le rouleau de film plastique et déposez le tout au frigo pour au moins 1 heure. Coupez le rouleau en rondelles et servez avec une salade.

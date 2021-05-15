@@ -20,7 +20,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 rôti de bœuf pour 2
  - Du beurre demi-sel
  - 2 poignées de la salade de votre choix
@@ -35,7 +35,7 @@ published : 1
  - Arôme maggi
  - Moutarde au basilic
 
-## Recette détaillée
+## La recette détaillée
 Sortez le rôti de boeuf au moins 1 h à l’avance du réfrigérateur afin qu’il revienne à température ambiante. Si vous ignorez son poids, pesez-le. Le temps de cuisson varie fonction de celui-ci. Préchauffez votre four 240°C.
 
 Mettez votre rôti dans un plat allant au four, ajoutez quelques morceaux de beurre sur le dessus puis salez légèrement. Mettez deux cuillères à soupe d’eau au fond du plat (cela fait du jus) et enfournez.

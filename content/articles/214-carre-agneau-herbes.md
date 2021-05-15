@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 carré d’agneau de 6 côtes premières
  - 1 demi bouquet de persil plat
  - 1 demi bouquet de cerfeuil
@@ -36,7 +36,7 @@ published : 1
  - 1 c.à.s d’huile d’olive
  - Sel, Poivre
 
-## Recette détaillée
+## La recette détaillée
 Faites parer le carré d’agneau par votre boucher. Rincez, épongez, effeuillez et ciselez toutes les herbes. Mixez les amandes pour les réduire en poudre. Dans un bol, mélangez le beurre mou avec les herbes, la poudre d’amandes, la chapelure, le blanc d’œuf, du sel et du poivre. Malaxez bien pour obtenir une pâte homogène.
 
 Préchauffez le four à 210°. Faites chauffer l’huile dans une poêle et mettez-y les carrés à dorer environ 3 min. Salez et poivrez. Déposez-les dans un plat du four. Étalez la pâte d’herbes dessus en appuyant bien. Enfournez pour 15 min si vous aimez la viande rosée, 18 min si vous l’aimez à point.

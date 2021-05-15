@@ -22,7 +22,7 @@ recipeYield : 6 cupcakes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 130g de farine
  - 120g de fromage de chèvre
  - 75g de lardons
@@ -34,7 +34,7 @@ published : 1
  - Des graines de courge
  - Sel et Poivre
 
-## Recette détaillée
+## La recette détaillée
 Préchauffez votre four à 180°C (Th.6).
 
 Épluchez et râpez les carottes. Coupez le fromage de chèvre en petits dés. Mélangez la farine, la levure et le cumin. Dans un deuxième récipient, battez les oeufs, l'huile et le fromage de chèvre. Mélangez les deux préparations.

@@ -23,7 +23,7 @@ recipeYield: 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
 Pour le pain bao à la vapeur :
  - 62g d’eau à température ambiante
  - 3g de levure chimique
@@ -45,7 +45,7 @@ Pour la garniture :
  - Graine de sésame
  - sel, poivre
 
-## Recette détaillée
+## La recette détaillée
 Commencez par le pain bao et attaquez le pétrissage. Placez dans votre robot multifonction la levure fraîche émiettée, la farine, le sel et la levure chimique. Petit astuce : le respect de cet ordre précis est très important. Cela permet de conserver toutes les qualités de la levure, il est nécessaire que la levure de boulanger ne soit pas en contact avec le sel.
 
 Avec le crochet pétrisseur mélangez pendant 2 minutes à la vitesse 1 puis ajoutez toute l’eau d’un seul coup. Pétrissez pendant une bonne dizaine de minutes à la vitesse 4 : vous allez obtenir une pâte élastique qui se décolle des parois du robot. N’hésitez pas à racler les bords du bol régulièrement pour avoir une pâte homogène.

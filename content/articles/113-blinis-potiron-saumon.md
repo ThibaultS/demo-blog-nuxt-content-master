@@ -23,7 +23,7 @@ recipeYield : 8 blinis
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 250g de chair de potiron cuite
  - 125g de lait fermenté ou de kéfir
  - 2 œufs
@@ -38,7 +38,7 @@ Pour le houmous de betterave :
  - 1 yaourt
  - Sel poivre
 
-## Recette détaillée
+## La recette détaillée
 Pour les blinis : Mixez la chair de potiron avec le lait fermenté, les œufs et le beurre fondu. Ajoutez la farine, salez, poivrez et mélangez. Laissez reposer 1h à température ambiante. Faites chauffer une poêle à feu moyen ou utilisez votre machine à mini crêpes. Versez une louche à chaque fois et laissez cuire environ 1 minute par face.
 
 Pour le houmous de betterave : Rincez et égouttez les pois chiches et coupez la betterave en dés. Mixez tous les ingrédients dans un mixeur ou un blender. Servez les blinis tièdes ou froids avec du houmous et du saumon fumé. Assaisonnez avec des zestes de citron et des herbes.

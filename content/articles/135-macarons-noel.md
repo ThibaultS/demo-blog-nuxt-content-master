@@ -23,7 +23,7 @@ recipeYield: 15 macarons de taille standard
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
 Pour la ganache montée :
  - 130 ml de crème liquide
  - 130g de chocolat au lait
@@ -41,7 +41,7 @@ Pour la décoration:
  - Un tier d'une tablette de chocolat blanc pâtissier
  - 1 c.à.c d'huile de coco
 
-## Recette détaillée
+## La recette détaillée
 Au préalable préparez un patron pour faire vos cercles de macaron. Dessinez sur une feuille des cercles de la taille de votre choix, séparés de 3-4 cm.
 
 Pour la ganache, coupez le chocolat en petits morceaux et mettez-les dans un saladier. Faites bouillir la crème à la casserole et versez sur le chocolat. À l’aide d’une cuillère, mélangez doucement en partant du centre. Laissez reposer au moins 2h au frigo.

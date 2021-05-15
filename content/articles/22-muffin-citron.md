@@ -20,7 +20,7 @@ recipeYield : 8-10 muffins
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
 Pour le lemon curd :
  - 100 g de jus de citron (environ 3 citrons)
  - Les zestes d’un citron
@@ -43,7 +43,7 @@ Pour la meringue italienne :
  - 15 g + 170 g de sucre
  - 50 g d’eau
 
-## Recette détaillée
+## La recette détaillée
 Pour le lemon curd :
 Réhydratez votre feuille de gélatine dans un récipient d’eau froide. Dans une casserole, faites chauffer le jus de citron, les zestes et la moitié du sucre. Dans un saladier, blanchissez les œufs avec le reste du sucre. Aux premiers frémissements, versez la moitié du jus de citron dans le saladier. Mélangez puis reversez le tout dans la casserole. Faites épaissir à feu moyen sans jamais cesser de mélanger. Hors du feu, ajoutez la gélatine essorée puis le beurre froid. Mélangez puis mixez pendant 5 min. Débarrassez votre lemon curd dans un plat. Filmez au contact. Laissez refroidir avant de réservez au froid.
 

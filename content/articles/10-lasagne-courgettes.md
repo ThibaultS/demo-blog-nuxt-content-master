@@ -21,14 +21,14 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 3 courgettes
  - 1 sauce tomate (maison ou en conserve)
  - 1 grosse boîte de thon
  - Des olives noires dénoyautés
  - Du gruyère râpé
 
-## Recette détaillée
+## La recette détaillée
 À l’aide d’une mandoline, râpez de fines tranches de courgettes. Mélangez la sauce tomate, le thon, les olives noire (coupées en trois), sel et poivre.
 
 Dans un plat, alternez une couche de lamelles de courgettes, une couche du mélange de thon puis une couche de gruyères râpés. Continuez jusqu’au haut du plat. Enfournez 30 minutes à 180 degrés. Dégustez avec une salade.

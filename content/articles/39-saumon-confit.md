@@ -21,7 +21,7 @@ recipeYield : 4 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
 Pour le saumon confit :
  - 4 pavés de cœur de saumon avec la peau
  - 1l d’huile d’olive
@@ -47,7 +47,7 @@ Pour le saumon confit :
  - 1 cuil. à soupe d’huile d’olive
  - Gros sel
 
-## Recette détaillée
+## La recette détaillée
 La veille, faites chauffer légèrement l’huile avec le thym, le romarin, le piment, les zestes de citron et d’orange et le carvi. Laissez infuser à température ambiante pendant 12 heures.
 
 Le lendemain, préchauffez le four à 60 °C. Versez l’huile dans un plat à four, puis enfournez. Poêlez rapidement les pavés de saumon côté peau, salez. Sortez-les, retirez la peau, replacez celle-ci dans la poêle, disposez un papier cuisson par-dessus et un poids, repassez les peaux à feu doux jusqu’à ce qu’elles deviennent croustillantes, épongez, réservez. Disposez les pavés de saumon dans le plat qui est déjà au four et faites confire 20 min. Égouttez. Hachez les herbes (aneth, menthe, cerfeuil, coriandre), puis panez les pavés cuits côté arête avec les herbes, filmez, réservez au frais 2 h.

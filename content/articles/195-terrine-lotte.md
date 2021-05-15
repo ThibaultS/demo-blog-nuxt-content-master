@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - Court bouillon de poisson
  - 500g de lotte sans l’os
  - 2 jus de citron
@@ -35,7 +35,7 @@ published : 1
  - 2 blancs d’œufs
  - 2 branches d'estragon fraiches
 
-## Recette détaillée
+## La recette détaillée
 Faites cuire la lotte dans le court bouillon de poisson pendant 20 minutes en y ajoutant le jus de citron. Retirez la lotte, égouttez-la et essuyez-la bien.
 
 Dans un bol, battez les œufs puis ajoutez le concentré de tomate, du sel et du poivre. Mélangez pour homogénéiser. Beurrez un moule à cake. Mettez la lotte émiettée dedans repartie de manière homogène. Versez l’omelette par dessus. Enfournez pendant 40 minutes à 210°C.

@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 210g d’un poulet rôti cuit
  - 70g de yaourt grec nature
  - 120g de sauce buffalo 
@@ -47,7 +47,7 @@ Pour la sauce blanche à la coriandre :
  - 1 c.à.c de poudre d'oignon
  - 2 citron vert
 
-## Recette détaillée
+## La recette détaillée
 Préchauffez le four à 210°C. Graissez légèrement votre plaque de cuisson. Hachez votre ciboulette fraiche. Faites fondre du beurre. Dans un bol, mélangez le poulet, le yaourt, la sauce buffalo, la ciboulette hachée, le persil, l'aneth, l'oignon en poudre, l'ail en poudre et une pincée de sel. Ajoutez le cheddar râpée et émiettez le roquefort.Coupez vos feuilles de brique en deux et badigeonnez-les de beurre. Puis versez 2 cuillères à soupe de garniture sur chaque morceau de feuille de brique. Pour fermer, rabattez la partie de gauche et de droite puis roulez pour refermer (comme un nem). Attention à fermer de manière hermétique pour que le fromage ne coule pas.
 
 Placez-les sur la plaque de cuisson. Badigeonnez légèrement chaque rouleau de beurre pour qu’ils dorent bien. Enfournez et faites cuire pendant 10 à 12 minutes, retournez-les et faites-les cuire encore 8 à 10 minutes de plus ou jusqu'à ce que les rouleaux soient croustillants.

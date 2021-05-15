@@ -21,7 +21,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 2 c.à.s d’huile d’olive
  - 300g de riz basmati
  - 2 c.à.s d’huile d’olive 4 echalottes
@@ -36,7 +36,7 @@ published : 1
  - 12 noix de saint Jacques ou celles de chez Picard
  - De la coriandre ciselée
 
-## Recette détaillée
+## La recette détaillée
 Pour la cuisson du riz, il vous suffit de respecter les instructions sur le paquet.
 
 Pendant ce temps préparez la sauce. Epluchez les échalotes, les gousses d’ail et coupez-les en dés. Pelez le gingembre et coupez-le également en cubes. Fendez le bâton de citronnelle en deux et écrasez-le légèrement pour une meilleure diffusion des arômes.

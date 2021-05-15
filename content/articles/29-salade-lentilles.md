@@ -21,7 +21,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
 - 1 boîte de lentilles
 - 1 betterave cuite
 - Quelques tomates cerises
@@ -30,7 +30,7 @@ published : 1
 - Le zeste d’1 citron
 - Des feuilles de basilic
 
-## Recette détaillée
+## La recette détaillée
 Découpez la betterave, les tomates, la mozzarella, les oignons. Récupérez le zeste du citron. Réunissez tous les ingrédients pour former une salade.
 
 Pour une vinaigrette pour 2 personnes, mélangez 2 cuillères à soupe d’huile d’olive au citron, 1 grosse cuillère à café de velours de balsamique, quelques gouttes d’arôme maggi et 1 demi cuillère à café de moutarde au basilic.

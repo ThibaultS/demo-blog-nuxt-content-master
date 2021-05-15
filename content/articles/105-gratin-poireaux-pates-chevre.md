@@ -22,7 +22,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 220g de pâtes Fregola Sarda
  - 2 poireaux
  - 100g bûche de chèvre
@@ -30,7 +30,7 @@ published : 1
  - 1 poignée de pignons de pains
  - Sel poivre
 
-## Recette détaillée
+## La recette détaillée
 Lavez soigneusement les poireaux puis émincez-les. Faites fondre les 40g de beurre dans une poêle (si possible antiadhésive). Ajoutez les poireaux, salez et poivrez. Faites cuire les poireaux à feu moyen pendant 15-20 min en mélangeant régulièrement jusqu’à ce qu’ils soient tendres et fondants.
 
 En parallèle, faites cuire les pâtes selon les instructions du paquet. Réservez. Dans une casserole, portez la crème à ébullition. Ajoutez du poivre, et hors du feu, faites fondre le chèvre frais dans la crème chaude. Dans un grand saladier, mélangez les pâtes et les poireaux fondants. Répartissez cette préparation dans un grand plat à gratin ou dans des ramequins individuels. Ajoutez sur le dessus de la crème au fromage et parsemez de pignons de pin avant d’enfourner quelques minutes sous le gril du four (200°C) pour faire dorer le tout.

@@ -22,7 +22,7 @@ recipeYield : 15-20 madeleines
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 100g de farine
  - 50g de poudre de noisettes
  - 1 c.a.s de cacao amer en poudre
@@ -42,7 +42,7 @@ Pour le chocolat :
  - 1 c.à.c d'huile de coco 
  - Une poignée de pralin
 
-## Recette détaillée
+## La recette détaillée
 Fouettez les oeufs et le sucre pour obtenir un mélange homogène. Incorporez la farine tamisée, la poudre de noisettes, le cacao, la levure chimique, le sel. Ajoutez ensuite le beurre fondu (mais pas chaud) et l'extrait de vanille. Mélangez bien. Placez la pâte dans une poche à douille et mettez au réfrigérateur pendant 1h (il faut un choc thermique pour une bonne cuisson).
 
 Préchauffer le four à 225° chaleur traditionnelle. Faites le petit mélange beurre/farine pour napper au pinceau les empreintes du moule à madeleines puis mettrez 10 minutes au congélateur. Ensuite remplissez les empreintes de pâte, sans dépasser les 3/4 de l'empreinte. Enfournez 6 minutes à 225° puis baissez à 180° pendant 6 à 8 minutes (cela dépend de votre four).

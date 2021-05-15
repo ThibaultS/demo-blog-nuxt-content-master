@@ -29,6 +29,10 @@
       Poissons et crustacés
       <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
     </a>
+    <a href="/categories/burgers-et-tartines" class="link mr-2">
+      Burgers et tartines
+      <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
+    </a>
     <a href="/categories/asperge" class="link mr-2">
       Asperges
       <!-- <i class="fas fa-long-arrow-alt-right"></i> -->

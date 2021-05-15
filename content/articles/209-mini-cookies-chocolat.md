@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 120g de sucre cassonade
  - 120g de sucre semoule
  - 300g de farine
@@ -34,7 +34,7 @@ published : 1
  - 190g de pépites de chocolat au lait
  - 190g de pépites de chocolat noir
 
-## Recette détaillée
+## La recette détaillée
 Dans un bol, versez le beurre pommade. Pour obtenir cette texture, vous pourrez le passer quelques secondes au micro-ondes ou le sortir une vingtaine de minutes avant de commencer la recette.
 
 Ajoutez le sucre cassonade et le sucre semoule. Mélangez à l'aide d'une spatule. Incorporez l’oeuf après l'avoir battu à l'aide d'une fourchette. Ajoutez la levure et remuez à nouveau. Puis versez la farine progressivement. Une fois que vous avez ajouté la totalité de la farine, travaillez votre pâte à cookies avec les mains pour formez une belle boule. Dès que la pâte commence à s'amalgamer, ajoutez les pépites de chocolat.

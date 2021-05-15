@@ -20,7 +20,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - Un pot de stracciatella
  - 4 figues
  - 1 branche de menthe
@@ -29,5 +29,5 @@ published : 1
  - 1 càs de velours de balsamique
  - fleur de sel
 
-## Recette détaillée
+## La recette détaillée
 Lavez les figues, séchez les en coupez les en cubes . Concassez les amandes , et ciselez la menthe. Mélangez délicatement ces 3 ingredients avec l'huile d'olive, le balsamique et une pointe de fleur de sel. Répartissez le tartare dans les verrines, disposez un peu de stracciatella , ajoutez un peu de fleur de sel et servez avec du pain grillé. Possible de le faire également en version grand format dans une assiette et d’utiliser de la burrata en alternative.

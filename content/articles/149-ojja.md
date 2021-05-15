@@ -23,7 +23,7 @@ recipeYield: 3 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 6 oeufs
  - 2 chipolata + 1 merguez
  - 1 pomme de terre charlotte
@@ -34,7 +34,7 @@ published : 1
  - 1 quart de botte de persil
  - Huile d’olive
 
-## Recette détaillée
+## La recette détaillée
 Faites cuire les pommes de terre à l’eau bouillante salée, épluchez-les et, à froid, taillez-les en cubes. Ciselez les oignons nouveaux et le persil avec le eau de la tige. Coupez en deux les tomates cerises. Zestez le citron. Coupez les olives en deux.
 
 Dans une grande poêle, faites cuire les merguez avec un peu huile d’olive. Sortez-les du feu quand elles sont dorées. Quand elles ont un peu refroidies, taillez-les en rondelles. Dans la même poêle avec le gras de la cuisson des merguez, mettez les pommes de terre, faites les revenir légèrement. Ajoutez les oignons nouveaux. Ajoutez les tomates, les olives noires, enfin les morceaux de merguez, mélangez et faites chauffer quelques minutes.

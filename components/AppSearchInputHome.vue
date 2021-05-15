@@ -1,6 +1,6 @@
 <template>
   <div class="search-container-home mb-2">
-    <label class="sr-only" for="search">Rechercher une recette</label>
+    <label class="sr-only" for="search">Recherchez dans mes recettes</label>
     <input
       v-model="searchQuery"
       type="search"

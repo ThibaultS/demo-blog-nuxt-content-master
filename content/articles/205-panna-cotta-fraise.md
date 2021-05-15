@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 petite barquette de fraise
  - 5 grandes feuilles de basilic
  - 40cl de crème liquide
@@ -34,7 +34,7 @@ published : 1
  - 1 c.à.c de jus de citron
  - 1/2 gousse de vanille
 
-## Recette détaillée
+## La recette détaillée
 Faites ramollir les feuilles de gélatine dans un saladier rempli d’eau froide. Dans une casserole, mettez le lait, la crème liquide, 65g de sucre et la demi-gousse de vanille fendue en deux. Portez à ébullition et retirez tout de suite du feu. Ôter la demi-gousse de vanille et ajoutez la gélatine essorée. Mélangez l’ensemble au fouet électrique.
 
 Versez la crème obtenue dans 4 petits pots en verre ou dans des ramequins. Remplissez-les jusqu’à 5 cm environ du bord. Laissez d’abord tiédir, puis faites prendre au réfrigérateur 10 h minimum.

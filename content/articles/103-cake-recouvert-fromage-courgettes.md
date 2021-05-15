@@ -22,7 +22,7 @@ recipeYield : 1 cake
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 190g de farine
  - 4 œufs
  - 13cl de lait
@@ -36,7 +36,7 @@ published : 1
  - 150g de chèvre frais (type Chavroux)
  - 300g de philadelphia
 
-## Recette détaillée
+## La recette détaillée
 Coupez le jambon en cube. Faites de même pour les courgettes. Coupez les tomates cerises en deux puis réservez. Coupez les tomates séchées en petits morceaux puis réservez.
 
 Dans un cul de poule, fouettez les œufs avec le lait et l’huile. Ajoutez la farine et la levure puis mélangez jusqu’à obtenir une préparation lisse et homogène. Ajoutez le gruyère puis mélangez énergiquement. Intégrez le jambon, les courgettes, les tomates cerises et séchées. Versez la préparation dans un moule préalablement beurré et fariné.

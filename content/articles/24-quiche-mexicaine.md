@@ -20,7 +20,7 @@ recipeYield : 1 tarte
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 pâte brisée
  - 1 oignon jaune
  - 1 poivron rouge
@@ -34,7 +34,7 @@ published : 1
  - Coriandre
  - Sel, poivre
 
-## Recette détaillée
+## La recette détaillée
 Émincez l’oignon jaune et le poivron rouge en petits morceaux. Faites les cuir dans de l’huile d’olive pendant environ 10 minutes. Ajoutez ensuite en petits morceaux les steaks hachés. Laissez revenir 2 minutes puis ajoutez les tomates entières pelées (sans le jus), ainsi que le maïs et les haricots rouges.
 
 Dans un plat à tarte, étalez la pâte brisée et piquez la avec une fourchette. Mettez la préparation sur la tarte et recouvrez de cheddar râpé.

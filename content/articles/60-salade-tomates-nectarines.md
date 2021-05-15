@@ -21,7 +21,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 tomate
  - 1 nectarine jaune
  - 1 demi mozzarella
@@ -31,5 +31,5 @@ published : 1
  - Sel, poivre
 
 
-## Recette détaillée
+## La recette détaillée
 Coupez en tranche la tomate, la nectarine et la mozzarella. Dénoyautez les cerises en les coupant en deux. Dans une assiste alternez chaque ingrédients afin de faire un cercle. Versez un filet d’huile. Un peu de sel et de poivre et c’est prêt à être déguster !

@@ -21,13 +21,13 @@
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>
           <b-col class="intro mt-5 mb-5">
-            <h1>Mes recettes de salades</h1>
+            <h1>Mes recettes de tartes sucrées</h1>
             <p class="lead">
-              Il y a tellement de possibilité pour faire des salades, lorsque le
-              printemps arrive. Retrouvez sur cette page toutes mes recettes de
-              salades avec : des radis, de la betterave, du maïs, des carottes,
-              ou encore des tomates. Pour découvrir mes nouvelles recettes je
-              vous invite à me suivre sur
+              Il n'y a pas que les
+              <a href="/categories/gateaux">gâteaux</a>
+              dans la vie ! Vous pouvez aussi ravir vos convives avec de
+              délicieuses tartes et galettes. Pour découvrir mes nouvelles
+              recettes je vous invite à me suivre sur
               <a
                 href="https://www.instagram.com/josiesrecipes/"
                 target="_blank"
@@ -123,7 +123,7 @@ export default {
       ])
       .sortBy('id', 'desc')
       .limit(50)
-      .where({ theme: 'Salades' })
+      .where({ theme: 'Tartes sucrées' })
       .fetch()
     return {
       articles
@@ -131,7 +131,7 @@ export default {
   },
   data() {
     return {
-      title: 'Mes recettes de salades'
+      title: 'Mes recettes de tartes sucrées'
     }
   },
   head() {
@@ -141,7 +141,8 @@ export default {
         {
           hid: 'description',
           name: 'description',
-          content: "Toutes mes recettes de salades pour le printemps et l'été."
+          content:
+            'Toutes mes recettes de tartes sucrées pour ravir votre famille et vos amis.'
         },
         {
           hid: 'og:image',

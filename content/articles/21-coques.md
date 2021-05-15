@@ -21,7 +21,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 500g de coques
  - 250g de beurre ( 14 cuillères à soupe )
  - 1 ail
@@ -29,7 +29,7 @@ published : 1
  - Quelques feuilles de thym et de laurier
  - Un peu de sel
 
-## Recette détaillée
+## La recette détaillée
 Crème d'ail :
 A préparer plus tôt dans la journée. Démarrez votre beurre noisette en faisant fondre le beurre à feu moyen pour le début de cuisson. Quand vous obtenez une belle couleur crème, augmentez votre feu, ajoutez l’ail au beurre fondu. Lorsque vous remarquez que le beurre moussant se brunit, arrêtez le feu. Ajoutez le thym et le laurier. Laissez refroidir tranquillement afin que l'ail confise doucement. Otez l'ail puis utilisez un mixeur pour réaliser la purée d'ail confite sinon, faites vous les bras au couteau.
 

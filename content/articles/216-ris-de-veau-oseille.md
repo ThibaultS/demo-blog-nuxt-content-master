@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 250g de ris de veau
  - 250ml de lait ribot
  - 100g de crème crue
@@ -37,7 +37,7 @@ published : 1
  - 100g de sucre
  - Persil plat et oseille
 
-## Recette détaillée
+## La recette détaillée
 Avant de démarrer, disposez le ris de veau poser dans un récipient d'eau froide et préchauffez votre four à 180°C.
 
 Débutez par la préparation du katsuobushi. Dans une casserole, faire chauffer une grande quantité de beurre (plus d'une demie plaquette). Déposez le katsuobushi tout en gardant quelques copeaux crus de côté pour le dressage. Un fois le beurre bien fondu, baissez à feu très doux. Laissez infuser le plus possible (au moins 30min) sans brûler le beurre, jusqu'à obtenir un beurre clarifié et bien infusé, et réservez-le jusqu'à la cuisson du ris de veau.

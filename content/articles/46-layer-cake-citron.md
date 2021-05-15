@@ -20,7 +20,7 @@ recipeYield : 1 gâteau
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
 Pour le cake au citron :
  - 8 oeufs
  - 375g de sucre semoule
@@ -50,7 +50,7 @@ Pour la meringue italienne :
  - 35g d’eau
  - 25g de jus de citron frais
 
-## Recette détaillée
+## La recette détaillée
 Préparation du cake au citron :
 Préchauffez le four à 170 °C. Tamisez ensemble la farine et la levure chimique. Faites fondre le beurre, versez-le dans un grand saladier et laissez-le tiédir. Zestez les citrons finement à l’aide d’une râpe Microplane et réservez les fruits pour le jus du sirop. Versez alors les oeufs, le sucre et une pincée de fleur de sel écrasée dans la cuve d’un mixeur mélangeur. Mixez. Puis ajoutez la crème fraîche, les zestes des citrons et le limoncello. Versez un peu de cette préparation dans le beurre, mélangez délicatement avec une spatule, puis continuez à incorporer la préparation ainsi que la farine au beurre fondu en mélangeant délicatement.
 

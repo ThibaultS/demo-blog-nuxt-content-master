@@ -23,7 +23,7 @@ recipeYield: 6 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 mont d’Or
  - 50g de chapelure
  - 1 oeuf
@@ -44,7 +44,7 @@ published : 1
  - Huile de friture, pour ma part j’ai utilisé de l’huile de tournesol
  - Sel, Poivre
 
-## Recette détaillée
+## La recette détaillée
 La veille, pelez les poires en les laissant entières. Versez le vin dans une casserole et ajoutez la cannelle, les clous de girofle, les grains de poivre, le gingembre, les zestes d’orange et de citron, la muscade et le sucre. Portez à ébullition.
 
 Plongez les poires dans le vin épicé. Baissez le feu et laissez pocher les poires 30 à 40 min à tout petit frémissement. Coupez le feu et laissez-les refroidir dans la casserole couverte. Mettez-les au frais jusqu’au lendemain. Le jour même, concassez vos noisettes et mélangez-les avec la chapelure. Salez et poivrez légèrement et mettez le tout dans une assiette creuse

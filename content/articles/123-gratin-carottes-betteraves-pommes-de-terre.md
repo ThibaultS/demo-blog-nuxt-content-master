@@ -22,7 +22,7 @@ recipeYield : 3-4 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 c.à.s de beurre
  - 2 pommes de terre
  - 3 carottes
@@ -34,7 +34,7 @@ published : 1
  - 30g de gruyère
  - Sel et poivre
 
-## Recette détaillée
+## La recette détaillée
 Epluchez vos pommes de terre, vos ottes et vos betteraces. Tranchez les en rondelles très fines. Si vous avez utilisez une mandoline. Puis déposez chaque légume dans son propre récipient. Préchauffez votre four à 200 ° C. Graissez un plat de cuisson avec du beurre. Emincez vos feuilles de persil.
 
 Versez 50g de crème, 20g de parmesan rapé et le persil dans chacun des 3 bols. Salez, poivrez. Mélangez chacun des trois bols. Chaque rondelle doit être crémée. Versez la crème restante au fond du plat allant au four. Prenez une pile de pommes de terre et alignez-les pour faire une ligne, en bas du plat de cuisson. Faites ensuite 2 rangées de carottes puis une rangée de betteraves. Une fois le plat rempli, saupoudrez du reste de parmesan et d'ail émincé. Assaisonnez le dessus du gratin avec du sel, du poivre.

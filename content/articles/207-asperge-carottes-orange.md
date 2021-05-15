@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 4 carottes
  - 5 asperges
  - 3 petites oranges sanguines
@@ -34,7 +34,7 @@ published : 1
  - 10 feuilles de basilic
  - Sel, poivre
 
-## Recette détaillée
+## La recette détaillée
 Pressez le jus des 3 oranges et réservez. Épluchez les carottes et faites de fines lamelles avec une mandoline. Lavez les asperges et coupez-les en biseaux.
 
 Dans une poêle, faites fondre le beurre avec le paprika fumé et le thym. Ajoutez les carottes et 2/3 du jus d’orange. Faites mijotez à feu moyen pendant 10 minutes. Ajoutez ensuite les asperges, le reste du jus d’orange et laissez mijoter à nouveau pendant 10 minutes. A la fin de la cuisson, les légumes doivent être légèrement croquants. Ajoutez du sel, du poivre et le basilic haché.

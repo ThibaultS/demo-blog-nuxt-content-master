@@ -23,7 +23,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 100g de chocolat noir + 2 raies supplémentaires
  - 150g de sucre
  - 100g de farine
@@ -35,7 +35,7 @@ published : 1
  - 10 Oréo
  - 1 poche à douille
 
-## Recette détaillée
+## La recette détaillée
 Préchauffez le four à 180° C.
 
 Beurrez un moule rectangulaire. Faites fondre à feu doux le beurre et le chocolat dans une casserole. Ajoutez successivement le sucre, les oeufs et la farine en mélangeant bien entre chaque. Cassez les noix de pécan (ou les noix) avec vos mains pour faire des morceaux. Incorporez les à la pâte.

@@ -45,6 +45,16 @@
             <div v-if="article.theme == 'Salades'">
               Thème : <a href="/categories/salades" class="link">Salades</a>
             </div>
+            <div v-if="article.theme == 'Burgers'">
+              Thème :
+              <a href="/categories/burgers-et-tartines" class="link">Burgers</a>
+            </div>
+            <div v-if="article.theme == 'Tartines'">
+              Thème :
+              <a href="/categories/burgers-et-tartines" class="link">
+                Tartines
+              </a>
+            </div>
             <div
               v-if="
                 article.main_ingredient == 'Saumon' ||
@@ -119,11 +129,17 @@
               <i class="fab fa-instagram fa-2x"></i>
             </a>
           </div>
+          <div>
+            <em>Publiée le {{ formatDate(article.date) }}</em>
+          </div>
         </b-card>
         <nuxt-content :document="article" />
-        <p class="pt-2">Publié le {{ formatDate(article.date) }}</p>
         <div class="mb-3 rebound-block">
           <h2>Cela pourrait vous intéresser</h2>
+          <p>
+            Accédez aux catégories en lien avec cette recette pour trouver de
+            nouvelles idées :
+          </p>
           <a
             v-if="article.time < 31"
             class="link mr-2"
@@ -137,6 +153,20 @@
             href="/categories/pates"
           >
             Pâtes
+          </a>
+          <a
+            v-if="article.theme == 'Tartines'"
+            class="link mr-2"
+            href="/categories/burgers-et-tartines"
+          >
+            Tartines
+          </a>
+          <a
+            v-if="article.theme == 'Burgers'"
+            class="link mr-2"
+            href="/categories/burgers-et-tartines"
+          >
+            Burgers
           </a>
           <a
             v-if="article.main_ingredient == 'Chocolat'"

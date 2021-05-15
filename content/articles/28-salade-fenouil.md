@@ -21,7 +21,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 demi fenouil
  - Du mesclun
  - Quelques radis
@@ -29,7 +29,7 @@ published : 1
  - Quelques tomates cerises
  - De la fêta
 
-## Recette détaillée
+## La recette détaillée
 Émincez le fenouil en fines lamelles. Tranchez les radis à l’aide d’une mandoline. Coupez les tomates cerises en 2 et les fraises en 4. Émiettez un peu de fêta.
 
 Pour une vinaigrette pour 2 personnes, mélangez 2 cuillères à soupe d’huile d’olive au citron, 1 grosse cuillère à café de velours de balsamique, quelques gouttes d’arôme maggi et 1 demi cuillère à café de moutarde au basilic.

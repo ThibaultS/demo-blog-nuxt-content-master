@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 160g de farine
  - 1/2 c.à.c de levure chimique
  - 1/2 c.à.c de bicarbonate de soude
@@ -46,7 +46,7 @@ Pour le glaçage :
  - 12 mini lapin en chocolat
  - Paillette alimentaire
 
-## Recette détaillée
+## La recette détaillée
 Munissez-vous d’un moule à donuts ou un moule à donuts en forme de fleur. J’ai trouvé les miens sur Amazon.
 
 Préchauffez le four à 170°C. Graissez avec un peu de beurre l'intérieur du moule pour chaque donuts.

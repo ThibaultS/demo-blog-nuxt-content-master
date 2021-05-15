@@ -22,7 +22,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - Chair de crabe
  - 1 pomme verte
  - Coriandre et basilic
@@ -33,5 +33,5 @@ published : 1
  - 25 cl de jus de pomme verte
  - Sel, poivre
 
-## Recette détaillée
+## La recette détaillée
 Emincez la coriandre et le basilic. Mélangez la chair du crabe, les herbes, l’huile d’olive , le sel, et le poivre. Prélevez la chair des avocats et mixez la avec la tige de citronnelle émincée, le jus de pomme verte et de citron. Réservez au frigo. Répartissez la soupe d’avocat bien froide dans les assiettes. Avec un emporté pièce, disposez la salade de crabe au centre. Découpez des tranches de pomme à la mandoline et retaillez en bâtonnets; les disposer sur le crabe. Servez bien frais. 

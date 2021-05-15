@@ -22,7 +22,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 500g de fèves écossés
  - 400g de petit pois écossés
  - 2 feuilles d’ail des ours
@@ -36,7 +36,7 @@ published : 1
  - 1 verre de vin blanc
  - Beurre
 
-## Recette détaillée
+## La recette détaillée
 Pour la préparation du poisson :
 Pour lever la truite, commencez par enlever les nageoires au couteau ou aux ciseaux. Incisez la tête derrière les branchies des deux côtés et coupez d’un coup sec. Répétez pour la queue. (Réserver têtes et queues pour le fumet). Palpez le poisson au niveau du dos pour trouver la colonne vertébrale puis incisez lentement sous la colonne vertébrale sur toute la longueur. Répétez l’opération de l’autre côté. Gardez les arêtes pour le fumet.
 

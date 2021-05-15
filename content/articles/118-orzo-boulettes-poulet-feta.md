@@ -22,7 +22,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 50 g de poulet haché
  - 1 petite échalote
  - 1 gousse d' ail
@@ -44,7 +44,7 @@ Pour la sauce :
  - 15g de yogourt grec nature
  - 1 c.à.c d'huile d'olive
 
-## Recette détaillée
+## La recette détaillée
 Préchauffez le four à 200°C.
 
 Coupez grossièrement le poulet. Mixez ensemble le poulet, l’échalote, la moitié de la gousse d’ail, le paprika et l'origan. Salez et poivrez. Nappez vos mains d'huile d'olive et roulez la viande en boulettes de la taille d'une cuillère à soupe. Déposez les sur la plaque de cuisson. Enfournez pendant 10-15 minutes en les retournant 2-3 fois. 

@@ -21,7 +21,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 10 tranches de poitrine fumée
  - 1 c. à c. de menthe fraiche hachée
  - 150 g de parmesan
@@ -33,7 +33,7 @@ published : 1
  - 2 grosses cuillères de crème fraîche
  - 1 citron
 
-## Recette détaillée
+## La recette détaillée
 Émincez finement la poitrine fumée et râpez le parmesan. Dans une casserole d’eau bouillante, mettez les pâtes à cuire suivant les instructions du paquet. Faites chauffer une poêle avec un filet d’huile et le beurre. Ajoutez le bacon, un peu de poivre et faites revenir jusqu’à ce qu’il soit doré et croustillant.
 
 Ajoutez alors les pois et mélangez. Après une à deux minutes, ajoutez la crème et la menthe. Égouttez les pâtes et ajoutez-les dans la poêle avec les autres ingrédients. Gardez un verre d’eau de cuisson des pâtes. Coupez le citron deux et pressez tout le jus sur les pâtes.

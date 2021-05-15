@@ -22,7 +22,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 2 morceaux de daurade
  - 300 g de patates douces
  - 20 cl de lait de coco
@@ -37,7 +37,7 @@ published : 1
  - Huile d’olive, sel et poivre
  - Crème de balsamique
 
-## Recette détaillée
+## La recette détaillée
 Pour la purée :
 Pelez les patates douces, coupez en morceaux et cuisez-les dans une casserole avec le lait de coco et la gousse de vanille grattée. Cuisez environ 20 minutes puis mixez finement. Assaisonnez.
 

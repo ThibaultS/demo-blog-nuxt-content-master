@@ -20,7 +20,7 @@ recipeYield : 1 gâteau
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 200g de sucre
  - 200g de beurre doux à température ambiante
  - 3 oeufs
@@ -32,7 +32,7 @@ published : 1
  - 12 figues fraiches
  - 1 barquette de myrtille
 
-## Recette détaillée
+## La recette détaillée
 Préchauffez votre four à 200°C.
 
 Fouettez le beurre et le sucre dans le bol du robot jusqu'à ce que le mélange deviennent mousseux et blanchisse. Ajoutez les oeufs un par un, en prenant bien le temps de les incorporer au fur et à mesure. Ajoutez l'extrait de vanille à la fin.

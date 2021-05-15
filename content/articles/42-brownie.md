@@ -21,7 +21,7 @@ recipeYield : 1 gâteau
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
 Pour la ganache au chocolat noir :
  - 100 g de chocolat noir de couverture
  - 120 g de crème liquide entière
@@ -40,7 +40,7 @@ Pour le brownie chocolat noix de pécan :
  - 10 g de cacao en poudre non sucré
  - 75 g de cerneaux de noix de pécan
 
-## Recette détaillée
+## La recette détaillée
 Préparez la ganache au chocolat noir :
 Pesez le chocolat noir dans un cul de poule et faites le fondre une minute au micro-ondes. Remuez avec une maryse et réservez. Dans une casserole, portez à ébullition la crème liquide entière et le miel d'acacia. Versez la crème liquide chaude, en trois fois, sur le chocolat en remuant vivement afin de créer une émulsion. Filmez au contact et réservez au réfrigérateur.
 

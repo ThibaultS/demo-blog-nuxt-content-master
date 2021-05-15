@@ -23,7 +23,7 @@ recipeYield: 6-8 onigiris
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 200g de riz japonais
  - 4 c.à.s de vinaigre de riz pour maki et sushi
  - 1 avocat
@@ -32,7 +32,7 @@ published : 1
  - 1 feuille d’algue nori
  - Graines de pavot et de sésame
 
-## Recette détaillée
+## La recette détaillée
 Préparez le riz vinaigré japonais : faites tremper le riz 1h dans un saladier d’eau froide. Égouttez-le et laissez reposer 30 min dans une passoire.
 
 Dans une casserole moyenne, mélangez le riz avec 200g d’eau (20 cl). Faites chauffer à feu moyen et couvrez dès que l’eau bout. Laissez cuire 5 min surtout sans soulever le couvercle. Baissez le feu et laissez cuire encore 5 min. Ôtez la casserole du feu, sans retirer le couvercle et laissez de côté pendant 10 min.

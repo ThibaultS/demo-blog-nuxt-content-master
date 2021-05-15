@@ -20,7 +20,7 @@ recipeYield : 1 tarte
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 pâte feuilletée
  - 5 à 10 champignons selon la taille
  - Moutarde à l’estragon
@@ -28,7 +28,7 @@ published : 1
  - Huile d’olive
  - Sel, poivre
 
-## Recette détaillée
+## La recette détaillée
 Étalez votre pâte feuilletée puis badigeonnez la de moutarde à l’estragon. Découpez vos champignons en lamelles pas trop fines et disposez les en rosace sur l’ensemble de la pâte en laissant à la fin un espace suffisant pour rabattre les bords sur les champignons. Ajoutez un filet d’huile d’olive. Salez et poivrez.
 
 Rabattez les bords et badigeonnez de jaune d’œuf l’aide d’un pinceau. Saupoudrez de graines de sésame. Mettez la tarte au four le temps indiqué sur l’emballage de votre pâte feuilletée.

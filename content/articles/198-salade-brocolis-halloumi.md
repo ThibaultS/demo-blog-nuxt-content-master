@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 450g d’halloumi
  - 1 brocoli entier
  - 1 verre de quinoa
@@ -40,7 +40,7 @@ Pour la vinaigrette :
  - 2 c.à.s d'eau tiède pour émulsionner
  - Sel, poivre
 
-## Recette détaillée
+## La recette détaillée
 Faites chauffer deux casseroles d’eau avec un peu de gros sel. Découpez les brocolis en petits bouquets et faites les cuire dans l’eau bouillante pendant 9 minutes. Faites cuir en parallèle le quinoa le temps indiqué sur l’emballage. Une fois que les brocolis et le quinoa sont prêts, passez-les sous l’eau froide ou laissez refroidir.
 
 Coupez un tiers de la grenade et récupérez les graines. Réservez. Coupez des tranches d’halloumi et faites-les griller dans une poêle avec un peu d’huile d’olive. Quand les faces sont dorées, c’est prêt.

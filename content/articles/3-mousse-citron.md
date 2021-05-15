@@ -20,7 +20,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
 Pour la mousse :
  - 2 citrons, zestes et jus
  - 85g de sucre
@@ -34,7 +34,7 @@ Pour la chantilly au basilic :
  - 15g de sucre glace
  - 10 feuilles de basilic frais
 
-## Recette détaillée
+## La recette détaillée
 Pour la mousse citron :
 Battez les 2 jaunes d’œufs et le sucre jusqu’à ce que le préparation blanchisse. Ajoutez la maïzéna et mélangez bien au fouet. Dans une casserole, faites bouillir l’eau avec le jus et les zestes de citron. Lorsqu’il entre en ébullition, versez le sur les œufs blanchis. Mélangez bien au fouet. Versez le mélange obtenu dans la casserole et cuisez jusqu’à épaississement de la préparation.
 

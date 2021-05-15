@@ -23,7 +23,7 @@ recipeYield : 15-20 sablés
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 150g de beurre mou
  - 50g de sucre en poudre
  - 1 c.à.c d’arôme de vanille
@@ -37,7 +37,7 @@ published : 1
  - 1 emporte pièce rond dentellé
  - 1 petit emporte pièce cœur
 
-## Recette détaillée
+## La recette détaillée
 Dans un saladier, mélangez à la main le beurre mou avec le sucre en poudre et le sucre vanillé. Ajoutez l'oeuf puis le lait, la poudre d'amandes, la farine et la levure chimique. Mélangez avec une grosse cuillère puis travaillez la pâte avec vos mains. Formez une boule de pâte et emballez-la dans du film étirable. Laissez reposer la pâte pendant 1h au frigo.
 
 Préchauffez le four à 180°C. Sur un plan de travail fariné, étalez la pâte à l'aide d'un rouleau à pâtisserie. N’hésitez pas à ajouter de la farine sur votre pâte si elle est trop collante.

@@ -20,14 +20,14 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 grosse betterave déjà cuite
  - Du chèvre frais type petit Billy
  - Du basilic
  - Sel, poivre
  - Huile d’olive
 
-## Recette détaillée
+## La recette détaillée
 Prenez votre betterave. Il vous suffit de couper la betterave avec une mandoline pour avoir de belles lamelles. Si vous en avez pas vous pouvez aussi le faire au couteau.
 
 Disposez les ensuite sur une assiette de manière à former une rosace. Parsemez ensuite de miettes de chèvre frais, de basilic, un filet d’huile d’olive. Du sel et du poivre et le tour est joué !

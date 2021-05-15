@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
 Pour le tangzhong :
  - 40g de farine type 45
  - 200g d'eau
@@ -44,7 +44,7 @@ Pour la dorure :
  - 1 jaune d’œuf
  - 20g de lait
 
-## Recette détaillée
+## La recette détaillée
 6 heures avant au minimum, préparez le Tang Zhong. mettez dans une casserole l’eau et la farine. Mélangez au fouet à main et placez sur feu doux sans cesser de remuer jusqu'à ce que le mélange épaississe et atteigne 65°. Versez dans un petit récipient, filmez au contact et réservez au frigo pour au moins 6 heures. Vous pouvez également le faire la veille pour le lendemain.
 
 Le jour J, sortez votre pâte du frigo pour qu’elle soit à température ambiante. Dans votre bol de robot, mélangez les ingrédients secs : farine, sucre, sel, levure, lait en poudre. Attention de ne pas mettre en contact le sel et la levure, votre pâte risquerait de ne pas gonfler.

@@ -23,7 +23,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 15 cl de lait
  - 60 cl de crème liquide entière
  - 6g de gélatine soit 3 feuilles de 2g
@@ -33,7 +33,7 @@ published : 1
  - colorant alimentaire noir
  - coulis de fruits rouges
 
-## Recette détaillée
+## La recette détaillée
 Ramolissez vos feuilles de gélatine dans un bol rempli d’eau glacée pendant 5 minutes.
 
 Pendant ce temps, portez à ébullition la crème, le lait, le sucre et l’arôme vanille puis ajoutez-y la gélatine hors du feu. Mixez si possible, sinon mélangez pour bien dissoudre la gélatine.

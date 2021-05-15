@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 grosse betterave cuite
  - 1 petit radis bleu (blue meat)
  - 1 yaourt grec
@@ -34,7 +34,7 @@ published : 1
  - Huile d’Olive
  - Sel, poivre
 
-## Recette détaillée
+## La recette détaillée
 Enlevez la peau de la betterave et coupez en morceaux. Épluchez le radis et à l’aide d’une mandoline, faites des lamelles assez fines.
 
 Disposez dans une assiette les morceaux de betterave, les lamelles de radis, quelques framboises. Répartissez un peu de yaourt dans l’assiette, ajoutez un filet d’huile d’olive, du sel et du poivre.

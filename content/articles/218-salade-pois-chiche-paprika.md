@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 250g de pois chiches cuits et égouttés
  - 1 c.à.s d’ huile d’olive
  - 1 grosse c.à.c de paprika fumé
@@ -44,7 +44,7 @@ Pour la sauce :
  - 1 poignée de mélange d’herbes de votre choix (coriandre, persil, basilic)
  - Sel, poivre
 
-## Recette détaillée
+## La recette détaillée
 Préchauffez le four à 200°C. Rincez les pois chiches et mettez-les dans un saladier. Ajoutez le paprika et le cumin, salez et ajoutez l’huile d’olive. Mélangez bien (à la main ou à la spatule) jusqu’à ce que les pois chiches soient bien enrobés. Etalez-les sur une plaque recouverte de papier sulfurisé. Ils ne doivent faire qu’une couche. Enfournez pour 25 à 30 mn de cuisson. Au bout de 15 minutes, remuez à l’aide d’une spatule. Les pois chiches doivent être bien dorés. Laissez-les refroidir complètement sur la plaque.
 
 Pendant la cuisson des pois chiches, lavez vos légumes. Coupez vos tomates en 2. Coupez la sucrine en tronçon. Coupez l’avocat en cubes. Mélangez tout dans un saladier. Pour la sauce, hachez vos herbes. Mélangez le yaourt grec avec la moutarde, l’huile d’olive, le velours de balsamique. Ajoutez les herbes hachés. Mélangez et ajoutez une l’eau chaude pour lier votre sauce. Salez, poivrez à convenance. Versez la sauce dans le saladier et mélangez. Gardez vos pois chiches de côté, servez-les à l’assiette pour éviter qu’ils ramollissent. Si il y en a trop, conservez-les dans un bocal, ils feront fureur en apéro.

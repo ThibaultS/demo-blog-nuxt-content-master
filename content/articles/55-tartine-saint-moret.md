@@ -20,7 +20,7 @@ recipeYield : 4 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 pain à la figue tranché
  - 1 barquette de st Moret
  - 1 barquette de tomate cerise multicolore
@@ -34,7 +34,7 @@ Pour la vinaigrette :
  - Arôme Maggi
  - Moutarde au basilic
 
-## Recette détaillée
+## La recette détaillée
 Faites griller vos tranches de pain quelques minutes au four afin qu’elles soient croustillantes. Dans un saladier, faites la vinaigrette avec 4 cuillères à café d’huile d’olive, 1 cuillère à café de velours, quelques gouttes d’arôme magie et 1 cuillère à café de moutarde au basilic.
 
 Coupez en deux vos tomates cerises. Épluchez la grenade pour ne garder que le fruit. Avec une mandoline, faites de fines lamelles de radis. Mélangez le tout avec la sauce vinaigrette.Tartinez vos tartines du fromage st Moret, puis ajoutez par dessus le mélange de crudités. Parsemez de zestes d’orange sur le dessus de votre tartine.

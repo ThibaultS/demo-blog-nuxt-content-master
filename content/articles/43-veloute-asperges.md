@@ -22,7 +22,7 @@ recipeYield : 4 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 600g d'asperges vertes (réservez 2 asperges pour la décoration)
  - 1 oignon
  - 1 noisette de beurre
@@ -33,7 +33,7 @@ published : 1
  - Quelques brins de menthe ou basilic
  - huile d'olive
 
-## Recette détaillée
+## La recette détaillée
 Lavez les asperges, coupez la base, pelez légèrement les tiges à l'économe. Épluchez l'oignon puis détaillez-le et faites le revenir avec un peu de beurre dans une casserole. Ajoutez les asperges puis couvrez-les avec le bouillon de poule. Faites cuire environ 15 minutes. Vérifiez si elles sont cuites en les piquant avec un couteau pointu. Prélevez et réservez la moitié du bouillon, mixez les asperges puis ajoutez un peu de bouillon jusqu'à la consistance voulue. Assaisonnez à votre convenance.
 
 Versez un peu de velouté dans des assiettes creuses, ajoutez au centre une petite burrata, décorez votre assiette avec des bouts de saumon fumé, quelques feuilles de menthe ou de basilic, et des lamelles d'asperges. Assaisonnez et versez un filet d'huile d'olive.

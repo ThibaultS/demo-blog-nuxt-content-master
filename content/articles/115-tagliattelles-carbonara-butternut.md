@@ -22,7 +22,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 c.à.s d'huile d'olive
  - 50 g de courge buttenut
  - 1 petite gousse d'ail écrasée
@@ -34,7 +34,7 @@ published : 1
  - 1 c.à.c de beurre salé
  - Sel et poivre noir
 
-## Recette détaillée
+## La recette détaillée
 Préchauffez le four à 200°C. Dans un plat allant au four, mélangez l'huile d'olive, la courge, l'ail, le miel, sel et poivre. Enfournez et faites rôtir pendant 15 minutes. Pendant ce temps, faites cuire votre bacon à la poêle. Si la courge a besoin de plus de temps, remettez au four pendant 5-10 minutes supplémentaires ou jusqu'à ce qu'elle soit tendre.
 
 Transférez la courge et l'ail dans un recipient. Prenez votre mixeur plongeant pour réduire la courge en purée lisse. Assaisonnez avec du sel et du poivre. Hachez grossièrement le bacon, réservez pour garnir.

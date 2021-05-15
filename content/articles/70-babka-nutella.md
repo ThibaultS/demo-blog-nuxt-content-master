@@ -21,7 +21,7 @@ recipeYield : 1 babka
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
 Pour la pâte :
  - 250g de farine T45
  - 12g de levure de boulanger
@@ -35,7 +35,7 @@ Pour la garniture :
  - 180g de Nutella
  - 40g de noisettes concassées
 
-## Recette détaillée
+## La recette détaillée
 Diluez la levure dans le lait tiède et attendez 10 minutes. Pendant ce temps, mélangez le sel, le sucre et la farine dans la cuve d’un robot. Rajoutez l’oeuf, puis le lait avec la levure. Pétrissez à vitesse moyenne pendant une dizaine de minutes. Ajoutez le beurre coupé en cubes jusqu’à ce que la pâte se décolle des parois (comptez une quinzaine de minutes).
 
 Roulez la pâte en boule, laissez la poser dans un saladier huilé et couvrez la d’un torchon. Laissez reposer 1 bonne heure. Étalez la pâte en forme de rectangle de la longueur de votre moule. Recouvrez de Nutella. Parsemez de noisette. Tout en gardant un petit peu de coté.

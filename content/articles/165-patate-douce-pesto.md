@@ -23,7 +23,7 @@ recipeYield: 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 2 patates douces
  - 2 grosses c.à.s de yaourt grec
  - 2 grosses c.à.s de pesto vert maison ou industriel
@@ -31,7 +31,7 @@ published : 1
  - Paprika fumé
  - Sel, poivre
 
-## Recette détaillée
+## La recette détaillée
 Préchauffez le four à 180 °C. Coupez en deux les patates douces dans le sens de la longueur puis disposez-les dans un plat à gratin. Arrosez-les d’un filet d’huile d’olive. Salez et poivrez. Enfournez le tout pour 1 heure de cuisson.
 
 À la sortie du four, servez les patates douces rôties avec le yaourt et le pesto. Parsemez de persil ciselé et saupoudrez un peu de paprika fumé. Salez légèrement et poivrez.

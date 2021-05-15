@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 2 steaks de thon
  - 60g de tomates séchées
  - 60g d’olives
@@ -45,7 +45,7 @@ Pour la sauce à l’avocat :
  - 1 c.à.c de cumin moulu
  - Sel, poivre
 
-## Recette détaillée
+## La recette détaillée
 Faites cuire à l’eau le quinoa et les lentilles vertes le temps indiqué sur les emballages respectifs dans des casseroles séparées. Réservez le quinoa et les lentilles dans des bols pour les faire refroidir. Coupez les tomates séchées en 2. Faites des fines lames de concombre à l’aide d’une mandoline. Coupez 2 tranches de votre citron pour les faire rôtir plus tard. Coupez la féta en cubes.
 
 Préparez la sauce à l’avocat. Coupez l’avocat et écrasez-le. Hachez la coriandre et le basilic. Mettez de côté la moitié du basilic. Pressez le reste du citron pour extraire le jus et ajoutez une cuillère à café. Mélangez les ingrédients pour la sauce dans un bol, dont le jus de citron. Salez, poivrez à convenance.

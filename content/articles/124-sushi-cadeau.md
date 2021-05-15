@@ -24,7 +24,7 @@ calendrier: 1
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 200g de riz japonais ou riz rond
  - 3 cl de vinaigre de riz
  - 1 c.à.c de sucre
@@ -34,7 +34,7 @@ published : 1
  - 2 c.à.s de wasabi (ou de gingembre)
  - 1 petit bol de sauce soja
 
-## Recette détaillée
+## La recette détaillée
 Tout d’abord préparez votre riz vinaigré. Pour les moins motivés, vous pouvez l’acheter tout prêt au Japonais.
 
 Faites tremper le riz dans de l’eau froide et mélangez-le avec les mains pour enlever l’amidon et ainsi éviter de rater la cuisson. Changez l’eau et remuez à nouveau le riz. Renouvelez cette opération jusqu’à ce que l’eau soit limpide. Laissez le riz égoutté 1 h dans une passoire. 

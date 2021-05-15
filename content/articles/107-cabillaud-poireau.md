@@ -23,7 +23,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 400g de dos de cabillaud
  - 1 petit oignon
  - 4 poireaux
@@ -33,7 +33,7 @@ published : 1
  - 1 cuillère à soupe d’huile d’olive
  - sel, poivre
 
-## Recette détaillée
+## La recette détaillée
 Épluchez et émincez les oignons. Retirez les extrémités des poireaux et coupez-les en fines lamelles dans le sens de la longueur. Lavez et séchez-les. Faites revenir les oignons puis ajoutez les lamelles de poireau dans le beurre chaud additionné d’1 cuillère à soupe d’huile d’olive. Remuez régulièrement et laissez sur le feu jusqu’à ce que les poireaux soient fondants. N’hésitez pas à ajouter un fond d’eau pour éviter que cela colle.
 
 Découpez le dos de cabillaud en 2. Salez et poivrez les morceaux de poisson. Ajoutez un filet d'huile d'olive sur chaque morceau. Mettez au four à 200 degrés pendant 15 minutes.

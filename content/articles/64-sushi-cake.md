@@ -21,7 +21,7 @@ recipeYield : 1 cake
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
 Pour le riz :
  - 230g de riz à sushi
  - 320ml d'eau
@@ -40,7 +40,7 @@ Pour la garniture :
  - Du sel et du poivre
 
 
-## Recette détaillée
+## La recette détaillée
 Mettez votre riz dans une passoire. Rincez-le tout en le frottant avec vos mains. Il faut que l'eau qui s'en écoule soit bien claire. Laissez reposer pendant 20-30 minutes environ. Mettez le riz et l'eau dans une casserole et portez à ébullition. Ensuite, mettez-la à feu moyen en remuant pendant quelques minutes. Après avoir fait cela, recouvrez la casserole mise à feu doux pendant 15 minutes. Laissez reposer 10 minutes, la casserole toujours recouverte. Chauffez le vinaigre au micro-ondes. Ajoutez le sel et le sucre, puis mélangez pour dissoudre le sucre.
 
 Versez le riz tiède dans un saladier et ajoutez le vinaigre à la préparation. Mélangez avec une cuillère en bois puis laissez refroidir le tout à température ambiante. Et pensez à le recouvrir, pour que le riz ne sèche pas. Coupez le saumon puis le crevettes en dés, mettez-les dans un autre récipient. Ajoutez du sel, du poivre, l'huile d'olive, le wasabi et la ciboulette. Laissez au frais. Coupez 1 avocat et demi en lamelles. Dans un grand emporte-pièce, placez le riz dans le fond en le tassant légèrement. Tartinez ensuite de cheese, plus au moins généreusement selon vos goûts. Disposez le lamelles d’avocats et finissez en ajoutant le mélange de saumon/crevette.

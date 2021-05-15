@@ -23,7 +23,7 @@ recipeYield: 8 rouleaux de printemps
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 8 feuilles de riz
  - 8 crevettes cuites
  - 1 carotte
@@ -42,7 +42,7 @@ Pour la sauce :
  - 1 c.à.s de sucre
  - 1 gousse d'ail
 
-## Recette détaillée
+## La recette détaillée
 Débutez par la cuisson des vermicelles. Remplissez une casserole d’eau et portez à ébullition. Quand l'eau bout, éteignez le feu. Plongez les vermicelles de riz  dans l'eau bouillante et laissez-les tremper 2 min. Egouttez-les et, tout de suite après, plongez-les dans une eau bien froide pour arrêter la cuisson et éviter qu’ils ne collent trop. Laissez-les dans l’eau jusqu’au dernier moment.
 
 Epluchez puis rapez la carotte. Rincez vos radis et coupez de fines rondelles, à la mandoline ou au couteau. Rincez les pousses de soja. Décortiquez les crevettes et essayez de les détendre pour qu’elles soient les plus droites possibles. Lavez la coriandre et la menthe. Conservez les feuilles entières. Concassez les cacahuètes.

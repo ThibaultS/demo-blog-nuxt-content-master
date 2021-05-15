@@ -21,7 +21,7 @@ recipeYield : 4 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1kg de moules
  - 1 oignon jaune
  - 1 échalote
@@ -36,7 +36,7 @@ published : 1
  - Paprika classique ou fumé
  - Sel, poivre
 
-## Recette détaillée
+## La recette détaillée
 Pour les frites :
 Lavez les pommes de terres en frottant bien la peau. Préchauffez le four à 190°C. Coupez les en frites. Recouvrez une plaque de papier sulfurisé et déposez y les frites. Versez un peu d’huile d’olive et saupoudrez de paprika. Mélangez bien avec vos mains. Etalez les bien de manière à ce qu'elles ne se superposent pas (ou le moins possible). Enfournez pour 30 à 40 minutes. Mélangez/retournez les frites 2 fois pendant la cuisson.
 

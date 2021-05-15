@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
 - 250g de pates orzo (aussi appelées risonis)
 - 2 c.à.s d'huile d'olive
 - 2 à 3 oignons nouveaux
@@ -37,7 +37,7 @@ published : 1
 - 2 petite burrata
 - Sel
 
-## Recette détaillée
+## La recette détaillée
 Emincez finement vos oignons et hachez votre ail. Coupez les courgettes en julienne (petit bâtonnet) à l'aide d'une mandoline ou au couteau.
 
 Faites bouillir de l’eau salée et faites cuire vos pâtes le temps indiqué sur le paquet. Réservez une tasse d'eau de cuisson avant d'égoutter.

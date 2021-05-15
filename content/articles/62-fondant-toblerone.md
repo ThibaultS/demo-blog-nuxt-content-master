@@ -21,7 +21,7 @@ recipeYield : 4 parts
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 2 œufs
  - 50g de sucre
  - 40g de farine
@@ -30,7 +30,7 @@ published : 1
  - 100g de beurre
 
 
-## Recette détaillée
+## La recette détaillée
 Faites fondre le beurre, 100g de Toblerone et le chocolat au bain-marie. Mélangez. Fouettez les œufs avec le sucre puis ajoutez la farine. Mélangez les deux préparations pour obtenir un mélange homogène.
 
 Versez la pâte dans 4 ramequins ou moules à muffins beurrés et farinés. Puis, ajoutez au centre de chaque ramequin un morceaux entier de Toblerone. Faites cuire dans un four préchauffé à 200°C pendant 10 minutes. Démoulez les fondants dès la sortie du four, et dégustez les tout de suite pour avoir un coeur bien coulant.

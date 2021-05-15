@@ -21,7 +21,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 2 oeufs
  - 200 g de farine T45
  - 1 càs d’huile d’olive
@@ -30,7 +30,7 @@ published : 1
  - 1 barquette de lardon
  - 1 chèvre frais type Petit Billy
 
-## Recette détaillée
+## La recette détaillée
 Pour la pâte :
 Mettez dans dans un récipient la farine, le sel, les oeufs et l’huile. Pétrissez avec les mains ou un robot patissier. Vous obtiendrez une belle boule de pâte. Si elle est un peu trop collante, ajoutez un peu de farine. Si elle est pas assez souple, ajoutez un peu d'eau. Enroulez la pâte dans un film alimentaire et mettez la au frigo pendant 30 minutes.
 

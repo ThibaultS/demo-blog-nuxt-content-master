@@ -20,7 +20,7 @@ recipeYield : 2 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 2 gros steaks hachés dont 1 de porc et 1 de poulet à demander chez le boucher
  - 1 c.à.s de sucre + 1 pour la sauce
  - 1,5 c.à.s de fécule de maïs
@@ -39,7 +39,7 @@ published : 1
  - Ciboulette
  - 1 cuillère à soupe de vinaigre de riz
 
-## Recette détaillée
+## La recette détaillée
 Dans un récipient, mettez-y la viande et ajoutez le sucre, la fécule de maïs, l’échalote ciselée, la gousse d’ail hachée, la levure chimique, la sauce nuoc mam et l’huile d’olive avec un peu de sel et de poivre. Mélangez le tout avec vos mains et formez des boulettes. Disposez les sur une plaque recouverte de papier sulfurisé et ajoutez des graines de sésame par dessus. Enfournez 30 minutes à 180 degrés. 
 
 Réhydratez les vermicelles avec de l’eau chaude pendant 5 minutes puis égouttez-les. 

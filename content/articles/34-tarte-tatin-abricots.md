@@ -20,7 +20,7 @@ recipeYield : 1 tarte
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  -  200g de farine
  -  90g de beurre froid coupé en dés
  -  1 c.à.s de sucre 
@@ -30,7 +30,7 @@ published : 1
  -  60g de sucre de canne
  -  50g de beurre
 
-## Recette détaillée
+## La recette détaillée
 Préparez la pâte brisée quelques heures à l’avance.
 Dans un saladier versez la farine, le sucre et le sel. Mettez au centre le beurre froid et travaillez rapidement du bouts des doigts de manière à enrober le beurre de farine. On obtient une sorte de sablage.
 Ajoutez l’eau et travaillez à nouveau rapidement de manière à ce que la pâte devienne homogène et lisse. Si vous avez un robot pâtissier, c’est plus rapide.

@@ -22,14 +22,14 @@ recipeYield : 40-50 mini meringues
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 3 blancs d’oeuf
  - 75g de sucre semoule
  - 75g de sucre glace
  - Colorant alimentaire
  - Perles alimentaires
 
-## Recette détaillée
+## La recette détaillée
 Préchauffez votre four à 90°C.
 Montez les blancs en neige avec le sucre semoule pour qu'ils soient fermes puis incorporez délicatement le sucre glace à l’aide d’une Maryse.
 

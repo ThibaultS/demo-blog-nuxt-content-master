@@ -23,7 +23,7 @@ recipeYield: 1 tartare
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 steak de thon frais 
  - 1 pot d’œuf de lompe noir 
  - 1 jaune d’œuf 
@@ -36,7 +36,7 @@ published : 1
  - Huile d’olive 
  - Sel, poivre 
 
-## Recette détaillée
+## La recette détaillée
 Dans un premier temps, préparez votre salade. Épluchez le concombre et coupez la moitié en tout petit cube, ainsi que les tomates cerises. Puis, émincez votre steak de thon. Assaisonnez avec le jus et les graines de passion, la sauce soja salé, un filet d’huile d’olive, du sel et du poivre. 
 
 Dans une assiette, disposez une emporte-pièce au centre. Versez votre préparation à base de thon et tassez. Disposez par dessus les œufs de lompe afin de recouvrir la surface en pensant bien à laisser un trou au milieu. Dans ce trou, disposez votre jaune d’œuf. 

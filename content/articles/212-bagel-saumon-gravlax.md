@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 1 pavé de saumon de 250g sans la peau
  - 75g de gros sel non raffiné
  - 50g de sucre blond
@@ -37,7 +37,7 @@ published : 1
  - 1 pot de saint moret
  - Graines de sésame blanches et noires
 
-## Recette détaillée
+## La recette détaillée
 Quelques explications concernant la préparation du saumon gravlax. Vous devez le préparer au moins 48h à l’avance. L’épaisseur du morceau choisi mais également le gout de chacun aura une incidence sur le temps de préparation. Un morceau fin sera plus vite prêt, et plus vous laisserez reposer le poisson dans le sel, plus il se raffermira. Donc, après avoir fait un essai, si vous le préférez ferme ou à l’inverse plus moelleux vous pourrez adapter le temps de préparation, toujours en prenant compte son épaisseur.
 
 Prévoyez un plat de la taille de votre morceau de poisson. Hachez la moitié du bouquet d’aneth et mélangez dans un bol avec le gros sel, le sucre , les zestes et les baies roses. Déposez une couche du mélange au fond du plat, puis disposez le saumon. Recouvrez avec le reste du mélange et filmez au contact. Mettez au frigo pour 24 heures. Au bout de 12 heures, enlevez-le jus rendu par le saumon et remettez au frigo. Au bout de 24h enlevez le sel et rincez le saumon plusieurs fois abondamment. Séchez-le avec un torchon propre et replacez-le dans le plat lavé et séché. le saumon a changé de couleur et s’est raffermi. Hachez l’autre moitié du bouquet d’aneth (gardez quelques brins pour la décoration), et recouvrez le saumon. Filmez de nouveau au contact et placez au frais pour 24 heures.

@@ -23,12 +23,12 @@ recipeYield: 4 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 12 huîtres
  - 1 branche d’aneth
  - 6 c.à.s de sauce ponzu
  - Poivre du moulin
  - Gros sel
 
-## Recette détaillée
+## La recette détaillée
 Ouvrez les huîtres en prenant soin de laisser la chair de la coquille attachée sur l’huître. Jetez la première eau. Assaisonnez d’un tour de moulin à poivre. Disposez quelques feuilles d’aneth. Terminez en versant sur chaque huître une demi cuillère à soupe de sauce ponzu. Disposez les huîtres sur un lit de gros sel.

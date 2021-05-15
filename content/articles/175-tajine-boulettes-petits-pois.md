@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
 - 300g de boeuf haché
 - 150g de petits pois (des surgelés pour ma part)
 - 250g de pommes de terre
@@ -40,7 +40,7 @@ published : 1
 - Sel, poivre
 - Huile d’olive
 
-## Recette détaillée
+## La recette détaillée
 Commencez par préparer vos pommes de terre. Epluchez-les et coupez-les en petits cubes de 2 cm de côté.
 
 Préparez les boulettes de viande. Hachez 10 feuilles de persil. Dans un saladier, mettez la viande hachée et le persil. Salez, poivrez. Ajoutez le paprika, un peu d’huile d’olive et la purée de tomate. Huilez vos mains et formez les boulettes. Réservez dans un plat.

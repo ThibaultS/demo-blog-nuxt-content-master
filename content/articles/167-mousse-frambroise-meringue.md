@@ -23,7 +23,7 @@ recipeYield: 4 personnes
 published : 1
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 225g de framboises surgelées
  - 2,5 feuilles de gélatine
  - 2-3 blancs d’œuf (environ 75g)
@@ -31,7 +31,7 @@ published : 1
  - 190g de sucre
  - 125g de crème liquide entière
 
-## Recette détaillée
+## La recette détaillée
 Réhydratez la gélatine dans dans un bol d’eau.
 
 Dans une casserole, faites chauffer les framboises avec 1 c.à.c d’eau. Dès que vous avez les premières ébullitions, écrasez les framboises avec une spatule pour en faire une purée. Dans un chinois, tamisez les framboises pour enlever les graines. Ajoutez la gélatine préalablement essorée, mélangez et laissez refroidir.

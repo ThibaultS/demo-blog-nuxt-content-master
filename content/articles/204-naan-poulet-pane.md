@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
  - 2 naans
  - 10 tomates cerises
  - 1 bocal de gros cornichons en tranche
@@ -47,7 +47,7 @@ Pour la sauce blanche :
  - 1 gousse d’ail
  - Sel, poivre
 
-## Recette détaillée
+## La recette détaillée
 Préparez la sauce blanche. Mélangez dans un saladier le yaourt, les herbes congelées et la gousse d’ail écrasée. Salez, poivrez à convenance. Réservez au frais.
 Coupez vos tomates cerises en deux. Egrainez la grenade. Emincez l’oignon nouveau.
 

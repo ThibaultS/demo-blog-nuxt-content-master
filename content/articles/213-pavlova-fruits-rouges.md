@@ -24,7 +24,7 @@ published : 1
 
 ---
 
-## Ingrédients
+## Tous les ingrédients
 Pour la meringue :
  - 3-4 blancs d'oeufs
  - 1 pincée de sel
@@ -50,7 +50,7 @@ Pour la décoration :
  - 10 mûres
  - Feuilles d’or
 
-## Recette détaillée
+## La recette détaillée
 Commencez par la meringue française. Préchauffer votre four à 90°C. Faites monter les blancs d'œufs avec le sel et le jus de citron. Ajoutez le sucre en trois fois, jusqu'à obtenir une meringue ferme. Tamisez le sucre glace et incorporez délicatement à la maryse afin de ne pas casser les blancs montés. Mettez la meringue dans un poche à douille avec une douille lisse de 1cm. Dessinez un cercle de 18cm de diamètre sur du papier sulfurisé et déposez-le sur une plaque allant au four. Pochez l'intérieur du cercle en partant du milieu. Sur les côtés, réalisez des boules de meringues de 2cm de large tout autour du cercle. Enfournez pendant 1h30 à 90°C. A la fin de la cuisson, éteignez le four et entrouverez la porte. Laissez repooser la meringue une heure à l'intérieur du four éteint.
 
 Pendant ce temps préparez le confit de fruits rouges. Dans un casserole, ajoutez les fruits congelés et zestez le citron. Faites chauffer à feu moyen jusqu'à obtenir une purée. N'hésitez pas à écraser les fruits. Ajoutez le cassonade et l'agar agar et mélangez pendant 1 min. Réservez dans un bol, filmez au contact et mettez au frigo pendant 2h.
