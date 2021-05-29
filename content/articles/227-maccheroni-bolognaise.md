@@ -37,7 +37,7 @@ published : 1
  - 1 petit bol de parmesan râpé (60g environ)
  - 1 c.à.s de crème fraîche épaisse
  - Huile d'olive
-S - el et poivre
+ - Sel et poivre
 
 ## La recette détaillée
 Commencez par éplucher les échalotes, puis, émincez-les finement. Faites en de même avec la carotte et le céleri. Enfin, lavez et coupez le basilic finement. Dans une grande casserole, faites revenir la carotte, le céleri et l'échalote dans un filet d'huile d'olive. Laissez cuire 5 minutes à feu doux, sans oublier de remuer. Ajoutez la viande et faites la revenir. Versez le vin blanc et mélangez jusqu'à ce qu'il réduise. Il doit s'évaporer.
