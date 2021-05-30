@@ -25,7 +25,7 @@ published : 1
 ---
 
 ## Tous les ingrédients
-Pour la pâte sablée breton :
+### Pour la pâte sablée breton :
  - 200g de farine
  - 150g de sucre
  - 3 jaunes d’oeufs
@@ -33,13 +33,13 @@ Pour la pâte sablée breton :
  - 1 sachet de levure chimique (11 g)
  - 1/2 c.à.c de sel
 
-Pour la crème mascarpone :
+### Pour la crème mascarpone :
  - 250g de mascarpone
  - 40g de sucre glace
  - 1 gousse de vanille ou 1 c.à.c d’extrait de vanille
  - 20 cl de crème liquide entière très froide
 
-Pour les fruits de garniture :
+### Pour les fruits de garniture :
  - 1 mangue
  - 2 fruits du dragon
  - Le zeste d’1 citron

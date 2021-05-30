@@ -37,7 +37,7 @@ published : 1
  - Sel, poivre
  - Huile d’olive
 
-Pour la sauce à l’avocat :
+### Pour la sauce à l’avocat :
  - 1 avocat
  - 50g de yaourt grec
  - Quelques branches de coriandre

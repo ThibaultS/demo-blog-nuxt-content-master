@@ -25,11 +25,11 @@ published : 1
 ---
 
 ## Tous les ingrédients
-Pour le tangzhong :
+### Pour le tangzhong :
  - 20g de farine type 45
  - 100g d'eau
 
-Pour la brioche :
+### Pour la brioche :
  - 290g de farine spéciale brioche
  - 30g de sucre blanc
  - 6g de sel

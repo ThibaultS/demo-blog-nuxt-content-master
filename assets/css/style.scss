@@ -657,9 +657,11 @@ article {
         h3 {
             color: #F73A64;
         }
-        p {
+        p.lead  {
             color: #CBB1A4;
-            margin-bottom: 0; 
+            margin-bottom: 0;
+            font-size:1.125rem;
+            font-weight: 400;
         }
         .infos-card {
             color: #75513e;

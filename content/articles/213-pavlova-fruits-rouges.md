@@ -25,25 +25,25 @@ published : 1
 ---
 
 ## Tous les ingrédients
-Pour la meringue :
+### Pour la meringue :
  - 3-4 blancs d'oeufs
  - 1 pincée de sel
  - 100h de sucre blanc
  - 100g de sucre glace
 
-Pour le confit de fruits rouges :
+### Pour le confit de fruits rouges :
  - 100g de framboises congelés
  - 100g de fraises congelés
  - 30g de cassonade
  - 2g d'agar agar
 
-Pour la chantilly :
+### Pour la chantilly :
  - 95g de mascarpone
  - 185g de crème liquide 30%
  - 50g de sucre blanc
  - 1 à 2 c.à.s de pâtes de vanille
 
-Pour la décoration :
+### Pour la décoration :
  - 1 citron vert
  - 15 fraises
  - 15 framboises

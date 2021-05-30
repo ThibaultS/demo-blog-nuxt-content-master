@@ -39,9 +39,6 @@
         <b-row class="mb-4">
           <CategoriesLinks />
         </b-row>
-        <b-row class="mb-4">
-          <CategoryPush />
-        </b-row>
         <b-row>
           <b-col>
             <h2 class="subtitle-home mb-2">Mes dernières recettes publiées</h2>
@@ -99,6 +96,9 @@
               </NuxtLink>
             </b-card>
           </b-col>
+        </b-row>
+        <b-row class="mb-2">
+          <CategoryPush />
         </b-row>
         <b-row>
           <b-col>

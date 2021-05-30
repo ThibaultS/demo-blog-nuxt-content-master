@@ -137,8 +137,8 @@
         <div class="mb-3 rebound-block">
           <h2>Cela pourrait vous intéresser</h2>
           <p>
-            Accédez aux catégories en lien avec cette recette pour trouver de
-            nouvelles idées :
+            Mes recettes sont organisés par catégorie. Retrouvez les catégories
+            en lien avec cette recette.
           </p>
           <div>
             <a
@@ -249,11 +249,11 @@
               Asperges
             </a>
           </div>
-          <!-- <div class="last-post mt-4">
-            <h3>Ma dernière recette</h3>
+          <div class="last-post mt-4">
+            <h3>Ma dernière recette publiée</h3>
             <p>
               Chaque semaine, je publie 4 nouvelles recettes. Découvrez la
-              dernière recette publiée sur le site :
+              dernière recette publiée sur le site.
             </p>
             <b-row id="posts" class="row-cols-1">
               <b-col class="mb-3">
@@ -305,7 +305,7 @@
                 </b-card>
               </b-col>
             </b-row>
-          </div> -->
+          </div>
         </div>
       </div>
     </div>
@@ -315,7 +315,7 @@
 export default {
   async asyncData({ $content, params }) {
     const article = await $content('articles', params.slug).fetch()
-    const last = await $content('articles').limit(1).fetch()
+    const [last] = await $content('articles').sortBy('id', 'desc').fetch()
     return {
       article,
       last

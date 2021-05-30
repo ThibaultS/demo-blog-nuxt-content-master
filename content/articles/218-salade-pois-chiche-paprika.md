@@ -35,7 +35,7 @@ published : 1
  - 1 avocat
  - 1 petite boite de maïs
 
-Pour la sauce :
+### Pour la sauce :
  - 1 grosse c.à.s yaourt grec
  - 1 c.à.s d’eau chaude
  - 1 c.à.c de moutarde
