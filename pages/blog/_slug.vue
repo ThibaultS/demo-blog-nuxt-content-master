@@ -140,112 +140,172 @@
             Accédez aux catégories en lien avec cette recette pour trouver de
             nouvelles idées :
           </p>
-          <a
-            v-if="article.time < 31"
-            class="link mr-2"
-            href="/categories/trente-minutes-chrono"
-          >
-            Recettes en moins de 30 min
-          </a>
-          <a
-            v-if="article.theme == 'Pâtes'"
-            class="link mr-2"
-            href="/categories/pates"
-          >
-            Pâtes
-          </a>
-          <a
-            v-if="article.theme == 'Tartines'"
-            class="link mr-2"
-            href="/categories/burgers-et-tartines"
-          >
-            Tartines
-          </a>
-          <a
-            v-if="article.theme == 'Burgers'"
-            class="link mr-2"
-            href="/categories/burgers-et-tartines"
-          >
-            Burgers
-          </a>
-          <a
-            v-if="article.main_ingredient == 'Chocolat'"
-            class="link mr-2"
-            href="/categories/chocolat"
-          >
-            Desserts au chocolat
-          </a>
-          <a
-            v-if="article.theme == 'Gâteaux'"
-            class="link mr-2"
-            href="/categories/gateaux"
-          >
-            Gâteaux
-          </a>
-          <a
-            v-if="article.veggie"
-            class="link mr-2"
-            href="/categories/vegetarien"
-          >
-            Végératien
-          </a>
-          <a
-            v-if="
-              article.main_ingredient == 'Saumon' ||
-              article.main_ingredient == 'Thon' ||
-              article.main_ingredient == 'Daurade' ||
-              article.main_ingredient == 'Lotte' ||
-              article.main_ingredient == 'Crevette' ||
-              article.main_ingredient == 'Bar' ||
-              article.main_ingredient == 'Cabillaud' ||
-              article.main_ingredient == 'Saint-Jacques' ||
-              article.main_ingredient == 'Huître' ||
-              article.main_ingredient == 'Crabe' ||
-              article.main_ingredient == 'Truite' ||
-              article.main_ingredient == 'Coques' ||
-              article.main_ingredient == 'Palourde' ||
-              article.main_ingredient == 'Moule' ||
-              article.main_ingredient == 'Calamar'
-            "
-            class="link mr-2"
-            href="/categories/poissons-et-crustaces"
-          >
-            Poissons et crustacés
-          </a>
-          <a
-            v-if="
-              article.main_ingredient == 'Boeuf' ||
-              article.main_ingredient == 'Poulet' ||
-              article.main_ingredient == 'Dinde' ||
-              article.main_ingredient == 'Veau' ||
-              article.main_ingredient == 'Canard' ||
-              article.main_ingredient == 'Chapon' ||
-              article.main_ingredient == 'Agneau' ||
-              article.main_ingredient == 'Lapin' ||
-              article.main_ingredient == 'Boudin' ||
-              article.main_ingredient == 'Porc'
-            "
-            class="link mr-2"
-            href="/categories/viandes"
-          >
-            Viandes
-          </a>
-          <a
-            v-if="article.theme == 'Salades'"
-            class="link mr-2"
-            href="/categories/salades"
-          >
-            Salades
-          </a>
-          <a
-            v-if="
-              article.main_ingredient == 'Asperge' || article.with == 'Asperge'
-            "
-            class="link mr-2"
-            href="/categories/asperge"
-          >
-            Asperges
-          </a>
+          <div>
+            <a
+              v-if="article.time < 31"
+              class="link mr-2"
+              href="/categories/trente-minutes-chrono"
+            >
+              Recettes en moins de 30 min
+            </a>
+            <a
+              v-if="article.theme == 'Pâtes'"
+              class="link mr-2"
+              href="/categories/pates"
+            >
+              Pâtes
+            </a>
+            <a
+              v-if="article.theme == 'Tartines'"
+              class="link mr-2"
+              href="/categories/burgers-et-tartines"
+            >
+              Tartines
+            </a>
+            <a
+              v-if="article.theme == 'Burgers'"
+              class="link mr-2"
+              href="/categories/burgers-et-tartines"
+            >
+              Burgers
+            </a>
+            <a
+              v-if="article.main_ingredient == 'Chocolat'"
+              class="link mr-2"
+              href="/categories/chocolat"
+            >
+              Desserts au chocolat
+            </a>
+            <a
+              v-if="article.theme == 'Gâteaux'"
+              class="link mr-2"
+              href="/categories/gateaux"
+            >
+              Gâteaux
+            </a>
+            <a
+              v-if="article.veggie"
+              class="link mr-2"
+              href="/categories/vegetarien"
+            >
+              Végératien
+            </a>
+            <a
+              v-if="
+                article.main_ingredient == 'Saumon' ||
+                article.main_ingredient == 'Thon' ||
+                article.main_ingredient == 'Daurade' ||
+                article.main_ingredient == 'Lotte' ||
+                article.main_ingredient == 'Crevette' ||
+                article.main_ingredient == 'Bar' ||
+                article.main_ingredient == 'Cabillaud' ||
+                article.main_ingredient == 'Saint-Jacques' ||
+                article.main_ingredient == 'Huître' ||
+                article.main_ingredient == 'Crabe' ||
+                article.main_ingredient == 'Truite' ||
+                article.main_ingredient == 'Coques' ||
+                article.main_ingredient == 'Palourde' ||
+                article.main_ingredient == 'Moule' ||
+                article.main_ingredient == 'Calamar'
+              "
+              class="link mr-2"
+              href="/categories/poissons-et-crustaces"
+            >
+              Poissons et crustacés
+            </a>
+            <a
+              v-if="
+                article.main_ingredient == 'Boeuf' ||
+                article.main_ingredient == 'Poulet' ||
+                article.main_ingredient == 'Dinde' ||
+                article.main_ingredient == 'Veau' ||
+                article.main_ingredient == 'Canard' ||
+                article.main_ingredient == 'Chapon' ||
+                article.main_ingredient == 'Agneau' ||
+                article.main_ingredient == 'Lapin' ||
+                article.main_ingredient == 'Boudin' ||
+                article.main_ingredient == 'Porc'
+              "
+              class="link mr-2"
+              href="/categories/viandes"
+            >
+              Viandes
+            </a>
+            <a
+              v-if="article.theme == 'Salades'"
+              class="link mr-2"
+              href="/categories/salades"
+            >
+              Salades
+            </a>
+            <a
+              v-if="
+                article.main_ingredient == 'Asperge' ||
+                article.with == 'Asperge'
+              "
+              class="link mr-2"
+              href="/categories/asperge"
+            >
+              Asperges
+            </a>
+          </div>
+          <!-- <div class="last-post mt-4">
+            <h3>Ma dernière recette</h3>
+            <p>
+              Chaque semaine, je publie 4 nouvelles recettes. Découvrez la
+              dernière recette publiée sur le site :
+            </p>
+            <b-row id="posts" class="row-cols-1">
+              <b-col class="mb-3">
+                <b-card class="post horizontal" no-body>
+                  <NuxtLink
+                    :to="{ name: 'blog-slug', params: { slug: last.slug } }"
+                  >
+                    <b-row>
+                      <b-col md="5">
+                        <div class="img-container">
+                          <b-card-img-lazy
+                            :src="last.thumbnail"
+                            left
+                            blank-color="#d0b8ac"
+                            loading="lazy"
+                            alt=""
+                          >
+                          </b-card-img-lazy>
+                        </div>
+                      </b-col>
+                      <b-col md="7">
+                        <b-card-body>
+                          <b-card-title title-tag="h3">
+                            {{ last.title }}
+                          </b-card-title>
+                          <p class="lead mb-3">{{ last.description }}</p>
+                          <div class="infos-card">
+                            <div v-if="last.veggie">
+                              <i class="fas fa-seedling"></i>
+                              Recette végétarienne
+                            </div>
+                            <div v-if="last.country">
+                              <i class="fas fa-globe-americas"></i>
+                              {{ last.country }}
+                            </div>
+                            <div v-if="last.difficulty">
+                              <i class="fas fa-check-double"></i>
+                              {{ last.difficulty }}
+                            </div>
+                            <div v-if="article.time">
+                              <i class="fas fa-stopwatch"></i>
+                              {{ last.time }} min
+                            </div>
+                          </div>
+                        </b-card-body>
+                      </b-col>
+                    </b-row>
+                  </NuxtLink>
+                </b-card>
+              </b-col>
+            </b-row>
+          </div> -->
         </div>
       </div>
     </div>
@@ -255,8 +315,10 @@
 export default {
   async asyncData({ $content, params }) {
     const article = await $content('articles', params.slug).fetch()
+    const last = await $content('articles').limit(1).fetch()
     return {
-      article
+      article,
+      last
     }
   },
   methods: {
