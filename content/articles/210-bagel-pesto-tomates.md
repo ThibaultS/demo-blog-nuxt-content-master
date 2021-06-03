@@ -18,7 +18,7 @@ country :
 difficulty : Facile
 with : 
 time : 15
-event : Saint-Valentin
+event :
 recipeYield : 1 à 2 personnes
 published : 1
 
