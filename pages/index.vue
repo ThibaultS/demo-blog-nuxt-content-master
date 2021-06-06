@@ -149,7 +149,7 @@ export default {
   },
   data() {
     return {
-      title: 'Mes dernières recettes'
+      title: 'Les dernières recettes de Josie'
     }
   },
   head() {
@@ -160,7 +160,7 @@ export default {
           hid: 'description',
           name: 'description',
           content:
-            "Retrouvez sur mon site toutes les recettes que j'ai publiées sur mon compte instagram @josiesrecipes"
+            "Retrouvez sur mon site toutes les recettes que j'ai publiées sur mon compte Instagram @josiesrecipes"
         },
         {
           hid: 'og:image',
