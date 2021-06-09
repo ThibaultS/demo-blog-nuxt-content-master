@@ -12,7 +12,7 @@ main_ingredient : Petit pois
 theme : 
 sweety_salty : 
 veggie : 1
-country :
+country : Italie
 difficulty : Moyen
 with : Asperge
 time : 40
