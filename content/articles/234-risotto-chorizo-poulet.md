@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CP3bbpuJ0dq/
 alt: 
 date : '2021-06-08'
 inspiration : 
-description: "Connaissez-vous le chorizotto ? Bon ok je viens de l'inventer mais franchement ce risotto au chorizo est délicieux !"
+description: "Connaissez-vous le chorizotto ? Bon ok je viens de l'inventer mais franchement ce risotto au chorizo et au poulet est délicieux !"
 main_ingredient : Poulet
 theme : Pâtes
 tag : 
