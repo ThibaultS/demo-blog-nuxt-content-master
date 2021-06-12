@@ -16,7 +16,7 @@ sweety_salty : 1
 veggie : 
 country : Italie
 difficulty : Moyen
-with : 
+with : Chorizo
 time : 45
 event :
 recipeYield : 4 personnes
