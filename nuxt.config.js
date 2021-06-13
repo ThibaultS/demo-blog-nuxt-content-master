@@ -18,7 +18,11 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { property: 'og:site_name	', content: "Josie's Recipes" },
       { property: 'og:locale	', content: 'fr-FR' },
-      { property: 'twitter:card	', content: 'summary_large_image' }
+      { property: 'twitter:card	', content: 'summary_large_image' },
+      {
+        property: 'p:domain_verify',
+        content: 'f54ff9ae5eafdb341025ce124a4198c7'
+      }
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }],
     script: [
