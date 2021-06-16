@@ -15,6 +15,13 @@
     >
       Fb
     </a>
+    <a
+      href="https://www.pinterest.fr/j0siesrecipes/"
+      target="_blank"
+      class="mr-1 ml-3 mt-1 self-center text-white font-bold hover:underline insta-link"
+    >
+      Pin
+    </a>
   </b-navbar-nav>
 </template>
 <script>

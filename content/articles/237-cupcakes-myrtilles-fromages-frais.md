@@ -15,7 +15,7 @@ tag :
 sweety_salty : 
 veggie : 
 country : 
-difficulty : Facile
+difficulty : Moyen
 with : 
 time : 50
 event :
