@@ -13,7 +13,7 @@ main_ingredient : Aubergine
 theme : Cakes salés
 tag : 
 sweety_salty : 
-veggie : 
+veggie : 1
 country : 
 difficulty : Moyen
 with : 
