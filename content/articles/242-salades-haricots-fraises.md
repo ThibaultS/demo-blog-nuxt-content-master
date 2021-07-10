@@ -25,23 +25,23 @@ published : 1
 ---
 
 ## Tous les ingrédients
-80g de fraise
-200g de haricots verts frais
-5 tranches de radis blue meat
-3 petits radis ronds colorés : 1 blanc, 1 rouge et 1 violet
-2 c.à.s d’huile d’olive
-75g de ricotta
-1 demi citron
-10-15 feuilles de basilic/persil
-Fleurs comestibles
-Sel et poivre
+ - 80g de fraise
+ - 200g de haricots verts frais
+ - 5 tranches de radis blue meat
+ - 3 petits radis ronds colorés : 1 blanc, 1 rouge et 1 violet
+ - 2 c.à.s d’huile d’olive
+ - 75g de ricotta
+ - 1 demi citron
+ - 10-15 feuilles de basilic/persil
+ - Fleurs comestibles
+ - Sel et poivre
 
 ### Pour la vinaigrette :
-1 c.à.c de moutarde
-1 demi c.à.c de miel
-1 c.à.s de vinaigre balsamique
-2 c.à.s d’huile d’olive
-Un peu d’eau chaude pour lier si besoin
+ - 1 c.à.c de moutarde
+ - 1 demi c.à.c de miel
+ - 1 c.à.s de vinaigre balsamique
+ - 2 c.à.s d’huile d’olive
+ - Un peu d’eau chaude pour lier si besoin
 
 ## La recette détaillée
 Rincez les fraises et les haricots. Faites bouillir de l’eau salée dans un casserole. Équeutez les haricots verts. Faites-les cuire dans la casserole d’eau pendant environ 4 minutes. Avant d’égoutter, goûtez pour vérifier la cuisson, plus ou moins croquant selon vos goûts.

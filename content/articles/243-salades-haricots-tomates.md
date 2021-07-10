@@ -25,13 +25,13 @@ published : 1
 ---
 
 ## Tous les ingrédients
-200g d’haricots frais
-1/3 d’une grenade
-10 olives dénoyautées
-10 tomates cerises
-1 gros oignon nouveau
-Des copeaux de parmesan
-2 c.à.s d'huile d'olive
+ - 200g d’haricots frais
+ - 1/3 d’une grenade
+ - 10 olives dénoyautées
+ - 10 tomates cerises
+ - 1 gros oignon nouveau
+ - Des copeaux de parmesan
+ - 2 c.à.s d'huile d'olive
 
 ### Pour la vinaigrette :
 1 c.à.c de moutarde
