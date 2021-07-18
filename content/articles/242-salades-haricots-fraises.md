@@ -7,7 +7,7 @@ bkg :
 url: https://www.instagram.com/p/CQglH7LHcJI/
 alt: 
 date : '2021-06-24'
-inspiration : "@keili_paris"
+inspiration : https://www.instagram.com/keili_paris/
 description: "Il y a tellement de saveurs dans cette recette sucrée-salée !"
 main_ingredient : Haricot
 theme : Salades

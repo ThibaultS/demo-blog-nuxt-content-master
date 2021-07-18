@@ -7,8 +7,8 @@ bkg :
 url: https://www.instagram.com/p/CQ_cWmTJBgk/
 alt: 
 date : '2021-07-07'
-inspiration : 
-description: "Uvec cette tarte, vous êtes sûr d'impressioner vos convives."
+inspiration : https://www.instagram.com/stephatable/
+description: "Avec cette tarte, vous êtes sûr d'impressioner vos convives."
 main_ingredient : Asperge
 theme : Tartes salées et pizzas
 tag : 
