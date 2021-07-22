@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CRMd6RtpNfa/
 alt: 
 date : '2021-07-11'
 inspiration : https://www.instagram.com/lespapillesdelouise_lmpp4/
-description: "Avec de bons abricots que j’ai trouvé au marché, j’ai tenté cette recette de soupe d’abricot !"
+description: "Avec de bons abricots que j’ai trouvé au marché, j’ai tenté cette recette de soupe d’abricots !"
 main_ingredient : Abricot
 theme : Soupes et veloutés
 tag : 
