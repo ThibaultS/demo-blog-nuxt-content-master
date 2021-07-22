@@ -19,13 +19,13 @@ difficulty : Facile
 with : 
 time : 35
 event : 
-recipeYield : 2 personnes
+recipeYield : 4 personnes
 published : 1
 
 ---
 
 ## Tous les ingrédients
- - 1 gros filet de bar
+ - 4 filets de bar
  - 1 petit céleri rave
  - 4 pommes de terre
  - 10cl de lait de coco
