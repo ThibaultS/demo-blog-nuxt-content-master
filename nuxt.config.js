@@ -20,7 +20,7 @@ export default {
       { property: 'og:locale	', content: 'fr-FR' },
       { property: 'twitter:card	', content: 'summary_large_image' },
       {
-        property: 'p:domain_verify',
+        name: 'p:domain_verify',
         content: 'f54ff9ae5eafdb341025ce124a4198c7'
       }
     ],
