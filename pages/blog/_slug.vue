@@ -100,7 +100,7 @@
               <i class="fas fa-seedling"></i>
               <a href="/categories/vegetarien" class="link">Végératien</a>
             </div>
-            <div v-if="article.sweety_salty">Recette sucrée salée</div>
+            <div v-if="article.sweety_salty">Recette sucrée-salée</div>
             <div v-if="article.country">
               <i class="fas fa-globe-americas"></i>
               Origine : {{ article.country }}
