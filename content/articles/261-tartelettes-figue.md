@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CSCb9jaM0XM/
 alt: 
 date : '2021-08-01'
 inspiration : 
-description: "Une envie de figue ? Essayez ces tartelettes avec une base de dacquoise et une compotée de figue."
+description: "Une envie de figues ? Essayez ces tartelettes avec une base de dacquoise et une compotée de figue."
 main_ingredient : Figue
 theme : Tartes sucrées
 tag : 

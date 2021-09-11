@@ -1,6 +1,6 @@
 ---
 id: 260
-title: Salade de pêche et magret de canard
+title: Salade de pêches et magret de canard
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1627829017/Recipes/20210731_salade_peches_magret.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1627829017/Recipes/20210731_salade_peches_magret.jpg
 bkg : 
