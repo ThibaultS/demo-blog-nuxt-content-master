@@ -44,6 +44,7 @@ Pour la crème pâtissière :
  - 40g de maïzena
  - 40g de beurre
 
+Pour le topping : 
  - 6 abricots frais (ou en conserve si ce n'est pas la saison)
  - Confiture d’abricot
 
