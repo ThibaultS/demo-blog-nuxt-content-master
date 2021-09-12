@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="category-page">
     <div>
       <b-navbar
         type="dark"
@@ -15,36 +15,30 @@
             />
           </nuxt-link>
         </b-navbar-brand>
-        <b-nav-text class="title-home"><h1>Toutes mes recettes</h1></b-nav-text>
+        <!-- Right aligned nav items -->
         <NavItems />
       </b-navbar>
       <b-container fluid="lg" class="animate animate3 slideUp">
-        <b-row class="mb-2">
-          <b-col>
-            <p class="lead lead-home mt-4">
-              Bienvenue sur mon site ! Chaque semaine, je publie 3 recettes sur
-              une thématique et je conclue la semaine en beauté avec un dessert.
-              Venez me suivre sur
+        <b-row>
+          <b-col class="intro mt-5 mb-5">
+            <h1>Ma sélection de recettes pour le mois de septembre 2021</h1>
+            <p class="lead">
+              Je vous ai concocté une sélection de 10 de mes recettes pour le
+              mois de septembre avec des fruits et légumes de saison : de la
+              figue, de l'aubergine, de la tomate, du brocoli, du potimarron, du
+              poivron, du haricot vert,... Pour découvrir mes nouvelles
+              recettes, suivez-moi sur
               <a
                 href="https://www.instagram.com/josiesrecipes/"
                 target="_blank"
               >
                 Instagram
               </a>
-              pour les découvrir en avant première.
+              et
+              <a target="_blank" href="https://www.facebook.com/josiesrecipes">
+                Facebook.
+              </a>
             </p>
-            <AppSearchInputHome />
-          </b-col>
-        </b-row>
-        <b-row class="mb-2">
-          <CategoryPush />
-        </b-row>
-        <b-row class="mb-4">
-          <CategoriesLinks />
-        </b-row>
-        <b-row>
-          <b-col>
-            <h2 class="subtitle-home mb-2">Mes dernières recettes publiées</h2>
           </b-col>
         </b-row>
         <b-row
@@ -78,7 +72,7 @@
                       <div class="infos-card">
                         <div v-if="article.veggie">
                           <i class="fas fa-seedling"></i>
-                          Recette végétarienne
+                          Végétarien
                         </div>
                         <div v-if="article.country">
                           <i class="fas fa-globe-americas"></i>
@@ -98,18 +92,6 @@
                 </b-row>
               </NuxtLink>
             </b-card>
-          </b-col>
-        </b-row>
-        <b-row>
-          <b-col>
-            <div class="flex items-center">
-              <nuxt-link
-                to="/2"
-                class="flex-1 py-2 px-4 rounded mb-5 text-center see-more"
-              >
-                Voir plus de recettes
-              </nuxt-link>
-            </div>
           </b-col>
         </b-row>
       </b-container>
@@ -140,8 +122,8 @@ export default {
         'sweety_salty'
       ])
       .sortBy('id', 'desc')
-      .where({ published: 1 })
-      .limit(10)
+      .limit(50)
+      .where({ event: 'septembre 2021' })
       .fetch()
     return {
       articles
@@ -149,7 +131,7 @@ export default {
   },
   data() {
     return {
-      title: 'Les dernières recettes de Josie'
+      title: 'Ma sélection de recettes pour le mois de septembre'
     }
   },
   head() {
@@ -160,7 +142,7 @@ export default {
           hid: 'description',
           name: 'description',
           content:
-            "Retrouvez sur mon site toutes les recettes que j'ai publiées sur mon compte Instagram @josiesrecipes"
+            'Je vous ai sélectionné 10 de mes recettes pour le mois de septembre avec des produits de saison.'
         },
         {
           hid: 'og:image',

@@ -18,7 +18,7 @@ country : Chypre
 difficulty : Moyen
 with : 
 time : 30
-event : 
+event : septembre 2021
 recipeYield : 2 personnes
 published : 1
 

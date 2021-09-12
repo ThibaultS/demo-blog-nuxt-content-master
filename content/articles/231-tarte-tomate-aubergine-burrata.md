@@ -18,7 +18,7 @@ country :
 difficulty : Moyen
 with : 
 time : 90
-event :
+event : septembre 2021
 recipeYield : 1 tarte
 published : 1
 

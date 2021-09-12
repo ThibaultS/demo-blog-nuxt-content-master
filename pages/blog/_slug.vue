@@ -250,7 +250,7 @@
             </a>
           </div>
           <div class="last-post mt-4">
-            <h3>Ma dernière recette publiée</h3>
+            <h3>Ma dernière publication</h3>
             <p>
               Chaque semaine, je publie 4 nouvelles recettes. Découvrez la
               dernière recette publiée sur le site.

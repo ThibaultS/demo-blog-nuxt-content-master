@@ -1,12 +1,12 @@
 ---
 id: 91
 title: Figues farcies au chèvre frais, miel et noix
-description: 
+description: "La figue est un fruit idéal pour les recettes sucrées-salées. Si vous aimez ce fruit, vous allez adorer cette entrée avec du chèvre et du miel."
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600524211/Recipes/20200929_figues_farcies.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600524211/Recipes/20200929_figues_farcies.jpg
 url: https://www.instagram.com/p/CFuxL9ni-g-/
 alt: 
-date : 29/09/2020
+date : '2020-09-29'
 inspiration : 
 main_ingredient : Figue
 theme : 
@@ -16,6 +16,7 @@ country :
 difficulty : Facile
 with : 
 time : 20
+event : septembre 2021
 recipeYield : 8 figues
 published : 1
 ---

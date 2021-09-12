@@ -1,13 +1,13 @@
 ---
 id: 71
 title: Pavé de saumon et sa salade sucré-salé
-description: 
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600456151/Recipes/20200826_saumon.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600456151/Recipes/20200826_saumon.jpg
 url: https://www.instagram.com/p/CEXCDHYCJL_/
 alt: 
-date : 26/08/2020
+date : '2020-08-26'
 inspiration :
+description: "Agrémenter mon saumon et mon riz d'une salade sucrée-salée avec de la mangue, du poivron, de la tomate, de l'avocat, c'est l'assurance d'une explosion de saveur !" 
 category : "Poissons et crustacés"
 main_ingredient : Saumon
 theme : 
@@ -17,6 +17,7 @@ country :
 difficulty : Facile
 with : 
 time : 25
+event: septembre 2021
 recipeYield : 4 personnes
 published : 1
 ---

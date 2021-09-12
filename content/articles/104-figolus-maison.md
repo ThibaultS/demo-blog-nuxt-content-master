@@ -1,7 +1,7 @@
 ---
 id: 104
 title: Figolus maison
-description: 
+description: "Les figolus me rappellent vraiment mon enfance. Alors j'ai decidé d'en faire moi-même pour essayer."
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1603827507/Recipes/20201025_figolus.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1603827507/Recipes/20201025_figolus.jpg
 url: https://www.instagram.com/p/CGxk7Tkpbqk/
@@ -17,7 +17,7 @@ country :
 difficulty : Moyen
 with : 
 time : 80
-event :
+event : septembre 2021
 recipeYield : 12 biscuits
 published : 1
 ---

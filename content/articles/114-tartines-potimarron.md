@@ -1,7 +1,7 @@
 ---
 id: 114
 title: Tartines au potimarron et bleu d’Auvergne
-description: 
+description: "Ce n'est pas habituel de se faire une tartine avec du potimarron ! Avec du bleu d'Auvergne ça fonctionne bien."
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1605387442/Recipes/20201112_tartines_potimarron.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1605387442/Recipes/20201112_tartines_potimarron.jpg
 url: https://www.instagram.com/p/CHf-9lKJE_2/
@@ -17,7 +17,7 @@ country :
 difficulty : Facile
 with : 
 time : 15
-event :
+event : septembre 2021
 recipeYield : 2 personnes
 published : 1
 ---
