@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CMpj5vppQoD/
 alt: 
 date : '2021-03-20'
 inspiration : 
-description: "C'est simple mais c'est délicieux : un œuf dans un tranche de pain de mie ! Demandez ça au petit dej à votre chéri(e) !"
+description: "C'est simple mais c'est délicieux : un œuf dans un tranche de pain de mie ! Demandez ça au petit dej' à votre chéri•e !"
 main_ingredient : Oeuf
 theme : 
 tag : 
