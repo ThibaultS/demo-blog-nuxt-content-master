@@ -10,8 +10,8 @@ date : '2021-07-23'
 inspiration : 
 description: "J'ai préparé un tarte de thon et le dépose sur une tranche de concombre en guise de toast pour les apéros de l'été !"
 main_ingredient : Thon
-theme :
-tag : 
+theme : 
+tag : Healthy
 sweety_salty : 
 veggie : 
 country : 

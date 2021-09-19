@@ -35,7 +35,7 @@ published : 1
  - Sel
  - Poivre
 
-Pour la sauce :
+### Pour la sauce :
  - 3 c.à.s d’huile de sésame
  - 1 c.à.c de moutarde à l’ancienne
  - 1 c.à.s de vinaigre de vin

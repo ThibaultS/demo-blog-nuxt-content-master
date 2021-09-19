@@ -13,6 +13,10 @@
       Végétarien
       <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
     </a>
+    <a href="/categories/boulettes" class="link mr-2">
+      Boulettes
+      <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
+    </a>
     <a href="/categories/salades" class="link mr-2">
       Salades
       <!-- <i class="fas fa-long-arrow-alt-right"></i> -->

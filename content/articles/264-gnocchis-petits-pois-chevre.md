@@ -28,7 +28,7 @@ published : 1
  - 2 tranches de poitrine fumée
  - Fleurs comestibles pour la décoration
 
-Pour les gnocchis :
+### Pour les gnocchis :
  - 125g d’eau
  - 65g + 40g de farine
  - 32g de beurre
@@ -38,7 +38,7 @@ Pour les gnocchis :
  - 1 gousse d’ail
  - Sel, poivre
 
-Pour la crème de chèvre :
+### Pour la crème de chèvre :
  - 100g de chèvre frais
  - 60g de crème liquide
  - 1 filet d’huile d’olive

@@ -1,12 +1,12 @@
 ---
 id: 118
 title: Pâtes orzo et boulettes de poulet sauce feta 
-description: 
+description: "J'aime tellement les pâtes orzo. Ajourd'hui, je n'ai fait avec des boulettes de poulet maison."
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1605888881/Recipes/20201119_orzo_boulettes_feta.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1605888881/Recipes/20201119_orzo_boulettes_feta.jpg
 url: https://www.instagram.com/p/CHx9rfdJtOn/
 alt: 
-date : 19/11/2020
+date : '2020-11-19'
 inspiration : 
 category : "Pâtes"
 main_ingredient : Poulet
@@ -15,7 +15,7 @@ sweety_salty :
 veggie : 
 country :
 difficulty : Moyen
-with : 
+with : Boulette
 time : 80
 event :
 recipeYield : 2 personnes

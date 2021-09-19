@@ -16,7 +16,7 @@ sweety_salty :
 veggie :
 country : 
 difficulty : Facile
-with : 
+with : Boulette
 time : 30
 event : 
 recipeYield : 2 personnes

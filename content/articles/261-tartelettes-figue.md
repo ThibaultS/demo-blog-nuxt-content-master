@@ -25,19 +25,19 @@ published : 1
 ---
 
 ## Tous les ingrédients
-La dacquoise :
+### Pour la dacquoise :
  - 68g de sucre glace
  - 58g d’amandes en poudre
  - 2 œufs
  - 25g de sucre
 
-Pour la compotée de figue :
+### Pour la compotée de figue :
  - 3 figues
  - 15g de sucre
  - 2 c.à.s d’eau
  - 1g d’agar agar
 
-Pour le sirop :
+### Pour le sirop :
  - 20g de sucre
  - 20g d’eau
 

@@ -30,7 +30,7 @@ published : 1
  - 200g de Chèvre frais type petit Billy
  - Sel, poivre
 
-Pour la sauce tomate :
+### Pour la sauce tomate :
  - 600g de tomates pelées en boîtes
  - 1 c.à.s de concentré de tomates
  - 1 oignon

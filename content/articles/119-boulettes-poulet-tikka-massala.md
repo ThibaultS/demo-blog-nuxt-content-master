@@ -1,21 +1,21 @@
 ---
 id: 119
 title: Boulettes de poulet Tikka Massala et cheese naan
-description: 
+description: "J'ai revisité le poulet tikka en faisant des boulettes de poulet accompagné d'un naan fait maison."
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1606066145/Recipes/20201121_boulettes_tikka_massala.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1606066145/Recipes/20201121_boulettes_tikka_massala.jpg
 url: https://www.instagram.com/p/CH2_63jJz1m/
 alt: 
-date : 21/11/2020
+date : '2020-11-21'
 inspiration : 
 category : 
 main_ingredient : Poulet
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : Inde
 difficulty : Moyen
-with : 
+with : Boulette
 time : 80
 event :
 recipeYield : 3 personnes

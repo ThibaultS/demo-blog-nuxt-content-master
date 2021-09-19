@@ -16,7 +16,7 @@ sweety_salty :
 veggie : 
 country : 
 difficulty : Facile
-with : 
+with : Boulette
 time : 40
 event : 
 recipeYield : 4 personnes
@@ -25,7 +25,7 @@ published : 1
 ---
 
 ## Tous les ingrédients
-Pour les boulettes :
+### Pour les boulettes :
  - 500g d’agneau
  - 2 gousses d’ail
  - 1 oignon nouveau
@@ -37,11 +37,11 @@ Pour les boulettes :
  - 50g de mie de pain trempée dans du lait
  - Sel, poivre
 
-Pour les flageolets :
+### Pour les flageolets :
  - 2 échalotes
  - 500-600g de flageolets en conserve (une grosse boîte)
 
-Pour la sauce au yaourt :
+### Pour la sauce au yaourt :
  - 150g de yaourt
  - 1 c.à.c de cumin
  - 1 c.à.s de jus de citron

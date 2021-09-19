@@ -25,7 +25,7 @@ published : 1
 ---
 
 ## Tous les ingrédients
-Pour la pâte :
+### Pour la pâte :
  - 450g de farine tamisée
  - 1 c.à.s de levure boulangère sèche
  - 1 c.à.c de levure chimique
@@ -36,7 +36,7 @@ Pour la pâte :
  - 200ml de lait tiède
  - 1 pincée de sel
 
-Pour la crème pâtissière :
+### Pour la crème pâtissière :
  - 1 demi litre de lait
  - 1 c.à.c de vanille en poudre
  - 4 jaunes d'oeufs
@@ -44,7 +44,7 @@ Pour la crème pâtissière :
  - 40g de maïzena
  - 40g de beurre
 
-Pour le topping : 
+### Pour le topping : 
  - 6 abricots frais (ou en conserve si ce n'est pas la saison)
  - Confiture d’abricot
 

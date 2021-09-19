@@ -1,20 +1,20 @@
 ---
 id: 52
 title: Bo Bun revisité
-description: 
+description: 'Pour vous, je reviste le bobun avec des boulettes de viande maison.'
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600509111/Recipes/20200709_bobun.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600509111/Recipes/20200709_bobun.jpg
 url: https://www.instagram.com/p/CCbXXGUi8kx/
 alt: 
-date : 09/07/2020
+date : '2020-07-09'
 inspiration :
 main_ingredient : Poulet
 theme : Bowls
 sweety_salty : 
 veggie : 
-country :
+country : Vietnam
 difficulty : Facile
-with : 
+with : Boulette
 time : 45
 recipeYield : 2 personnes
 published : 1

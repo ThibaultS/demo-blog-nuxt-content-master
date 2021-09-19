@@ -32,13 +32,13 @@ published : 1
  - 1 yaourt grec (entre 125g et 150g)
 
 ### Pour les condiments :
-Du pesto maison ou industriel
-1 demi oignon rouge
-1 tomate
-1 demi aubergine
-1 burrata
-Huile d’olive
-Sel, poivre
+ - Du pesto maison ou industriel
+ - 1 demi oignon rouge
+ - 1 tomate
+ - 1 demi aubergine
+ - 1 burrata
+ - Huile d’olive
+ - Sel, poivre
 
 ## La recette détaillée
 Mélangez tous les ingrédients pour former la pâte. Pétrissez bien, incorporez tous les ingrédients et formez une boule. Mettez-la dans un film plastique et laissez-la reposer 30 minutes au frigo.

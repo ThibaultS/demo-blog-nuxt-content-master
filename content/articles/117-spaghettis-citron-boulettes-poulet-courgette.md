@@ -1,12 +1,12 @@
 ---
 id: 117
 title: Spaghettis au citron et boulettes de poulet, courgettes, parmesan
-description: 
+description: "Et si vous faisiez des boulettes de poulet avec de la courgette pour accompagner vos spaghettis."
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1605640136/Recipes/20201117_boulettes_poulet_courgettes.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1605640136/Recipes/20201117_boulettes_poulet_courgettes.jpg
 url: https://www.instagram.com/p/CHs5N2iDMRm/
 alt: 
-date : 17/11/2020
+date : '2020-11-17'
 inspiration : 
 category : "Pâtes"
 main_ingredient : Poulet
@@ -15,7 +15,7 @@ sweety_salty :
 veggie : 
 country :
 difficulty : Facile
-with : 
+with : Boulette
 time : 45
 event :
 recipeYield : 2 personnes
