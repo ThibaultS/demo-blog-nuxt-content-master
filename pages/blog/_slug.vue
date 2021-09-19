@@ -96,6 +96,10 @@
               Thème :
               <a href="/categories/viandes" class="link">Viandes</a>
             </div>
+            <div v-if="article.with == 'Boulette'">
+              Thème :
+              <a href="/categories/boulettes" class="link">Boulettes</a>
+            </div>
             <div v-if="article.veggie">
               <i class="fas fa-seedling"></i>
               <a href="/categories/vegetarien" class="link">Végératien</a>
@@ -247,6 +251,13 @@
               href="/categories/asperge"
             >
               Asperges
+            </a>
+            <a
+              v-if="article.with == 'Boulette'"
+              class="link mr-2"
+              href="/categories/boulettes"
+            >
+              Boulettes
             </a>
           </div>
           <div class="last-post mt-4">
