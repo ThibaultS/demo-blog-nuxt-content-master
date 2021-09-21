@@ -41,7 +41,7 @@ published : 1
  - 1/2 gousse de vanille
 
 ## La recette détaillée
-sFaites ramollir les feuilles de gélatine dans un saladier rempli d’eau froide. Dans une casserole, mettez le lait, la crème liquide, 65 g de sucre et la demi gousse de vanille fendue en deux. Portez à ébullition et retirez tout de suite du feu. Ôter la demi-gousse de vanille et ajoutez la gélatine essorée. Mixez l’ensemble avec un mixeur plongeant.
+Faites ramollir les feuilles de gélatine dans un saladier rempli d’eau froide. Dans une casserole, mettez le lait, la crème liquide, 65 g de sucre et la demi gousse de vanille fendue en deux. Portez à ébullition et retirez tout de suite du feu. Ôter la demi-gousse de vanille et ajoutez la gélatine essorée. Mixez l’ensemble avec un mixeur plongeant.
 
 Versez la crème obtenue dans 4 ramequins ou verres à cocktail. Laissez d’abord tiédir, puis faites prendre au réfrigérateur 10 h minimum. Le mieux c’est de les faire la veille pour le lendemain.
 
