@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CQVuOwnpeG2/
 alt: 
 date : '2021-06-20'
 inspiration : 
-description: "J'ai essayé une recette inspiré de dacquoise à la pistache et à la fraise de Pierre Hermé."
+description: "J'ai essayé une recette inspirée de la dacquoise à la pistache et à la fraise de Pierre Hermé."
 main_ingredient : Fraise
 theme : Gâteaux
 tag : 
