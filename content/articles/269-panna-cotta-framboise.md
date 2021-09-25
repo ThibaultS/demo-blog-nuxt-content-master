@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CUAlB_7IXZn/
 alt: 
 date : '2021-09-19'
 inspiration : 
-description: "Profitez du beau temps avec une pana cotta hyper fraîche. Une association framboise estragon peu commune mais franchement bonne."
+description: "Profitez du beau temps avec une pana cotta hyper fraîche. Une association framboise estragon peu commune mais tellement bonne."
 main_ingredient : Framboise
 theme : 
 tag : 
