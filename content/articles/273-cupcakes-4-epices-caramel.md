@@ -8,7 +8,7 @@ url: https://www.instagram.com/p/CUSrJ4QokkF/
 alt: 
 date : '2021-09-26'
 inspiration : 
-description: "Esayez ces cupcakes aux 4 épices et crème caramel, parfaits pour accompagner votre café lors d’après-midi pluvieuses !"
+description: "Essayez ces cupcakes aux 4 épices et crème caramel, parfaits pour accompagner votre café lors d’après-midi pluvieuses !"
 main_ingredient : Caramel
 theme : Gâteaux
 tag : 
