@@ -13,7 +13,7 @@ main_ingredient : Aubergine
 theme : 
 tag : Healthy
 sweety_salty : 
-veggie : 
+veggie : 1
 country : Méditerranée
 difficulty : Facile
 with : 

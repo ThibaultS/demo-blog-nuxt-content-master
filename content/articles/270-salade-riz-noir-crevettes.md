@@ -11,7 +11,7 @@ inspiration :
 description: "Avez-vous déjà fait une salade avec du riz noir ? J'ai testé pour vous avec de la crevette, de la framboise et du chèvre frais."
 main_ingredient : Crevette
 theme : Salades
-tag : 
+tag : Healthy
 sweety_salty : 1
 veggie : 
 country : 
