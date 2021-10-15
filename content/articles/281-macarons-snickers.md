@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 url: https://www.instagram.com/p/CU2CrHIo_rO/
 bkg : 
 alt: 
-date : '2021-10-0'
+date : '2021-10-10'
 inspiration : 
 description: "Si vous aimez les snickers, vous allez fondre pour ces macarons qui reprennent les mêmes saveurs que cette barre chocolatée !"
 main_ingredient : Chocolat
@@ -25,20 +25,20 @@ published : 1
 ---
 
 ## Tous les ingrédients
-Pour la ganache au caramel :
+### Pour la ganache au caramel :
  - 100g de chocolat au lait caramel
  - 20g de beurre
  - 80ml de crème liquide
  - 35g de caramel beurre salé
 
-Pour les coques des macarons :
+### Pour les coques des macarons :
  - 100g de poudre d’amandes
  - 100g de sucre glace
  - 80g de blanc d’œuf (environ 2 oeufs)
  - 80g de sucre en poudre
  - Colorant alimentaire rouge
 
-Pour la décoration:
+### Pour la décoration:
  - 1 demi tablette de chocolat noir pâtissier
  - 1 c.à.c d'huile de coco
  - 100-150g de cacahuète non salée décortiquée
