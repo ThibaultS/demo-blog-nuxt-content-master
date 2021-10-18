@@ -6,7 +6,7 @@ img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v160641685
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1606416852/Recipes/20201125_cupcake_carottes_lardons.jpg
 url: https://www.instagram.com/p/CIBaNXoJuhR/
 alt: 
-date : 25/11/2020
+date : '2020-11-25'
 inspiration : 
 category : 
 main_ingredient : Carotte
@@ -17,7 +17,7 @@ country :
 difficulty : Facile
 with : 
 time : 45
-event :
+event : octobre 2021
 recipeYield : 6 cupcakes
 published : 1
 ---

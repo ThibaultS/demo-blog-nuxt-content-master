@@ -6,7 +6,7 @@ img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v160564009
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1605640099/Recipes/20201115_layer_cake_potimarron.jpg
 url: https://www.instagram.com/p/CHni53SpxsC/
 alt: 
-date : 15/11/2020
+date : '2020-11-15'
 inspiration : 
 category : 
 main_ingredient : Potimarron
@@ -17,7 +17,7 @@ country :
 difficulty : Moyen
 with : 
 time : 60
-event :
+event : octobre 2021
 recipeYield : 2 mini pièces montées
 published : 1
 ---

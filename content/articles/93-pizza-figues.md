@@ -6,7 +6,7 @@ img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v160052421
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600524211/Recipes/20201003_pizza_figues.jpg
 url: https://www.instagram.com/p/CF4vjANpFrg/
 alt: 
-date : 03/10/2020
+date : '2020-10-03'
 inspiration : 
 main_ingredient : Figue
 theme : Tartes salées et pizzas
@@ -16,6 +16,7 @@ country :
 difficulty : Moyen
 with : 
 time : 60
+event : 
 recipeYield : 1 grande pizza
 published : 1
 ---

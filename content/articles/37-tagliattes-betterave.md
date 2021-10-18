@@ -6,7 +6,7 @@ img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v160050938
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600509388/Recipes/20200608_tagliatelles_betterave.jpg
 url: https://www.instagram.com/p/CBLiScJCYcV/
 alt: 
-date : 08/06/2020
+date : '2020-06-08'
 inspiration :
 category : "Pâtes"
 main_ingredient : Betterave
@@ -17,6 +17,7 @@ country :
 difficulty : Difficile
 with : 
 time : 60
+event : octobre 2021
 recipeYield : 2 personnes
 published : 1
 ---

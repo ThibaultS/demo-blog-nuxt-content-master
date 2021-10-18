@@ -18,7 +18,7 @@ country :
 difficulty : Moyen
 with : 
 time : 50
-event :
+event : octobre 2021
 recipeYield : 6 à 8 parts
 published : 1
 

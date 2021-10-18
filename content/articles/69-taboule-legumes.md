@@ -6,7 +6,7 @@ img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v160046080
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600460802/Recipes/20200823_taboule_legumes.jpg
 url: https://www.instagram.com/p/CEPOAduiZW0/
 alt: 
-date : 23/08/2020
+date : '2020-08-23'
 inspiration :
 main_ingredient : Carotte
 theme : Salades
@@ -17,6 +17,7 @@ country :
 difficulty : Moyen
 with : 
 time : 55
+event : octobre 2021
 recipeYield : 2-3 personnes
 published : 1
 ---

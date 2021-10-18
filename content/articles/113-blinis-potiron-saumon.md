@@ -6,7 +6,7 @@ img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v160538739
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1605387392/Recipes/20201110_blinis_potiron.jpg
 url: https://www.instagram.com/p/CHa0hfTJcag/
 alt: 
-date : 10/11/2020
+date : '2020-11-10'
 inspiration : 
 category : "Poissons et crustacés"
 main_ingredient : Saumon
@@ -18,7 +18,7 @@ country :
 difficulty : Facile
 with : 
 time : 30
-event :
+event : octobre 2021
 recipeYield : 8 blinis
 published : 1
 ---

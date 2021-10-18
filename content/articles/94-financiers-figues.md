@@ -6,7 +6,7 @@ img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v160052421
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600524211/Recipes/20201004_financier_figues.jpg
 url: https://www.instagram.com/p/CF7XbNwJ4R6/
 alt: 
-date : 04/10/2020
+date : '2020-10-04'
 inspiration : 
 main_ingredient : Figue
 theme : Gâteaux
@@ -16,6 +16,7 @@ country :
 difficulty : Moyen
 with : 
 time : 30
+event : octobre 2021
 recipeYield : 6 financiers
 published : 1
 ---
