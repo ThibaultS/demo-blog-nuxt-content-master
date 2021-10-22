@@ -15,7 +15,9 @@
             />
           </nuxt-link>
         </b-navbar-brand>
-        <b-nav-text class="title-home"><h1>Toutes mes recettes</h1></b-nav-text>
+        <b-nav-text class="title-home">
+          <h1>Mes dernières recettes</h1>
+        </b-nav-text>
         <NavItems />
       </b-navbar>
       <b-container fluid="lg" class="animate animate3 slideUp">
@@ -160,7 +162,7 @@ export default {
           hid: 'description',
           name: 'description',
           content:
-            "Retrouvez sur mon site toutes les recettes que j'ai publiées sur mon compte Instagram @josiesrecipes"
+            "Retrouvez sur mon site toutes les recettes que j'ai publiées sur mon compte Instagram : chaque semaine je publie 3 recettes sur une thématique et un dessert pour bien finir la semaine"
         },
         {
           hid: 'og:image',
