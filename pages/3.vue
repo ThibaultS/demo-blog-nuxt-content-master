@@ -78,7 +78,7 @@
           <b-col>
             <div class="flex items-center">
               <nuxt-link
-                to="/3"
+                to="/4"
                 class="flex-1 py-2 px-4 rounded mb-5 text-center see-more"
               >
                 Voir plus de recettes
