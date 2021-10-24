@@ -10,7 +10,7 @@ date : '2021-10-14'
 inspiration : 
 description: "Pour l’apéro de ce soir c’est une crème de feta avec des olives rôtis ! A déguster avec du pain, des pitas ou encore une focaccia."
 main_ingredient : Fromage
-theme : 
+theme : Tartines
 tag : 
 sweety_salty : 
 veggie : 1
