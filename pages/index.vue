@@ -39,7 +39,7 @@
           </b-col>
         </b-row>
         <b-row class="mb-2">
-          <CategoryPush />
+          <StickyHalloween />
         </b-row>
         <b-row class="mb-4">
           <CategoriesLinks />

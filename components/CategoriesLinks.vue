@@ -1,6 +1,18 @@
 <template>
   <b-col>
     Suggestions :
+    <a href="/categories/halloween" class="link mr-2">
+      Halloween
+      <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
+    </a>
+    <a href="/categories/noel" class="link mr-2">
+      Noël
+      <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
+    </a>
+    <a href="/categories/octobre-2021" class="link mr-2">
+      Octobre 2021
+      <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
+    </a>
     <a href="/categories/chocolat" class="link mr-2">
       Chocolat
       <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
@@ -47,14 +59,6 @@
     </a>
     <a href="/categories/saint-valentin" class="link mr-2">
       Saint-Valentin
-      <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
-    </a>
-    <a href="/categories/noel" class="link mr-2">
-      Noël
-      <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
-    </a>
-    <a href="/categories/halloween" class="link mr-2">
-      Halloween
       <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
     </a>
   </b-col>

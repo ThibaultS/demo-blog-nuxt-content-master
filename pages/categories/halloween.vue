@@ -20,10 +20,23 @@
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>
           <b-col class="intro mt-5 mb-5">
-            <h1>Halloween</h1>
+            <h1>Mes desserts pour Halloween</h1>
             <p class="lead">
-              Retrouvez la liste de toutes les recettes que j'ai préparées
-              spécialement pour Halloween.
+              Les monstres envahissent votre cuisine ! Retrouvez tous les
+              desserts que j'ai préparés spécialement pour Halloween. Il y en a
+              pour tous les goûts avec des gâteaux, des sablés ou encore une
+              panna cotta. Pour retrouvez les recettes en avant-première,
+              suivez-moi sur
+              <a
+                href="https://www.instagram.com/josiesrecipes/"
+                target="_blank"
+              >
+                Instagram
+              </a>
+              et
+              <a target="_blank" href="https://www.facebook.com/josiesrecipes">
+                Facebook.
+              </a>
             </p>
           </b-col>
         </b-row>

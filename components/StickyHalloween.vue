@@ -1,24 +1,16 @@
 <template>
-  <b-row>
-    <b-col>
-      <b-card class="push-category push-halloween mb-4 text-center">
-        <b-card-title title-tag="h2"> Desserts pour Halloween</b-card-title>
-        <b-card-text class="lead">
-          Découvrez tous les desserts que j'ai préparés spécialement pour
-          Halloween.
-        </b-card-text>
-        <nuxt-link
-          role="button"
-          target="_self"
-          to="/categories/halloween"
-          variant="primary"
-          class="btn btn-outline-light"
-        >
-          Découvrir
-        </nuxt-link>
-      </b-card>
-    </b-col>
-  </b-row>
+  <b-col class="mb-2">
+    <nuxt-link
+      class="text-center card push-category btn-category push-halloween push-event"
+      to="/categories/halloween"
+    >
+      <b-card-body>
+        <b-card-title title-tag="h3">
+          Toutes mes recettes de desserts pour <strong>Halloween</strong>
+        </b-card-title>
+      </b-card-body>
+    </nuxt-link>
+  </b-col>
 </template>
 <script>
 export default {}
