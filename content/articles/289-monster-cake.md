@@ -3,12 +3,12 @@ id: 289
 title: Monster cake
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1635265142/Recipes/20211026_monster_cake.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1635265142/Recipes/20211026_monster_cake.jpg
-url: 
+url: https://www.instagram.com/p/CVf4s1HI7fr/
 bkg : 
 alt: 
 date : '2021-10-26'
 inspiration : 
-description: "Halloween approche à grand pas et voici la première recette que je vous propose : des petits MONSTERS hyper gourmands au chocolat et au caramel."
+description: "Halloween approche à grand pas et voici la première recette que je vous propose : des petits monstres hyper gourmands au chocolat et au caramel."
 main_ingredient : Chocolat
 theme : Gâteaux
 tag : 
