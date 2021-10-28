@@ -17,7 +17,7 @@ veggie :
 country : 
 difficulty : Difficile
 with : 
-time : 100
+time : 120
 event : Halloween
 recipeYield : 1 gâteau de 4 à 6 personnes
 published : 1
