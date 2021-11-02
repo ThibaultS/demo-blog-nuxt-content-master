@@ -3,7 +3,7 @@ id: 292
 title: Gâteau à la framboise
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1635676683/Recipes/20211031_gateau_framboise.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1635676683/Recipes/20211031_gateau_framboise.jpg
-url: 
+url: https://www.instagram.com/p/CVsMyxYoQw-/
 bkg : 
 alt: 
 date : '2021-10-31'
