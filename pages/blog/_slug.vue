@@ -36,6 +36,12 @@
             <div v-if="article.theme == 'Pâtes'">
               Thème : <a href="/categories/pates" class="link">Pâtes</a>
             </div>
+            <div v-if="article.theme == 'Soupes et veloutés'">
+              Thème :
+              <a href="/categories/soupes-et-veloutes" class="link">
+                Soupes et veloutés
+              </a>
+            </div>
             <div v-if="article.main_ingredient == 'Chocolat'">
               A base de <a href="/categories/chocolat" class="link">chocolat</a>
             </div>
@@ -158,6 +164,13 @@
               href="/categories/pates"
             >
               Pâtes
+            </a>
+            <a
+              v-if="article.theme == 'Soupes et veloutés'"
+              class="link mr-2"
+              href="/categories/soupes-et-veloutes"
+            >
+              Soupes et veloutés
             </a>
             <a
               v-if="article.theme == 'Tartines'"

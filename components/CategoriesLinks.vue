@@ -9,6 +9,10 @@
       Noël
       <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
     </a>
+    <a href="/categories/soupes-et-veloutes" class="link mr-2">
+      Soupes et veloutés
+      <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
+    </a>
     <a href="/categories/octobre-2021" class="link mr-2">
       Octobre 2021
       <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
