@@ -15,8 +15,8 @@ sweety_salty :
 veggie : 
 country :
 difficulty : Moyen
-with : 25
-time : 
+with : 
+time : 25
 recipeYield : 2 personnes
 published : 1
 ---
