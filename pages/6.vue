@@ -74,18 +74,6 @@
             </b-card>
           </b-col>
         </b-row>
-        <b-row>
-          <b-col>
-            <div class="flex items-center">
-              <nuxt-link
-                to="/3"
-                class="flex-1 py-2 px-4 rounded mb-5 text-center see-more"
-              >
-                Voir plus de recettes
-              </nuxt-link>
-            </div>
-          </b-col>
-        </b-row>
       </b-container>
     </div>
   </div>
@@ -115,7 +103,8 @@ export default {
       ])
       .sortBy('id', 'desc')
       .where({ published: 1 })
-      .skip(170)
+      .skip(210)
+      .limit(50)
       .fetch()
     return {
       articles

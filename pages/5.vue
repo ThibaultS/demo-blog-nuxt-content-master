@@ -78,7 +78,7 @@
           <b-col>
             <div class="flex items-center">
               <nuxt-link
-                to="/3"
+                to="/6"
                 class="flex-1 py-2 px-4 rounded mb-5 text-center see-more"
               >
                 Voir plus de recettes
@@ -115,8 +115,8 @@ export default {
       ])
       .sortBy('id', 'desc')
       .where({ published: 1 })
-      .skip(130)
-      .limit(40)
+      .skip(160)
+      .limit(50)
       .fetch()
     return {
       articles

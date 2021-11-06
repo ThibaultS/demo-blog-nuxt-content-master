@@ -115,8 +115,8 @@ export default {
       ])
       .sortBy('id', 'desc')
       .where({ published: 1 })
-      .skip(50)
-      .limit(40)
+      .skip(60)
+      .limit(50)
       .fetch()
     return {
       articles
