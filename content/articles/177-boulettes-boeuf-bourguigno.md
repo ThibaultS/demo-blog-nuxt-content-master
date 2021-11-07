@@ -18,7 +18,7 @@ country :
 difficulty : Moyen
 with : Boulette
 time : 60
-event : 
+event : novembre 2021
 recipeYield : 6 personnes
 published : 1
 

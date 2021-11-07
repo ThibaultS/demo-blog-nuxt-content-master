@@ -145,7 +145,7 @@ export default {
           hid: 'description',
           name: 'description',
           content:
-            "Je vous ai sélectionné 10 de mes recettes pour le mois d'octobre avec des produits de saison."
+            'Je vous ai sélectionné 10 de mes recettes pour le mois de septembre avec des produits de saison.'
         },
         {
           hid: 'og:image',

@@ -18,7 +18,7 @@ country :
 difficulty : Moyen
 with : 
 time : 60
-event : 
+event : novembre 2021
 recipeYield : 4 à 6 personnes
 published : 1
 

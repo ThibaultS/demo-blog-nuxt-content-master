@@ -2,11 +2,11 @@
   <b-col class="mb-2">
     <nuxt-link
       class="text-center card push-category btn-category"
-      to="categories/octobre-2021"
+      to="categories/novembre-2021"
     >
       <b-card-body>
         <b-card-title title-tag="h3">
-          Ma sélection de 10 recettes pour le mois d'<strong>octobre</strong>
+          Ma sélection de 10 recettes pour le mois de <strong>novembre</strong>
         </b-card-title>
       </b-card-body>
     </nuxt-link>

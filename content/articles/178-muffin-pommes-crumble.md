@@ -18,7 +18,7 @@ country :
 difficulty : Moyen
 with : 
 time : 60
-event : 
+event : novembre 2021
 recipeYield : 7-8 muffins
 published : 1
 

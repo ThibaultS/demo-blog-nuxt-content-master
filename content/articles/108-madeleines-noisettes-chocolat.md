@@ -17,7 +17,7 @@ country :
 difficulty : Moyen
 with : 
 time : 80
-event :
+event : novembre 2021
 recipeYield : 15-20 madeleines
 published : 1
 ---

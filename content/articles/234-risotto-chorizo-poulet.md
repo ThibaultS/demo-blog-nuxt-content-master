@@ -18,7 +18,7 @@ country : Italie
 difficulty : Moyen
 with : Chorizo
 time : 45
-event :
+event : novembre 2021
 recipeYield : 4 personnes
 published : 1
 

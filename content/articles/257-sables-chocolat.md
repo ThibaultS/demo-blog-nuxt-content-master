@@ -18,7 +18,7 @@ country :
 difficulty : Facile
 with : 
 time : 35
-event : 
+event : novembre 2021
 recipeYield : 6 gros biscuits
 published : 1
 
