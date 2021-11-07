@@ -15,18 +15,15 @@
             />
           </nuxt-link>
         </b-navbar-brand>
-        <b-nav-text class="title-home">
-          <h1>Mes dernières recettes</h1>
-        </b-nav-text>
         <NavItems />
       </b-navbar>
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row class="mb-2">
           <b-col>
+            <h1>Bienvenue sur le site des recettes de Josie</h1>
             <p class="lead lead-home mt-4">
-              Bienvenue sur mon site ! Chaque semaine, je publie 3 recettes sur
-              une thématique et je conclue la semaine en beauté avec un dessert.
-              Venez me suivre sur
+              Chaque semaine, je publie 3 recettes sur une thématique et je
+              conclue la semaine en beauté avec un dessert. Venez me suivre sur
               <a
                 href="https://www.instagram.com/josiesrecipes/"
                 target="_blank"
@@ -35,7 +32,7 @@
               </a>
               pour les découvrir en avant première.
             </p>
-            <AppSearchInputHome />
+            <!-- <AppSearchInputHome /> -->
           </b-col>
         </b-row>
         <b-row class="mb-2">

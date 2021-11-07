@@ -19,7 +19,7 @@
       </b-navbar>
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>
-          <b-col class="intro mt-5 mb-5">
+          <b-col class="intro mt-5 mb-3">
             <h1>24 recettes pour mon calendrier de l'avent 2020</h1>
             <p class="lead">
               C'est la meilleure période de l'année ! Chaque jour de décembre,

@@ -38,6 +38,9 @@ a {
     color:#F27405;
 }
 
+.noel a {
+    color:#fff;
+}
 
 .lead {
     font-size: 1.125rem;
@@ -95,11 +98,14 @@ h2.subtitle-home {
     transition: 500ms ease-in-out;
     color: #F73A64;
     white-space:nowrap;
+    text-decoration: underline;
+    text-decoration-thickness: 0.3rem;
+    text-decoration-color: rgba($color: #F73A64, $alpha: 0.5)
 }
 
 .link:hover {
-    text-decoration: none;
     color: #75513e;
+    text-decoration-thickness: 0.2rem;
 }
 
 article h1 {
@@ -291,6 +297,11 @@ article .icon-insta:hover i ,article .icon-insta:focus i  {
 .recipe-filter a:hover {
     text-decoration: underline;
     background-color: transparent;
+}
+
+.noel-2021 .card-footer a {
+    color:#8C0D17;
+    text-decoration: underline;
 }
 
 .navbar-dark .navbar-nav .nav-link:hover,.navbar-dark .navbar-nav .nav-link:focus,.navbar-dark .navbar-nav .show > .nav-link {
@@ -490,10 +501,6 @@ article {
     color : #FFF;
 }
 
-.halloween h1::first-letter, .noel h1::first-letter {
-    font-size: 3rem;
-}
-
 .saint-valentin .lead a {
     color: #ffd9e0;
 }
@@ -560,10 +567,62 @@ article {
     }
 }
 
+.noel.noel-2021 .card {
+    height:48vh;
+}
+
+.noel.noel-2021 .card-body {
+    .card-title {
+        font-size: 1.5rem;
+        span {
+            font-size: 4rem;
+        }
+    }
+}
+
+
+.noel.noel-2021 .card.reveal-calendar .card-body {    
+    display: block;
+    padding: 0;
+    .card-title {
+        text-shadow: 0 0 10px #000; 
+        color: #fff;
+        padding-top: 80px;
+        span {
+            display: block;
+            color: #fff;
+        }
+    }
+    .title-recipe {
+        padding-top: 20px;
+        font-size: 1.3rem;
+        font-weight: 600;
+        line-height: 1.35rem;
+    }
+    .link {
+        color:#8C0D17;
+        font-weight: 800;
+        font-size: 1.15rem;
+        text-decoration-color: rgba($color: #8C0D17, $alpha: 0.5);
+    }
+    .link:hover {
+        color:#202020;
+    }
+}
+
 .noel .reveal-calendar {
     background-size: cover;
     .card-body .overlay-calendar {
         background-color: rgba($color: #fff, $alpha: 0.8);
+    }
+}
+
+
+.noel.noel-2021 .card .overlay-calendar {
+    .overlay-container {
+        width: 100%;
+        height: 250px;
+        background-size: cover;
     }
 }
 
@@ -688,6 +747,11 @@ article {
             color: #b48e7b;
         }
     }
+}
+
+
+.noel-2021 .card-footer a:hover {
+    text-decoration: none;
 }
 
 .halloween .card.post a {
@@ -867,9 +931,6 @@ a.see-more:hover {
     h1 {
         font-size: 1.8rem;
     }
-    h1::first-letter {
-        font-size: 2rem;
-    }
     .navbar-nav {
         width: auto;
     }
@@ -891,16 +952,16 @@ a.see-more:hover {
 
     }
     .container-lg {
-        padding-left:7rem;
-        padding-right: 7rem;
+        padding-left: 3rem;
+        padding-right: 3rem;
     }
 
     .card-columns {
         column-count: 2;
     }
 
-    h1::first-letter {
-        font-size: 3.2rem;
+    h1 {
+        font-size: 3.6rem;
     }
 
     .navbar h1 {
@@ -990,6 +1051,9 @@ a.see-more:hover {
 @media (min-width: 1440px){
     .card-columns {
         column-count: 4;
+    }
+    .container-lg {
+        max-width: 1440px;
     }
 
 }

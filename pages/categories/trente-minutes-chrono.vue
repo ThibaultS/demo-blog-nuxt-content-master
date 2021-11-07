@@ -20,7 +20,7 @@
       </b-navbar>
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>
-          <b-col class="intro mt-5 mb-5">
+          <b-col class="intro mt-5 mb-3">
             <h1>Mes recettes en 30 minutes chrono</h1>
             <p class="lead">
               Vous pensez ne pas avoir le temps de cuisiner ? Vous avez bien 30

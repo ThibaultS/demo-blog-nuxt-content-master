@@ -3,6 +3,7 @@ id: 295
 title: Gâteau au poireau et au chèvre
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1636230147/Recipes/20211106_gateau_poireau_chevre.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1636230147/Recipes/20211106_gateau_poireau_chevre.jpg
+thumbnail_noel: url(https://res.cloudinary.com/thibaults/image/upload/t_carre/v1636230147/Recipes/20211106_gateau_poireau_chevre.jpg)
 url: https://www.instagram.com/p/CV8FcdkImXs/
 date : '2021-11-06'
 description: "C'est si réconfortant un gateau salé à base de poireau et de chèvre cendré."
@@ -16,7 +17,8 @@ sweety_salty :
 veggie : 1
 country : 
 inspiration : 
-event : 
+event : Noël 2021
+calendrier: 3
 difficulty : Moyen
 recipeYield : 1 gâteau de 4 à 6 parts
 time : 55

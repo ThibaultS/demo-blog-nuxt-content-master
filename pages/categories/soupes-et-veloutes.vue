@@ -20,7 +20,7 @@
       </b-navbar>
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>
-          <b-col class="intro mt-5 mb-5">
+          <b-col class="intro mt-5 mb-3">
             <h1>Mes recettes de soupes et veloutés</h1>
             <p class="lead">
               En hiver comme en été, une soupe est toujours agréable. Je vous en

@@ -15,12 +15,14 @@
             />
           </nuxt-link>
         </b-navbar-brand>
-        <b-nav-text class="title-home">
-          <h1>Mes recettes - page 5</h1>
-        </b-nav-text>
         <NavItems />
       </b-navbar>
       <b-container fluid="lg" class="animate animate3 slideUp">
+        <b-row class="mb-2">
+          <b-col>
+            <h1>Les recettes de Josie - page 2</h1>
+          </b-col>
+        </b-row>
         <b-row
           id="posts"
           class="row-cols-1 row-cols-sm-1 row-cols-lg-1 row-cols-xl-2"

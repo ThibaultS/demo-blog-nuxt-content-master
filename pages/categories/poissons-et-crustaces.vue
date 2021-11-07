@@ -20,7 +20,7 @@
       </b-navbar>
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>
-          <b-col class="intro mt-5 mb-5">
+          <b-col class="intro mt-5 mb-3">
             <h1>Mes recettes à base de poissons et crustacés</h1>
             <p class="lead">
               Retrouvez sur cette page des recettes de poissons et de crustacés

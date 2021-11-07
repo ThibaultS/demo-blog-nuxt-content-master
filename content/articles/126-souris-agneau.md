@@ -19,6 +19,7 @@ difficulty : Moyen
 with : 
 time : 140
 calendrier: 3
+event : septembre 2021
 recipeYield: 2 personnes
 published : 1
 ---

@@ -19,7 +19,7 @@
       </b-navbar>
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>
-          <b-col class="intro mt-5 mb-5">
+          <b-col class="intro mt-5 mb-3">
             <h1>Mes recettes de Pâques</h1>
             <p class="lead">
               Je vous propose mes recettes specialement pour Pâques. Des oeufs
