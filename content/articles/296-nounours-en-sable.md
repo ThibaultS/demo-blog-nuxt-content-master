@@ -3,7 +3,7 @@ id: 296
 title: Nounours en sablé
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1636312017/Recipes/20211107_nounours_en_sable.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1636312017/Recipes/20211107_nounours_en_sable.jpg
-thumbnail_noel: 
+thumbnail_noel: url(https://res.cloudinary.com/thibaults/image/upload/t_carre/v1636312017/Recipes/20211107_nounours_en_sable.jpg)
 url: https://www.instagram.com/p/CV-1-9YIkHW/
 date : '2021-11-07'
 description: "Trop fière de ces sablés nounours, je les trouve si craquants ! Idéal pour un goûter d’anniversaire, une gender reveal ou une baby shower."
@@ -17,12 +17,12 @@ sweety_salty :
 veggie : 
 country : 
 inspiration : 
-event : 
+event : Noël 2021
+calendrier: 23
 difficulty : Difficile
 recipeYield : 10 à 15 biscuits
 time : 120
 published : 1
-calendrier: 
 
 ---
 

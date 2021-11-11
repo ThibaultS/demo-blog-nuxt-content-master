@@ -17,7 +17,7 @@ country :
 difficulty : Facile
 with : 
 time : 30
-event :
+event : septembre 2021
 recipeYield : 2 personnes
 published : 1
 ---

@@ -20,7 +20,9 @@
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>
           <b-col class="intro mt-5 mb-3">
-            <h1>24 recettes pour mon calendrier de l'avent 2021</h1>
+            <h1 class="glow">
+              24 recettes pour mon calendrier de l'avent 2021
+            </h1>
             <p class="lead">
               Noël est vraiment ma période préférée de l'année ! Le sapin, les
               cadeaux, l'ambiance générale, mais surtout des repas avec nos
@@ -39,7 +41,7 @@
           </b-col>
         </b-row>
         <b-row class="row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-4">
-          <!-- <b-col v-for="article of articles" :key="article.slug" class="mb-5">
+          <b-col v-for="article of articles" :key="article.slug" class="mb-5">
             <b-card class="text-center reveal-calendar">
               <div class="overlay-calendar">
                 <div
@@ -50,7 +52,6 @@
                     <span>
                       {{ article.calendrier }}
                     </span>
-                    décembre
                   </b-card-title>
                 </div>
               </div>
@@ -66,7 +67,7 @@
                 </nuxt-link>
               </div>
             </b-card>
-          </b-col> -->
+          </b-col>
           <b-col class="mb-5">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
@@ -339,7 +340,7 @@ export default {
         'published'
       ])
       .sortBy('id', 'asc')
-      .where({ event: 'Noël 2021' })
+      .where({ event: 'Noël 20211' })
       .limit(24)
       .fetch()
     return {
@@ -348,7 +349,7 @@ export default {
   },
   data() {
     return {
-      title: "Calendrier de l'avent 2020"
+      title: "Calendrier de l'avent 2021"
     }
   },
   head() {

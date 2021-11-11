@@ -501,6 +501,21 @@ article {
     color : #FFF;
 }
 
+.noel-2021 .glow {
+    color: #fff;
+    animation: glow 1s ease-in-out infinite alternate;
+  }
+  
+  @-webkit-keyframes glow1 {
+    from {
+      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    }
+    
+    to {
+      text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+    }
+  }
+
 .saint-valentin .lead a {
     color: #ffd9e0;
 }
@@ -568,7 +583,14 @@ article {
 }
 
 .noel.noel-2021 .card {
-    height:48vh;
+    height:460px;
+    border : 5px solid #A66A21;
+}
+
+.noel.noel-2021 .card.reveal-calendar {
+    background-color: #BFA065;
+    background-image : url(~assets/images/pattern-noel-2021.jpg);
+
 }
 
 .noel.noel-2021 .card-body {
@@ -576,6 +598,7 @@ article {
         font-size: 1.5rem;
         span {
             font-size: 4rem;
+            color: #A66A21;
         }
     }
 }
@@ -585,19 +608,31 @@ article {
     display: block;
     padding: 0;
     .card-title {
-        text-shadow: 0 0 10px #000; 
-        color: #fff;
-        padding-top: 80px;
+        box-shadow: 0 0 20px #F2CF8D; 
+        text-shadow: none;
+        text-align: center;
+        line-height: 44px;
+        background: rgb(0,101,35);
+        background: radial-gradient(circle, rgba(0,101,35,1) 0%, rgba(0,73,25,1) 60%);
+        position: relative;
+        left:15px;
+        top:15px;
+        width: 50px;
+        height: 50px;
+        border-radius: 25px;
         span {
             display: block;
-            color: #fff;
+            font-size: 2rem;
+            color: #F2CF8D;
         }
+        
     }
     .title-recipe {
         padding-top: 20px;
-        font-size: 1.3rem;
+        font-size: 1.2rem;
         font-weight: 600;
         line-height: 1.35rem;
+        text-shadow: 0 0 10px #F2DCB3;
     }
     .link {
         color:#8C0D17;
@@ -606,7 +641,7 @@ article {
         text-decoration-color: rgba($color: #8C0D17, $alpha: 0.5);
     }
     .link:hover {
-        color:#202020;
+        text-shadow: 0 0 10px #F2F2F2;
     }
 }
 
@@ -621,9 +656,13 @@ article {
 .noel.noel-2021 .card .overlay-calendar {
     .overlay-container {
         width: 100%;
-        height: 250px;
+        height: 300px;
         background-size: cover;
     }
+}
+
+.noel.noel-2021 .card.reveal-calendar .overlay-calendar .overlay-container {
+        box-shadow: 0 0 15px #F2CF8D; 
 }
 
 .noel .card.reveal-calendar:hover {
@@ -804,6 +843,14 @@ a.see-more:hover {
     background-color: #BF1131;
     background-image : url(~assets/images/pattern-noel.svg);
     min-height: 100vh;
+}
+
+.noel.noel-2021 {
+    background-color: #BF1131;
+    box-shadow:
+      inset 60px 0 120px #8C0D17,
+      inset -60px 0 120px #FF084A;
+    background-image: none;
 }
 
 .saint-valentin {
