@@ -20,7 +20,7 @@
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>
           <b-col class="intro mt-5 mb-3">
-            <h1 class="glow">
+            <h1 class="glow mb-3">
               24 recettes pour mon calendrier de l'avent 2021
             </h1>
             <p class="lead">
@@ -340,7 +340,7 @@ export default {
         'published'
       ])
       .sortBy('id', 'asc')
-      .where({ event: 'Noël 20211' })
+      .where({ event: 'Noël 2021' })
       .limit(24)
       .fetch()
     return {

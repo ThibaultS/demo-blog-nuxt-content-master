@@ -20,7 +20,7 @@
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row class="mb-2">
           <b-col>
-            <h1>Bienvenue sur le site des recettes de Josie</h1>
+            <h1>Les recettes de Josie</h1>
             <p class="lead lead-home mt-4">
               Chaque semaine, je publie 3 recettes sur une thématique et je
               conclue la semaine en beauté avec un dessert. Venez me suivre sur

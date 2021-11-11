@@ -499,22 +499,13 @@ article {
 
 .noel h1 {
     color : #FFF;
+    text-align: center;
 }
 
 .noel-2021 .glow {
-    color: #fff;
-    animation: glow 1s ease-in-out infinite alternate;
-  }
-  
-  @-webkit-keyframes glow1 {
-    from {
-      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
-    }
-    
-    to {
-      text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
-    }
-  }
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #f2cf8d, 0 0 40px #f2cf8d, 0 0 50px #f2cf8d, 0 0 60px #f2cf8d;
+}
+
 
 .saint-valentin .lead a {
     color: #ffd9e0;
@@ -634,6 +625,7 @@ article {
         line-height: 1.35rem;
         text-shadow: 0 0 10px #F2DCB3;
     }
+
     .link {
         color:#8C0D17;
         font-weight: 800;
@@ -846,11 +838,25 @@ a.see-more:hover {
 }
 
 .noel.noel-2021 {
-    background-color: #BF1131;
     box-shadow:
       inset 60px 0 120px #8C0D17,
-      inset -60px 0 120px #FF084A;
-    background-image: none;
+      inset -60px 0 120px #bf1131;
+    background: linear-gradient(-45deg, #df2749, #bf1131, #8C0D17, #CE2342);
+	background-size: 200% 300%;
+    animation: gradient 10s ease infinite;
+}
+
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
 }
 
 .saint-valentin {
