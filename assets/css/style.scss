@@ -70,7 +70,7 @@ nav.customnav {
 }
 .container-lg {
     max-width: none;
-    padding-top: 7rem;
+    padding-top: 5.5rem;
 }
 
 h1 {
@@ -264,6 +264,10 @@ article .icon-insta:hover i ,article .icon-insta:focus i  {
     white-space: nowrap;
     width: 100%;
     background-color: #efe5dc;
+}
+
+.noel .search-container {
+    display: none;
 }
 
 
@@ -519,7 +523,7 @@ article {
     margin: 0 auto;
     text-align: center;
     color: #253237;
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     background-color: #BFA065;
     background-image : url(~assets/images/pattern-horizontal-noel-2021.jpg);
     background-size: cover;
@@ -530,12 +534,12 @@ article {
         box-shadow: 0 0 15px #F2CF8D; 
         text-shadow: none;
         text-align: center;
-        line-height: 44px;
+        line-height: 45px;
         background: rgb(0,101,35);
         background: radial-gradient(circle, rgba(0,101,35,1) 0%, rgba(0,73,25,1) 60%);
         width: 50px;
         height: 50px;
-        margin: 5px;
+        margin: 3px;
         border-radius: 25px;
         color: #F2CF8D;
     }
@@ -1106,6 +1110,10 @@ a.see-more:hover {
             margin-bottom: 20px;
             margin-right: 0;
         }
+    }
+    
+    .noel .search-container {
+        display: block;
     }
 }
 
