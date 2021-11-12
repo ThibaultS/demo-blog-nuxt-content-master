@@ -73,6 +73,11 @@ nav.customnav {
     padding-top: 7rem;
 }
 
+h1 {
+    text-align: center;
+    color:#F73A64;
+}
+
 h1::first-letter {
     text-transform: uppercase;
 }
@@ -111,17 +116,33 @@ h2.subtitle-home {
 article h1 {
     font-size: 3rem;
     color: #F73A64;
+    text-align: left;
 }
 
 article h2 {
     border-bottom: 4px solid #F73A64;
 }
 
-article li {
+.search-list-recipes {
+    background-color: #fff;
+    overflow-x: hidden !important;
+    width: auto;
+    position: absolute;
+    max-height: 60vh;
+    overflow-y: auto;
+    >li {
+        padding: 0.4rem;
+    }
+    a {
+        color:#000;
+    }
+}
+
+article .markdown-body li {
     list-style-type: none;
 }
 
-article li::before {
+article .markdown-body li::before {
     color: #F73A64;
     content : "•";
     padding-right: 0.7rem;
@@ -245,20 +266,7 @@ article .icon-insta:hover i ,article .icon-insta:focus i  {
     background-color: #efe5dc;
 }
 
-.search-list-recipes {
-    background-color: #fff;
-    overflow-x: hidden !important;
-    width: auto;
-    position: absolute;
-    max-height: 60vh;
-    overflow-y: auto;
-    >li {
-        padding: 0.4rem;
-    }
-    a {
-        color:#000;
-    }
-}
+
 
 .search-container-home .search-recipes {
     font-size: 1.5rem;
@@ -505,6 +513,33 @@ article {
 .noel-2021 .glow {
     text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #f2cf8d, 0 0 40px #f2cf8d, 0 0 50px #f2cf8d, 0 0 60px #f2cf8d;
 }
+
+.noel-2021 h2.baseline {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    color: #253237;
+    font-size: 1.8rem;
+    background-color: #BFA065;
+    background-image : url(~assets/images/pattern-horizontal-noel-2021.jpg);
+    background-size: cover;
+    border : 5px solid #A66A21;
+    padding:5px;
+    span {
+        display: inline-block;
+        box-shadow: 0 0 15px #F2CF8D; 
+        text-shadow: none;
+        text-align: center;
+        line-height: 44px;
+        background: rgb(0,101,35);
+        background: radial-gradient(circle, rgba(0,101,35,1) 0%, rgba(0,73,25,1) 60%);
+        width: 50px;
+        height: 50px;
+        margin: 5px;
+        border-radius: 25px;
+        color: #F2CF8D;
+    }
+}  
 
 
 .saint-valentin .lead a {
@@ -839,11 +874,10 @@ a.see-more:hover {
 
 .noel.noel-2021 {
     box-shadow:
-      inset 60px 0 120px #8C0D17,
-      inset -60px 0 120px #bf1131;
-    background: linear-gradient(-45deg, #df2749, #bf1131, #8C0D17, #df2749);
-	background-size: 200% 300%;
-    animation: gradient 10s ease infinite;
+      inset 60px 0 120px #df2749,
+      inset 0 0 120px #bf1131;
+    background: linear-gradient(-38deg,#bf1131, #8C0D17,#8C0D17, #df2749, #8C0D17);
+	background-size: 100% 100%;
 }
 
 

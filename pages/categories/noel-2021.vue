@@ -20,13 +20,17 @@
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>
           <b-col class="intro mb-3">
-            <h1 class="glow mb-4">
-              24 recettes pour mon calendrier de l'avent 2021
-            </h1>
+            <h1 class="glow mb-3">Calendrier de l'avent 2021</h1>
+            <h2 class="baseline mb-4">
+              <span>24</span>
+              recettes en
+              <span>24</span>
+              jours
+            </h2>
             <p class="lead">
               Noël est vraiment ma période préférée de l'année ! Le sapin, les
               cadeaux, l'ambiance générale, mais surtout des repas avec nos
-              proches avec des recettes gourmandes. Pour l'occasion et comme
+              proches avec des recettes gourmandes. Pour l'occasion, et comme
               l'an dernier, je vous propose une recette chaque jour du mois de
               décembre, en guise de calendrier de l'avent ! Retrouvez chaque
               jour sur cette page et sur mon compte
