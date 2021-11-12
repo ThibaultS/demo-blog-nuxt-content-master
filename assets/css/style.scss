@@ -404,7 +404,7 @@ article {
 
 .noel .intro .lead,.saint-valentin .intro .lead {
     color:#CBB1A4;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 
 .halloween .intro .lead {
@@ -841,7 +841,7 @@ a.see-more:hover {
     box-shadow:
       inset 60px 0 120px #8C0D17,
       inset -60px 0 120px #bf1131;
-    background: linear-gradient(-45deg, #df2749, #bf1131, #8C0D17, #CE2342);
+    background: linear-gradient(-45deg, #df2749, #bf1131, #8C0D17, #df2749);
 	background-size: 200% 300%;
     animation: gradient 10s ease infinite;
 }
@@ -1098,6 +1098,9 @@ a.see-more:hover {
     }
     .card-columns {
         column-count: 3;
+    }
+    .noel .intro .lead,.saint-valentin .intro .lead {
+        font-size: 1.5rem;
     }
 }
 

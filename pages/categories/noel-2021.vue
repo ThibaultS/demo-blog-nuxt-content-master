@@ -19,8 +19,8 @@
       </b-navbar>
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>
-          <b-col class="intro mt-5 mb-3">
-            <h1 class="glow mb-3">
+          <b-col class="intro mb-3">
+            <h1 class="glow mb-4">
               24 recettes pour mon calendrier de l'avent 2021
             </h1>
             <p class="lead">
