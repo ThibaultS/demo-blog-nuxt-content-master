@@ -20,13 +20,16 @@
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>
           <b-col class="intro mb-3">
-            <h1 class="glow mb-3">Calendrier de l'avent 2021</h1>
-            <h2 class="baseline mb-4">
-              <span>24</span>
-              recettes en
-              <span>24</span>
-              jours
-            </h2>
+            <div class="golden-block mb-3">
+              <h1 class="glow mt-4">Calendrier de l'avent 2021</h1>
+              <!-- <h2 class="baseline mb-4">
+                <span>24</span>
+                recettes en
+                <span>24</span>
+                jours
+              </h2> -->
+              <h2 class="baseline2 mb-4">24 recettes en 24 jours</h2>
+            </div>
             <p class="lead">
               Noël est vraiment ma période préférée de l'année ! Le sapin, les
               cadeaux, l'ambiance générale, mais surtout des repas avec nos
@@ -45,7 +48,7 @@
           </b-col>
         </b-row>
         <b-row class="row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-4">
-          <b-col v-for="article of articles" :key="article.slug" class="mb-5">
+          <b-col v-for="article of articles" :key="article.slug" class="mb-4">
             <b-card class="text-center reveal-calendar">
               <div class="overlay-calendar">
                 <div
@@ -72,7 +75,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -87,7 +90,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -97,7 +100,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -107,7 +110,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -117,7 +120,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -127,7 +130,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -137,7 +140,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -147,7 +150,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -157,7 +160,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -167,7 +170,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -177,7 +180,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -187,7 +190,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -197,7 +200,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -207,7 +210,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -217,7 +220,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -227,7 +230,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -237,7 +240,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -247,7 +250,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -257,7 +260,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -267,7 +270,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -277,7 +280,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -287,7 +290,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -297,7 +300,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -307,7 +310,7 @@
               </div>
             </b-card>
           </b-col>
-          <b-col class="mb-5">
+          <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">

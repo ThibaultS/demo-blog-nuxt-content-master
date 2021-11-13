@@ -114,9 +114,14 @@ h2.subtitle-home {
 }
 
 article h1 {
-    font-size: 3rem;
     color: #F73A64;
+    font-size: 3rem;
     text-align: left;
+}
+
+article h1.noel-title {
+    color: #8C0D17;
+    text-shadow: 0 0 10px #fff, 0 0 20px #f2cf8d, 0 0 30px #f2cf8d;
 }
 
 article h2 {
@@ -510,25 +515,30 @@ article {
 }
 
 .noel h1 {
-    color : #FFF;
+    color : #fff;
     text-align: center;
+    padding-top: 5px;
 }
 
-.noel-2021 .glow {
-    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #f2cf8d, 0 0 40px #f2cf8d, 0 0 50px #f2cf8d, 0 0 60px #f2cf8d;
+.noel-2021 h1.glow {
+    color : #8C0D17;
+    text-shadow: 0 0 6px rgb(255, 251, 239), 0 0 20px #f2cf8d, 0 0 30px #f2cf8d, 0 0 40px #f2cf8d;
 }
 
-.noel-2021 h2.baseline {
-    max-width: 500px;
+.noel-2021 .golden-block {
     margin: 0 auto;
-    text-align: center;
-    color: #253237;
-    font-size: 1.6rem;
+    max-width: 700px;
     background-color: #BFA065;
     background-image : url(~assets/images/pattern-horizontal-noel-2021.jpg);
     background-size: cover;
-    border : 5px solid #A66A21;
-    padding:5px;
+    box-shadow:0 0 0 2px #8C0D17, 0 0 0 10px #BFA065;
+}
+
+.noel-2021 h2.baseline {
+    text-align: center;
+    color: #253237;
+    font-size: 1.4rem;
+    padding-bottom:5px;
     span {
         display: inline-block;
         box-shadow: 0 0 15px #F2CF8D; 
@@ -543,7 +553,15 @@ article {
         border-radius: 25px;
         color: #F2CF8D;
     }
-}  
+}
+
+.noel-2021 h2.baseline2 {
+    text-align: center;
+    color: rgb(0,101,35);
+    font-size: 2.7rem;
+    padding-bottom:15px;
+    font-family: 'Engagement', cursive;
+} 
 
 
 .saint-valentin .lead a {
@@ -614,13 +632,15 @@ article {
 
 .noel.noel-2021 .card {
     height:460px;
-    border : 5px solid #A66A21;
+    border: none;
+    border-radius: 0;
+    box-shadow:inset 0 0 0 4px #8C0D17,0 0 0 2px #BFA065, 0 0 0 10px #8C0D17;
 }
 
 .noel.noel-2021 .card.reveal-calendar {
     background-color: #BFA065;
     background-image : url(~assets/images/pattern-noel-2021.jpg);
-
+    box-shadow:0 0 0 2px #8C0D17, 0 0 0 10px #BFA065;
 }
 
 .noel.noel-2021 .card-body {
@@ -628,7 +648,7 @@ article {
         font-size: 1.5rem;
         span {
             font-size: 4rem;
-            color: #A66A21;
+            color: rgb(0,101,35);;
         }
     }
 }
@@ -641,7 +661,7 @@ article {
         box-shadow: 0 0 20px #F2CF8D; 
         text-shadow: none;
         text-align: center;
-        line-height: 44px;
+        line-height: 45px;
         background: rgb(0,101,35);
         background: radial-gradient(circle, rgba(0,101,35,1) 0%, rgba(0,73,25,1) 60%);
         position: relative;
@@ -693,7 +713,7 @@ article {
 }
 
 .noel.noel-2021 .card.reveal-calendar .overlay-calendar .overlay-container {
-        box-shadow: 0 0 15px #F2CF8D; 
+        box-shadow: inset 0 0 20px #F2CF8D; 
 }
 
 .noel .card.reveal-calendar:hover {
@@ -1134,6 +1154,11 @@ a.see-more:hover {
         color: #fff;
         text-shadow:0 0 20px rgba(132,87,76,1);
         width:75vh;
+    }
+
+    article h1.noel-title {
+        color: #fff;
+        text-shadow:0 0 20px rgba(132,87,76,1);
     }
     .lg\:h-full {
         height: 100%;

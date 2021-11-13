@@ -27,12 +27,21 @@
       <div
         class="relative xs:py-8 xs:px-8 lg:py-32 lg:px-16 lg:w-1/2 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
       >
-        <h1>{{ article.title }}</h1>
+        <h1 v-if="article.event != 'Noël 2021'">{{ article.title }}</h1>
+        <h1 v-if="article.event == 'Noël 2021'" class="noel-title">
+          🎄 {{ article.title }}
+        </h1>
         <p v-if="article.description" class="lead">
           {{ article.description }}
         </p>
         <b-card class="mb-4 bg-secondary">
           <div class="detail-infos-card">
+            <div v-if="article.event == 'Noël 2021'">
+              <i class="fas fa-gift"></i>
+              <a href="/categories/noel-2021" class="link">
+                Recette de Noël 2021
+              </a>
+            </div>
             <div v-if="article.theme == 'Pâtes'">
               Thème : <a href="/categories/pates" class="link">Pâtes</a>
             </div>
@@ -151,6 +160,13 @@
             en lien avec cette recette.
           </p>
           <div>
+            <a
+              v-if="article.event == 'Noël 2021'"
+              href="/categories/noel-2021"
+              class="link mr-2"
+            >
+              Recette de Noël 2021
+            </a>
             <a
               v-if="article.time < 31"
               class="link mr-2"

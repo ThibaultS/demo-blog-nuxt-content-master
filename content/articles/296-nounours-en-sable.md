@@ -17,8 +17,8 @@ sweety_salty :
 veggie : 
 country : 
 inspiration : 
-event : Noël 2021
-calendrier: 23
+event : 
+calendrier: 
 difficulty : Difficile
 recipeYield : 10 à 15 biscuits
 time : 120

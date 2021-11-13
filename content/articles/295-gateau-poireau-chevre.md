@@ -17,8 +17,8 @@ sweety_salty :
 veggie : 1
 country : 
 inspiration : 
-event : Noël 2021
-calendrier: 3
+event :
+calendrier: 
 difficulty : Moyen
 recipeYield : 1 gâteau de 4 à 6 parts
 time : 55

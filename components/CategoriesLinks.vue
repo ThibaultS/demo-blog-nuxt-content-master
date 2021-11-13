@@ -1,12 +1,12 @@
 <template>
   <b-col>
     Suggestions :
-    <a href="/categories/halloween" class="link mr-2">
-      Halloween
+    <a href="/categories/noel" class="link mr-2">
+      Calendrier de l'avent 2020
       <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
     </a>
-    <a href="/categories/noel" class="link mr-2">
-      Noël
+    <a href="/categories/halloween" class="link mr-2">
+      Halloween
       <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
     </a>
     <a href="/categories/soupes-et-veloutes" class="link mr-2">

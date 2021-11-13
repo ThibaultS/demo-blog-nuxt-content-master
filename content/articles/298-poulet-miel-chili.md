@@ -3,15 +3,15 @@ id: 298
 title: Poulet au chili et au miel, frites de patate douce et de carotte
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1636707262/Recipes/20211111_poulet_miel_chili.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1636707262/Recipes/20211111_poulet_miel_chili.jpg
-thumbnail_noel: 
+thumbnail_noel: url(https://res.cloudinary.com/thibaults/image/upload/t_carre/v1636707262/Recipes/20211111_poulet_miel_chili.jpg)
 url: https://www.instagram.com/p/CWJCd5vIW33/
 date : '2021-11-11'
-description: "Il y a tellement de saveurs dans ce poulet au chili et au miel accompagné de frites de patate douce, de carotte et d'une sauce blanche à la coriandre ! "
+description: "Il y a tellement de saveurs dans ce poulet au chili et au miel accompagné de frites de patate douce, de carotte et d'une sauce blanche à la coriandre !"
 bkg : 
 alt: 
 inspiration : 
-event :
-calendrier:
+event : 
+calendrier: 
 tag : 
 theme : 
 main_ingredient : Poulet

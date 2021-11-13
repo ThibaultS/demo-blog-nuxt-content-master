@@ -53,7 +53,8 @@ export default {
     // Doc: https://github.com/nuxt-community/stylelint-module
     '@nuxtjs/stylelint-module',
     // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
-    '@nuxtjs/tailwindcss'
+    '@nuxtjs/tailwindcss',
+    '@nuxtjs/google-fonts'
   ],
   /*
    ** Nuxt.js modules
@@ -95,6 +96,17 @@ export default {
   build: {
     babel: {
       compact: true
+    }
+  },
+  googleFonts: {
+    preconnect: true,
+    prefetch: true,
+    preload: true,
+    families: {
+      Roboto: true,
+      'Josefin+Sans': true,
+      'Crimson+Text': true,
+      Engagement: true
     }
   }
 }

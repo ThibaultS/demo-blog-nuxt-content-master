@@ -3,15 +3,15 @@ id: 297
 title: Poêlée à la grecque poulet, orzo, tomates, feta et tzatziki
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1636639288/Recipes/20211110_poele_a_la_grecque.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1636639288/Recipes/20211110_poele_a_la_grecque.jpg
-thumbnail_noel: url(https://res.cloudinary.com/thibaults/image/upload/t_carre/v1636639288/Recipes/20211110_poele_a_la_grecque.jpg)
+thumbnail_noel: 
 url: https://www.instagram.com/p/CWGqbSNo1vH/
 date : '2021-11-10'
 description: "Essayez donc cette recette qui sent bon la Grèce ! Au menu : du poulet au paprika, des poivrons, des olives, de la feta et du tzatziki !"
 bkg : 
 alt: 
 inspiration : 
-event : Noël 2021
-calendrier: 24
+event : 
+calendrier: 
 tag : 
 theme : Pâtes
 main_ingredient : Poulet
