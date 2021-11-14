@@ -653,6 +653,30 @@ article {
     }
 }
 
+.noel .card.push-christmas {
+    display: block;
+    box-shadow:inset 0 0 0 4px #8C0D17,0 0 0 2px #BFA065, 0 0 0 10px #8C0D17;
+    height: inherit;
+    background-image : url(~assets/images/pattern-noel-card.svg);
+    background-color: #F2EADF;
+    background-size: 30%;
+    border-radius: 0;
+    .card-title {
+        color: #8C0D17;
+        font-size: 1.9rem;
+    }
+    .card-body {
+        display: block;
+        .lead {
+            color: #A66A21;
+            font-size: 1.4rem;
+        }
+        .link {
+            color: #8C0D17;
+        }     
+    }
+} 
+
 
 .noel.noel-2021 .card.reveal-calendar .card-body {    
     display: block;

@@ -321,6 +321,32 @@
             </b-card>
           </b-col>
         </b-row>
+        <footer>
+          <b-row>
+            <b-col>
+              <b-card
+                class="push-category push-event push-christmas mt-4 mb-4 pt-10 text-center"
+              >
+                <b-card-title title-tag="h2">
+                  Mon calendrier de l'avent 2020
+                </b-card-title>
+                <b-card-text class="lead">
+                  Retrouvez les 24 recettes que j'ai réalisé pour les fêtes de
+                  fin d'année 2020. De quoi patienter en attendant la découverte
+                  des recettes de cette année.
+                </b-card-text>
+                <nuxt-link
+                  role="button"
+                  target="_self"
+                  to="/categories/noel"
+                  class="link"
+                >
+                  Découvrir
+                </nuxt-link>
+              </b-card>
+            </b-col>
+          </b-row>
+        </footer>
       </b-container>
     </div>
   </div>

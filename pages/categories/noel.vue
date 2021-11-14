@@ -72,6 +72,32 @@
             </b-card>
           </b-col> -->
         </b-row>
+        <footer>
+          <b-row>
+            <b-col>
+              <b-card
+                class="push-category push-event push-christmas mb-4 pt-10 text-center"
+              >
+                <b-card-title title-tag="h2">
+                  Mon calendrier de l'avent 2021
+                </b-card-title>
+                <b-card-text class="lead">
+                  Cette année encore, en 2021, je vous propose 24 recettes en 24
+                  jours pour vous donner plein d'idées pour vos repas de noël.
+                  Chaque jour, découvrez une nouvelle recette.
+                </b-card-text>
+                <nuxt-link
+                  role="button"
+                  target="_self"
+                  to="/categories/noel-2021"
+                  class="link"
+                >
+                  Découvrir
+                </nuxt-link>
+              </b-card>
+            </b-col>
+          </b-row>
+        </footer>
       </b-container>
     </div>
   </div>

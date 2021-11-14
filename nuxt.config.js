@@ -26,8 +26,19 @@ export default {
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }],
     script: [
-      { src: 'https://kit.fontawesome.com/0bafaa22a3.js' },
-      { crossorigin: 'anonymous' }
+      {
+        src: 'https://kit.fontawesome.com/0bafaa22a3.js',
+        crossorigin: 'anonymous'
+      },
+      {
+        src:
+          'https://cmp.osano.com/Azyw8hSD6Ryyh6hb/ab0011f7-c456-425f-9db9-75f49f676558/osano.js'
+      },
+      {
+        src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
+        'data-ad-client': 'ca-pub-4925011117186251',
+        async: true
+      }
     ]
   },
   /*
@@ -67,6 +78,7 @@ export default {
     '@nuxtjs/sitemap'
   ],
   gtm: {
+    autoInit: false,
     id: 'GTM-MX36K52'
   },
   /*
