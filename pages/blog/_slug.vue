@@ -31,6 +31,10 @@
         <h1 v-if="article.event == 'Noël 2021'" class="noel-title">
           🎄 {{ article.title }}
         </h1>
+        <div v-if="article.event == 'Noël 2021'" class="big-lead">
+          Recette du {{ article.calendrier }} décembre de mon calendrier de
+          l'avent 2021
+        </div>
         <p v-if="article.description" class="lead">
           {{ article.description }}
         </p>
@@ -152,7 +156,48 @@
             <em>Publiée le {{ formatDate(article.date) }}</em>
           </div>
         </b-card>
+        <b-card
+          v-if="article.event == 'Noël 2021'"
+          class="push-category push-event push-christmas mb-4 pt-2 pb-2 text-center"
+        >
+          <b-card-title title-tag="h3">
+            Mon calendrier de l'avent 2021
+          </b-card-title>
+          <b-card-text class="lead">
+            Cette année encore, je vous propose 24 recettes en 24 jours pour
+            vous donner plein d'idées pour vos repas de noël. Chaque jour,
+            découvrez une nouvelle recette.
+          </b-card-text>
+          <nuxt-link
+            role="button"
+            target="_self"
+            to="/categories/noel-2021"
+            class="link"
+          >
+            Découvrir
+          </nuxt-link>
+        </b-card>
         <nuxt-content :document="article" />
+        <!-- <b-card
+          class="push-category push-event push-christmas mb-4 pt-2 pb-2 text-center"
+        >
+          <b-card-title title-tag="h3">
+            Mon calendrier de l'avent 2021
+          </b-card-title>
+          <b-card-text class="lead">
+            Cette année encore, je vous propose 24 recettes en 24 jours pour
+            vous donner plein d'idées pour vos repas de noël. Chaque jour,
+            découvrez une nouvelle recette.
+          </b-card-text>
+          <nuxt-link
+            role="button"
+            target="_self"
+            to="/categories/noel-2021"
+            class="link"
+          >
+            Découvrir
+          </nuxt-link>
+        </b-card> -->
         <div class="mb-3 rebound-block">
           <h2>Cela pourrait vous intéresser</h2>
           <p>
