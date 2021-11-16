@@ -42,6 +42,18 @@
           <CategoriesLinks />
         </b-row>
         <b-row>
+          <div class="mb-4">
+            <ins
+              class="adsbygoogle adsonhome"
+              style="display: block"
+              data-ad-client="ca-pub-4925011117186251"
+              data-ad-slot="9352922518"
+              data-ad-format="horizontal"
+              data-full-width-responsive="true"
+            ></ins>
+          </div>
+        </b-row>
+        <b-row>
           <b-col>
             <h2 class="subtitle-home mb-2">Mes dernières recettes publiées</h2>
           </b-col>
@@ -111,16 +123,6 @@
             </div>
           </b-col>
         </b-row>
-        <b-row>
-          <ins
-            class="adsbygoogle"
-            style="display: block"
-            data-ad-client="ca-pub-4925011117186251"
-            data-ad-slot="9352922518"
-            data-ad-format="auto"
-            data-full-width-responsive="true"
-          ></ins>
-        </b-row>
       </b-container>
     </div>
   </div>
@@ -175,7 +177,7 @@ export default {
           ;(window.adsbygoogle = window.adsbygoogle || []).push({})
           // console.log('goof')
         } catch (error) {
-          console.error(error)
+          // console.error(error)
         }
       })
     }

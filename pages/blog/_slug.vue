@@ -177,6 +177,18 @@
             Découvrir
           </nuxt-link>
         </b-card>
+        <b-row>
+          <div class="mb-4">
+            <ins
+              class="adsbygoogle adsonhome"
+              style="display: block"
+              data-ad-client="ca-pub-4925011117186251"
+              data-ad-slot="9352922518"
+              data-ad-format="horizontal"
+              data-full-width-responsive="true"
+            ></ins>
+          </div>
+        </b-row>
         <nuxt-content :document="article" />
         <!-- <b-card
           class="push-category push-event push-christmas mb-4 pt-2 pb-2 text-center"
@@ -406,10 +418,34 @@ export default {
       last
     }
   },
+  mounted() {
+    this.showAd()
+    this.showImg()
+  },
   methods: {
     formatDate(date) {
       const options = { year: 'numeric', month: 'long', day: 'numeric' }
       return new Date(date).toLocaleDateString('fr', options)
+    },
+    showAd() {
+      this.show = true
+      // console.log('updateAd')
+
+      this.$nextTick(() => {
+        try {
+          // Once ad container (<ins>) DOM has (re-)rendered, requesst a new advert
+          ;(window.adsbygoogle = window.adsbygoogle || []).push({})
+          // console.log('goof')
+        } catch (error) {
+          // console.error(error)
+        }
+      })
+    },
+    showImg() {
+      setTimeout(function () {
+        const flex = document.getElementsByClassName('flex')[0]
+        flex.setAttribute('style', '')
+      }, 700)
     }
   },
   head() {
