@@ -111,6 +111,16 @@
             </div>
           </b-col>
         </b-row>
+        <b-row>
+          <ins
+            class="adsbygoogle"
+            style="display: block"
+            data-ad-client="ca-pub-4925011117186251"
+            data-ad-slot="9352922518"
+            data-ad-format="auto"
+            data-full-width-responsive="true"
+          ></ins>
+        </b-row>
       </b-container>
     </div>
   </div>
@@ -149,6 +159,25 @@ export default {
   data() {
     return {
       title: 'Les dernières recettes de Josie'
+    }
+  },
+  mounted() {
+    this.showAd()
+  },
+  methods: {
+    showAd() {
+      this.show = true
+      // console.log('updateAd')
+
+      this.$nextTick(() => {
+        try {
+          // Once ad container (<ins>) DOM has (re-)rendered, requesst a new advert
+          ;(window.adsbygoogle = window.adsbygoogle || []).push({})
+          // console.log('goof')
+        } catch (error) {
+          // console.error(error)
+        }
+      })
     }
   },
   head() {
