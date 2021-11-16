@@ -178,13 +178,13 @@
           </nuxt-link>
         </b-card>
         <b-row>
-          <div class="mb-4">
+          <div class="mb-4 ads-container">
             <ins
-              class="adsbygoogle adsonhome"
+              class="adsbygoogle adsonsite adsonarticle"
               style="display: block"
               data-ad-client="ca-pub-4925011117186251"
               data-ad-slot="9352922518"
-              data-ad-format="horizontal"
+              data-ad-format="vertical"
               data-full-width-responsive="true"
             ></ins>
           </div>

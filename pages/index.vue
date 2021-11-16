@@ -42,9 +42,9 @@
           <CategoriesLinks />
         </b-row>
         <b-row>
-          <div class="mb-4">
+          <div class="mb-4 ads-container">
             <ins
-              class="adsbygoogle adsonhome"
+              class="adsbygoogle adsonsite adsonhome"
               style="display: block"
               data-ad-client="ca-pub-4925011117186251"
               data-ad-slot="9352922518"
