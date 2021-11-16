@@ -175,7 +175,7 @@ export default {
           ;(window.adsbygoogle = window.adsbygoogle || []).push({})
           // console.log('goof')
         } catch (error) {
-          // console.error(error)
+          console.error(error)
         }
       })
     }
