@@ -184,7 +184,7 @@
               style="display: block"
               data-ad-client="ca-pub-4925011117186251"
               data-ad-slot="9352922518"
-              data-ad-format="vertical"
+              data-ad-format="horizontal"
               data-full-width-responsive="true"
             ></ins>
           </div>
