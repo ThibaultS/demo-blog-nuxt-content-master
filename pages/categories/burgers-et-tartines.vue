@@ -39,6 +39,18 @@
             </p>
           </b-col>
         </b-row>
+        <b-row>
+          <div class="mb-4 ads-container">
+            <ins
+              class="adsbygoogle adsonsite adsonhome"
+              style="display: block"
+              data-ad-client="ca-pub-4925011117186251"
+              data-ad-slot="5914372396"
+              data-ad-format="horizontal"
+              data-full-width-responsive="true"
+            ></ins>
+          </div>
+        </b-row>
         <b-row
           id="posts"
           class="row-cols-1 row-cols-sm-1 row-cols-lg-1 row-cols-xl-2"
@@ -134,6 +146,25 @@ export default {
   data() {
     return {
       title: 'Mes recettes de burgers et tartines'
+    }
+  },
+  mounted() {
+    this.showAd()
+  },
+  methods: {
+    showAd() {
+      this.show = true
+      // console.log('updateAd')
+
+      this.$nextTick(() => {
+        try {
+          // Once ad container (<ins>) DOM has (re-)rendered, requesst a new advert
+          ;(window.adsbygoogle = window.adsbygoogle || []).push({})
+          // console.log('goof')
+        } catch (error) {
+          // console.error(error)
+        }
+      })
     }
   },
   head() {

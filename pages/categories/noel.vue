@@ -34,6 +34,18 @@
             </p>
           </b-col>
         </b-row>
+        <b-row>
+          <div class="mb-4 ads-container">
+            <ins
+              class="adsbygoogle adsonsite adsonhome"
+              style="display: block"
+              data-ad-client="ca-pub-4925011117186251"
+              data-ad-slot="5914372396"
+              data-ad-format="horizontal"
+              data-full-width-responsive="true"
+            ></ins>
+          </div>
+        </b-row>
         <b-row class="row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-4">
           <b-col v-for="article of articles" :key="article.slug" class="mb-5">
             <b-card
@@ -133,6 +145,25 @@ export default {
   data() {
     return {
       title: "Calendrier de l'avent 2020"
+    }
+  },
+  mounted() {
+    this.showAd()
+  },
+  methods: {
+    showAd() {
+      this.show = true
+      // console.log('updateAd')
+
+      this.$nextTick(() => {
+        try {
+          // Once ad container (<ins>) DOM has (re-)rendered, requesst a new advert
+          ;(window.adsbygoogle = window.adsbygoogle || []).push({})
+          // console.log('goof')
+        } catch (error) {
+          // console.error(error)
+        }
+      })
     }
   },
   head() {

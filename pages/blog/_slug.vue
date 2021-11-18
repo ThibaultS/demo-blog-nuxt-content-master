@@ -151,6 +151,18 @@
             <a :href="article.url" target="_blank" class="icon-insta">
               <i class="fab fa-instagram fa-2x"></i>
             </a>
+            <a
+              id="pinbtn"
+              class="ml-1 icon-pin"
+              data-pin-do="buttonPin"
+              data-pin-custom="custom"
+              target="_top"
+              :href="
+                buildPinUrl(article.slug, article.img, article.description)
+              "
+            >
+              <i class="fab fa-pinterest fa-2x"></i>
+            </a>
           </div>
           <div>
             <em>Publiée le {{ formatDate(article.date) }}</em>
@@ -183,8 +195,8 @@
               class="adsbygoogle adsonsite adsonarticle"
               style="display: block"
               data-ad-client="ca-pub-4925011117186251"
-              data-ad-slot="9352922518"
-              data-ad-format="horizontal"
+              data-ad-slot="3273904797"
+              data-ad-format="rectangle"
               data-full-width-responsive="true"
             ></ins>
           </div>
@@ -423,6 +435,17 @@ export default {
     this.showImg()
   },
   methods: {
+    buildPinUrl(urlpin, urlmedia, description) {
+      return (
+        'https://pinterest.com/pin/create/button/?' +
+        'url=https://josies-recipes.netlify.app/' +
+        urlpin +
+        '&media=' +
+        urlmedia +
+        '&description=' +
+        description
+      )
+    },
     formatDate(date) {
       const options = { year: 'numeric', month: 'long', day: 'numeric' }
       return new Date(date).toLocaleDateString('fr', options)

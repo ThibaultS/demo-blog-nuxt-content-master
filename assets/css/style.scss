@@ -180,13 +180,17 @@ article .detail-infos-card {
     }
 }
 
-article .icon-insta i  {
+article .icon-insta i,  article .icon-pin i {
     color: #75513e;
     transition: ease-in 0.1s;
     -webkit-transition: ease-in 0.3s;
 }
+
+article .icon-pin i {
+    cursor: pointer;
+}
   
-article .icon-insta:hover i ,article .icon-insta:focus i  {
+article .icon-insta:hover i ,article .icon-insta:focus i, article .icon-pin:hover i,  article .icon-pin:focus i {
     color: #F73A64;
 }
 
@@ -672,7 +676,7 @@ article {
     .card-body {
         display: block;
         .lead {
-            color: #A66A21;
+            color: #8C0D17;
             font-size: 1.4rem;
         }
         .link {
@@ -1218,6 +1222,14 @@ a.see-more:hover {
     .noel .intro .lead,.saint-valentin .intro .lead {
         font-size: 1.5rem;
     }
+    .card.push-category.push-christmas {
+        .card-body {
+            .lead {
+                padding : 0 20vw;
+            } 
+        }
+    } 
+    
 }
 
 @media (min-width: 1440px){

@@ -38,6 +38,11 @@ export default {
         src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
         'data-ad-client': 'ca-pub-4925011117186251',
         async: true
+      },
+      {
+        src: 'https://assets.pinterest.com/js/pinit.js',
+        defer: true,
+        async: true
       }
     ]
   },

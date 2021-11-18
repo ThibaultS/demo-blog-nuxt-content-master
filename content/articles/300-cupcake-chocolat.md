@@ -34,7 +34,7 @@ published : 1
  - 4 œufs
  - Nutella
 
-Pour la crème :
+### Pour la crème au beurre :
  - 3 blancs d’œufs
  - 150g de sucre blanc
  - 250g de beurre mou
