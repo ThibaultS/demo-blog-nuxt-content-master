@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 thumbnail_noel: 
 url: https://www.instagram.com/p/CWbOXj1IElb/
 date : '2021-11-18'
-description: "Essayez donc ce gratin de patates douces chili et citron : un plat convivial pour les soirées d'hiver"
+description: "Essayez donc ce gratin de patates douces chili et citron : un plat convivial pour les soirées d'hiver."
 bkg : 
 alt: 
 inspiration : 

@@ -438,7 +438,7 @@ export default {
     buildPinUrl(urlpin, urlmedia, description) {
       return (
         'https://pinterest.com/pin/create/button/?' +
-        'url=https://josies-recipes.netlify.app/' +
+        'url=https://josies-recipes.netlify.app/blog/' +
         urlpin +
         '&media=' +
         urlmedia +
