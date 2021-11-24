@@ -47,6 +47,18 @@
             </p>
           </b-col>
         </b-row>
+        <b-row>
+          <div class="mb-4 ads-container">
+            <ins
+              class="adsbygoogle adsonsite adsonhome"
+              style="display: block"
+              data-ad-client="ca-pub-4925011117186251"
+              data-ad-slot="5914372396"
+              data-ad-format="horizontal"
+              data-full-width-responsive="true"
+            ></ins>
+          </div>
+        </b-row>
         <b-row class="row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-4">
           <b-col v-for="article of articles" :key="article.slug" class="mb-4">
             <b-card class="text-center reveal-calendar">
@@ -82,7 +94,10 @@
                   <b-card-title><span>1</span>décembre</b-card-title>
                   <b-card-footer>
                     Rendez-vous à 18h sur
-                    <a href="https://www.instagram.com/josiesrecipes/">
+                    <a
+                      href="https://www.instagram.com/josiesrecipes/"
+                      target="_blank"
+                    >
                       Instagram
                     </a>
                   </b-card-footer>
@@ -385,6 +400,25 @@ export default {
       title: "Calendrier de l'avent 2021"
     }
   },
+  mounted() {
+    this.showAd()
+  },
+  methods: {
+    showAd() {
+      this.show = true
+      // console.log('updateAd')
+
+      this.$nextTick(() => {
+        try {
+          // Once ad container (<ins>) DOM has (re-)rendered, requesst a new advert
+          ;(window.adsbygoogle = window.adsbygoogle || []).push({})
+          // console.log('goof')
+        } catch (error) {
+          // console.error(error)
+        }
+      })
+    }
+  },
   head() {
     return {
       title: this.title,
@@ -399,7 +433,7 @@ export default {
           hid: 'og:image',
           name: 'og:image',
           content:
-            'https://res.cloudinary.com/thibaults/image/upload/v1606424633/partage-noel.png'
+            'https://res.cloudinary.com/thibaults/image/upload/v1637764394/partage-noel-2021.png'
         }
       ]
     }

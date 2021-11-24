@@ -202,7 +202,7 @@
           </div>
         </b-row>
         <nuxt-content :document="article" />
-        <!-- <b-card
+        <b-card
           class="push-category push-event push-christmas mb-4 pt-2 pb-2 text-center"
         >
           <b-card-title title-tag="h3">
@@ -221,7 +221,7 @@
           >
             Découvrir
           </nuxt-link>
-        </b-card> -->
+        </b-card>
         <div class="mb-3 rebound-block">
           <h2>Cela pourrait vous intéresser</h2>
           <p>

@@ -685,9 +685,27 @@ article {
     }
 } 
 
+.push-event.push-category.push-christmas {
+    background: url(~assets/images/pattern-noel-21.svg),linear-gradient(-38deg,#bf1131, #8C0D17,#8C0D17, #df2749, #8C0D17);
+    color: #FFF;
+    .card-title {
+        color: #FFF;
+    }
+    .card-body {
+        .lead {
+            color: #FFF;
+            font-weight: 400;
+            font-size: 1.2rem;
+        }
+        .link {
+            color: #FFF;
+        }  
+    }
+}
+
 
 article .card.push-category.push-christmas {
-    background: url(~assets/images/pattern-noel.svg),linear-gradient(-38deg,#bf1131, #8C0D17,#8C0D17, #df2749, #8C0D17);
+    background: url(~assets/images/pattern-noel-21.svg),linear-gradient(-38deg,#bf1131, #8C0D17,#8C0D17, #df2749, #8C0D17);
     color: #FFF;
     .card-title {
         color: #FFF;
@@ -1226,6 +1244,14 @@ a.see-more:hover {
         .card-body {
             .lead {
                 padding : 0 20vw;
+            } 
+        }
+    } 
+
+    article .card.push-category.push-christmas {
+        .card-body {
+            .lead {
+                padding : 0 1vw;
             } 
         }
     } 
