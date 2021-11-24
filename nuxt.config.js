@@ -83,7 +83,6 @@ export default {
     '@nuxtjs/sitemap'
   ],
   gtm: {
-    autoInit: false,
     id: 'GTM-MX36K52'
   },
   /*
