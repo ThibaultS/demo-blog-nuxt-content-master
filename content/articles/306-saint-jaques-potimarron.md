@@ -20,7 +20,7 @@ country :
 sweety_salty : 
 veggie : 
 difficulty : Moyen
-recipeYield : 24 pièces
+recipeYield : 4 personnes
 time : 65
 published : 1
 
