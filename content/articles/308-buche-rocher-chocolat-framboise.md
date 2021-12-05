@@ -4,7 +4,7 @@ title: Bûche rocher au chocolat et à la framboise
 thumbnail_noel: url('https://res.cloudinary.com/thibaults/image/upload/t_carre/v1638623364/Recipes/20211204_buche_rocher_framboise.jpg')
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1638623364/Recipes/20211204_buche_rocher_framboise.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1638623364/Recipes/20211204_buche_rocher_framboise.jpg
-url: 
+url: https://www.instagram.com/p/CXEaG8lIR0K/
 date : '2021-12-04'
 description: "Cette bûche est un dessert qui se mérite ! Beaucoup de travail mais un résultat à la hauteur des attentes avec cette bûche rocher au chocolat et à la framboise."
 bkg : 
