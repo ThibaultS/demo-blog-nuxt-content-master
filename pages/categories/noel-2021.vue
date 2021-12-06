@@ -47,8 +47,8 @@
             </p>
           </b-col>
         </b-row>
-        <b-row>
-          <div class="mb-4 ads-container">
+        <b-row class="row-cols-1">
+          <div class="mb-4 ads-container col">
             <ins
               class="adsbygoogle adsonsite adsonhome"
               style="display: block"
@@ -176,7 +176,7 @@
                 </div>
               </div>
             </b-card>
-          </b-col>>-->
+          </b-col>
           <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
@@ -194,13 +194,21 @@
                 </div>
               </div>
             </b-card>
-          </b-col>
+          </b-col> -->
           <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
                   <b-card-title><span>7</span>décembre</b-card-title>
-                  <b-card-footer>Prochainement...</b-card-footer>
+                  <b-card-footer>
+                    Rendez-vous à 18h sur
+                    <a
+                      href="https://www.instagram.com/josiesrecipes/"
+                      target="_blank"
+                    >
+                      Instagram
+                    </a>
+                  </b-card-footer>
                 </div>
               </div>
             </b-card>

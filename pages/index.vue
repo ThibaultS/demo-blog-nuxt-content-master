@@ -41,8 +41,8 @@
         <b-row class="mb-4">
           <CategoriesLinks />
         </b-row>
-        <b-row>
-          <div class="mb-4 ads-container">
+        <b-row class="row-cols-1">
+          <div class="mb-4 ads-container col">
             <ins
               class="adsbygoogle adsonsite adsonhome"
               style="display: block"

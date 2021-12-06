@@ -147,8 +147,13 @@
               Pour {{ article.recipeYield }}
             </div>
           </div>
-          <div v-if="article.url" class="mt-2">
-            <a :href="article.url" target="_blank" class="icon-insta">
+          <div class="mt-2">
+            <a
+              v-if="article.url"
+              :href="article.url"
+              target="_blank"
+              class="icon-insta"
+            >
               <i class="fab fa-instagram fa-2x"></i>
             </a>
             <a
@@ -189,8 +194,8 @@
             Découvrir
           </nuxt-link>
         </b-card>
-        <b-row>
-          <div class="mb-4 ads-container">
+        <b-row class="row-cols-1">
+          <div class="mb-4 ads-container col">
             <ins
               class="adsbygoogle adsonsite adsonarticle"
               style="display: block"
