@@ -194,8 +194,8 @@
             Découvrir
           </nuxt-link>
         </b-card>
-        <b-row class="row-cols-1">
-          <div class="mb-4 ads-container col">
+        <b-row>
+          <div class="mb-4 ads-container">
             <ins
               class="adsbygoogle adsonsite adsonarticle"
               style="display: block"

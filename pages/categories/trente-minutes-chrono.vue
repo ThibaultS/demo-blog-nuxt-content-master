@@ -40,8 +40,8 @@
             </p>
           </b-col>
         </b-row>
-        <b-row class="row-cols-1">
-          <div class="mb-4 ads-container col">
+        <b-row>
+          <div class="mb-4 ads-container">
             <ins
               class="adsbygoogle adsonsite adsonhome"
               style="display: block"
