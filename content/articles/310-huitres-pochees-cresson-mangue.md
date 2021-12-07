@@ -4,7 +4,7 @@ title: Huîtres pochées, cresson et mangue
 thumbnail_noel: url('https://res.cloudinary.com/thibaults/image/upload/t_carre/v1638808696/Recipes/20211206_huitres_pochees_cresson_mangue.jpg')
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1638808696/Recipes/20211206_huitres_pochees_cresson_mangue.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1638808696/Recipes/20211206_huitres_pochees_cresson_mangue.jpg
-url: 
+url: https://www.instagram.com/p/CXJjzxBIqox/
 date : '2021-12-06'
 description: "Qui dit fêtes de fin d’année, dit forcément huîtres ! Il y a toujours des fans et des antis mais je vous promets que préparées ainsi, elles feront l’unanimité."
 bkg : 
