@@ -20,7 +20,7 @@
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>
           <b-col class="intro mt-5 mb-3">
-            <h1>Mes recettes végétariennnes</h1>
+            <h1>Mes recettes végétariennes</h1>
             <p class="lead">
               Je vous propose des recettes sans viande et sans poisson qui font
               la part-belle à des légumes ou des fruits (souvent un fromage).
@@ -37,6 +37,18 @@
               </a>
             </p>
           </b-col>
+        </b-row>
+        <b-row>
+          <div class="mb-4 ads-container">
+            <ins
+              class="adsbygoogle adsonsite adsonhome"
+              style="display: block"
+              data-ad-client="ca-pub-4925011117186251"
+              data-ad-slot="5914372396"
+              data-ad-format="horizontal"
+              data-full-width-responsive="true"
+            ></ins>
+          </div>
         </b-row>
         <b-row
           id="posts"
