@@ -119,6 +119,9 @@
               Thème :
               <a href="/categories/boulettes" class="link">Boulettes</a>
             </div>
+            <div v-if="article.inspiration">
+              Sur la recette initiale de {{ article.inspiration }}
+            </div>
             <div v-if="article.veggie">
               <i class="fas fa-seedling"></i>
               <a href="/categories/vegetarien" class="link">Végératien</a>

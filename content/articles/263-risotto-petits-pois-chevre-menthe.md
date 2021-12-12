@@ -27,7 +27,7 @@ published : 1
 ## Tous les ingrédients
  - 100g de riz à risotto ou riz rond
  - 200g de petits pois congelés
- - 100g de bouillon végétal
+ - 70cl de bouillon végétal
  - 1 échalote
  - 1 oignon jaune
  - 1 bouquet de menthe fraiche

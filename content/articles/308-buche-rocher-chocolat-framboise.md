@@ -26,6 +26,8 @@ published : 1
 
 ---
 
+J'ai testé la recette de <a href="https://www.autourdusucre.com/">autourdusucre</a>
+
 ## Tous les ingrédients
 ### Pour l’insert framboise :
  - 200g de framboises surgelées
