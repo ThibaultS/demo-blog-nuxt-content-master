@@ -26,7 +26,7 @@ published : 1
 
 ---
 
-J'ai testé la recette de <a href="https://www.autourdusucre.com/">autourdusucre</a>
+J'ai testé la recette de <a href="https://www.autourdusucre.com/" target="_blank">autourdusucre</a>
 
 ## Tous les ingrédients
 ### Pour l’insert framboise :
