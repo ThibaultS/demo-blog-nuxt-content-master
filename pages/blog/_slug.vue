@@ -26,6 +26,8 @@
       </div>
       <div
         class="relative xs:py-8 xs:px-8 lg:py-32 lg:px-16 lg:w-1/2 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
+        itemscope
+        itemtype="https://schema.org/Recipe"
       >
         <h1 v-if="article.event != 'Noël 2021'">{{ article.title }}</h1>
         <h1 v-if="article.event == 'Noël 2021'" class="noel-title">
@@ -129,7 +131,8 @@
             <div v-if="article.sweety_salty">Recette sucrée-salée</div>
             <div v-if="article.country">
               <i class="fas fa-globe-americas"></i>
-              Origine : {{ article.country }}
+              Origine :
+              <span itemprop="recipeCuisine">{{ article.country }}</span>
             </div>
             <div v-if="article.difficulty">
               <i class="fas fa-check-double"></i>

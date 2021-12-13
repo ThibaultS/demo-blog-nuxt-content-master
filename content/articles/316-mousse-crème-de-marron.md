@@ -1,6 +1,6 @@
 ---
 id: 316
-title: Mousse de marron et noisettes caramélisées
+title: Mousses de marron et noisettes caramélisées
 thumbnail_noel: url('https://res.cloudinary.com/thibaults/image/upload/t_carre/v1639329212/Recipes/20211212_mousse_creme_de_marron_noisette.jpg')
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1639329212/Recipes/20211212_mousse_creme_de_marron_noisette.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1639329212/Recipes/20211212_mousse_creme_de_marron_noisette.jpg
@@ -25,7 +25,6 @@ time : 50
 published : 1
 
 ---
-s
 ## Tous les ingrédients
  - Du pralin
 
