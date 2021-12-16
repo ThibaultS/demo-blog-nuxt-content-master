@@ -356,12 +356,22 @@
                 </div>
               </div>
             </b-card>
-          </b-col> -->
+          </b-col>
           <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
                   <b-card-title><span>16</span>décembre</b-card-title>
+                 
+                </div>
+              </div>
+            </b-card>
+          </b-col> -->
+          <b-col class="mb-4">
+            <b-card class="text-center">
+              <div class="overlay-calendar pt-3 pb-3">
+                <div class="overlay-container">
+                  <b-card-title><span>17</span>décembre</b-card-title>
                   <b-card-footer>
                     Rendez-vous à 18h sur
                     <a
@@ -371,16 +381,6 @@
                       Instagram
                     </a>
                   </b-card-footer>
-                </div>
-              </div>
-            </b-card>
-          </b-col>
-          <b-col class="mb-4">
-            <b-card class="text-center">
-              <div class="overlay-calendar pt-3 pb-3">
-                <div class="overlay-container">
-                  <b-card-title><span>17</span>décembre</b-card-title>
-                  <b-card-footer>Prochainement...</b-card-footer>
                 </div>
               </div>
             </b-card>
