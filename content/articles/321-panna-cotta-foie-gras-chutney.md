@@ -44,6 +44,6 @@ published : 1
 Dans un bol d'eau froide, placez les feuilles de gélatine pour les faire ramollir. Coupez grossièrement le foie gras. Dans une casserole, portez à ébullition la crème liquide. Sortez la casserole du feu et ajoutez le foie gras. Mixez avec un mixeur plongeant jusqu'à obtenir un mélange lisse. Salez, poivez et ajoutez la gélatine. Mélangez jusqu'à dissoudre complètement les feuilles. Laissez tiédir à l'air libre puis répartissez dans vos verrines. Réservez au frigo pendant au moins 2 heures. Vous pouvez les faire la veille pour le lendemain.
 
 ### Préparation du chutney de figues
-Pour la préparation du chutney, retrouvez la recette dans mes stories à la une sur Instagram. Ou pour les moins motivés, vous pourrez en trouver dans le commerce tout prêt.
+Pour la préparation du chutney, retrouvez la recette dans mes stories à la une sur <a href="https://www.instagram.com/josiesrecipes/" target="_blank">Instagram</a>. Ou pour les moins motivés, vous pourrez en trouver dans le commerce tout prêt.
 
 Sortez les panacottas du frigo et ajoutez 2 cuillères à café de chutney sur le dessus. Accompagnez vos verrines de pain d'épice ou de pain de mie toasté.

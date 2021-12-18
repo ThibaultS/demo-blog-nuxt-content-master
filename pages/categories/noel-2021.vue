@@ -384,7 +384,7 @@
                 </div>
               </div>
             </b-card>
-          </b-col> -->
+          </b-col>
           <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
@@ -402,13 +402,21 @@
                 </div>
               </div>
             </b-card>
-          </b-col>
+          </b-col> -->
           <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
                   <b-card-title><span>19</span>décembre</b-card-title>
-                  <b-card-footer>Prochainement...</b-card-footer>
+                  <b-card-footer>
+                    Rendez-vous à 18h sur
+                    <a
+                      href="https://www.instagram.com/josiesrecipes/"
+                      target="_blank"
+                    >
+                      Instagram
+                    </a>
+                  </b-card-footer>
                 </div>
               </div>
             </b-card>

@@ -92,6 +92,7 @@
                 article.main_ingredient == 'Coques' ||
                 article.main_ingredient == 'Palourde' ||
                 article.main_ingredient == 'Moule' ||
+                article.main_ingredient == 'Langouste' ||
                 article.main_ingredient == 'Calamar'
               "
             >
@@ -319,6 +320,7 @@
                 article.main_ingredient == 'Coques' ||
                 article.main_ingredient == 'Palourde' ||
                 article.main_ingredient == 'Moule' ||
+                article.main_ingredient == 'Langouste' ||
                 article.main_ingredient == 'Calamar'
               "
               class="link mr-2"
