@@ -151,7 +151,8 @@ export default {
             'Truite',
             'Palourde',
             'Moule',
-            'Calamar'
+            'Calamar',
+            'Langouste'
           ]
         }
       })
