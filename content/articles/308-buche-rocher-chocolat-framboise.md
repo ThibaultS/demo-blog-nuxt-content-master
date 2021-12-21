@@ -9,7 +9,7 @@ date : '2021-12-04'
 description: "Cette bûche est un dessert qui se mérite ! Beaucoup de travail mais un résultat à la hauteur des attentes avec cette bûche rocher au chocolat et à la framboise."
 bkg : 
 alt: 
-inspiration : 
+inspiration : "@autourdusucre"
 event : Noël 2021
 calendrier: 4
 tag : 
