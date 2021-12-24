@@ -6,20 +6,21 @@ img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v160485419
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1604854191/Recipes/20201108_tarte_poire_chocolat.jpg
 url: https://www.instagram.com/p/CHViW6aJKBZ/
 alt: 
-date : 08/11/2020
+date : '2020-11-08'
 inspiration : 
 category : "Chocolat"
 main_ingredient : Poire
 theme : Tartes sucrées
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 60
 event :
 recipeYield : 1 grande tarte ou 4 tartelettes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

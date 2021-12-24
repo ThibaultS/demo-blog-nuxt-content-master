@@ -86,7 +86,11 @@
                           <i class="fas fa-seedling"></i>
                           Végétarien
                         </div>
-                        <div v-if="article.country">
+                        <div
+                          v-if="
+                            article.country != 'France' && article.country != ''
+                          "
+                        >
                           <i class="fas fa-globe-americas"></i>
                           {{ article.country }}
                         </div>

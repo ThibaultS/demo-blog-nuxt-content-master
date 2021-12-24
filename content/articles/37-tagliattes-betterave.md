@@ -13,13 +13,14 @@ main_ingredient : Betterave
 theme : Pâtes
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Difficile
 with : 
 time : 60
 event : octobre 2021
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

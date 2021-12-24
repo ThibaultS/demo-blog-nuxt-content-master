@@ -12,12 +12,13 @@ main_ingredient : Tomate
 theme : Tartes salées et pizzas
 sweety_salty : 
 veggie : 1
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 45
 recipeYield : 1 tarte
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

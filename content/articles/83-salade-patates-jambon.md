@@ -6,18 +6,19 @@ img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v160045609
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600456090/Recipes/20200915_salade_patate.jpg
 url: https://www.instagram.com/p/CFKkxAQCGLB/
 alt: 
-date : 15/09/2020
+date : '2020-09-15'
 inspiration : 
 main_ingredient : Jambon
 theme : Salades
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 50
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

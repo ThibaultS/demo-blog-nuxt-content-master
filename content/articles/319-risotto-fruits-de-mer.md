@@ -16,12 +16,13 @@ tag :
 theme :
 main_ingredient : Crevette
 with : Palourde
-country : 
+country : 'France'
 sweety_salty : 
 veggie : 
 difficulty : Moyen
 recipeYield : 4 personnes
 time : 60
+recipeCategory : 'Plat'
 published : 1
 
 ---

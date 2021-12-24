@@ -14,13 +14,14 @@ main_ingredient : Oeuf
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 20
 event :
 recipeYield: 3 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

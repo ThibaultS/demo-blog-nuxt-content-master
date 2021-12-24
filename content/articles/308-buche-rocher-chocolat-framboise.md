@@ -16,12 +16,13 @@ tag :
 theme : Gâteaux
 main_ingredient : Chocolat
 with : Framboise
-country : 
+country : 'France'
 sweety_salty : 
 veggie : 
 difficulty : Difficile
 recipeYield : 1 bûche
 time : 180
+recipeCategory : 'Dessert'
 published : 1
 
 ---

@@ -7,20 +7,21 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607289675/Recipes/20201207_makis-rouleau-de-printemps.jpg)
 url: https://www.instagram.com/p/CIgSVCXplvA/
 alt: 
-date : 07/12/2020
+date : '2020-12-07'
 inspiration : 
 event : "Noël"
 main_ingredient : Saumon
 theme : Sushis et makis
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 30
 calendrier: 7
 recipeYield: 3 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

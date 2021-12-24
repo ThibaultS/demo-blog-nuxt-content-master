@@ -14,13 +14,14 @@ theme : Cakes salés
 tag : 
 sweety_salty : 
 veggie : 1
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 30
 event : 
 recipeYield : 12 financiers
 published : 1
+recipeCategory : ''
 
 ---
 

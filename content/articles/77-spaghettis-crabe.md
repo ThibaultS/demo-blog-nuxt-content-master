@@ -13,12 +13,13 @@ main_ingredient : Crabe
 theme : Pâtes
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 30
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

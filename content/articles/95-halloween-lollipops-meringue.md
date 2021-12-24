@@ -7,7 +7,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600524211/Recipes/20201006_halloween_lollipops.jpg)
 url: https://www.instagram.com/p/CGAi45NJLva/
 alt: 
-date : 06/10/2020
+date : '2020-10-06'
 inspiration : 
 category : "Halloween"
 event : "Halloween"
@@ -15,12 +15,13 @@ main_ingredient : Meringue
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Difficile
 with : 
 time : 180
 recipeYield : 10 grandes meringues
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

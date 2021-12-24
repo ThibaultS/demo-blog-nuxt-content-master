@@ -13,13 +13,14 @@ main_ingredient : Chocolat
 theme : Gâteaux
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 event : novembre 2021
 time : 60
 recipeYield : 20-30 sablés
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

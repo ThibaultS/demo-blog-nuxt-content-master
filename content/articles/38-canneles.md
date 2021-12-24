@@ -12,12 +12,13 @@ main_ingredient :
 theme : Gâteaux
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 60
 recipeYield : 10-12 cannelés
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

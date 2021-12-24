@@ -16,12 +16,13 @@ tag :
 theme : 
 main_ingredient : Radis
 with : 
-country : 
+country : 'France'
 sweety_salty : 
 veggie : 
 difficulty : Facile
 recipeYield : 20 pièces
 time : 15
+recipeCategory : 'Apéro'
 published : 1
 
 ---

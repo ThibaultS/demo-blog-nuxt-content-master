@@ -14,13 +14,14 @@ theme : Soupes et veloutés
 tag : Healthy
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Moyen
 with : 
 time : 60
 event : octobre 2021
 recipeYield : 4 personnes
 published : 1
+recipeCategory : ''
 
 ---
 

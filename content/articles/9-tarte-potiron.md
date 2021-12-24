@@ -12,12 +12,13 @@ theme : Tartes salées et pizzas
 main_ingredient : Potiron
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 25
 recipeYield : 1 tarte
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

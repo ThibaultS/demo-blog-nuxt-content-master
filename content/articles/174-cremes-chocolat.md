@@ -14,13 +14,14 @@ theme :
 tag : 
 sweety_salty : 
 veggie :
-country : 
+country : ''
 difficulty : Facile
 with : 
 time : 80
 event : 
 recipeYield : 3-4 pots
 published : 1
+recipeCategory : ''
 
 ---
 

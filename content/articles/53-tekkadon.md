@@ -19,6 +19,7 @@ with :
 time : 45
 recipeYield : 2-3 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

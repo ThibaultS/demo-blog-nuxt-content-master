@@ -21,6 +21,7 @@ time : 140
 event :
 recipeYield: 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

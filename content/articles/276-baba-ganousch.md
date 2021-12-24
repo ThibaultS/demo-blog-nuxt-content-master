@@ -21,6 +21,7 @@ time : 70
 event : 
 recipeYield : 8 personnes
 published : 1
+recipeCategory : ''
 
 ---
 

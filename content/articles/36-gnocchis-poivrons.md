@@ -13,12 +13,13 @@ main_ingredient : Poivron
 theme : Pâtes
 sweety_salty : 
 veggie : 1
-country :
+country : ''
 difficulty : Difficile
 with : 
 time : 60
 recipeYield : 4 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

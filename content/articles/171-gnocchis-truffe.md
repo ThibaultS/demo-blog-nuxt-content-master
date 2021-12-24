@@ -14,13 +14,14 @@ theme : Pâtes
 tag : 
 sweety_salty : 
 veggie : 1
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 60
 event : 
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

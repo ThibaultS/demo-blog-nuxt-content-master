@@ -16,12 +16,13 @@ tag :
 theme :
 main_ingredient : Veau
 with : Morille
-country : 
+country : 'France'
 sweety_salty : 
 veggie : 
 difficulty : Facile
 recipeYield : 4 à 6 personnes
 time : 100
+recipeCategory : 'Plat'
 published : 1
 
 ---

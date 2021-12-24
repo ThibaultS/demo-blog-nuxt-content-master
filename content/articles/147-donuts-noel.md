@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1608799535/Recipes/20201224_donuts_noel.jpg)
 url: https://www.instagram.com/p/CJMDi3cJ3l-/
 alt: 
-date : 24/12/2020
+date : '2020-12-24'
 inspiration : 
 description: Il n'y a pas de saison pour les donuts ! J'ai adapté la déco au moment de l'année.
 event : "Noël"
@@ -14,13 +14,14 @@ main_ingredient : Gâteaux
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Difficile
 with : 
 time : 120
 calendrier: 24
 recipeYield: 15-20 donuts
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

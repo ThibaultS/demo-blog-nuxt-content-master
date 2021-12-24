@@ -13,13 +13,14 @@ main_ingredient : Potimarron
 theme : Gâteaux
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 60
 event : octobre 2021
 recipeYield : 2 mini pièces montées
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

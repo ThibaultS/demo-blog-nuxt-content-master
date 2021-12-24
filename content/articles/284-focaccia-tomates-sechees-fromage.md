@@ -21,6 +21,7 @@ time : 70
 event : 
 recipeYield : 1 focaccia
 published : 1
+recipeCategory : ''
 
 ---
 

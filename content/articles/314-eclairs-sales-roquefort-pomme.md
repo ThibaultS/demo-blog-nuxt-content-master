@@ -16,12 +16,13 @@ tag :
 theme : Cakes salés
 main_ingredient : Fromage
 with : Pomme
-country : 
+country : 'France'
 sweety_salty : 1
 veggie : 1
 difficulty : Moyen
 recipeYield : une dizaine d'éclairs
 time : 80
+recipeCategory : 'Entrée'
 published : 1
 
 ---

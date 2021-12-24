@@ -14,13 +14,14 @@ main_ingredient : Chocolat
 theme : Tartes sucrées
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 140
 event :
 recipeYield: 1 galette
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

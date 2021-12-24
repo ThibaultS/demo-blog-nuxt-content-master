@@ -14,13 +14,14 @@ theme : Gâteaux
 tag : 
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Facile
 with : 
 time : 30
 event : Pâques
 recipeYield : 9 gâteaux individuels
 published : 1
+recipeCategory : ''
 
 ---
 

@@ -14,13 +14,14 @@ with : Poireau
 tag : 
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 inspiration : 
 event : 
 difficulty : Moyen
 recipeYield : 2 personnes
 time : 40
 published : 1
+recipeCategory : ''
 
 ---
 

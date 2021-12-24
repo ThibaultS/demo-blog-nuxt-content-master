@@ -21,6 +21,7 @@ time : 45
 event :
 recipeYield: 6-8 onigiris
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

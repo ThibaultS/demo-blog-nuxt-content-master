@@ -13,12 +13,13 @@ main_ingredient : Moule
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 50
 recipeYield : 4 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

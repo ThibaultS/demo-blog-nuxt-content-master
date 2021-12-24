@@ -16,12 +16,13 @@ tag :
 theme : 
 main_ingredient : Butternut
 with : Châtaigne
-country : 
+country : 'France'
 sweety_salty : 1
 veggie : 1
 difficulty : Facile
 recipeYield : 4 personnes
 time : 55
+recipeCategory : 'Plat'
 published : 1
 
 ---

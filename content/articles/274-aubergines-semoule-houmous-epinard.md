@@ -21,6 +21,7 @@ time : 20
 event : 
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 
 ---
 

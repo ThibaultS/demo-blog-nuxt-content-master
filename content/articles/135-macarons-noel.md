@@ -7,20 +7,21 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607790994/Recipes/20201212_macarons_noel.jpg)
 url: https://www.instagram.com/p/CItGW4lpS6O/
 alt: 
-date : 12/12/2020
+date : '2020-12-12'
 inspiration : 
 event : "Noël"
 main_ingredient : Amande
 theme : Gâteaux
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Difficile
 with : 
 time : 90
 calendrier: 12
 recipeYield: 15 macarons de taille standard
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

@@ -22,6 +22,7 @@ veggie :
 difficulty : Difficile
 recipeYield : 6 à 7 personnes
 time : 240
+recipeCategory : 'Dessert'
 published : 1
 
 ---

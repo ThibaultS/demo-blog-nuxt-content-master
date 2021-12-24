@@ -15,7 +15,7 @@ with :
 tag : 
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 inspiration : 
 event : 
 calendrier: 
@@ -23,6 +23,7 @@ difficulty : Difficile
 recipeYield : 10 à 15 biscuits
 time : 120
 published : 1
+recipeCategory : ''
 
 ---
 

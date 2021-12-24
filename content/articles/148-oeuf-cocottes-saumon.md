@@ -14,13 +14,14 @@ main_ingredient : Saumon
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 30
 event :
 recipeYield: 4 oeufs cocottes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

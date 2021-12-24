@@ -14,13 +14,14 @@ tag : Healthy
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 30
 event : octobre 2021
 recipeYield : 8 blinis
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

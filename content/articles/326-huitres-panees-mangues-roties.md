@@ -16,12 +16,13 @@ tag :
 theme :
 main_ingredient : Huître
 with : 
-country : 
-sweety_salty : 
+country : 'France'
+sweety_salty : 1
 veggie : 
 difficulty : Moyen
 recipeYield : 4 personnes
 time : 35
+recipeCategory : 'Entrée'
 published : 1
 
 ---

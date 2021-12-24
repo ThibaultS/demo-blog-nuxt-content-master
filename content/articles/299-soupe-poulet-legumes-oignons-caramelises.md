@@ -16,13 +16,14 @@ tag :
 theme : Soupes et veloutés
 main_ingredient : Poulet
 with : 
-country : 
+country : ''
 sweety_salty : 
 veggie : 
 difficulty : Facile
 recipeYield : 6 à 8 personnes
 time : 40
 published : 1
+recipeCategory : ''
 
 ---
 

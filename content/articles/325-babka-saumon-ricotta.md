@@ -16,12 +16,13 @@ tag :
 theme : Cakes salés
 main_ingredient : Saumon
 with : 
-country : 
+country : 'France'
 sweety_salty : 
 veggie : 
 difficulty : Moyen
 recipeYield : 1 babka
 time : 60
+recipeCategory : 'Apéro'
 published : 1
 
 ---

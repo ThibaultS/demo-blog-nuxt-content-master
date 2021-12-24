@@ -16,13 +16,14 @@ tag :
 theme : Gâteaux
 main_ingredient : Chocolat
 with : 
-country : 
+country : ''
 sweety_salty : 
 veggie : 
 difficulty : Moyen
 recipeYield : 6 à 8 cupcakes
 time : 75
 published : 1
+recipeCategory : ''
 
 ---
 

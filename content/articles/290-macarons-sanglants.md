@@ -14,13 +14,14 @@ theme : Gâteaux
 tag : 
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Difficile
 with : 
 time : 80
 event : Halloween
 recipeYield : 15 macarons
 published : 1
+recipeCategory : ''
 
 ---
 

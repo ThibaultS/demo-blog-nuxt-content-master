@@ -21,6 +21,7 @@ time : 20
 event :
 recipeYield: 8 rouleaux de printemps
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

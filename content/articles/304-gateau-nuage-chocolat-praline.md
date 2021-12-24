@@ -16,13 +16,14 @@ tag :
 theme : Gâteaux
 main_ingredient : Chocolat
 with : 
-country : 
+country : ''
 sweety_salty : 
 veggie : 
 difficulty : Difficile
 recipeYield : 1 gâteau
 time : 60
 published : 1
+recipeCategory : ''
 
 ---
 

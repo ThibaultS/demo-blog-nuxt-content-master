@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1608403221/Recipes/20201219_cheesecake_crevettes.jpg)
 url: https://www.instagram.com/p/CI_SETaJMRX/
 alt: 
-date : 19/12/2020
+date : '2020-12-19'
 inspiration : 
 description: En voilà une entrée festive, proposez un cheesecake salé aux crevettes et aux écrevisses accompagné d’une salade verte
 event : "Noël"
@@ -14,13 +14,14 @@ main_ingredient : Crevette
 theme : Cakes salés
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 30
 calendrier: 19
 recipeYield: 4 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

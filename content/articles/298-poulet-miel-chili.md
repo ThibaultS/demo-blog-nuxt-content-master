@@ -16,13 +16,14 @@ tag :
 theme : 
 main_ingredient : Poulet
 with : Patate douce
-country : 
+country : ''
 sweety_salty : 
 veggie : 
 difficulty : Facile
 recipeYield : 2 personnes
 time : 40
 published : 1
+recipeCategory : ''
 
 ---
 

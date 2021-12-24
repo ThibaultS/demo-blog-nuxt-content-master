@@ -7,20 +7,21 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607613538/Recipes/20201210_tartelettes_oeufs_truffe.jpg)
 url: https://www.instagram.com/p/CIn_0ROJAap/
 alt: 
-date : 10/12/2020
+date : '2020-12-10'
 inspiration : 
 event : "Noël"
 main_ingredient : Truffe
 theme : Tartes salées et pizzas
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 30
 calendrier: 10
 recipeYield: 15-20 bouchées
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607968126/Recipes/20201216_sables.jpg)
 url: https://www.instagram.com/p/CI3hgNBpVZV/
 alt: 
-date : 16/12/2020
+date : '2020-12-16'
 inspiration : 
 description: En voilà une activité ludique à faire en famille pendant les fêtes. Vous allez adorés ces sablés de Noël.
 event : "Noël"
@@ -14,13 +14,14 @@ main_ingredient : Gâteaux
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 60
 calendrier: 16
 recipeYield: 15-20 biscuits
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

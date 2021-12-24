@@ -21,6 +21,7 @@ time : 120
 event : Saint-Valentin
 recipeYield : 1 gâteau
 published : 1
+recipeCategory : ''
 
 ---
 

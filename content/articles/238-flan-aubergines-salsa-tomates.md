@@ -14,13 +14,14 @@ theme : Cakes salés
 tag : 
 sweety_salty : 
 veggie : 1
-country : 
+country : ''
 difficulty : Moyen
 with : 
 time : 120
 event :
 recipeYield : 1 flan
 published : 1
+recipeCategory : ''
 
 ---
 

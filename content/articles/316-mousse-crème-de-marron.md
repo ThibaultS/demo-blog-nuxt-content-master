@@ -16,12 +16,13 @@ tag :
 theme :
 main_ingredient : Marron
 with : 
-country : 
+country : 'France'
 sweety_salty : 
 veggie : 
 difficulty : Facile
 recipeYield : 4 à 6 verrines
 time : 50
+recipeCategory : 'Dessert'
 published : 1
 
 ---

@@ -13,13 +13,14 @@ main_ingredient : Jambon
 theme : Cakes salés
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 45
 event :
 recipeYield : 1 cake
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

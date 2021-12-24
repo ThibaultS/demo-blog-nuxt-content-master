@@ -14,13 +14,14 @@ theme : Bowls
 tag : 
 sweety_salty : 
 veggie :
-country : 
+country : ''
 difficulty : Facile
 with : Boulette
 time : 30
 event : 
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 
 ---
 

@@ -14,13 +14,14 @@ theme : Gâteaux
 tag : 
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Facile
 with : 
 time : 60
 event : 
 recipeYield : 10-15 biscuits
 published : 1
+recipeCategory : ''
 
 ---
 

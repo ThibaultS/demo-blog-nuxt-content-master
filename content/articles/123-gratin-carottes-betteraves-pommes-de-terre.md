@@ -6,20 +6,21 @@ img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v160641687
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1606416872/Recipes/20201127_gratin_carottes_betteraves.jpg
 url: https://www.instagram.com/p/CIGurD7pNyR/
 alt: 
-date : 27/11/2020
+date : '2020-11-27'
 inspiration : 
 category : 
 main_ingredient : Carotte
 theme : 
 sweety_salty :
 veggie : 1
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 60
 event :
 recipeYield : 3-4 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

@@ -14,13 +14,14 @@ main_ingredient : Chocolat
 theme : Gâteaux
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 45
 event :
 recipeYield: 6 muffins
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

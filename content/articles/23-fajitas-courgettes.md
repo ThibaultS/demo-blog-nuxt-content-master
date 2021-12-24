@@ -12,12 +12,13 @@ main_ingredient : Courgette
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 30
 recipeYield : 4 fajitas
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

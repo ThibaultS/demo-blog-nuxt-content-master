@@ -14,13 +14,14 @@ theme : Tartes sucrées
 tag : 
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Moyen
 with : 
 time : 60
 event : octobre 2021
 recipeYield : 2 chaussons
 published : 1
+recipeCategory : ''
 
 ---
 

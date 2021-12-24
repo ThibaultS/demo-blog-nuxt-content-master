@@ -6,7 +6,7 @@ img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v160304145
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1603041454/Recipes/20201018_brownies_rip.jpg
 url: https://www.instagram.com/p/CGfVYBzJ8_H//
 alt: 
-date : 18/10/2020
+date : '2020-10-18'
 inspiration : 
 category : "Halloween"
 event : "Halloween"
@@ -14,12 +14,13 @@ main_ingredient : Chocolat
 theme : Gâteaux
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Difficile
 with : 
 time : 80
 recipeYield : 6-8 parts
 published : 1
+recipeCategory : ''
 
 ---
 

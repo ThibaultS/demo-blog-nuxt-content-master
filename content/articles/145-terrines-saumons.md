@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1608657281/Recipes/20201222_terrine_saumons.jpg)
 url: https://www.instagram.com/p/CJG2EnxJtMO/
 alt: 
-date : 22/12/2020
+date : '2020-12-22'
 inspiration : 
 description: Découvrez cette délicieuse entrée pour les férues de saumon. Parfait avec une salade verte.
 event : "Noël"
@@ -14,13 +14,14 @@ main_ingredient : Saumon
 theme : Cakes salés
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 100
 calendrier: 22
 recipeYield: 4 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

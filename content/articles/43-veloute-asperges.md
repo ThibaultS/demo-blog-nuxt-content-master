@@ -14,12 +14,13 @@ theme : Soupes et veloutés
 tag : Healthy
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 20
 recipeYield : 4 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

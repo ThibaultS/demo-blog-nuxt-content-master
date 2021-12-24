@@ -13,12 +13,13 @@ theme : Salades
 tag : Healthy
 sweety_salty : 
 veggie : 1
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 20
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

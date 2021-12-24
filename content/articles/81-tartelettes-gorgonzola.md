@@ -12,12 +12,13 @@ main_ingredient : Fromage
 theme : Tartes salées et pizzas
 sweety_salty : 1
 veggie : 1
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 30
 recipeYield : 6 tartelettes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

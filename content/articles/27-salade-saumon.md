@@ -14,12 +14,13 @@ main_ingredient : Saumon
 theme : Salades
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : Asperge
 time : 20
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

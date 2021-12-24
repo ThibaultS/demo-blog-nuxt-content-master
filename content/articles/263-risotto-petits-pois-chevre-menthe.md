@@ -14,13 +14,14 @@ theme :
 tag : 
 sweety_salty : 
 veggie : 1
-country : 
+country : ''
 difficulty : Moyen
 with : 
 time : 40
 event : 
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 
 ---
 

@@ -7,7 +7,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg: url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1602433074/Recipes/20201011_panna_cotta_kiwi.jpg)
 url: https://www.instagram.com/p/CGNSoa7Jh-F/
 alt: 
-date : 11/10/2020
+date : '2020-10-11'
 inspiration : 
 category : "Halloween"
 event : "Halloween"
@@ -15,12 +15,13 @@ main_ingredient : Kiwi
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Difficile
 with : 
 time : 40
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

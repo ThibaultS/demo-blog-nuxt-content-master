@@ -14,13 +14,14 @@ theme : Salades
 tag : Healthy
 sweety_salty : 
 veggie : 1
-country : 
+country : ''
 difficulty : Facile
 with : 
 time : 60
 event : septembre 2021
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 
 ---
 

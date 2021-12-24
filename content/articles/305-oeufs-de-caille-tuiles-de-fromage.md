@@ -16,11 +16,12 @@ tag :
 theme : 
 main_ingredient : Oeuf
 with : Fromage
-country : 
+country : 'France'
 sweety_salty : 
 veggie : 1
 difficulty : Facile
 recipeYield : 24 pièces
+recipeCategory : 'Apéro'
 time : 30
 published : 1
 

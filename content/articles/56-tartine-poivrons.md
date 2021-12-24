@@ -6,18 +6,19 @@ img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v160050938
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600509385/Recipes/20200717_tartine_burrata.jpg
 url: https://www.instagram.com/p/CCv-3yTCnaq/
 alt: 
-date : 17/07/2020
+date : '2020-07-17'
 inspiration :
 main_ingredient : Poivron
 theme : Tartines
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 30
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

@@ -6,19 +6,20 @@ img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v160051788
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600517887/Recipes/20200502_popcake.jpg
 url: https://www.instagram.com/p/B_sjeCuo7Hy/
 alt: 
-date : 02/05/2020
+date : '2020-05-02'
 theme : Gâteaux
 main_ingredient : Chocolat
 category : "Chocolat"
 inspiration :
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 30
 recipeYield : 30-40 sucettes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

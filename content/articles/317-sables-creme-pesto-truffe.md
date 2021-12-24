@@ -16,12 +16,13 @@ tag :
 theme : Cakes salés
 main_ingredient : Truffe
 with : 
-country : 
+country : 'France'
 sweety_salty : 
 veggie : 
 difficulty : Facile
 recipeYield : 6 personnes
 time : 40
+recipeCategory : 'Apéro'
 published : 1
 
 ---

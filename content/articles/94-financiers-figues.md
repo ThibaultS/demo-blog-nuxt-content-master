@@ -12,13 +12,14 @@ main_ingredient : Figue
 theme : Gâteaux
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 30
 event : octobre 2021
 recipeYield : 6 financiers
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

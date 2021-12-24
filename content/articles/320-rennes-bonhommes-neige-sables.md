@@ -16,12 +16,13 @@ tag :
 theme : Gâteaux
 main_ingredient : 
 with : 
-country : 
+country : 'France'
 sweety_salty : 
 veggie : 
 difficulty : Facile
 recipeYield : 10 à 15 biscuits
 time : 60
+recipeCategory : 'Dessert'
 published : 1
 
 ---

@@ -14,13 +14,14 @@ theme : Gâteaux
 tag : 
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Facile
 with : 
 time : 30
 event : 
 recipeYield : 40 mini cookies
 published : 1
+recipeCategory : ''
 
 ---
 

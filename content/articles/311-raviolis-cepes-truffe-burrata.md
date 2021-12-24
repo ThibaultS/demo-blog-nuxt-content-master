@@ -16,12 +16,13 @@ tag :
 theme : Pâtes
 main_ingredient : Cèpe
 with : Fromage
-country : 
+country : 'France'
 sweety_salty : 
 veggie : 1
 difficulty : Difficile
 recipeYield : 4 à 6 personnes
 time : 80
+recipeCategory : 'Plat'
 published : 1
 
 ---

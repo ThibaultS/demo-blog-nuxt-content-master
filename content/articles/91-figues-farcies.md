@@ -12,13 +12,14 @@ main_ingredient : Figue
 theme : 
 sweety_salty : 1
 veggie : 1
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 20
 event : septembre 2021
 recipeYield : 8 figues
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

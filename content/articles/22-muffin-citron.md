@@ -12,12 +12,13 @@ main_ingredient : Coques
 theme : Gâteaux
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Difficile
 with : 
 time : 100
 recipeYield : 8-10 muffins
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

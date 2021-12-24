@@ -14,13 +14,14 @@ theme :
 tag : Healthy
 sweety_salty :
 veggie : 
-country : 
+country : ''
 difficulty : Facile
 with : Saumon
 time : 25
 event : 
 recipeYield : 4 personnes
 published : 1
+recipeCategory : ''
 
 ---
 

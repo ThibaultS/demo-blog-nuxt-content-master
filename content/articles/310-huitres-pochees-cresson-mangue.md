@@ -16,12 +16,13 @@ tag :
 theme : 
 main_ingredient : Huître
 with : Mangue
-country : 
+country : 'France'
 sweety_salty : 1
 veggie : 
 difficulty : Facile
 recipeYield : 12 huîtres
 time : 40
+recipeCategory : 'Entrée'
 published : 1
 
 ---

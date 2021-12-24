@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1608145994/Recipes/20201217_huitres_ponzu.jpg)
 url: https://www.instagram.com/p/CI6DMaeJBF-/
 alt: 
-date : 17/12/2020
+date : '2020-12-17'
 inspiration : 
 description: Pour les sublimer, agrémentez vos huîtres avec une sauce ponzu, cette sauce japonais à base de soja.
 event : "Noël"
@@ -14,13 +14,14 @@ main_ingredient : Huître
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 10
 calendrier: 17
 recipeYield: 4 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

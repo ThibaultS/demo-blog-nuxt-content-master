@@ -14,13 +14,14 @@ theme : Tartines
 tag : 
 sweety_salty : 
 veggie : 1
-country : 
+country : ''
 difficulty : Facile
 with : 
 time : 15
 event :
 recipeYield : 1 à 2 personnes
 published : 1
+recipeCategory : ''
 
 ---
 

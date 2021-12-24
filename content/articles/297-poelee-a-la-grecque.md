@@ -23,6 +23,7 @@ difficulty : Facile
 recipeYield : 4 personnes
 time : 35
 published : 1
+recipeCategory : ''
 
 ---
 

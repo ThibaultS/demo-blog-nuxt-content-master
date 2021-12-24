@@ -14,13 +14,14 @@ theme : Gâteaux
 tag : 
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Difficile
 with : 
 time : 80
 event : septembre 2021
 recipeYield : 15-20 madeleines
 published : 1
+recipeCategory : ''
 
 ---
 

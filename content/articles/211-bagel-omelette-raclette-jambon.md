@@ -14,13 +14,14 @@ theme : Burgers
 tag : 
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Facile
 with : 
 time : 20
 event : 
 recipeYield : 1 à 2 personnes
 published : 1
+recipeCategory : ''
 
 ---
 

@@ -13,12 +13,13 @@ main_ingredient : Saumon
 theme : Sushis et makis
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Difficile
 with : 
 time : 60
 recipeYield : 10-15 sushis
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

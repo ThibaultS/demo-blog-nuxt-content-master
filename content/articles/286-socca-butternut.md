@@ -21,6 +21,7 @@ time : 50
 event : 
 recipeYield : 4 à 6 personnes
 published : 1
+recipeCategory : ''
 
 ---
 

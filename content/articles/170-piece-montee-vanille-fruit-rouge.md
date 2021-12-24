@@ -14,13 +14,14 @@ theme : Gâteaux
 tag : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Difficile
 with : 
 time : 140
 recipeYield : 4 mini-cakes
 event : Saint-Valentin
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

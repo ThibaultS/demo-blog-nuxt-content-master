@@ -15,13 +15,14 @@ theme : Saumon
 tag: Healthy
 sweety_salty : 1
 veggie : 
-country : 
+country : ''
 difficulty : Moyen
 with : 
 time : 30
 event :
 recipeYield: 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

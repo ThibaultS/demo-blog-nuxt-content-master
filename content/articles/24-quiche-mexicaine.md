@@ -18,6 +18,7 @@ with :
 time : 60
 recipeYield : 1 tarte
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

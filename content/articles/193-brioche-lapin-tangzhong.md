@@ -21,6 +21,7 @@ time : 180
 event : Pâques
 recipeYield : 5-6 lapins
 published : 1
+recipeCategory : ''
 
 ---
 

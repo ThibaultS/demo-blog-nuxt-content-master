@@ -91,7 +91,11 @@
                           <i class="fas fa-seedling"></i>
                           Recette végétarienne
                         </div>
-                        <div v-if="article.country">
+                        <div
+                          v-if="
+                            article.country != 'France' && article.country != ''
+                          "
+                        >
                           <i class="fas fa-globe-americas"></i>
                           {{ article.country }}
                         </div>
@@ -148,7 +152,8 @@ export default {
         'difficulty',
         'country',
         'veggie',
-        'sweety_salty'
+        'sweety_salty',
+        'recipeCategory'
       ])
       .sortBy('id', 'desc')
       .where({ published: 1 })

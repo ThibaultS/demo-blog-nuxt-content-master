@@ -14,13 +14,14 @@ theme : Tartes salées et pizzas
 tag : 
 sweety_salty : 
 veggie : 1
-country : 
+country : ''
 difficulty : Difficile
 with : 
 time : 80
 event : 
 recipeYield : 3/4 personnes
 published : 1
+recipeCategory : ''
 
 ---
 

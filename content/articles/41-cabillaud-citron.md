@@ -14,12 +14,13 @@ main_ingredient : Cabillaud
 theme : 
 sweety_salty : 1
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 35
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

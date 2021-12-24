@@ -13,13 +13,14 @@ main_ingredient : Saumon
 theme : Cakes salés
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 40
 event :
 recipeYield : 8 cupcakes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

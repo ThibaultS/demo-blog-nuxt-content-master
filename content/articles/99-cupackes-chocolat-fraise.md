@@ -7,7 +7,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg: url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1603018499/Recipes/20201017_cupackes_chocolat_fraise.jpg)
 url: https://www.instagram.com/p/CGc1vo1JBQZ/
 alt: 
-date : 17/10/2020
+date : '2020-10-17'
 inspiration : 
 category : "Halloween"
 event : "Halloween"
@@ -15,12 +15,13 @@ main_ingredient : Chocolat
 theme : Gâteaux
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 60
 recipeYield : 10 cupcakes
 published : 1
+recipeCategory : ''
 
 ---
 

@@ -16,12 +16,13 @@ tag :
 theme : 
 main_ingredient : Saint-Jacques
 with : Potimarron
-country : 
+country : 'France'
 sweety_salty : 
 veggie : 
 difficulty : Moyen
 recipeYield : 4 personnes
 time : 65
+recipeCategory : 'Entrée'
 published : 1
 
 ---

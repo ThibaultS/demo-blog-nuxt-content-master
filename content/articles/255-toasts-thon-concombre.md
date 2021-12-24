@@ -14,13 +14,14 @@ theme :
 tag : Healthy
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Facile
 with : 
 time : 30
 event : 
 recipeYield : 20 toasts
 published : 1
+recipeCategory : ''
 
 ---
 

@@ -13,13 +13,14 @@ main_ingredient : Chocolat
 theme : Gâteaux
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 80
 event : novembre 2021
 recipeYield : 15-20 madeleines
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

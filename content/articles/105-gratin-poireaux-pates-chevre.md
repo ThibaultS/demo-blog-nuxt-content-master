@@ -13,13 +13,14 @@ main_ingredient : Poireau
 theme : Pâtes
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 45
 event :
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

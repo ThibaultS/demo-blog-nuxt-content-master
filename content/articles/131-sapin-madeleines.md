@@ -7,20 +7,21 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607204352/Recipes/20201208_sapin_madeleines.jpg)
 url: https://www.instagram.com/p/CIi2D5ZJd0f/
 alt: 
-date : 08/12/2020
+date : '2020-12-08'
 inspiration : 
 event : "Noël"
 main_ingredient : Pistache
 theme : Gâteaux
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 90
 calendrier: 8
 recipeYield: 30-35 madeleines
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

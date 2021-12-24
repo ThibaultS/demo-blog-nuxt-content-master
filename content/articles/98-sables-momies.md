@@ -7,7 +7,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg: url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1602790811/Recipes/20201014_sables_momies.jpg)
 url: https://www.instagram.com/p/CGVR5yCp0fH/
 alt: 
-date : 14/10/2020
+date : '2020-10-14'
 inspiration : 
 category : "Halloween"
 event : "Halloween"
@@ -15,12 +15,13 @@ main_ingredient :
 theme : Gâteaux
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 45
 recipeYield : 10-15 sablés
 published : 1
+recipeCategory : ''
 
 ---
 

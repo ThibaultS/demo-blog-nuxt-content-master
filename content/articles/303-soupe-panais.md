@@ -16,13 +16,14 @@ tag :
 theme : Soupes et veloutés
 main_ingredient : Panais
 with : Fromage
-country : 
+country : ''
 sweety_salty : 1
 veggie : 1
 difficulty : Facile
 recipeYield : 4 personnes
 time : 45
 published : 1
+recipeCategory : ''
 
 ---
 

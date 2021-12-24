@@ -14,13 +14,14 @@ theme : Cakes salés
 tag : 
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Facile
 with : 
 time : 40
 event : 
 recipeYield : 20 à 25 biscuits
 published : 1
+recipeCategory : ''
 
 ---
 

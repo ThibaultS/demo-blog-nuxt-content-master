@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1608582574/Recipes/20201221_cassolettes_saint_jacques.jpg)
 url: https://www.instagram.com/p/CJEe0nBJZg2/
 alt: 
-date : 21/12/2020
+date : '2020-12-21'
 inspiration : 
 description: "C'est tellement bon les Saint-Jacques en cassolette, surtout avec une sauce au vin blanc."
 event : "Noël"
@@ -14,13 +14,14 @@ main_ingredient : Saint-Jacques
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 45
 calendrier: 21
 recipeYield: 4 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

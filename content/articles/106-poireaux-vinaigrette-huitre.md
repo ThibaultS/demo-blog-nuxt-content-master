@@ -6,20 +6,21 @@ img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v160399523
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1603995231/Recipes/20201029_poireaux_vinaigrette_huitre.jpg
 url: https://www.instagram.com/p/CG79LVOJhDG/
 alt: 
-date : 27/10/2020
+date : '2020-10-27'
 inspiration : 
 category : "Poissons et crustacés"
 main_ingredient : Poireau
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 40
 event :
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

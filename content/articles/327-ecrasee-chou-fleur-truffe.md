@@ -16,12 +16,13 @@ tag :
 theme :
 main_ingredient : Chou-fleur
 with : Truffe
-country : 
+country : 'France'
 sweety_salty : 
-veggie : 
+veggie : 1
 difficulty : Facile
 recipeYield : 4 personnes
 time : 40
+recipeCategory : 'Plat'
 published : 1
 
 ---

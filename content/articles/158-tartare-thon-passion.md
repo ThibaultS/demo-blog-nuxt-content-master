@@ -14,13 +14,14 @@ main_ingredient : Thon
 theme : 
 sweety_salty : 1
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 20
 event :
 recipeYield: 1 tartare
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

@@ -6,20 +6,21 @@ img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v160641685
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1606416853/Recipes/20201124_carottes_feta.jpg
 url: https://www.instagram.com/p/CH-3X4KpbEw/
 alt: 
-date : 24/11/2020
+date : '2020-11-24'
 inspiration : 
 category : 
 main_ingredient : Carotte
 theme : 
 sweety_salty : 1
 veggie : 1
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 40
 event :
 recipeYield : 2 personnes en plat ou 4 personnes en accompagnement
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

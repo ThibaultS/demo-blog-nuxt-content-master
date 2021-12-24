@@ -14,13 +14,14 @@ main_ingredient : Chocolat
 theme : Gâteaux
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 100
 event :
 recipeYield: 1 cake
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

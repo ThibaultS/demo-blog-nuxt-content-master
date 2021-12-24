@@ -12,12 +12,13 @@ theme : Tartes salées et pizzas
 main_ingredient : Poulet
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 45
 recipeYield : 1 quiche
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

@@ -14,12 +14,13 @@ main_ingredient : Daurade
 theme : 
 sweety_salty : 1
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 45
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

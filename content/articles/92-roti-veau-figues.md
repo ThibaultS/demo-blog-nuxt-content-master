@@ -12,12 +12,13 @@ main_ingredient : Veau
 theme : 
 sweety_salty : 1
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 180
 recipeYield : 6 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

@@ -16,12 +16,13 @@ tag :
 theme : Gâteaux
 main_ingredient : Chocolat
 with : 
-country : 
+country : 'France'
 sweety_salty : 
 veggie : 
 difficulty : Difficile
 recipeYield : 4 personnes
 time : 120
+recipeCategory : 'Dessert'
 published : 1
 
 ---

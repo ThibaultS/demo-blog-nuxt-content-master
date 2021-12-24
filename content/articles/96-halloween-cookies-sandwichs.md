@@ -7,7 +7,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg: url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600524211/Recipes/20201009_halloween_cookies_sandwichs.jpg)
 url: https://www.instagram.com/p/CGIXQnEJYPJ/
 alt: 
-date : 09/10/2020
+date : '2020-10-09'
 inspiration : 
 category : "Halloween"
 event : "Halloween"
@@ -15,12 +15,13 @@ main_ingredient : Chocolat
 theme : Gâteaux
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 80
 recipeYield : 10 cookies
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

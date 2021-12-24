@@ -14,13 +14,14 @@ theme : Soupes et veloutés
 tag : 
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Moyen
 with : 
 time : 50
 event : 
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 
 ---
 

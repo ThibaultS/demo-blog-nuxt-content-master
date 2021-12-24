@@ -14,13 +14,14 @@ theme : Gâteaux
 tag : 
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Moyen
 with : 
 time : 70
 event : 
 recipeYield : 7 cupcakes
 published : 1
+recipeCategory : ''
 
 ---
 

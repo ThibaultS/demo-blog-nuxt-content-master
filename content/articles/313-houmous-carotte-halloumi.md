@@ -16,12 +16,13 @@ tag :
 theme : 
 main_ingredient : Carotte
 with : Fromage
-country : 
+country : 'France'
 sweety_salty : 
 veggie : 1
 difficulty : Facile
 recipeYield : 1 apéro
 time : 30
+recipeCategory : 'Apéro'
 published : 1
 
 ---

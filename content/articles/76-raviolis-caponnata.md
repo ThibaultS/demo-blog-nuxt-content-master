@@ -13,12 +13,13 @@ main_ingredient : Artichaut
 theme : Pâtes
 sweety_salty : 
 veggie : 1
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 60
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

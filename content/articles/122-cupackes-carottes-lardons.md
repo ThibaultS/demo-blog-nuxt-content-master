@@ -13,13 +13,14 @@ main_ingredient : Carotte
 theme : Cakes salés
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 45
 event : octobre 2021
 recipeYield : 6 cupcakes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

@@ -14,13 +14,14 @@ theme : Gâteaux
 tag : 
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Moyen
 with : 
 time : 50
 event : octobre 2021
 recipeYield : 6 à 8 parts
 published : 1
+recipeCategory : ''
 
 ---
 

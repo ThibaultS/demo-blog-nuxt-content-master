@@ -14,13 +14,14 @@ theme : Tartes salées et pizzas
 tag : 
 sweety_salty : 
 veggie : 1
-country : 
+country : ''
 difficulty : Moyen
 with : 
 time : 90
 event : septembre 2021
 recipeYield : 1 tarte
 published : 1
+recipeCategory : ''
 
 ---
 

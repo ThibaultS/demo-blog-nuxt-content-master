@@ -13,13 +13,14 @@ main_ingredient : Poulet
 theme : Pâtes
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : Boulette
 time : 45
 event :
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

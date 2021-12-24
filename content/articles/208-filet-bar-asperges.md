@@ -14,13 +14,14 @@ theme :
 tag : Healthy
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Facile
 with : Asperge
 time : 45
 event : 
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 
 ---
 

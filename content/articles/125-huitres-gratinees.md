@@ -7,20 +7,21 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1606673160/Recipes/20201202_huitres_gratinees.jpg)
 url: https://www.instagram.com/p/CIXzbptpKNY/
 alt: 
-date : 02/12/2020
+date : '2020-12-02'
 inspiration : 
 event : "Noël"
 main_ingredient : Huître
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 80
 calendrier: 2
 recipeYield : 16 huitres
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

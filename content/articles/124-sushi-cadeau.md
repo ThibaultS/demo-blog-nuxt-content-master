@@ -7,14 +7,14 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1606669269/Recipes/20201201_sushi_noel.jpg)
 url: https://www.instagram.com/p/CIXzIQBJUPf/
 alt: 
-date : 01/12/2020
+date : '2020-12-01'
 inspiration : 
 event : "Noël"
 main_ingredient : Saumon
 theme : Sushis et makis
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 60
@@ -22,6 +22,7 @@ recipeYield : 2 personnes
 calendrier: 1
 
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

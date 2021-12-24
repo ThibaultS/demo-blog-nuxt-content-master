@@ -21,6 +21,7 @@ time : 180
 event : 
 recipeYield : 1 brioche
 published : 1
+recipeCategory : ''
 
 ---
 

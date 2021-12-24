@@ -6,19 +6,20 @@ img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v160050922
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600509227/Recipes/20200423_coquillettes_truffe.jpg
 url: https://www.instagram.com/p/B_VSBtvIrv-/
 alt: 
-date : 23/04/2020
+date : '2020-04-23'
 inspiration :
 category : "Pâtes"
 theme : Pâtes
 main_ingredient : Truffe
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 25
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

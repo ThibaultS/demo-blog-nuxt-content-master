@@ -15,13 +15,14 @@ theme :
 tag: Healthy
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 20
 event :
 recipeYield: 2 assiettes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

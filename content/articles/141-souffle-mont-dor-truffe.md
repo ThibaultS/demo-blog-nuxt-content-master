@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1608146013/Recipes/202012188_souffle_mont_dor_truffe.jpg)
 url: https://www.instagram.com/p/CI6DMaeJBF-/
 alt: 
-date : 18/12/2020
+date : '2020-12-18'
 inspiration : 
 description: Rapide à préparer mais un peu technique, essayez ce soufflé au mont d'Or avec de la truffe.
 event : "Noël"
@@ -14,13 +14,14 @@ main_ingredient : Fromage
 theme : Cakes salés
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 20
 calendrier: 18
 recipeYield: 4 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

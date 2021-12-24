@@ -7,20 +7,21 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1606684804/Recipes/20201203_souris_agneau.jpg)
 url: https://www.instagram.com/p/CIXztdXpROL/
 alt: 
-date : 03/12/2020
+date : '2020-12-03'
 inspiration : 
 event : "Noël"
 main_ingredient : Agneau
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 140
 calendrier: 3
 recipeYield: 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

@@ -13,12 +13,13 @@ main_ingredient : Chocolat
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Difficile
 with : 
 time : 80
 recipeYield : 1 babka
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

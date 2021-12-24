@@ -16,12 +16,13 @@ tag :
 theme : 
 main_ingredient : Poulet
 with : Endive
-country : 
+country : 'France'
 sweety_salty : 1
 veggie : 
 difficulty : Moyen
 recipeYield : 4 à 6 personnes
 time : 180
+recipeCategory : 'Plat'
 published : 1
 
 ---

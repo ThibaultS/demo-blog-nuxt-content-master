@@ -14,13 +14,14 @@ with : Maïs
 tag : 
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 inspiration : 
 event : 
 difficulty : Facile
 recipeYield : 4 personnes
 time : 45
 published : 1
+recipeCategory : ''
 
 ---
 

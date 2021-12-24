@@ -13,12 +13,13 @@ main_ingredient : Saumon
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 80
 recipeYield : 4 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

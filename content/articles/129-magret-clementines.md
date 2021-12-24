@@ -7,20 +7,21 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607204294/Recipes/20201206_magret_clementines.jpg)
 url: https://www.instagram.com/p/CIdn4NTJIc2/
 alt: 
-date : 06/12/2020
+date : '2020-12-06'
 inspiration : 
 event : "Noël"
 main_ingredient : Canard
 theme : 
 sweety_salty : 1
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 45
 calendrier: 6
 recipeYield: 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients 

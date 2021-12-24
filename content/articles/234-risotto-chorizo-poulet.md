@@ -21,6 +21,7 @@ time : 45
 event : novembre 2021
 recipeYield : 4 personnes
 published : 1
+recipeCategory : ''
 
 ---
 

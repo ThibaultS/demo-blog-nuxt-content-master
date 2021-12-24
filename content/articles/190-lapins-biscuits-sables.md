@@ -14,13 +14,14 @@ theme : Gâteaux
 tag : 
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Moyen
 with : 
 time : 60
 event : Pâques
 recipeYield : 20-25 biscuits
 published : 1
+recipeCategory : ''
 
 ---
 

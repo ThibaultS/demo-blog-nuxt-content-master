@@ -16,13 +16,14 @@ tag :
 theme : 
 main_ingredient : Carotte
 with : Betterave
-country : 
+country : ''
 sweety_salty : 
 veggie : 1
 difficulty : Facile
 recipeYield : 3 à 4 personnes
 time : 70
 published : 1
+recipeCategory : ''
 
 ---
 

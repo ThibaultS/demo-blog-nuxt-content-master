@@ -20,6 +20,7 @@ time : 80
 event :
 recipeYield : 3 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

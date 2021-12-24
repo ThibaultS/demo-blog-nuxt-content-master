@@ -18,6 +18,7 @@ with : Asperge
 time : 40
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

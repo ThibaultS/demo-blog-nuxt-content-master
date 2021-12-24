@@ -87,7 +87,7 @@
               </div>
             </b-card>
           </b-col>
-          <!-- <b-col class="mb-4">
+          <!-- <b-col class="mb-4">s
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
                 <div class="overlay-container">
@@ -492,7 +492,7 @@
                 </div>
               </div>
             </b-card>
-          </b-col> -->
+          </b-col>
           <b-col class="mb-4">
             <b-card class="text-center">
               <div class="overlay-calendar pt-3 pb-3">
@@ -510,7 +510,7 @@
                 </div>
               </div>
             </b-card>
-          </b-col>
+          </b-col> -->
         </b-row>
         <footer>
           <b-row>

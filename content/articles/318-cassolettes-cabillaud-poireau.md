@@ -16,12 +16,13 @@ tag :
 theme :
 main_ingredient : Cabillaud
 with : Poireau
-country : 
+country : 'France'
 sweety_salty : 
 veggie : 
 difficulty : Facile
 recipeYield : 4 personnes
 time : 50
+recipeCategory : 'Entrée'
 published : 1
 
 ---

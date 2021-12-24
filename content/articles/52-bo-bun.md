@@ -18,6 +18,7 @@ with : Boulette
 time : 45
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

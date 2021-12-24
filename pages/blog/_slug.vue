@@ -26,8 +26,6 @@
       </div>
       <div
         class="relative xs:py-8 xs:px-8 lg:py-32 lg:px-16 lg:w-1/2 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
-        itemscope
-        itemtype="https://schema.org/Recipe"
       >
         <h1 v-if="article.event != 'Noël 2021'">{{ article.title }}</h1>
         <h1 v-if="article.event == 'Noël 2021'" class="noel-title">
@@ -130,10 +128,10 @@
               <a href="/categories/vegetarien" class="link">Végératien</a>
             </div>
             <div v-if="article.sweety_salty">Recette sucrée-salée</div>
-            <div v-if="article.country">
+            <div v-if="article.country != 'France' && article.country != ''">
               <i class="fas fa-globe-americas"></i>
               Origine :
-              <span itemprop="recipeCuisine">{{ article.country }}</span>
+              <span>{{ article.country }}</span>
             </div>
             <div v-if="article.difficulty">
               <i class="fas fa-check-double"></i>
@@ -446,6 +444,8 @@ export default {
   mounted() {
     this.showAd()
     this.showImg()
+    this.recipeMetaCountry()
+    // this.recipeMetaCategory()
   },
   methods: {
     buildPinUrl(urlpin, urlmedia, description) {
@@ -482,7 +482,25 @@ export default {
         const flex = document.getElementsByClassName('flex')[0]
         flex.setAttribute('style', '')
       }, 700)
+    },
+    recipeMetaCountry() {
+      if (this.article.country == null) {
+        const recipeCountry = 'France'
+        return recipeCountry
+      } else {
+        const recipeCountry = this.article.country
+        return recipeCountry
+      }
     }
+    // recipeMetaCategory() {
+    //   if (this.aticle.recipeCategory != null) {
+    //     const recipeCategorySchema = this.aticle.recipeCategory
+    //     return recipeCategorySchema
+    //   } else {
+    //     const recipeCategorySchema = 'aa'
+    //     return recipeCategorySchema
+    //   }
+    // }
   },
   head() {
     return {
@@ -502,7 +520,9 @@ export default {
             },
             datePublished: this.article.date,
             description: this.article.description,
-            totalTime: 'PT' + this.article.time + 'M'
+            totalTime: 'PT' + this.article.time + 'M',
+            recipeCuisine: this.article.country,
+            recipeCategorySchema: this.article.recipeCategory
           }
         }
       ],

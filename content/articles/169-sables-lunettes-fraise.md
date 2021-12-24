@@ -14,13 +14,14 @@ theme : Gâteaux
 tag : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 120
 event : Saint-Valentin
 recipeYield : 15-20 sablés
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

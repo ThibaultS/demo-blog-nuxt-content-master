@@ -13,13 +13,14 @@ main_ingredient : Thon
 theme : Pâtes
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 30
 event :
 recipeYield : 3-4 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

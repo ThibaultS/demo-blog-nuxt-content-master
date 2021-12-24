@@ -14,13 +14,14 @@ theme : Gâteaux
 tag : 
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Moyen
 with : 
 time : 60
 event : Pâques
 recipeYield : 6 oeufs
 published : 1
+recipeCategory : ''
 
 ---
 

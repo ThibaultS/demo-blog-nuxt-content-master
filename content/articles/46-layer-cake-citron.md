@@ -12,12 +12,13 @@ main_ingredient : Citron
 theme : Gâteaux
 sweety_salty : 
 veggie : 1
-country :
+country : ''
 difficulty : Difficile
 with : 
 time : 90
 recipeYield : 1 gâteau
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

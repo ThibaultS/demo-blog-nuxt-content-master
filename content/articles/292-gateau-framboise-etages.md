@@ -14,13 +14,14 @@ theme : Gâteaux
 tag : 
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Difficile
 with : 
 time : 120
 event : Halloween
 recipeYield : 1 gâteau pour 6 personnes
 published : 1
+recipeCategory : ''
 
 ---
 

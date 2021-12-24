@@ -12,12 +12,13 @@ theme : Tartes sucrées
 main_ingredient : Pomme
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 45
 recipeYield : 12 parts
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

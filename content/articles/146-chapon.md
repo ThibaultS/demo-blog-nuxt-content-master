@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1608758932/Recipes/20201223_chapons.jpg)
 url: https://www.instagram.com/p/CJJe3xkJLPn/
 alt: 
-date : 23/12/2020
+date : '2020-12-23'
 inspiration : 
 description: "Chapon, foie gras et truffe : 3 ingrédients parfaits pour une recette de Noël !"
 event : "Noël"
@@ -14,13 +14,14 @@ main_ingredient : Chapon
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : Asperge
 time : 80
 calendrier: 23
 recipeYield: 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

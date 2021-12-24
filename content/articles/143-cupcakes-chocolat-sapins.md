@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1608498352/Recipes/20201220_cupcakes_sapins.jpg)
 url: https://www.instagram.com/p/CJBnz6rJUZu/
 alt: 
-date : 20/12/2020
+date : '2020-12-20'
 inspiration : 
 description: Décorez vos cupcakes au chocolat avec une crème en forme de sapin de Noël.
 event : "Noël"
@@ -14,13 +14,14 @@ main_ingredient : Chocolat
 theme : Gâteaux
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 120
 calendrier: 20
 recipeYield: 10 cupcakes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

@@ -12,12 +12,13 @@ main_ingredient : Meringue
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 140
 recipeYield : 6 sucettes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

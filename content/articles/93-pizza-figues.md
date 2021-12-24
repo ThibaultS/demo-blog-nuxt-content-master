@@ -12,13 +12,14 @@ main_ingredient : Figue
 theme : Tartes salées et pizzas
 sweety_salty : 1
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 60
 event : 
 recipeYield : 1 grande pizza
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

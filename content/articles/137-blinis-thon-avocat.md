@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607944867/Recipes/20201214_blinis_thon_avocat.jpg)
 url: https://www.instagram.com/p/CIyUSoSpkFn/
 alt: 
-date : 14/12/2020
+date : '2020-12-14'
 inspiration : 
 description: En amuse bouche ou en entrée, ces blinis ravieront vos convives !
 event : "Noël"
@@ -14,13 +14,14 @@ main_ingredient : Thon
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 20
 calendrier: 14
 recipeYield: 25 petits blinis
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

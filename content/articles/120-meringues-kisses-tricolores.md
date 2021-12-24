@@ -13,13 +13,14 @@ main_ingredient : Meringue
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 120
 event :
 recipeYield : 40-50 mini meringues
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

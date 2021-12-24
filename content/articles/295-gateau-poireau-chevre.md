@@ -15,7 +15,7 @@ with : Fromage
 tag : 
 sweety_salty : 
 veggie : 1
-country : 
+country : ''
 inspiration : 
 event :
 calendrier: 
@@ -23,6 +23,7 @@ difficulty : Moyen
 recipeYield : 1 gâteau de 4 à 6 parts
 time : 55
 published : 1
+recipeCategory : ''
 
 ---
 

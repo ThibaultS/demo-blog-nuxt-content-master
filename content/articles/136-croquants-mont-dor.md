@@ -6,7 +6,7 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607863029/Recipes/20201213_croquants_mont_dor_poire.jpg)
 url: https://www.instagram.com/p/CIvnyUkpdDO/
 alt: 
-date : 13/12/2020
+date : '2020-12-13'
 inspiration : 
 description: Ça vous dit une entrée sucrée-salée pour les fêtes ? Je vous propose des croquants de mont d'Or avec une poire pochée.
 event : "Noël"
@@ -14,13 +14,14 @@ main_ingredient : Fromage
 theme : 
 sweety_salty : 1
 veggie : 1
-country :
+country : ''
 difficulty : Difficile
 with : 
 time : 120
 calendrier: 13
 recipeYield: 6 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

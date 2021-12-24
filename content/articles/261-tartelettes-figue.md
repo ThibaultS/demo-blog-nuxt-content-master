@@ -14,13 +14,14 @@ theme : Tartes sucrées
 tag : 
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Difficile
 with : 
 time : 60
 event : 
 recipeYield : 3 tartelettes
 published : 1
+recipeCategory : ''
 
 ---
 

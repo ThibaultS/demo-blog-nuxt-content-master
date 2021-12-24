@@ -14,12 +14,13 @@ theme : "Soupes et veloutés"
 main_ingredient : Crabe
 sweety_salty : 1
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 10
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

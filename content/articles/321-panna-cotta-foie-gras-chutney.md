@@ -16,12 +16,13 @@ tag :
 theme : 
 main_ingredient : Foie gras
 with : Figue
-country : 
+country : 'France'
 sweety_salty : 1
 veggie : 
 difficulty : Facile
 recipeYield : 6 personnes
 time : 45
+recipeCategory : 'Apéro'
 published : 1
 
 ---

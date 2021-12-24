@@ -12,12 +12,13 @@ main_ingredient : Tomate
 theme : Tartines
 sweety_salty : 
 veggie : 1
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 15
 recipeYield : 4 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

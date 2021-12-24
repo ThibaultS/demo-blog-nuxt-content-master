@@ -14,13 +14,14 @@ theme : Pâtes
 tag : Healthy
 sweety_salty : 
 veggie : 1
-country : 
+country : ''
 difficulty : Facile
 with : 
 time : 30
 event : 
 recipeYield : 2 personnes
 published : 1
+recipeCategory : ''
 
 ---
 

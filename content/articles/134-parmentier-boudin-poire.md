@@ -7,20 +7,21 @@ thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v
 bkg : url(https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1607701269/Recipes/20201211_parmentier_boudin_poire.jpg)
 url: https://www.instagram.com/p/CIqlBqUJipx/
 alt: 
-date : 11/12/2020
+date : '2020-12-11'
 inspiration : 
 event : "Noël"
 main_ingredient : Boudin
 theme : 
 sweety_salty : 1
 veggie : 
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 35
 calendrier: 11
 recipeYield: 2 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

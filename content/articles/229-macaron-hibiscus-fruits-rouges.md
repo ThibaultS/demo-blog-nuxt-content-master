@@ -14,13 +14,14 @@ theme : Gâteaux
 tag : 
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Difficile
 with : 
 time : 180
 event : Saint-Valentin
 recipeYield : 8 personnes
 published : 1
+recipeCategory : ''
 
 ---
 

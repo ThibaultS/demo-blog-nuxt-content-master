@@ -12,12 +12,13 @@ main_ingredient : Tomates
 theme : 
 sweety_salty : 
 veggie : 
-country :
+country : ''
 difficulty : Moyen
 with : 
 time : 60
 recipeYield : 3 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

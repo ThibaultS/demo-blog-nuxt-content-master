@@ -14,13 +14,14 @@ theme :
 tag : 
 sweety_salty : 
 veggie :
-country : 
+country : ''
 difficulty : Moyen
 with : 
 time : 60
 event : 
 recipeYield : 6 personnes - 20 rouleaux
 published : 1
+recipeCategory : ''
 
 ---
 

@@ -16,12 +16,13 @@ tag :
 theme : 
 main_ingredient : Langouste
 with : 
-country : 
+country : 'France'
 sweety_salty : 1
 veggie : 
 difficulty : Moyen
 recipeYield : 4 personnes
 time : 60
+recipeCategory : 'Entrée'
 published : 1
 
 ---

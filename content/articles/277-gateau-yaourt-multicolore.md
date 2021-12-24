@@ -14,13 +14,14 @@ theme : Gâteaux
 tag : 
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Moyen
 with : 
 time : 40
 event : 
 recipeYield : 1 gâteau
 published : 1
+recipeCategory : ''
 
 ---
 

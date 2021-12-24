@@ -14,13 +14,14 @@ theme : Pâtes
 tag : Healthy
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Moyen
 with : 
 time : 60
 event : novembre 2021
 recipeYield : 4 à 6 personnes
 published : 1
+recipeCategory : ''
 
 ---
 

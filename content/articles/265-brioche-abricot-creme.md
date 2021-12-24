@@ -14,13 +14,14 @@ theme : Gâteaux
 tag : 
 sweety_salty : 
 veggie : 
-country : 
+country : ''
 difficulty : Difficile
 with : 
 time : 60
 event : 
 recipeYield : 12 brioches
 published : 1
+recipeCategory : ''
 
 ---
 

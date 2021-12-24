@@ -6,19 +6,20 @@ img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v160046072
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600460727/Recipes/20200821_taboule_cerise.jpg
 url: https://www.instagram.com/p/CEKRUaqCuEQ/
 alt: 
-date : 21/08/2020
+date : '2020-08-21'
 inspiration :
 main_ingredient : Cerise
 theme : Salades
 tag : Healthy
 sweety_salty : 1
 veggie : 1
-country :
+country : ''
 difficulty : Facile
 with : 
 time : 25
 recipeYield : 2-3 personnes
 published : 1
+recipeCategory : ''
 ---
 
 ## Tous les ingrédients

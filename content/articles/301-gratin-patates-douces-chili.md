@@ -16,13 +16,14 @@ tag :
 theme : 
 main_ingredient : Patate douce
 with : 
-country : 
+country : ''
 sweety_salty : 
 veggie : 1
 difficulty : Facile
 recipeYield : 6 personnes
 time : 75
 published : 1
+recipeCategory : ''
 
 ---
 
