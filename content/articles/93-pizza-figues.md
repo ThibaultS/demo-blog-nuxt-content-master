@@ -1,7 +1,7 @@
 ---
 id: 93
 title: Pizza chèvre, miel et figues
-description: 
+description: "Je sais, pizza et fruit cela peut surprendre, mais quand vous aurez testé cette recette, vous changerez d'avis !"
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600524211/Recipes/20201003_pizza_figues.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600524211/Recipes/20201003_pizza_figues.jpg
 url: https://www.instagram.com/p/CF4vjANpFrg/
@@ -19,7 +19,7 @@ time : 60
 event : 
 recipeYield : 1 grande pizza
 published : 1
-recipeCategory : ''
+recipeCategory : 'Plat'
 ---
 
 ## Tous les ingrédients

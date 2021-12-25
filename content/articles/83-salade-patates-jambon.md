@@ -1,7 +1,7 @@
 ---
 id: 83
 title: Salade de pommes de terre au jambon de Bourgogne persillé
-description: 
+description: "Découvrez cette recette de salade gourmande avec des pommes de terre dorées et du jambon persillé."
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600456090/Recipes/20200915_salade_patate.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600456090/Recipes/20200915_salade_patate.jpg
 url: https://www.instagram.com/p/CFKkxAQCGLB/
@@ -18,7 +18,7 @@ with :
 time : 50
 recipeYield : 2 personnes
 published : 1
-recipeCategory : ''
+recipeCategory : 'Plat'
 ---
 
 ## Tous les ingrédients

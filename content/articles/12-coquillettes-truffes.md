@@ -1,7 +1,7 @@
 ---
 id: 12
 title: Coquillettes à la truffe, jambon truffé et œuf poché
-description: 
+description: "J'adore la truffe, j'adore les coquillettes avec du jambon alors forcément quand on mélange ces ingrédients, c'est forcément parfait !"
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600509227/Recipes/20200423_coquillettes_truffe.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600509227/Recipes/20200423_coquillettes_truffe.jpg
 url: https://www.instagram.com/p/B_VSBtvIrv-/
@@ -19,7 +19,7 @@ with :
 time : 25
 recipeYield : 2 personnes
 published : 1
-recipeCategory : ''
+recipeCategory : 'Plat'
 ---
 
 ## Tous les ingrédients

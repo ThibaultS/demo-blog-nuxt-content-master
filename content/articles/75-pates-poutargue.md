@@ -19,7 +19,7 @@ with :
 time : 20
 recipeYield : 2 personnes
 published : 1
-recipeCategory : ''
+recipeCategory : 'Plat'
 ---
 
 ## Tous les ingrédients

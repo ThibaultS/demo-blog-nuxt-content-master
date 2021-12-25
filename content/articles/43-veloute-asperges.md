@@ -6,7 +6,7 @@ img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v160050940
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600509401/Recipes/20200624_burrata_asperges.jpg
 url: https://www.instagram.com/p/CB04vjaC4ZT/
 alt: 
-date : 24/06/2020
+date : '2020-06-24'
 inspiration :
 category : "Poissons et crustacés"
 main_ingredient : Asperge
@@ -20,7 +20,7 @@ with :
 time : 20
 recipeYield : 4 personnes
 published : 1
-recipeCategory : ''
+recipeCategory : 'Plat'
 ---
 
 ## Tous les ingrédients

@@ -1,12 +1,12 @@
 ---
 id: 55
 title: Tartine pain à la figue, st Moret et crudités
-description: 
+description: "Une recette de tartine sucrée salée avec de la figure, du fromage, des tomates, des radis et quelques grains de grenade."
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600523787/Recipes/20200715_tartine_crudites.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600523787/Recipes/20200715_tartine_crudites.jpg
 url: https://www.instagram.com/p/CCq8GRMiZB8/
 alt: 
-date : 15/07/2020
+date : '2020-07-15'
 inspiration :
 main_ingredient : Tomate
 theme : Tartines

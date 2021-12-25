@@ -522,7 +522,7 @@ export default {
             description: this.article.description,
             totalTime: 'PT' + this.article.time + 'M',
             recipeCuisine: this.article.country,
-            recipeCategorySchema: this.article.recipeCategory
+            recipeCategory: this.article.recipeCategory
           }
         }
       ],

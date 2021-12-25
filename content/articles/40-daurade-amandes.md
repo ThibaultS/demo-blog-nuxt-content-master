@@ -1,12 +1,12 @@
 ---
 id: 40
 title: Filets de daurade panés aux amandes
-description: 
+description: "Et si vous prépariez votre daurade en faisant une panure aux amandes ? A tester !"
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600461008/Recipes/20200618_daurade.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600461008/Recipes/20200618_daurade.jpg
 url: https://www.instagram.com/p/CBlW_QPi7nj/
 alt: 
-date : 18/06/2020
+date : '2020-06-18'
 inspiration : Laurent Mariotte
 category : "Poissons et crustacés"
 main_ingredient : Daurade
@@ -19,7 +19,7 @@ with :
 time : 20
 recipeYield : 4 personnes
 published : 1
-recipeCategory : ''
+recipeCategory : 'Plat'
 ---
 
 ## Tous les ingrédients

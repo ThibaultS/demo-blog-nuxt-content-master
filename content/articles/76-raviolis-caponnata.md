@@ -1,25 +1,25 @@
 ---
 id: 76
 title: Raviolis à la caponata, artichauts et mozzarella
-description: 
+description: "J'étais obligé de vous proposer ma proposition pour cette recette de pâte italienne : les raviolis à la caponata."
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600456262/Recipes/20200904_salade_pates.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600456262/Recipes/20200904_salade_pates.jpg
 url: https://www.instagram.com/p/CEuHa_TCQh3/
 alt: 
-date : 04/09/2020
-inspiration : Alexia Duchène
+date : "2020-09-04"
+inspiration :
 category : "Pâtes"
 main_ingredient : Artichaut
 theme : Pâtes
 sweety_salty : 
 veggie : 1
-country : ''
+country : 'Italie'
 difficulty : Moyen
 with : 
 time : 60
 recipeYield : 2 personnes
 published : 1
-recipeCategory : ''
+recipeCategory : 'Plat'
 ---
 
 ## Tous les ingrédients

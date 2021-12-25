@@ -1,7 +1,7 @@
 ---
 id: 106
 title: Poireaux-vinaigrette avec ses huîtres
-description: 
+description: "On revisite le poireau vinaigrette avec une vinaigrette au jus d'huîtres."
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1603995231/Recipes/20201029_poireaux_vinaigrette_huitre.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1603995231/Recipes/20201029_poireaux_vinaigrette_huitre.jpg
 url: https://www.instagram.com/p/CG79LVOJhDG/
@@ -20,7 +20,7 @@ time : 40
 event :
 recipeYield : 2 personnes
 published : 1
-recipeCategory : ''
+recipeCategory : 'Entrée'
 ---
 
 ## Tous les ingrédients

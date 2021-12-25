@@ -6,7 +6,7 @@ img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v160045634
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600456341/Recipes/20200906_pates_crabe.jpg
 url: https://www.instagram.com/p/CEyuH1IiwUV/
 alt: 
-date : 06/09/2020
+date : "2020-09-06"
 inspiration : Simone Zanoni
 category : "Pâtes"
 main_ingredient : Crabe
@@ -19,7 +19,7 @@ with :
 time : 30
 recipeYield : 2 personnes
 published : 1
-recipeCategory : ''
+recipeCategory : 'Plat'
 ---
 
 ## Tous les ingrédients

@@ -1,12 +1,12 @@
 ---
 id: 58
 title: Sucettes en meringue
-description: 
+description: "Retour en enfance avec des meringues en sucette. Un concentré de sucre et de gourmandise."
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600517520/Recipes/20200725_sucette_meringue.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600517520/Recipes/20200725_sucette_meringue.jpg
 url: https://www.instagram.com/p/CDEpXw2Csgt/
 alt: 
-date : 25/07/2020
+date : '2020-07-25'
 inspiration :
 main_ingredient : Meringue
 theme : 
@@ -18,7 +18,7 @@ with :
 time : 140
 recipeYield : 6 sucettes
 published : 1
-recipeCategory : ''
+recipeCategory : 'Dessert'
 ---
 
 ## Tous les ingrédients

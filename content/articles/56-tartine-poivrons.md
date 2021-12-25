@@ -1,7 +1,7 @@
 ---
 id: 56
 title: Tartine poivrons et burrata
-description: 
+description: "Comme un goût d'Italie avec ces tartines avec du poivron, du jambon cru, de l'huile d'olive et de la burrata" 
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1600509385/Recipes/20200717_tartine_burrata.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1600509385/Recipes/20200717_tartine_burrata.jpg
 url: https://www.instagram.com/p/CCv-3yTCnaq/
