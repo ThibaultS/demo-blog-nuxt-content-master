@@ -35,9 +35,9 @@
             <!-- <AppSearchInputHome /> -->
           </b-col>
         </b-row>
-        <b-row class="mb-2">
+        <!-- <b-row class="mb-2">
           <CategoryPush />
-        </b-row>
+        </b-row> -->
         <b-row class="mb-4">
           <CategoriesLinks />
         </b-row>

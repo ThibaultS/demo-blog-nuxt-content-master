@@ -1,6 +1,10 @@
 <template>
   <b-col>
     Suggestions :
+    <a href="/categories/noel-2021" class="link mr-2">
+      Calendrier de l'avent 2021
+      <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
+    </a>
     <a href="/categories/noel" class="link mr-2">
       Calendrier de l'avent 2020
       <!-- <i class="fas fa-long-arrow-alt-right"></i> -->
