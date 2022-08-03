@@ -151,6 +151,20 @@ export default {
             'Boudin',
             'Porc'
           ]
+        },
+        with: {
+          $in: [
+            'Boeuf',
+            'Poulet',
+            'Dinde',
+            'Veau',
+            'Canard',
+            'Chapon',
+            'Agneau',
+            'Lapin',
+            'Boudin',
+            'Porc'
+          ]
         }
       })
       .fetch()
