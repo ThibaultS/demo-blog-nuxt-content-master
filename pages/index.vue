@@ -22,15 +22,16 @@
           <b-col>
             <h1>Les recettes de Josie</h1>
             <p class="lead lead-home mt-4">
-              Chaque semaine, je publie 3 recettes sur une thématique et je
-              conclue la semaine en beauté avec un dessert. Venez me suivre sur
+              Je vous partage depuis 2020 de nombreuses recettes sucrées et
+              salées pour tous les goûts et pour tous les niveaux. Venez me
+              suivre sur
               <a
                 href="https://www.instagram.com/josiesrecipes/"
                 target="_blank"
               >
                 Instagram
               </a>
-              pour les découvrir en avant première.
+              pour les découvrir en avant première et me donner votre avis.
             </p>
             <!-- <AppSearchInputHome /> -->
           </b-col>
@@ -38,9 +39,6 @@
         <!-- <b-row class="mb-2">
           <CategoryPush />
         </b-row> -->
-        <b-row class="mb-4">
-          <CategoriesLinks />
-        </b-row>
         <b-row>
           <div class="mb-4 ads-container">
             <ins
@@ -120,12 +118,15 @@
             <div class="flex items-center">
               <nuxt-link
                 to="/2"
-                class="flex-1 py-2 px-4 rounded mb-5 text-center see-more"
+                class="flex-1 py-2 px-4 rounded mb-3 text-center see-more"
               >
                 Voir plus de recettes
               </nuxt-link>
             </div>
           </b-col>
+        </b-row>
+        <b-row class="mb-5">
+          <aside><CategoriesLinks /></aside>
         </b-row>
       </b-container>
     </div>
