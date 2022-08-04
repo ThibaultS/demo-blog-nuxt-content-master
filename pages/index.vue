@@ -22,7 +22,7 @@
           <b-col>
             <h1>Les recettes de Josie</h1>
             <p class="lead lead-home mt-4">
-              Je vous partage depuis 2020 de nombreuses recettes sucrées et
+              Depuis 2020, je vous partage de nombreuses recettes sucrées et
               salées pour tous les goûts et pour tous les niveaux. Venez me
               suivre sur
               <a
