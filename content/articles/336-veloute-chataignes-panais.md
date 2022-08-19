@@ -1,6 +1,6 @@
 ---
 id: 336
-title: Soupe de butternut, burrata et pesto
+title: Velouté châtaignes panais et croutons de pain d’épices
 thumbnail_noel: 
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1659530879/Recipes/20220205_veloute_chataignes_panais.jpg
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1659530879/Recipes/20220205_veloute_chataignes_panais.jpg
