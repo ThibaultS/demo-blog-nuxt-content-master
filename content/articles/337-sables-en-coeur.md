@@ -18,7 +18,7 @@ main_ingredient :
 with : 
 country : 'France'
 sweety_salty : 
-veggie : 1
+veggie : 
 difficulty : Facile
 recipeYield : un nombre dépendant de la taille des moules
 time : 60

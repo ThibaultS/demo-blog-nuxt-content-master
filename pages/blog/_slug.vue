@@ -405,7 +405,11 @@
                               <i class="fas fa-seedling"></i>
                               Recette végétarienne
                             </div>
-                            <div v-if="last.country">
+                            <div
+                              v-if="
+                                last.country != 'France' && last.country != ''
+                              "
+                            >
                               <i class="fas fa-globe-americas"></i>
                               {{ last.country }}
                             </div>
