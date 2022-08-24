@@ -6,7 +6,7 @@ img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v165953098
 thumbnail: https://res.cloudinary.com/thibaults/image/upload/t_thumbnail_josie/v1659530982/Recipes/20220213_sables_coeur.jpg
 url: https://www.instagram.com/p/CZ7EHSWo2Jb/
 date : '2022-02-13'
-description: "Pour la Saint-Valentin, si vous voulez faire plaisir à votre chéri•e ou à un proche, essayez ma recette de sablés fait avec amour !"
+description: "Pour la Saint-Valentin, si vous voulez faire plaisir à votre chéri•e ou à un proche, essayez ma recette de sablés faits avec amour !"
 bkg : 
 alt: 
 inspiration :
