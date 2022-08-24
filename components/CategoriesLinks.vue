@@ -1,47 +1,59 @@
 <template>
   <b-col>
-    <h2 class="subtitle-home mb-2">Mes recettes par thématique</h2>
-    <a href="/categories/vegetarien" class="link mr-2">Végétarien</a>
+    <h2 class="subtitle-home mb-2">Rechercher une recette par thème</h2>
+    <a href="/categories/vegetarien" class="link">Végétarien</a>
     -
-    <a href="/categories/boulettes" class="link mr-2">Boulettes</a>
+    <a href="/categories/trente-minutes-chrono" class="link">
+      En 30 min chrono
+    </a>
     -
-    <a href="/categories/salades" class="link mr-2">Salades</a>
+    <a href="/categories/boulettes" class="link">Boulettes</a>
     -
-    <a href="/categories/pates" class="link mr-2">Pâtes</a>
+    <a href="/categories/salades" class="link">Salades</a>
     -
-    <a href="/categories/viandes" class="link mr-2">Viandes</a>
+    <a href="/categories/pates" class="link">Pâtes</a>
     -
-    <a href="/categories/poissons-et-crustaces" class="link mr-2">
+    <a href="/categories/viandes" class="link">Viandes</a>
+    -
+    <a href="/categories/poissons-et-crustaces" class="link">
       Poissons et crustacés
     </a>
     -
-    <a href="/categories/burgers-et-tartines" class="link mr-2">
+    <a href="/categories/burgers-et-tartines" class="link">
       Burgers & tartines
     </a>
     -
-    <a href="/categories/chocolat" class="link mr-2">Chocolat</a>
+    <a href="/categories/chocolat" class="link">Chocolat</a>
     -
-    <a href="/categories/gateaux" class="link mr-2">Gâteaux </a>
+    <a href="/categories/gateaux" class="link">Gâteaux</a>
     -
-    <a href="/categories/asperge" class="link mr-2">Asperges</a>
+    <a href="/categories/asperge" class="link">Asperges</a>
     -
-    <a href="/categories/paques" class="link mr-2">Pâques</a>
-    -
-    <a href="/categories/saint-valentin" class="link mr-2">Saint-Valentin</a>
-    -
-    <a href="/categories/noel-2021" class="link mr-2">
-      Calendrier de l'avent 2021
-    </a>
-    -
-    <a href="/categories/noel" class="link mr-2">Calendrier de l'avent 2020</a>
-    -
-    <a href="/categories/halloween" class="link mr-2">Halloween</a>
-    -
-    <a href="/categories/soupes-et-veloutes" class="link mr-2">
+    <a href="/categories/soupes-et-veloutes" class="link">
       Soupes et veloutés
     </a>
+    <h2 class="subtitle-home mt-2 mb-2">
+      Mes recettes pour les grandes occasions
+    </h2>
+    <a href="/categories/paques" class="link">Desserts pour fêter Pâques</a>
     -
-    <a href="/categories/octobre-2021" class="link mr-2">Octobre 2021</a>
+    <a href="/categories/saint-valentin" class="link">
+      Desserts pour la Saint-Valentin
+    </a>
+    -
+    <a href="/categories/noel-2021" class="link">
+      Mon Calendrier de l'avent de recettes 2021
+    </a>
+    -
+    <a href="/categories/noel" class="link">
+      Mon Calendrier de l'avent de recettes 2020
+    </a>
+    -
+    <a href="/categories/halloween" class="link">Mes desserts d'Halloween</a>
+    -
+    <a href="/categories/octobre-2021" class="link">
+      Recettes de saison pour le mois d'octobre
+    </a>
   </b-col>
 </template>
 <script>

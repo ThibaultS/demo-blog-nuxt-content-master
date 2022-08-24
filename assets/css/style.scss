@@ -20,7 +20,9 @@ $theme-colors: (
 // Classic css
   
 body {
-    background-color:#d0b8ac; 
+    background: rgba(239,229,220,1);
+    background: linear-gradient(180deg, rgba(208,184,172,1) 5vw, rgba(239,229,220,1) 100vw);
+    background-attachment: fixed;
     color: #253237;
     font-family: 'Times New Roman', Times, serif;
     min-height: 100vh;
@@ -70,8 +72,8 @@ a {
 }
 
 article .lead {
-    font-size: 1.25rem;
-    font-weight: 600;
+    font-size: 1.5rem;
+    font-weight: 400;
 }
 
 .lead.lead-home {
@@ -120,25 +122,23 @@ h2.subtitle-home {
 }
 
 .link {
-    text-transform: uppercase;
-    font-weight: 800;
-    font-size: 0.9rem;
-    transition: 500ms ease-in-out;
-    color: #F73A64;
+    font-weight: 200;
+    font-style: italic;
+    font-size: 1rem;
+    transition: 200ms ease-in-out;
+    color: #f73a64;
     white-space:nowrap;
     text-decoration: underline;
-    text-decoration-thickness: 0.3rem;
-    text-decoration-color: rgba($color: #F73A64, $alpha: 0.5)
+    text-decoration-thickness: 0.1rem;
 }
 
 .link:hover {
-    color: #75513e;
-    text-decoration-thickness: 0.2rem;
+    color: #f73a64;
+    text-decoration-thickness: 0.3rem;
 }
 
 article h1 {
-    color: #F73A64;
-    font-size: 3rem;
+    font-size: 2.5rem;
     text-align: left;
 }
 
@@ -162,7 +162,7 @@ article h2 {
         padding: 0.4rem;
     }
     a {
-        color:#000;
+        color:#253237;
     }
 }
 
@@ -283,7 +283,7 @@ article .icon-insta:hover i ,article .icon-insta:focus i, article .icon-pin:hove
 }
 
 .search-recipes, .search-list-recipes {
-    color: #000;
+    color: #253237;
     border: 1px solid #d0b8ac;
     border-radius: 0.25rem;
 }
@@ -353,7 +353,7 @@ article .icon-insta:hover i ,article .icon-insta:focus i, article .icon-pin:hove
 }
 
 article {
-    color: #000;
+    color: #253237;
     .post-left {
         -webkit-box-shadow: inset 0 200px 100px -100px rgba(208,184,172,0.2);
         -moz-box-shadow: inset 0 200px 100px -100px rgba(208,184,172,0.2);
@@ -361,9 +361,6 @@ article {
         img {
             z-index: -2;
         }
-    }
-    .post-right {
-        background-color: #d0b8ac;
     }
 }
 
@@ -1134,12 +1131,6 @@ a.see-more:hover {
 }
 
 @media (min-width: 768px){
-    body {
-        background: rgba(239,229,220,1);
-        background: linear-gradient(180deg, rgba(208,184,172,1) 5vw, rgba(239,229,220,1) 100vw);
-        background-attachment: fixed;
-
-    }
     .container-lg {
         padding-left: 3rem;
         padding-right: 3rem;
@@ -1223,21 +1214,18 @@ a.see-more:hover {
     }
     
     article h1 {
-        position: fixed;
-        bottom: -3rem;
-        left: 1.5rem;
-        transform : rotate(270deg);
-        transform-origin :0 0;
-        // color: #d0b8ac;
-        color: #fff;
-        text-shadow:0 0 20px rgba(132,87,76,1);
-        width:75vh;
+        font-size: 3rem;
     }
 
-    article h1.noel-title {
-        color: #fff;
-        text-shadow:0 0 20px rgba(132,87,76,1);
+    article .post-left img {
+        height:80vh;
+        margin-top:10vh;
+        -webkit-box-shadow:  0 4px 5px 0 rgba(208, 184, 172, 0.5);
+        -moz-box-shadow: 0 4px 5px 0 rgba(208, 184, 172, 0.5);
+        box-shadow: 0 4px 5px 0 rgba(208, 184, 172, 0.5);
+        border-radius: 0 0.25rem 0.25rem 0;
     }
+
     .lg\:h-full {
         height: 100%;
     }
@@ -1268,9 +1256,6 @@ a.see-more:hover {
 @media (min-width: 1440px){
     .card-columns {
         column-count: 4;
-    }
-    .container-lg {
-        max-width: 1440px;
     }
 
 }
