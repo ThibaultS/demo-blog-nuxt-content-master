@@ -29,7 +29,7 @@ published : 1
 ## Tous les ingrédients
 ### Pour la ganache au yuzu
  - 100g de chocolat au yuzu (de la marque Valrhona)
- -  - z20g de beurre
+ - 20g de beurre
  - 80ml de crème liquide entière
 
 ### Pour les coques de macarons

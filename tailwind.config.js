@@ -15,10 +15,6 @@ module.exports = {
       xxlmin: '1351px',
       xxlmax: { max: '1350px' }
     },
-    fontFamily: {
-      display: ['sans-serif'],
-      body: ['sans-serif']
-    },
     borderWidth: {
       default: '1px',
       0: '0',

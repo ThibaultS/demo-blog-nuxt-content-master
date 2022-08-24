@@ -16,7 +16,7 @@
     <div
       class="flex lg:h-screen w-screen lg:overflow-hidden xs:flex-col lg:flex-row"
     >
-      <div class="relative lg:w-1/2 xs:w-full xs:h-screen lg:h-full post-left">
+      <div class="relative lg:w-1/3 xs:w-full xs:h-screen lg:h-full post-left">
         <img
           :src="article.img"
           :alt="article.alt"
@@ -25,7 +25,7 @@
         <div class="overlay"></div>
       </div>
       <div
-        class="relative xs:py-8 xs:px-8 lg:py-32 lg:px-16 lg:w-1/2 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
+        class="relative xs:py-8 xs:px-8 lg:py-48 lg:px-32 xxlmin:px-48 lg:w-2/3 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
       >
         <h1 v-if="article.event != 'Noël 2021'">{{ article.title }}</h1>
         <h1 v-if="article.event == 'Noël 2021'" class="noel-title">
@@ -38,132 +38,60 @@
         <p v-if="article.description" class="lead">
           {{ article.description }}
         </p>
-        <b-card class="mb-4 bg-secondary">
+        <b-card class="mb-2 bg-secondary">
           <div class="detail-infos-card">
-            <div v-if="article.event == 'Noël 2021'">
-              <i class="fas fa-gift"></i>
-              <a href="/categories/noel-2021" class="link">
-                Recette de Noël 2021
-              </a>
-            </div>
-            <div v-if="article.theme == 'Pâtes'">
-              Thème : <a href="/categories/pates" class="link">Pâtes</a>
-            </div>
-            <div v-if="article.theme == 'Soupes et veloutés'">
-              Thème :
-              <a href="/categories/soupes-et-veloutes" class="link">
-                Soupes et veloutés
-              </a>
-            </div>
-            <div v-if="article.main_ingredient == 'Chocolat'">
-              A base de <a href="/categories/chocolat" class="link">chocolat</a>
-            </div>
-            <div v-if="article.theme == 'Gâteaux'">
-              Thème : <a href="/categories/gateaux" class="link">Gâteaux</a>
-            </div>
-            <div v-if="article.theme == 'Salades'">
-              Thème : <a href="/categories/salades" class="link">Salades</a>
-            </div>
-            <div v-if="article.theme == 'Burgers'">
-              Thème :
-              <a href="/categories/burgers-et-tartines" class="link">Burgers</a>
-            </div>
-            <div v-if="article.theme == 'Tartines'">
-              Thème :
-              <a href="/categories/burgers-et-tartines" class="link">
-                Tartines
-              </a>
-            </div>
-            <div
-              v-if="
-                article.main_ingredient == 'Saumon' ||
-                article.main_ingredient == 'Thon' ||
-                article.main_ingredient == 'Daurade' ||
-                article.main_ingredient == 'Lotte' ||
-                article.main_ingredient == 'Crevette' ||
-                article.main_ingredient == 'Bar' ||
-                article.main_ingredient == 'Cabillaud' ||
-                article.main_ingredient == 'Saint-Jacques' ||
-                article.main_ingredient == 'Huître' ||
-                article.main_ingredient == 'Crabe' ||
-                article.main_ingredient == 'Truite' ||
-                article.main_ingredient == 'Coques' ||
-                article.main_ingredient == 'Palourde' ||
-                article.main_ingredient == 'Moule' ||
-                article.main_ingredient == 'Langouste' ||
-                article.main_ingredient == 'Calamar'
-              "
-            >
-              Thème :
-              <a href="/categories/poissons-et-crustaces" class="link">
-                Poissons et crustacés
-              </a>
-            </div>
-            <div
-              v-if="
-                article.main_ingredient == 'Boeuf' ||
-                article.main_ingredient == 'Poulet' ||
-                article.main_ingredient == 'Dinde' ||
-                article.main_ingredient == 'Veau' ||
-                article.main_ingredient == 'Canard' ||
-                article.main_ingredient == 'Chapon' ||
-                article.main_ingredient == 'Agneau' ||
-                article.main_ingredient == 'Lapin' ||
-                article.main_ingredient == 'Boudin' ||
-                article.main_ingredient == 'Porc'
-              "
-            >
-              Thème :
-              <a href="/categories/viandes" class="link">Viandes</a>
-            </div>
-            <div v-if="article.with == 'Boulette'">
-              Thème :
-              <a href="/categories/boulettes" class="link">Boulettes</a>
-            </div>
-            <div v-if="article.inspiration">
-              Sur la recette initiale de {{ article.inspiration }}
-            </div>
-            <div v-if="article.veggie">
-              <i class="fas fa-seedling"></i>
-              <a href="/categories/vegetarien" class="link">Végératien</a>
-            </div>
-            <div v-if="article.sweety_salty">Recette sucrée-salée</div>
-            <div v-if="article.country != 'France' && article.country != ''">
-              <i class="fas fa-globe-americas"></i>
-              Origine :
-              <span>{{ article.country }}</span>
-            </div>
-            <div v-if="article.difficulty">
-              <i class="fas fa-check-double"></i>
-              {{ article.difficulty }}
-            </div>
-            <div v-if="article.time">
-              <i class="fas fa-stopwatch"></i>
-              {{ article.time }} min
-              <span v-if="article.time < 31">
-                -
-                <a class="link mr-2" href="/categories/trente-minutes-chrono">
-                  Recettes en moins de 30 min
-                </a>
+            <div class="mb-2">
+              <span v-if="article.inspiration" class="mr-2">
+                Sur la recette initiale de {{ article.inspiration }}
+              </span>
+              <span v-if="article.veggie" class="mr-2">
+                <i class="fas fa-seedling"></i>
+                <a href="/categories/vegetarien" class="link">Végératien</a>
+              </span>
+              <span v-if="article.sweety_salty" class="mr-2">
+                Recette sucrée-salée
+              </span>
+              <span
+                v-if="article.country != 'France' && article.country != ''"
+                class="mr-2"
+              >
+                <i class="fas fa-globe-americas"></i>
+                Origine :
+                <span>{{ article.country }}</span>
+              </span>
+              <span v-if="article.difficulty" class="mr-2">
+                <i class="fas fa-check-double"></i>
+                {{ article.difficulty }}
+              </span>
+              <span v-if="article.time" class="mr-2">
+                <i class="fas fa-stopwatch"></i>
+                {{ article.time }} min
+                <span v-if="article.time < 31">
+                  -
+                  <a class="link" href="/categories/trente-minutes-chrono">
+                    Recettes en moins de 30 min
+                  </a>
+                </span>
+              </span>
+              <span v-if="article.recipeYield" class="mr-2">
+                <i class="fas fa-utensils"></i>
+                Pour {{ article.recipeYield }}
               </span>
             </div>
-            <div v-if="article.recipeYield">
-              <i class="fas fa-utensils"></i>
-              Pour {{ article.recipeYield }}
-            </div>
           </div>
-          <div class="mt-2">
+          <div>
             <a
               v-if="article.url"
               :href="article.url"
               target="_blank"
-              class="icon-insta"
+              class="icon-insta mr-2"
             >
-              <i class="fab fa-instagram fa-2x"></i>
+              <i class="fab fa-instagram"></i>
+              La recette sur Instagram
             </a>
             <a
               id="pinbtn"
-              class="ml-1 icon-pin"
+              class="icon-pin"
               data-pin-do="buttonPin"
               data-pin-custom="custom"
               target="_top"
@@ -171,11 +99,9 @@
                 buildPinUrl(article.slug, article.img, article.description)
               "
             >
-              <i class="fab fa-pinterest fa-2x"></i>
+              <i class="fab fa-pinterest"></i>
+              Enregistrer sur Pinterest
             </a>
-          </div>
-          <div>
-            <em>Publiée le {{ formatDate(article.date) }}</em>
           </div>
         </b-card>
         <!-- <b-card
@@ -199,6 +125,86 @@
             Découvrir
           </nuxt-link>
         </b-card> -->
+        <div class="theme-article mb-4">
+          <span v-if="article.event == 'Noël 2021'">
+            <i class="fas fa-gift"></i>
+            <a href="/categories/noel-2021" class="link">
+              Recette de Noël 2021
+            </a>
+          </span>
+          <span v-if="article.theme == 'Pâtes'">
+            <a href="/categories/pates" class="link mr-2">Pâtes</a>
+          </span>
+          <span v-if="article.theme == 'Soupes et veloutés'">
+            <a href="/categories/soupes-et-veloutes" class="link mr-2">
+              Soupes et veloutés
+            </a>
+          </span>
+          <span v-if="article.main_ingredient == 'Chocolat'">
+            <a href="/categories/chocolat" class="link mr-2">
+              A base de chocolat
+            </a>
+          </span>
+          <span v-if="article.theme == 'Gâteaux'">
+            <a href="/categories/gateaux" class="link mr-2">Gâteaux</a>
+          </span>
+          <span v-if="article.theme == 'Salades'">
+            <a href="/categories/salades" class="link mr-2">Salades</a>
+          </span>
+          <span v-if="article.theme == 'Burgers'">
+            <a href="/categories/burgers-et-tartines" class="link mr-2">
+              Burgers
+            </a>
+          </span>
+          <span v-if="article.theme == 'Tartines'">
+            <a href="/categories/burgers-et-tartines" class="link mr-2">
+              Tartines
+            </a>
+          </span>
+          <span
+            v-if="
+              article.main_ingredient == 'Saumon' ||
+              article.main_ingredient == 'Thon' ||
+              article.main_ingredient == 'Daurade' ||
+              article.main_ingredient == 'Lotte' ||
+              article.main_ingredient == 'Crevette' ||
+              article.main_ingredient == 'Bar' ||
+              article.main_ingredient == 'Cabillaud' ||
+              article.main_ingredient == 'Saint-Jacques' ||
+              article.main_ingredient == 'Huître' ||
+              article.main_ingredient == 'Crabe' ||
+              article.main_ingredient == 'Truite' ||
+              article.main_ingredient == 'Coques' ||
+              article.main_ingredient == 'Palourde' ||
+              article.main_ingredient == 'Moule' ||
+              article.main_ingredient == 'Langouste' ||
+              article.main_ingredient == 'Calamar'
+            "
+          >
+            <a href="/categories/poissons-et-crustaces" class="link mr-2">
+              Poissons et crustacés
+            </a>
+          </span>
+          <span
+            v-if="
+              article.main_ingredient == 'Boeuf' ||
+              article.main_ingredient == 'Poulet' ||
+              article.main_ingredient == 'Dinde' ||
+              article.main_ingredient == 'Veau' ||
+              article.main_ingredient == 'Canard' ||
+              article.main_ingredient == 'Chapon' ||
+              article.main_ingredient == 'Agneau' ||
+              article.main_ingredient == 'Lapin' ||
+              article.main_ingredient == 'Boudin' ||
+              article.main_ingredient == 'Porc'
+            "
+          >
+            <a href="/categories/viandes" class="link mr-2">Viandes</a>
+          </span>
+          <span v-if="article.with == 'Boulette'">
+            <a href="/categories/boulettes" class="link mr-2">Boulettes</a>
+          </span>
+        </div>
         <b-row>
           <div class="mb-4 ads-container">
             <ins
@@ -212,6 +218,9 @@
           </div>
         </b-row>
         <nuxt-content :document="article" />
+        <div>
+          <em>Publiée le {{ formatDate(article.date) }}</em>
+        </div>
         <!-- <b-card
           class="push-category push-event push-christmas mb-4 pt-2 pb-2 text-center"
         >
@@ -244,63 +253,63 @@
               href="/categories/noel-2021"
               class="link mr-2"
             >
-              Recette de Noël 2021
+              Mes recettes de Noël 2021
             </a>
             <a
               v-if="article.time < 31"
               class="link mr-2"
               href="/categories/trente-minutes-chrono"
             >
-              Recettes en moins de 30 min
+              Toutes mes recettes en moins de 30 min
             </a>
             <a
               v-if="article.theme == 'Pâtes'"
               class="link mr-2"
               href="/categories/pates"
             >
-              Pâtes
+              Toutes mes recettes de pâtes
             </a>
             <a
               v-if="article.theme == 'Soupes et veloutés'"
               class="link mr-2"
               href="/categories/soupes-et-veloutes"
             >
-              Soupes et veloutés
+              Toutes mes recettes de soupes et veloutés
             </a>
             <a
               v-if="article.theme == 'Tartines'"
               class="link mr-2"
               href="/categories/burgers-et-tartines"
             >
-              Tartines
+              Toutes mes recettes de tartines
             </a>
             <a
               v-if="article.theme == 'Burgers'"
               class="link mr-2"
               href="/categories/burgers-et-tartines"
             >
-              Burgers
+              Toutes mes recettes de burgers
             </a>
             <a
               v-if="article.main_ingredient == 'Chocolat'"
               class="link mr-2"
               href="/categories/chocolat"
             >
-              Desserts au chocolat
+              Toutes mes desserts au chocolat
             </a>
             <a
               v-if="article.theme == 'Gâteaux'"
               class="link mr-2"
               href="/categories/gateaux"
             >
-              Gâteaux
+              Toutes mes recettes de gâteaux
             </a>
             <a
               v-if="article.veggie"
               class="link mr-2"
               href="/categories/vegetarien"
             >
-              Végératien
+              Toutes mes recettes végératiennes
             </a>
             <a
               v-if="
@@ -324,7 +333,7 @@
               class="link mr-2"
               href="/categories/poissons-et-crustaces"
             >
-              Poissons et crustacés
+              Toutes mes recettes de poissons et crustacés
             </a>
             <a
               v-if="
@@ -342,14 +351,14 @@
               class="link mr-2"
               href="/categories/viandes"
             >
-              Viandes
+              Toutes mes recettes de viandes
             </a>
             <a
               v-if="article.theme == 'Salades'"
               class="link mr-2"
               href="/categories/salades"
             >
-              Salades
+              Toutes mes recettes de salades
             </a>
             <a
               v-if="
@@ -359,22 +368,18 @@
               class="link mr-2"
               href="/categories/asperge"
             >
-              Asperges
+              Toutes mes recettes avec des asperges
             </a>
             <a
               v-if="article.with == 'Boulette'"
               class="link mr-2"
               href="/categories/boulettes"
             >
-              Boulettes
+              Toutes mes recettes de boulettes
             </a>
           </div>
           <div class="last-post mt-4">
-            <h3>Ma dernière publication</h3>
-            <p>
-              Chaque semaine, je publie 4 nouvelles recettes. Découvrez la
-              dernière recette publiée sur le site.
-            </p>
+            <h3>Ma dernière recette publiée</h3>
             <b-row id="posts" class="row-cols-1">
               <b-col class="mb-3">
                 <b-card class="post horizontal" no-body>

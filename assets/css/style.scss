@@ -21,9 +21,9 @@ $theme-colors: (
   
 body {
     background: rgba(239,229,220,1);
-    background: linear-gradient(180deg, rgba(208,184,172,1) 5vw, rgba(239,229,220,1) 100vw);
-    background-attachment: fixed;
+    background: linear-gradient(180deg, rgba(208,184,172,1) 25vw, rgba(239,229,220,1) 200vw);
     color: #253237;
+    font-size: 1rem;
     font-family: 'Times New Roman', Times, serif;
     min-height: 100vh;
 }
@@ -90,7 +90,7 @@ nav.customnav {
 
 #josie.logo {
     // width: 60%;
-    width :5.5rem; 
+    width: 5.5rem; 
     filter: drop-shadow(0 0 6px rgba(0, 0, 0, 0.5));
 }
 .container-lg {
@@ -124,7 +124,6 @@ h2.subtitle-home {
 .link {
     font-weight: 200;
     font-style: italic;
-    font-size: 1rem;
     transition: 200ms ease-in-out;
     color: #f73a64;
     white-space:nowrap;
