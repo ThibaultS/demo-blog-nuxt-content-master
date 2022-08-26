@@ -49,7 +49,7 @@ export default {
   /*
    ** Global CSS
    */
-  css: ['@/assets/css/style.scss'],
+  css: ['@/assets/css/style.scss', '@/assets/css/print.scss'],
   /*
    ** Plugins to load before mounting the App
    ** https://nuxtjs.org/guide/plugins
@@ -81,6 +81,10 @@ export default {
     '@nuxtjs/gtm',
     '@nuxtjs/sitemap'
   ],
+  'google-adsense': {
+    onPageLoad: true,
+    analyticsUacct: 'UA-179745138-1'
+  },
   gtm: {
     id: 'GTM-MX36K52'
   },

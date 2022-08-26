@@ -13,7 +13,7 @@ main_ingredient : Saumon
 theme : 
 sweety_salty : 1
 veggie : 
-country : ''
+country : 'France'
 difficulty : Facile
 with : 
 time : 25

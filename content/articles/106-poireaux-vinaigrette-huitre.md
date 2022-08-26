@@ -13,7 +13,7 @@ main_ingredient : Poireau
 theme : 
 sweety_salty : 
 veggie : 
-country : ''
+country : 'France'
 difficulty : Moyen
 with : 
 time : 40

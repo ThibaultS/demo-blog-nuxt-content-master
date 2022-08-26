@@ -1,0 +1,19 @@
+@media print {
+
+    .ads-container {
+        display:none;
+    }
+
+    h1,body,h2,h3,h4,h5,h6,p {
+        color:#000 !important;
+    }
+
+    a {
+        color:#F73A64 !important;
+    }
+
+    .last-post {
+        display: none;
+    }
+
+}

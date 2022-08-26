@@ -69,7 +69,7 @@
                 <span v-if="article.time < 31">
                   -
                   <a class="link" href="/categories/trente-minutes-chrono">
-                    Recettes en moins de 30 min
+                    Recettes 30 min chrono
                   </a>
                 </span>
               </span>
@@ -218,7 +218,7 @@
           </div>
         </b-row>
         <nuxt-content :document="article" />
-        <div>
+        <div class="mb-4">
           <em>Publiée le {{ formatDate(article.date) }}</em>
         </div>
         <!-- <b-card

@@ -15,6 +15,7 @@ $theme-colors: (
 //so that they inherit the custom SCSS variables
 @import 'bootstrap/scss/bootstrap.scss';
 @import 'bootstrap-vue/src/index.scss';
+@import url('@/assets/css/print.scss') print;
 
 
 // Classic css
@@ -47,7 +48,7 @@ body {
 
 
 input:focus {
-    outline: 3px solid #F73A64;
+    outline: 3px solid $salmon;
 }  
 
 a {
@@ -100,7 +101,7 @@ nav.customnav {
 
 h1 {
     text-align: center;
-    color:#F73A64;
+    color: $salmon;
 }
 
 h1::first-letter {
@@ -116,8 +117,8 @@ h2.subtitle-home {
 }
 
 .btn-tertiary.nuxt-link-exact-active {
-    background-color: #F73A64;
-    border-color: #F73A64;
+    background-color: $salmon;
+    border-color: $salmon;
     color:#FFFDFC;
 }
 
@@ -125,14 +126,14 @@ h2.subtitle-home {
     font-weight: 200;
     font-style: italic;
     transition: 200ms ease-in-out;
-    color: #f73a64;
+    color: $salmon;
     white-space:nowrap;
     text-decoration: underline;
     text-decoration-thickness: 0.1rem;
 }
 
 .link:hover {
-    color: #f73a64;
+    color: $salmon;
     text-decoration-thickness: 0.3rem;
 }
 
@@ -147,7 +148,7 @@ article h1.noel-title {
 }
 
 article h2 {
-    border-bottom: 4px solid #F73A64;
+    border-bottom: 4px solid $salmon;
 }
 
 .search-list-recipes {
@@ -170,7 +171,7 @@ article .markdown-body li {
 }
 
 article .markdown-body li::before {
-    color: #F73A64;
+    color: $salmon;
     content : "•";
     padding-right: 0.7rem;
     font-weight: 1000;
@@ -179,7 +180,7 @@ article .markdown-body li::before {
 article .detail-infos-card {
     color: #75513e;
     i {
-        color : #F73A64
+        color : $salmon;
     }
 }
 
@@ -194,7 +195,7 @@ article .icon-pin i {
 }
   
 article .icon-insta:hover i ,article .icon-insta:focus i, article .icon-pin:hover i,  article .icon-pin:focus i {
-    color: #F73A64;
+    color: $salmon;
 }
 
 
@@ -843,7 +844,7 @@ article .card.push-category.push-christmas {
     -moz-box-shadow: 0 5px 6px 0 rgba(132, 87, 76, 0.5);;
     box-shadow: 0 5px 6px 0 rgba(132, 87, 76, 0.5);    
     .icon {
-        background: #F73A64;
+        background: $salmon;
     }
     .icon:hover {
         background: #253237;
@@ -886,7 +887,7 @@ article .card.push-category.push-christmas {
 .card.post {
     a  {
         h3 {
-            color: #F73A64;
+            color: $salmon;
         }
         p.lead  {
             color: #CBB1A4;
@@ -897,14 +898,14 @@ article .card.push-category.push-christmas {
         .infos-card {
             color: #75513e;
             i {
-                color : #F73A64
+                color : $salmon
             }
         }
     }
     a:hover {
         text-decoration: none;
         h3 {
-            color: #F73A64;
+            color: $salmon;
             text-decoration: underline;
         }
         p {

@@ -14,7 +14,7 @@ theme : Gâteaux
 tag : 
 sweety_salty : 
 veggie : 
-country : ''
+country : 'France'
 difficulty : Difficile
 with : 
 time : 120
