@@ -44,6 +44,19 @@
               <span v-if="article.inspiration" class="mr-2">
                 Sur la recette initiale de {{ article.inspiration }}
               </span>
+              <span v-if="article.time" class="mr-2">
+                <i class="fas fa-stopwatch"></i>
+                {{ article.time }} min
+              </span>
+              <span v-if="article.recipeYield" class="mr-2">
+                <i class="fas fa-utensils"></i>
+                Pour {{ article.recipeYield }}
+              </span>
+              <span v-if="article.difficulty" class="mr-2">
+                <i class="fas fa-check-double"></i>
+                {{ article.difficulty }}
+              </span>
+
               <span v-if="article.veggie" class="mr-2">
                 <i class="fas fa-seedling"></i>
                 <a href="/categories/vegetarien" class="link">Végératien</a>
@@ -56,26 +69,7 @@
                 class="mr-2"
               >
                 <i class="fas fa-globe-americas"></i>
-                Origine :
                 <span>{{ article.country }}</span>
-              </span>
-              <span v-if="article.difficulty" class="mr-2">
-                <i class="fas fa-check-double"></i>
-                {{ article.difficulty }}
-              </span>
-              <span v-if="article.time" class="mr-2">
-                <i class="fas fa-stopwatch"></i>
-                {{ article.time }} min
-                <span v-if="article.time < 31">
-                  -
-                  <a class="link" href="/categories/trente-minutes-chrono">
-                    Recettes 30 min chrono
-                  </a>
-                </span>
-              </span>
-              <span v-if="article.recipeYield" class="mr-2">
-                <i class="fas fa-utensils"></i>
-                Pour {{ article.recipeYield }}
               </span>
             </div>
           </div>
@@ -130,6 +124,11 @@
             <i class="fas fa-gift"></i>
             <a href="/categories/noel-2021" class="link">
               Recette de Noël 2021
+            </a>
+          </span>
+          <span v-if="article.time < 31">
+            <a class="link mr-2" href="/categories/trente-minutes-chrono">
+              Recettes en moins de 30 min chrono
             </a>
           </span>
           <span v-if="article.theme == 'Pâtes'">
