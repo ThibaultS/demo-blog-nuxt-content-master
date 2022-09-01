@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="category-page">
     <div>
       <b-navbar
         type="dark"
@@ -15,13 +15,41 @@
             />
           </nuxt-link>
         </b-navbar-brand>
+        <!-- Right aligned nav items -->
         <NavItems />
       </b-navbar>
       <b-container fluid="lg" class="animate animate3 slideUp">
-        <b-row class="mb-2">
-          <b-col>
-            <h1>Les recettes de Josie - page 2</h1>
+        <b-row>
+          <b-col class="intro mt-5 mb-3">
+            <h1>Mes recettes de burgers</h1>
+            <p class="lead">
+              Il existe des milliers de combinaisons pour faire des burgers
+              délicieux et aux goûts de chacun. Pour découvrir mes nouvelles
+              recettes je vous invite à me suivre sur
+              <a
+                href="https://www.instagram.com/josiesrecipes/"
+                target="_blank"
+              >
+                Instagram
+              </a>
+              et
+              <a target="_blank" href="https://www.facebook.com/josiesrecipes">
+                Facebook.
+              </a>
+            </p>
           </b-col>
+        </b-row>
+        <b-row>
+          <div class="mb-4 ads-container">
+            <ins
+              class="adsbygoogle adsonsite adsonhome"
+              style="display: block"
+              data-ad-client="ca-pub-4925011117186251"
+              data-ad-slot="5914372396"
+              data-ad-format="horizontal"
+              data-full-width-responsive="true"
+            ></ins>
+          </div>
         </b-row>
         <b-row
           id="posts"
@@ -54,7 +82,7 @@
                       <div class="infos-card">
                         <div v-if="article.veggie">
                           <i class="fas fa-seedling"></i>
-                          Recette végétarienne
+                          Végétarien
                         </div>
                         <div
                           v-if="
@@ -111,9 +139,12 @@ export default {
         'sweety_salty'
       ])
       .sortBy('id', 'desc')
-      .where({ published: 1 })
-      .skip(210)
       .limit(50)
+      .where({
+        theme: {
+          $in: ['Burgers']
+        }
+      })
       .fetch()
     return {
       articles
@@ -121,7 +152,26 @@ export default {
   },
   data() {
     return {
-      title: 'Toutes mes recettes - Page 6'
+      title: 'Mes recettes de burgers'
+    }
+  },
+  mounted() {
+    this.showAd()
+  },
+  methods: {
+    showAd() {
+      this.show = true
+      // console.log('updateAd')
+
+      this.$nextTick(() => {
+        try {
+          // Once ad container (<ins>) DOM has (re-)rendered, requesst a new advert
+          ;(window.adsbygoogle = window.adsbygoogle || []).push({})
+          // console.log('goof')
+        } catch (error) {
+          // console.error(error)
+        }
+      })
     }
   },
   head() {
@@ -131,8 +181,7 @@ export default {
         {
           hid: 'description',
           name: 'description',
-          content:
-            "Retrouvez sur mon site toutes les recettes que j'ai publiées sur mon compte instagram @josiesrecipes"
+          content: 'Toutes mes recettes de burgers pour tous les goûts'
         },
         {
           hid: 'og:image',

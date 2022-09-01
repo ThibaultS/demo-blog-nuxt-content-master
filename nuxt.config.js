@@ -116,5 +116,6 @@ export default {
     babel: {
       compact: true
     }
-  }
+  },
+  serverMiddleware: ['~/middleware/redirects.js']
 }

@@ -151,14 +151,10 @@
             <a href="/categories/salades" class="link mr-2">Salades</a>
           </span>
           <span v-if="article.theme == 'Burgers'">
-            <a href="/categories/burgers-et-tartines" class="link mr-2">
-              Burgers
-            </a>
+            <a href="/categories/burgers" class="link mr-2">Burgers</a>
           </span>
           <span v-if="article.theme == 'Tartines'">
-            <a href="/categories/burgers-et-tartines" class="link mr-2">
-              Tartines
-            </a>
+            <a href="/categories/tartines" class="link mr-2">Tartines</a>
           </span>
           <span
             v-if="
@@ -166,23 +162,27 @@
               article.main_ingredient == 'Thon' ||
               article.main_ingredient == 'Daurade' ||
               article.main_ingredient == 'Lotte' ||
-              article.main_ingredient == 'Crevette' ||
               article.main_ingredient == 'Bar' ||
               article.main_ingredient == 'Cabillaud' ||
-              article.main_ingredient == 'Saint-Jacques' ||
-              article.main_ingredient == 'Huître' ||
-              article.main_ingredient == 'Crabe' ||
               article.main_ingredient == 'Truite' ||
-              article.main_ingredient == 'Coques' ||
-              article.main_ingredient == 'Palourde' ||
-              article.main_ingredient == 'Moule' ||
-              article.main_ingredient == 'Langouste' ||
               article.main_ingredient == 'Calamar'
             "
           >
-            <a href="/categories/poissons-et-crustaces" class="link mr-2">
-              Poissons et crustacés
-            </a>
+            <a href="/categories/poissons" class="link mr-2">Poissons</a>
+          </span>
+          <span
+            v-if="
+              article.main_ingredient == 'Crevette' ||
+              article.main_ingredient == 'Saint-Jacques' ||
+              article.main_ingredient == 'Huître' ||
+              article.main_ingredient == 'Crabe' ||
+              article.main_ingredient == 'Coques' ||
+              article.main_ingredient == 'Palourde' ||
+              article.main_ingredient == 'Moule' ||
+              article.main_ingredient == 'Langouste'
+            "
+          >
+            <a href="/categories/crustaces" class="link mr-2">Crustacés</a>
           </span>
           <span
             v-if="
@@ -243,7 +243,7 @@
         <div class="mb-3 rebound-block">
           <h2>Cela pourrait vous intéresser</h2>
           <p>
-            Mes recettes sont organisés par catégorie. Retrouvez les catégories
+            Mes recettes sont organisées par catégorie. Retrouvez les catégories
             en lien avec cette recette.
           </p>
           <div>
@@ -278,14 +278,14 @@
             <a
               v-if="article.theme == 'Tartines'"
               class="link mr-2"
-              href="/categories/burgers-et-tartines"
+              href="/categories/tartines"
             >
               Toutes mes recettes de tartines
             </a>
             <a
               v-if="article.theme == 'Burgers'"
               class="link mr-2"
-              href="/categories/burgers-et-tartines"
+              href="/categories/burgers"
             >
               Toutes mes recettes de burgers
             </a>
@@ -316,23 +316,31 @@
                 article.main_ingredient == 'Thon' ||
                 article.main_ingredient == 'Daurade' ||
                 article.main_ingredient == 'Lotte' ||
-                article.main_ingredient == 'Crevette' ||
                 article.main_ingredient == 'Bar' ||
                 article.main_ingredient == 'Cabillaud' ||
-                article.main_ingredient == 'Saint-Jacques' ||
-                article.main_ingredient == 'Huître' ||
-                article.main_ingredient == 'Crabe' ||
                 article.main_ingredient == 'Truite' ||
-                article.main_ingredient == 'Coques' ||
-                article.main_ingredient == 'Palourde' ||
-                article.main_ingredient == 'Moule' ||
-                article.main_ingredient == 'Langouste' ||
                 article.main_ingredient == 'Calamar'
               "
               class="link mr-2"
-              href="/categories/poissons-et-crustaces"
+              href="/categories/poissons"
             >
-              Toutes mes recettes de poissons et crustacés
+              Toutes mes recettes de poissons
+            </a>
+            <a
+              v-if="
+                article.main_ingredient == 'Crevette' ||
+                article.main_ingredient == 'Saint-Jacques' ||
+                article.main_ingredient == 'Huître' ||
+                article.main_ingredient == 'Crabe' ||
+                article.main_ingredient == 'Coques' ||
+                article.main_ingredient == 'Palourde' ||
+                article.main_ingredient == 'Moule' ||
+                article.main_ingredient == 'Langouste'
+              "
+              class="link mr-2"
+              href="/categories/crustaces"
+            >
+              Toutes mes recettes de crustacés
             </a>
             <a
               v-if="

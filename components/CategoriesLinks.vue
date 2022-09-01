@@ -15,13 +15,13 @@
     -
     <a href="/categories/viandes" class="link">Viandes</a>
     -
-    <a href="/categories/poissons-et-crustaces" class="link">
-      Poissons et crustacés
-    </a>
+    <a href="/categories/poissons" class="link">Poissons</a>
     -
-    <a href="/categories/burgers-et-tartines" class="link">
-      Burgers & tartines
-    </a>
+    <a href="/categories/crustaces" class="link">Crustacés</a>
+    -
+    <a href="/categories/burgers" class="link">Burgers</a>
+    -
+    <a href="/categories/tartines" class="link">Tartines</a>
     -
     <a href="/categories/chocolat" class="link">Chocolat</a>
     -

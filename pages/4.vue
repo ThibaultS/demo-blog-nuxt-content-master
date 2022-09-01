@@ -104,6 +104,9 @@
             </div>
           </b-col>
         </b-row>
+        <b-row class="mb-5">
+          <aside><CategoriesLinks /></aside>
+        </b-row>
       </b-container>
     </div>
   </div>

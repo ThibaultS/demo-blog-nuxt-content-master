@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="category-page">
     <div>
       <b-navbar
         type="dark"
@@ -15,13 +15,41 @@
             />
           </nuxt-link>
         </b-navbar-brand>
+        <!-- Right aligned nav items -->
         <NavItems />
       </b-navbar>
       <b-container fluid="lg" class="animate animate3 slideUp">
-        <b-row class="mb-2">
-          <b-col>
-            <h1>Les recettes de Josie - page 2</h1>
+        <b-row>
+          <b-col class="intro mt-5 mb-3">
+            <h1>Mes recettes à base de crustacés</h1>
+            <p class="lead">
+              Retrouvez sur cette page des recettes de crustacés pour tous les
+              goûts : huîtres, moules, palourdes,... Pour découvrir mes
+              nouvelles recettes je vous invite à me suivre sur
+              <a
+                href="https://www.instagram.com/josiesrecipes/"
+                target="_blank"
+              >
+                Instagram
+              </a>
+              et
+              <a target="_blank" href="https://www.facebook.com/josiesrecipes">
+                Facebook.
+              </a>
+            </p>
           </b-col>
+        </b-row>
+        <b-row>
+          <div class="mb-4 ads-container">
+            <ins
+              class="adsbygoogle adsonsite adsonhome"
+              style="display: block"
+              data-ad-client="ca-pub-4925011117186251"
+              data-ad-slot="5914372396"
+              data-ad-format="horizontal"
+              data-full-width-responsive="true"
+            ></ins>
+          </div>
         </b-row>
         <b-row
           id="posts"
@@ -54,7 +82,7 @@
                       <div class="infos-card">
                         <div v-if="article.veggie">
                           <i class="fas fa-seedling"></i>
-                          Recette végétarienne
+                          Végétarien
                         </div>
                         <div
                           v-if="
@@ -111,9 +139,21 @@ export default {
         'sweety_salty'
       ])
       .sortBy('id', 'desc')
-      .where({ published: 1 })
-      .skip(210)
       .limit(50)
+      .where({
+        main_ingredient: {
+          $in: [
+            'Coques',
+            'Moule',
+            'Crevette',
+            'Saint-Jacques',
+            'Huître',
+            'Crabe',
+            'Palourde',
+            'Langouste'
+          ]
+        }
+      })
       .fetch()
     return {
       articles
@@ -121,7 +161,7 @@ export default {
   },
   data() {
     return {
-      title: 'Toutes mes recettes - Page 6'
+      title: 'Mes recettes de crustacés'
     }
   },
   head() {
@@ -132,7 +172,7 @@ export default {
           hid: 'description',
           name: 'description',
           content:
-            "Retrouvez sur mon site toutes les recettes que j'ai publiées sur mon compte instagram @josiesrecipes"
+            'Mes recettes à base de crustacés : moules, coques, palourdes, huîtres,...'
         },
         {
           hid: 'og:image',
