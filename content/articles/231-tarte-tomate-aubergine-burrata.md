@@ -8,20 +8,20 @@ url: https://www.instagram.com/p/CPqlWHrpATc/
 alt: 
 date : '2021-06-03'
 inspiration : 
-description: "Parfaite durant l'été, ma tarte à l'aubergine, la tomate, du pesto et surtout une burrata crémeuse sur le dessus !"
+description: "Parfaite durant l'été, ma tarte à l'aubergine, la tomate, du pesto et surtout une burrata crémeuse sur le dessus ! Et avec la pâte maison bien sûr."
 main_ingredient : Aubergine
 theme : Tartes salées et pizzas
 tag : 
 sweety_salty : 
 veggie : 1
-country : ''
+country : 'France'
 difficulty : Moyen
 with : 
 time : 90
 event : septembre 2021
 recipeYield : 1 tarte
 published : 1
-recipeCategory : ''
+recipeCategory : 'Plat'
 
 ---
 

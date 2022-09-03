@@ -1,6 +1,9 @@
 <template>
   <article>
-    <b-navbar type="dark" class="customnav navbar-default sticky-top pt-1 pb-6">
+    <b-navbar
+      type="dark"
+      class="customnav navbar-default sticky-top pt-1 pb-6 container-lg"
+    >
       <b-navbar-brand>
         <nuxt-link to="/">
           <img

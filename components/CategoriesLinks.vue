@@ -1,6 +1,6 @@
 <template>
   <b-col>
-    <h2 class="subtitle-home mb-2">Rechercher une recette par thème</h2>
+    <h2 class="subtitle-home mb-2">Mes recettes classées par thème</h2>
     <a href="/categories/vegetarien" class="link">Végétarien</a>
     -
     <a href="/categories/trente-minutes-chrono" class="link">
@@ -10,6 +10,8 @@
     <a href="/categories/boulettes" class="link">Boulettes</a>
     -
     <a href="/categories/salades" class="link">Salades</a>
+    -
+    <a href="/categories/tartes-et-pizzas" class="link">Tartes et Pizzas</a>
     -
     <a href="/categories/pates" class="link">Pâtes</a>
     -

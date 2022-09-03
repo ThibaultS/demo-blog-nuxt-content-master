@@ -21,11 +21,14 @@
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row>
           <b-col class="intro mt-5 mb-3">
-            <h1>Mes recettes à base de viandes</h1>
+            <h1>Mes recettes de tartes salées et de pizzas</h1>
             <p class="lead">
-              Retrouvez sur cette mes recettes de viandes pour tous les goûts :
-              agneau, boeuf, poulet, veau, canard, lapin, dinde, chapon,... Pour
-              découvrir mes nouvelles recettes je vous invite à me suivre sur
+              Vous voulez passer un moment convivial en famille ou avec des
+              amis. Préparez-leur une bonne tarte salée, une pizza ou une
+              quiche, ils seront ravis ! Je vous proposer plusieurs recettes à
+              refaire à la maison. Et même des petites tartelettes parfaites
+              pour l'apéro ! Pour découvrir mes nouvelles recettes je vous
+              invite à me suivre sur
               <a
                 href="https://www.instagram.com/josiesrecipes/"
                 target="_blank"
@@ -38,18 +41,6 @@
               </a>
             </p>
           </b-col>
-        </b-row>
-        <b-row>
-          <div class="mb-4 ads-container">
-            <ins
-              class="adsbygoogle adsonsite adsonhome"
-              style="display: block"
-              data-ad-client="ca-pub-4925011117186251"
-              data-ad-slot="5914372396"
-              data-ad-format="horizontal"
-              data-full-width-responsive="true"
-            ></ins>
-          </div>
         </b-row>
         <b-row
           id="posts"
@@ -140,36 +131,7 @@ export default {
       ])
       .sortBy('id', 'desc')
       .limit(50)
-      .where({
-        main_ingredient: {
-          $in: [
-            'Boeuf',
-            'Poulet',
-            'Dinde',
-            'Veau',
-            'Canard',
-            'Chapon',
-            'Agneau',
-            'Lapin',
-            'Boudin',
-            'Porc'
-          ]
-        },
-        with: {
-          $in: [
-            'Boeuf',
-            'Poulet',
-            'Dinde',
-            'Veau',
-            'Canard',
-            'Chapon',
-            'Agneau',
-            'Lapin',
-            'Boudin',
-            'Porc'
-          ]
-        }
-      })
+      .where({ theme: 'Tartes salées et pizzas' })
       .fetch()
     return {
       articles
@@ -177,7 +139,7 @@ export default {
   },
   data() {
     return {
-      title: 'Mes recettes de viandes'
+      title: 'Mes recettes de tartes salées et pizzas'
     }
   },
   head() {
@@ -188,7 +150,7 @@ export default {
           hid: 'description',
           name: 'description',
           content:
-            'Mes recettes de viandes pour tous les goûts : agneau, boeuf, poulet, veau, canard, lapin, dinde, chapon,...'
+            'Toutes mes recettes de tartes salées et pizzas pour partager un moment convivial en famille ou avec vos amis.'
         },
         {
           hid: 'og:image',

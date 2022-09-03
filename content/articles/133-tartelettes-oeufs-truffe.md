@@ -13,8 +13,8 @@ event : "Noël"
 main_ingredient : Truffe
 theme : Tartes salées et pizzas
 sweety_salty : 
-veggie : 
-country : ''
+veggie : 1
+country : 'France'
 difficulty : Moyen
 with : 
 time : 30

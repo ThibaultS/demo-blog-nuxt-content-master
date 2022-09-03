@@ -25,7 +25,7 @@ body {
     background: linear-gradient(180deg, rgba(208,184,172,1) 25vw, rgba(239,229,220,1) 200vw);
     color: #253237;
     font-size: 1rem;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Times, serif;
     min-height: 100vh;
 }
 
@@ -129,12 +129,12 @@ h2.subtitle-home {
     color: $salmon;
     white-space:nowrap;
     text-decoration: underline;
-    text-decoration-thickness: 0.1rem;
+    text-decoration-thickness: 1px;
 }
 
 .link:hover {
     color: $salmon;
-    text-decoration-thickness: 0.3rem;
+    text-decoration-thickness: 4px;
 }
 
 article h1 {
@@ -815,6 +815,9 @@ article .card.push-category.push-christmas {
     overflow: hidden;
     a img {   
         opacity: 0.9;
+        margin: 0 auto;
+        max-width: 55vw;
+        width:100%;
     }
     .img-container {
         overflow: hidden;
