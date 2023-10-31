@@ -18,10 +18,10 @@ main_ingredient : Chocolat
 with : Caramel
 country : 'France'
 sweety_salty : 
-veggie : 1
+veggie : 
 difficulty : Difficile
 recipeYield : 6 personnes
-time : 50
+time : 90
 recipeCategory : 'Dessert'
 published : 1
 
