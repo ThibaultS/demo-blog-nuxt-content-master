@@ -1,6 +1,6 @@
 <template>
   <div class="search-container">
-    <label class="sr-only" for="search">Rechercher un ingrédient</label>
+    <span class="sr-only">>Rechercher un ingrédient</span>
     <input
       v-model="searchQuery"
       type="search"
