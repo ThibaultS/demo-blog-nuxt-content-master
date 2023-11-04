@@ -22,8 +22,8 @@
           🎄 {{ article.title }}
         </h1>
         <div v-if="article.event == 'Noël 2021'" class="big-lead">
-          Recette du {{ article.calendrier }} décembre de mon calendrier de
-          l'avent 2021
+          Recette du {{ article.calendrier }} décembre du calendrier de l'avent
+          2021
         </div>
         <p v-if="article.description" class="lead">
           {{ article.description }}
