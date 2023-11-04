@@ -82,8 +82,15 @@ export default {
     '@nuxtjs/sitemap'
   ],
   'google-adsense': {
-    onPageLoad: true,
-    analyticsUacct: 'UA-179745138-1'
+    onPageLoad: false,
+    pageLevelAds: false
+  },
+
+  publicRuntimeConfig: {
+    'google-adsense': {
+      id: process.env.GOOGLE_ADSENSE_ID,
+      test: process.env.GOOGLE_ADSENSE_TEST_MODE === 'true'
+    }
   },
   gtm: {
     id: 'GTM-MX36K52'
