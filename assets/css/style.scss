@@ -22,7 +22,7 @@ $theme-colors: (
   
 body {
     background: rgba(239,229,220,1);
-    background: linear-gradient(180deg, rgba(208,184,172,1) 25vw, rgba(239,229,220,1) 200vw);
+    background: linear-gradient(180deg, rgba(208,184,172,1) 0, rgb(218, 197, 186) 20vw, rgba(208,184,172,1) 50vw);
     color: #253237;
     font-size: 1rem;
     font-family: Times, serif;
@@ -50,6 +50,10 @@ body {
 input:focus {
     outline: 3px solid $salmon;
 }  
+
+ins.adsbygoogle[data-ad-status="unfilled"] {
+    display: none !important;
+}
 
 a {
     color : #75513e;
@@ -578,6 +582,11 @@ article {
     color: #ffd9e0;
 }
 
+
+.last-post .card-body {
+    margin: 0 20px;
+}
+
 .noel .card {
     min-height: 300px;
     height: 40vh;
@@ -639,6 +648,7 @@ article {
         }
     }
 }
+
 
 .noel.noel-2021 .card {
     height:460px;
@@ -823,6 +833,9 @@ article .card.push-category.push-christmas {
         overflow: hidden;
         height: initial;
         margin: 20px 20px 0 20px;
+        &.img-container-nom {
+            margin: 0;
+        }
     }
     .card-body {
         transition: 1s ease;

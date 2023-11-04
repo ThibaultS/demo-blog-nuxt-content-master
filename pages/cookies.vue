@@ -19,35 +19,38 @@
     <div
       class="flex lg:h-screen w-screen lg:overflow-hidden xs:flex-col lg:flex-row"
     >
-      <div class="relative lg:w-1/2 xs:w-full xs:h-screen lg:h-full post-left">
-        <img
-          :src="article.img"
-          :alt="article.alt"
-          class="absolute h-full w-full object-cover"
-        />
-        <div class="overlay"></div>
-        <!-- <div class="absolute top-32 left-32 text-white">
-          <NuxtLink to="/"><Logo /></NuxtLink>
-        </div>
-        <div class="flex absolute top-3rem right-3rem">
-          <a
-            href="https://www.instagram.com/josiesrecipes/"
-            target="_blank"
-            class="self-center text-white font-bold hover:underline"
-          >
-            Instagram
-          </a>
-          <AppSearchInput class="ml-8" />
-        </div> -->
-      </div>
       <div
-        class="relative xs:py-8 xs:px-8 lg:py-32 lg:px-16 lg:w-1/2 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
+        class="relative xs:py-16 xs:px-8 lg:py-32 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
       >
-        <h1>Cookies</h1>
+        <h1>Politiques des cookies</h1>
         <p>
-          Ce site dépose des cookies pour le suivi statistique des visites du
-          site.
+          Lors de la consultation du site, des informations relatives à votre
+          navigation sont ainsi enregistrées dans des fichiers « Cookies »
+          installés sur votre terminal, sous réserve de votre consentement lors
+          de votre première consultation du site (bannière cookies). Vos
+          paramétrages concernant les Cookies peuvent être modifiés à tout
+          moment dans les conditions décrites ci-dessous.
         </p>
+        <p>
+          Un cookie est un petit fichier texte transféré sur votre ordinateur,
+          smartphone ou tablette par le biais de votre navigateur Internet.
+          Temporaires (cookies de session) ou permanents, les cookies sont
+          enregistrés sur le disque dur de votre terminal lorsque vous visitez
+          notre site, afin de permettre au site de vous reconnaître lors de vos
+          visites ultérieures.
+        </p>
+        <h2>Usage et catégorie de cookies utilisés</h2>
+        <p>
+          Nous utilisons des cookies analytics permettant de surveiller la
+          performance de ses sites Internet, par exemple pour déterminer le
+          nombre de fois qu’une page est consultée et le nombre d’utilisateurs
+          uniques sur son site Internet. Les services d’analyse Web peuvent être
+          conçus et exploités par des tiers. Les informations fournies par ces
+          cookies sont utilisées pour optimiser l’expérience de l’utilisateur ou
+          pour identifier les parties du site Internet qui peuvent nécessiter
+          des interventions de maintenance ou d’optimisation.
+        </p>
+        <p>Nous utilisons des cookies publicitaires de Google Adsense.</p>
       </div>
     </div>
   </article>
@@ -68,7 +71,7 @@ export default {
   },
   head() {
     return {
-      title: 'Cookies'
+      title: 'Politique des cookies'
     }
   }
 }

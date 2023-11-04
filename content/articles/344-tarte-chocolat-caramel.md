@@ -1,5 +1,5 @@
 ---
-id: 343
+id: 344
 title: Tarte chocolat caramel
 thumbnail_noel: 
 img: https://res.cloudinary.com/thibaults/image/upload/t_optimisation/v1662222270/Recipes/20220620_tarte_chocolat_caramel.jpg
@@ -51,7 +51,7 @@ published : 1
  - Feuille d'or comestible
 
 ## La recette détaillée
-ssDans votre robot pâtissier, ajoutez la farine, la poudre d'amande, la poudre de cacao, le sucre glace, le beurre et le sel dans un robot culinaire. Mélangez à vitesse maximum. Ajoutez l'œuf et mélangez à nouveau. Étalez la pâte finement entre deux feuilles de papier sulfurisé et placez-la au réfrigérateur pendant au moins 1 heure. Foncez la pâte dans un cercle à tarte de 15cm de diamètre et enfournez 15 minutes à 175°C environ. Laissez refroidir à l'air libre.
+Dans votre robot pâtissier, ajoutez la farine, la poudre d'amande, la poudre de cacao, le sucre glace, le beurre et le sel dans un robot culinaire. Mélangez à vitesse maximum. Ajoutez l'œuf et mélangez à nouveau. Étalez la pâte finement entre deux feuilles de papier sulfurisé et placez-la au réfrigérateur pendant au moins 1 heure. Foncez la pâte dans un cercle à tarte de 15cm de diamètre et enfournez 15 minutes à 175°C environ. Laissez refroidir à l'air libre.
 
 Ensuite faites fondre le chocolat au bain-marie, pour isoler le fond de tarte. Retirez le bol du feu. Badigeonnez le fond de tarte avec une fine couche et mettez au frais jusqu'à ce que le chocolat ait pris. 
 

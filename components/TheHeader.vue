@@ -5,7 +5,7 @@
       <a
         href="https://www.instagram.com/josiesrecipes/"
         target="_blank"
-        class="mr-1 self-center text-white font-bold hover:underline"
+        class="mr-1 self-center font-bold hover:underline"
       >
         Instagram
       </a>

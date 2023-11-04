@@ -13,19 +13,9 @@
       </b-navbar-brand>
       <NavItems />
     </b-navbar>
-    <div
-      class="flex lg:h-screen w-screen lg:overflow-hidden xs:flex-col lg:flex-row"
-    >
-      <div class="relative lg:w-1/3 xs:w-full xs:h-screen lg:h-full post-left">
-        <img
-          :src="article.img"
-          :alt="article.alt"
-          class="absolute h-full w-full object-cover"
-        />
-        <div class="overlay"></div>
-      </div>
+    <div class="flex lg:h-screen w-screen xs:flex-col lg:flex-row">
       <div
-        class="relative xs:py-8 xs:px-8 lg:py-48 lg:px-32 xxlmin:px-48 lg:w-2/3 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
+        class="xs:py-32 xs:px-8 lg:py-32 lg:px-32 xxlmin:px-96 xs:w-full markdown-body"
       >
         <h1 v-if="article.event != 'Noël 2021'">{{ article.title }}</h1>
         <h1 v-if="article.event == 'Noël 2021'" class="noel-title">
@@ -216,6 +206,9 @@
             ></ins>
           </div>
         </b-row>
+        <div class="mb-4 px-32">
+          <img :src="article.img" :alt="article.alt" />
+        </div>
         <nuxt-content :document="article" />
         <div class="mb-4">
           <em>Publiée le {{ formatDate(article.date) }}</em>
@@ -386,16 +379,21 @@
             </a>
           </div>
           <div class="last-post mt-4">
-            <h3>Ma dernière recette publiée</h3>
-            <b-row id="posts" class="row-cols-1">
-              <b-col class="mb-3">
+            <h3>Mes dernières recettes</h3>
+            <b-row class="row-cols-1 row-cols-sm-1 row-cols-lg-1 row-cols-xl-2">
+              <b-col
+                v-for="last of lasts"
+                id="posts"
+                :key="last.slug"
+                class="mb-3"
+              >
                 <b-card class="post horizontal" no-body>
                   <NuxtLink
                     :to="{ name: 'blog-slug', params: { slug: last.slug } }"
                   >
                     <b-row>
-                      <b-col md="5">
-                        <div class="img-container">
+                      <b-col>
+                        <div class="img-container img-container-nom">
                           <b-card-img-lazy
                             :src="last.thumbnail"
                             left
@@ -405,30 +403,11 @@
                           >
                           </b-card-img-lazy>
                         </div>
-                      </b-col>
-                      <b-col md="7">
                         <b-card-body>
                           <b-card-title title-tag="h3">
                             {{ last.title }}
                           </b-card-title>
-                          <p class="lead mb-3">{{ last.description }}</p>
                           <div class="infos-card">
-                            <div v-if="last.veggie">
-                              <i class="fas fa-seedling"></i>
-                              Recette végétarienne
-                            </div>
-                            <div
-                              v-if="
-                                last.country != 'France' && last.country != ''
-                              "
-                            >
-                              <i class="fas fa-globe-americas"></i>
-                              {{ last.country }}
-                            </div>
-                            <div v-if="last.difficulty">
-                              <i class="fas fa-check-double"></i>
-                              {{ last.difficulty }}
-                            </div>
                             <div v-if="article.time">
                               <i class="fas fa-stopwatch"></i>
                               {{ last.time }} min
@@ -451,10 +430,13 @@
 export default {
   async asyncData({ $content, params }) {
     const article = await $content('articles', params.slug).fetch()
-    const [last] = await $content('articles').sortBy('id', 'desc').fetch()
+    const lasts = await $content('articles')
+      .sortBy('id', 'desc')
+      .limit(2)
+      .fetch()
     return {
       article,
-      last
+      lasts
     }
   },
   mounted() {

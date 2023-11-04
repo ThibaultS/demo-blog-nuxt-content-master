@@ -4,21 +4,21 @@
     <a
       href="https://www.instagram.com/josiesrecipes/"
       target="_blank"
-      class="mr-1 ml-3 mt-1 self-center text-white font-bold hover:underline insta-link"
+      class="mr-1 ml-3 mt-1 self-center font-bold hover:underline insta-link"
     >
       IG
     </a>
     <a
       href="https://www.facebook.com/josiesrecipes"
       target="_blank"
-      class="mr-1 ml-3 mt-1 self-center text-white font-bold hover:underline insta-link"
+      class="mr-1 ml-3 mt-1 self-center font-bold hover:underline insta-link"
     >
       FB
     </a>
     <a
       href="https://ko-fi.com/josiesrecipes"
       target="_blank"
-      class="mr-1 ml-3 mt-1 self-center text-white font-bold hover:underline insta-link"
+      class="mr-1 ml-3 mt-1 self-center font-bold hover:underline insta-link"
     >
       Me soutenir
     </a>
