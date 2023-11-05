@@ -13,7 +13,7 @@
       </b-navbar-brand>
       <NavItems />
     </b-navbar>
-    <div class="flex lg:h-screen w-screen xs:flex-col lg:flex-row">
+    <div class="flex w-screen xs:flex-col lg:flex-row">
       <div
         class="xs:py-32 xs:px-8 lg:py-32 lg:px-32 xxlmin:px-96 xs:w-full markdown-body"
       >
@@ -206,7 +206,7 @@
             ></ins>
           </div>
         </b-row>
-        <div class="mb-4 px-32">
+        <div class="mb-4 lg:px-32">
           <img :src="article.img" :alt="article.alt" />
         </div>
         <nuxt-content :document="article" />
