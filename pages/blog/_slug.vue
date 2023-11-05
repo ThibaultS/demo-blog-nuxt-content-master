@@ -236,8 +236,8 @@
         <div class="mb-3 rebound-block">
           <h2>Cela pourrait vous intéresser</h2>
           <p>
-            Mes recettes sont organisées par catégorie. Retrouvez les catégories
-            en lien avec cette recette.
+            Retrouvez toutes les recettes organisées par catégorie en lien avec
+            cette recette.
           </p>
           <div>
             <a
