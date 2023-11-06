@@ -65,15 +65,6 @@
           </div>
           <div>
             <a
-              v-if="article.url"
-              :href="article.url"
-              target="_blank"
-              class="icon-insta mr-2"
-            >
-              <i class="fab fa-instagram"></i>
-              La recette sur Instagram
-            </a>
-            <a
               id="pinbtn"
               class="icon-pin"
               data-pin-do="buttonPin"
@@ -85,6 +76,17 @@
             >
               <i class="fab fa-pinterest"></i>
               Enregistrer sur Pinterest
+            </a>
+          </div>
+          <div>
+            <a
+              v-if="article.url"
+              :href="article.url"
+              target="_blank"
+              class="icon-insta mr-2"
+            >
+              <i class="fab fa-instagram"></i>
+              Le post Instagram
             </a>
           </div>
         </b-card>
@@ -201,7 +203,7 @@
               style="display: block"
               data-ad-client="ca-pub-4925011117186251"
               data-ad-slot="3273904797"
-              data-ad-format="rectangle"
+              data-ad-format="auto"
               data-full-width-responsive="true"
             ></ins>
           </div>
@@ -213,6 +215,18 @@
         <div class="mb-4">
           <em>Publiée le {{ formatDate(article.date) }}</em>
         </div>
+        <b-row>
+          <div class="mb-4 ads-container">
+            <ins
+              class="adsbygoogle adsonsite adsonarticle"
+              style="display: block"
+              data-ad-client="ca-pub-4925011117186251"
+              data-ad-slot="6422398577"
+              data-ad-format="auto"
+              data-full-width-responsive="true"
+            ></ins>
+          </div>
+        </b-row>
         <!-- <b-card
           class="push-category push-event push-christmas mb-4 pt-2 pb-2 text-center"
         >
@@ -380,13 +394,11 @@
           </div>
           <div class="last-post mt-4">
             <h3>Mes dernières recettes</h3>
-            <b-row class="row-cols-1 row-cols-sm-1 row-cols-lg-1 row-cols-xl-2">
-              <b-col
-                v-for="last of lasts"
-                id="posts"
-                :key="last.slug"
-                class="mb-3"
-              >
+            <b-row
+              id="posts"
+              class="row-cols-1 row-cols-sm-3 row-cols-lg-3 row-cols-xl-3"
+            >
+              <b-col v-for="last of lasts" :key="last.slug" class="mb-3">
                 <b-card class="post horizontal" no-body>
                   <NuxtLink
                     :to="{ name: 'blog-slug', params: { slug: last.slug } }"
@@ -404,7 +416,7 @@
                           </b-card-img-lazy>
                         </div>
                         <b-card-body>
-                          <b-card-title title-tag="h3">
+                          <b-card-title title-tag="h3" class="h5">
                             {{ last.title }}
                           </b-card-title>
                           <div class="infos-card">
@@ -432,7 +444,7 @@ export default {
     const article = await $content('articles', params.slug).fetch()
     const lasts = await $content('articles')
       .sortBy('id', 'desc')
-      .limit(2)
+      .limit(3)
       .fetch()
     return {
       article,

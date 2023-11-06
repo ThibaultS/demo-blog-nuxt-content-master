@@ -194,9 +194,14 @@ article .icon-insta i,  article .icon-pin i {
     -webkit-transition: ease-in 0.3s;
 }
 
-article .icon-pin i {
+article .icon-pin {
     cursor: pointer;
+    i {
+    cursor: pointer;
+    }
 }
+
+
   
 article .icon-insta:hover i ,article .icon-insta:focus i, article .icon-pin:hover i,  article .icon-pin:focus i {
     color: $salmon;
@@ -580,11 +585,6 @@ article {
 
 .saint-valentin .lead a {
     color: #ffd9e0;
-}
-
-
-.last-post .card-body {
-    margin: 0 20px;
 }
 
 .noel .card {
@@ -1219,6 +1219,10 @@ a.see-more:hover {
     .noel .search-container {
         display: block;
     }
+}
+
+article #posts .card .card-body {
+    padding-left: 1.25rem;
 }
 
 
