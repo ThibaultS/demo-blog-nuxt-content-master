@@ -21,18 +21,20 @@
         <b-row class="mb-2">
           <b-col>
             <h1>Les recettes de Josie</h1>
-            <p class="lead lead-home mt-4">
-              Depuis 2020, je vous partage de nombreuses recettes sucrées et
-              salées pour tous les goûts et pour tous les niveaux. Venez me
-              suivre sur
+            <div class="content-center grid jumbotron bg-primary">
+              <p class="lead lead-home text-center">
+                Mon blog fait une pause mais mon four tourne à plein régime !
+                Retrouve toutes mes créations directement sur mon compte
+                Instagram.
+              </p>
               <a
                 href="https://www.instagram.com/josiesrecipes/"
                 target="_blank"
+                class="btn btn-secondary btn-lg"
               >
-                Instagram
+                Découvrir les nouveautés
               </a>
-              pour les découvrir en avant première et me donner votre avis.
-            </p>
+            </div>
             <!-- <AppSearchInputHome /> -->
           </b-col>
         </b-row>

@@ -455,6 +455,12 @@ article {
 .noel .intro .lead,.saint-valentin .intro .lead {
     color:#CBB1A4;
     font-size: 1.2rem;
+
+
+}
+
+.noel .intro .lead.lead-jumbotron {
+    color:#bf8378;
 }
 
 .halloween .intro .lead {
@@ -779,8 +785,6 @@ article .card.push-category.push-christmas {
     }
 }
 
-
-
 .noel .reveal-calendar {
     background-size: cover;
     .card-body .overlay-calendar {
@@ -1052,6 +1056,10 @@ a.see-more:hover {
     }
 }
 
+.noel .jumbotron a.btn {
+    color:#000;
+}
+
 .easter .intro .lead a {
     color:#FF3294;
 }
@@ -1100,7 +1108,6 @@ a.see-more:hover {
 .halloween .card.post:hover {
     background: rgba(51,3,64,0.2) !important;
 }
-
 
 @media (min-width: 320px){
     .xs\:h-screen {

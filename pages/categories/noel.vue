@@ -32,6 +32,20 @@
               </a>
               une recette pour les fêtes de fin d'année.
             </p>
+            <div class="content-center grid jumbotron bg-tertiary">
+              <p class="lead lead-home text-center lead-jumbotron">
+                Mon blog fait une pause mais mon four tourne à plein régime !
+                Retrouve toutes mes créations directement sur mon compte
+                Instagram.
+              </p>
+              <a
+                href="https://www.instagram.com/josiesrecipes/"
+                target="_blank"
+                class="btn btn-primary btn-lg"
+              >
+                Découvrir les nouveautés
+              </a>
+            </div>
           </b-col>
         </b-row>
         <b-row>

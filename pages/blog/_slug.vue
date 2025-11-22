@@ -28,6 +28,19 @@
         <p v-if="article.description" class="lead">
           {{ article.description }}
         </p>
+        <div class="content-center grid jumbotron bg-tertiary">
+          <p class="lead lead-home text-center">
+            Mon blog fait une pause mais mon four tourne à plein régime !
+            Retrouve toutes mes créations directement sur mon compte Instagram.
+          </p>
+          <a
+            href="https://www.instagram.com/josiesrecipes/"
+            target="_blank"
+            class="btn btn-primary btn-lg"
+          >
+            Découvrir les nouveautés
+          </a>
+        </div>
         <b-card class="mb-2 bg-secondary">
           <div class="detail-infos-card">
             <div class="mb-2">
@@ -215,7 +228,7 @@
         <div class="mb-4">
           <em>Publiée le {{ formatDate(article.date) }}</em>
         </div>
-        <b-row>
+        <!-- <b-row>
           <div class="mb-4 ads-container">
             <ins
               class="adsbygoogle adsonsite adsonarticle"
@@ -226,7 +239,7 @@
               data-full-width-responsive="true"
             ></ins>
           </div>
-        </b-row>
+        </b-row> -->
         <!-- <b-card
           class="push-category push-event push-christmas mb-4 pt-2 pb-2 text-center"
         >

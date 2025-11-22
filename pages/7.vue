@@ -20,7 +20,21 @@
       <b-container fluid="lg" class="animate animate3 slideUp">
         <b-row class="mb-2">
           <b-col>
-            <h1>Les recettes de Josie - page 2</h1>
+            <h1>Les recettes de Josie - page 7</h1>
+            <div class="content-center grid jumbotron bg-primary">
+              <p class="lead lead-home text-center">
+                Mon blog fait une pause mais mon four tourne à plein régime !
+                Retrouve toutes mes créations directement sur mon compte
+                Instagram.
+              </p>
+              <a
+                href="https://www.instagram.com/josiesrecipes/"
+                target="_blank"
+                class="btn btn-secondary btn-lg"
+              >
+                Découvrir les nouveautés
+              </a>
+            </div>
           </b-col>
         </b-row>
         <b-row
